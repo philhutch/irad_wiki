@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 4. C-Class Articles (156 Entries)
+## 4. C-Class Articles (154 Entries)
 
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
@@ -4041,10 +4041,10 @@ Under Soviet planning the reservoir was run mainly for irrigation. It stored spr
 #### 1991–2007
 After the end of Soviet barter, the [[Socialist Republic of Irad]] and then the territorial administration began to keep more water in the reservoir in summer and release more in winter, when electricity was most needed. This shift became a recurring source of friction with Uzbekistan and Kazakhstan. The complex was not fought over in the [[First Iradi Civil War]] of 1992.<sup>[2]</sup> During the territorial period it was run by the Territorial Power Authority of Irad, which began to export electricity to its neighbors.
 
-In the [[Second Iradi Civil War]] in 2007, the dam lay in territory held by the [[Popular Front of Irad]], while the switchyard and export lines were held by DPI forces. Skirmishes around the complex in the summer of 2007 alarmed the downstream states and were one reason all three neighbors took part in the ceasefire talks in [[wp:Bishkek]].<sup>[5]</sup>
+In the [[Second Iradi Civil War]] in 2007, the dam lay in territory held by the [[Popular Front of Irad]], while the switchyard and export lines were held by DPI forces. Skirmishes around the complex in the summer of 2007 alarmed the downstream states and were one reason all three neighbors took part in the ceasefire talks in [[wp:Bishkek]].<sup>[5]</sup><sup>[6]</sup>
 
 #### Since 2007
-The ceasefire placed the complex under the joint technical commission created by the Naryn Protocol and supervised by the [[United Nations Mission in Irad]] (UNMI). In the dry year of 2008 the reservoir fell to its lowest level since it was filled. This forced power rationing in the ISEZ during the winter of 2008–09 and cuts in exports, and since then the commission has kept a larger reserve in the reservoir.<sup>[1]</sup> The crisis led to UN-mediated talks on the basin and the road to the Lower Naryn, and on 14 July 2009 the two sides signed a protocol, approved by that year's Kurultai, that transferred the floor of the Toktogul basin, the dam, reservoir and powerhouse and the State Route 1 corridor to the ISEZ. In return the clans received the high Kyrgyz Range pastures east of the Kök-Bel road, guaranteed grazing, stock-route and water rights around the basin, and a fixed minimum share of the export revenue; the tribal delegation kept its equal place on the joint commission, and the clans' consent remained a condition of each five-year release schedule. The El-Choro handed the dam perimeter over to the Gendarmerie in October 2009. Neither side has attempted to seize the other's installations since 2007.<sup>[3]</sup>
+The ceasefire placed the complex under the joint technical commission created by the Naryn Protocol and supervised by the [[United Nations Mission in Irad]] (UNMI). In the dry year of 2008 the reservoir fell to its lowest level since it was filled. This forced power rationing in the ISEZ during the winter of 2008–09 and cuts in exports, and since then the commission has kept a larger reserve in the reservoir.<sup>[1]</sup><sup>[7]</sup> The crisis led to UN-mediated talks on the basin and the road to the Lower Naryn, and on 14 July 2009 the two sides signed a protocol, approved by that year's Kurultai, that transferred the floor of the Toktogul basin, the dam, reservoir and powerhouse and the State Route 1 corridor to the ISEZ. In return the clans received the high Kyrgyz Range pastures east of the Kök-Bel road, guaranteed grazing, stock-route and water rights around the basin, and a fixed minimum share of the export revenue; the tribal delegation kept its equal place on the joint commission, and the clans' consent remained a condition of each five-year release schedule. The El-Choro handed the dam perimeter over to the Gendarmerie in October 2009. Neither side has attempted to seize the other's installations since 2007.<sup>[3]</sup>
 
 ## Engineering
 - **Dam.** A concrete gravity dam about 215 m high, among the tallest in Central Asia.
@@ -4072,6 +4072,8 @@ Export earnings are divided under a formula set out in an unpublished annex to t
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). 'Shared Hostage: The Toktogul Complex and the Qara-Chik Line.' Vol. 29, Iss. 3, pp. 211–230.</li>
 <li id="cite_note-4"><b>^</b> Ministry of Energy and Electrification of the Iradi SSR (1980). <i>The Toktogul Hydroelectric Station: Construction and Operation</i>. Kobozev.</li>
 <li id="cite_note-5"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 265–301.</li>
+<li id="cite_note-6"><b>^</b> Interfax (2 August 2007). 'Fighting reported near Toktogul dam as downstream states call for talks.' Moscow.</li>
+<li id="cite_note-7"><b>^</b> Fergana News Agency (14 January 2009). «В Ираде вводят веерные отключения электроэнергии» [Rolling power cuts introduced in Irad] (in Russian). Moscow.</li>
 </ol>
 
 ### 4.84. Naryn Water and Power Protocol
@@ -7122,10 +7124,10 @@ In the [[Autonomous Tribal Regions]] the storming is remembered as a popular ris
 | detentions = Several hundred administrative detentions, incl. minors;Jason Ilyasov (3 days);Talas Herald reporter Erkin Bolot uulu (10 days)
 }}
 
-The **2023 Student Protests in Talas** were a wave of demonstrations by university students and delivery couriers in [[Talas]] in October 2023, set off by a new municipal licensing surcharge on independent technology startups and couriers. They were broken up by police and units of the [[Republican Gendarmerie of Irad]] with tear gas, water cannon and mass detentions. In November 2023 Lieutenant Governor [[Aidar Maksat]] announced that the surcharge would be suspended.<sup>[1]</sup><sup>[2]</sup>
+The **2023 Student Protests in Talas** were a wave of demonstrations by university students and delivery couriers in [[Talas]] in October 2023, set off by a new municipal licensing surcharge on independent technology startups and couriers. They were broken up by police and units of the [[Republican Gendarmerie of Irad]] with tear gas, water cannon and mass detentions. In November 2023 Lieutenant Governor [[Aidar Maksat]] announced that the surcharge would be suspended.<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup>
 
 ## Background
-The protests came during a period of economic stagnation and frustration among young urban Iradis, and in the year in which, according to independent reporting, the Governor's executive moved from Talas to the [[Boz-Korgon]] compound east of [[Nurzhan]]; the government maintains that Talas remains the operational capital. The gubernatorial election was due the following month.<sup>[3]</sup> In October 2023 the Talas municipal administration announced the surcharge. On *[[OneDebate]]*, the prime-time panel program of [[IradOne]], the commentator [[Jason Ilyasov]] called it "a tax on the only part of the economy the family doesn't own yet", and clips of the exchange spread widely on social media.<sup>[1]</sup>
+The protests came during a period of economic stagnation and frustration among young urban Iradis, and in the year in which, according to independent reporting, the Governor's executive moved from Talas to the [[Boz-Korgon]] compound east of [[Nurzhan]]; the government maintains that Talas remains the operational capital. The gubernatorial election was due the following month.<sup>[4]</sup> In October 2023 the Talas municipal administration announced the surcharge. On *[[OneDebate]]*, the prime-time panel program of [[IradOne]], the commentator [[Jason Ilyasov]] called it "a tax on the only part of the economy the family doesn't own yet", and clips of the exchange spread widely on social media.<sup>[1]</sup>
 
 ## The protests
 Within days, students and couriers gathered at [[Talas State University]] and marched on the government district. Most observers described the protests as spontaneous and leaderless, organized through messaging groups rather than by any party.<sup>[1]</sup> Small merchants joined some of the marches. Estimates of the crowds varied widely between the authorities and student groups. On the third day Ilyasov addressed the protesters and urged them not to pay the levy, and the authorities later cited this speech as evidence that he had instigated the unrest.
@@ -7133,18 +7135,19 @@ Within days, students and couriers gathered at [[Talas State University]] and ma
 Police and Gendarmerie units under Major General [[Ruslan Toktarov]] dispersed the marches with tear gas and water cannon and made several hundred administrative detentions. Ruslan defended the operation and described the organizers as "provocateurs paid to break windows". [[Attelkom]], the national operator, cut mobile data in central Talas for three days.<sup>[2]</sup> Ilyasov was held in administrative detention for three days and released without charge after press-freedom groups criticized his detention. A *[[Talas Herald]]* reporter, Erkin Bolot uulu, was held for ten days.
 
 ## Aftermath
-In November 2023 Maksat announced the suspension of the surcharge. [[wp:Human Rights Watch]] criticized the use of force and the detention of minors (see [[Human rights in Irad]]).<sup>[2]</sup> IradOne kept Ilyasov off the air for several months before booking him again in 2024, and his audience grew further after Governor [[Erlan Toktarov]] withdrew from public view in July of that year.<sup>[4]</sup>
+In November 2023 Maksat announced the suspension of the surcharge. [[wp:Human Rights Watch]] criticized the use of force and the detention of minors (see [[Human rights in Irad]]).<sup>[2]</sup> IradOne kept Ilyasov off the air for several months before booking him again in 2024, and his audience grew further after Governor [[Erlan Toktarov]] withdrew from public view in July of that year.<sup>[5]</sup>
 
-Commentators across the political spectrum noted how lightly Ilyasov and his company came out of the protests. Although the authorities named him as the instigator and pro-government commentators called for him to be charged or deported, he was released without charge after three days and was back on IradOne within months, and [[Tulpar (app)|Tulpar]], which had carried much of the protesters' organizing, was not throttled and faced no penalty. Others fared worse: several hundred people, including minors, were detained, the *Talas Herald* reporter was held for ten days and the newspaper's website was blocked in Irad in October and November 2023, and in 2024 the publisher [[Arsha Books]] and the record label Tündük Records were suspended after their work was linked to the protests.<sup>[2]</sup> The contrast is the main basis of the claim, common in opposition media and online forums, that Ilyasov is a "regime plant" with a patron in the government. Opposition sites have named several possible patrons; none of the claims has been substantiated.<sup>[4]</sup>
+Commentators across the political spectrum noted how lightly Ilyasov and his company came out of the protests. Although the authorities named him as the instigator and pro-government commentators called for him to be charged or deported, he was released without charge after three days and was back on IradOne within months, and [[Tulpar (app)|Tulpar]], which had carried much of the protesters' organizing, was not throttled and faced no penalty. Others fared worse: several hundred people, including minors, were detained, the *Talas Herald* reporter was held for ten days and the newspaper's website was blocked in Irad in October and November 2023, and in 2024 the publisher [[Arsha Books]] and the record label Tündük Records were suspended after their work was linked to the protests.<sup>[2]</sup> The contrast is the main basis of the claim, common in opposition media and online forums, that Ilyasov is a "regime plant" with a patron in the government. Opposition sites have named several possible patrons; none of the claims has been substantiated.<sup>[5]</sup>
 
-The protests prompted competing explanations. Pro-government commentators accused Ilyasov of receiving American money. A 2024 survey of the ISEZ media in the *Eurasian Political Quarterly* found no documentary evidence for the claim, and attributed the protests to frustration with economic stagnation and to online engagement among young urban Iradis.<sup>[4]</sup> Ilyasov says that his platform is self-funded.
+The protests prompted competing explanations. Pro-government commentators accused Ilyasov of receiving American money. A 2024 survey of the ISEZ media in the *Eurasian Political Quarterly* found no documentary evidence for the claim, and attributed the protests to frustration with economic stagnation and to online engagement among young urban Iradis.<sup>[5]</sup> Ilyasov says that his platform is self-funded.
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/courier-levy-sparked-student-marches-now-suspended.html" target="_blank" rel="noopener">Courier Levy Sparked Student Marches, Now Suspended.</a>' Talas. Retrieved 27 November 2024.</li>
 <li id="cite_note-2"><b>^</b> Human Rights Watch (2024). 'Water Cannon and Silence: The Policing of the 2023 Talas Protests.' New York.</li>
-<li id="cite_note-3"><b>^</b> <i>Central Asian Demographic Review</i> (2024). 'Generations and Politics in the Special Economic Zone.' Vol. 17.</li>
-<li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Media Provocateurs and Opposition Politics in the ISEZ.' Vol. 31, Iss. 2.</li>
+<li id="cite_note-3"><b>^</b> AKIpress (4 November 2023). 'Talas authorities suspend startup surcharge after student protests.' Bishkek.</li>
+<li id="cite_note-4"><b>^</b> <i>Central Asian Demographic Review</i> (2024). 'Generations and Politics in the Special Economic Zone.' Vol. 17.</li>
+<li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Media Provocateurs and Opposition Politics in the ISEZ.' Vol. 31, Iss. 2.</li>
 </ol>
 
 ### 4.133. Internet Domains of Irad
@@ -8203,14 +8206,14 @@ Smaller charges include the road-use charge paid by heavy vehicles at the Gendar
 The State Tax Service audits filings and assesses taxes, and appeals against its assessments go first through its own procedures and then to the courts. Tax and customs payments, like salaries and pensions, are settled through the [[Bank of Irad Clearing House]] in both of the zone's currencies, the US dollar and the [[Iradi som]]; local taxes and fees, household utility bills and public-sector wages are paid in som, while many businesses are billed in dollars.<sup>[11]</sup> The government's banking and tax systems are hosted at the [[Attelkom Data Center]] in Nurzhan. Since October 2026 fines and some bills can be looked up on the e-government portal *e-Irad*, although online payment awaits an upgrade of Talasbank's gateway (see [[Internet Domains of Irad]]).
 
 ## Disputes and controversies
-- **NurGaz (2019).** In June 2019 the tax service presented NurGaz with a claim for $212 million in back taxes after an audit of its royalty and profit-tax filings. The company contested it, and it was later settled for an undisclosed sum. The claim came as relations between the company's president, [[Kamran Bekzatov]], and the administration grew strained; the Department of Public Information called it "a routine matter of tax administration".<sup>[12]</sup>
-- **Audits of critics.** In 2016 the tax service fined the publisher of the *[[Talas Herald]]* for payroll reporting errors after an audit that the paper's editor called selective, and in 2024 tax inspectors visited the Talas record label Tündük Records three times after its songs were sung at the 2023 protests.<sup>[13]</sup>
-- **Tax relief for connected companies.** Opposition councilors and journalists have argued that projects of the Talas Commercial Development Group, owned by [[Adil Toktarov]], received tax holidays, and in 2016 the *[[Irad Times]]* reported that the football club [[Tulpar Talas]] had received municipal land and tax relief through its owner's property group (see [[Corruption in Irad]]).<sup>[14]</sup>
+- **NurGaz (2019).** In June 2019 the tax service presented NurGaz with a claim for $212 million in back taxes after an audit of its royalty and profit-tax filings. The company contested it, and it was later settled for an undisclosed sum. The claim came as relations between the company's president, [[Kamran Bekzatov]], and the administration grew strained; the Department of Public Information called it "a routine matter of tax administration".<sup>[12]</sup><sup>[13]</sup>
+- **Audits of critics.** In 2016 the tax service fined the publisher of the *[[Talas Herald]]* for payroll reporting errors after an audit that the paper's editor called selective, and in 2024 tax inspectors visited the Talas record label Tündük Records three times after its songs were sung at the 2023 protests.<sup>[14]</sup>
+- **Tax relief for connected companies.** Opposition councilors and journalists have argued that projects of the Talas Commercial Development Group, owned by [[Adil Toktarov]], received tax holidays, and in 2016 the *[[Irad Times]]* reported that the football club [[Tulpar Talas]] had received municipal land and tax relief through its owner's property group (see [[Corruption in Irad]]).<sup>[15]</sup>
 - **Church property.** Relations between the administration and the [[Syro-Iradi Catholic Church]] have at times been strained over the taxation of church property, and the church has cited the guarantees of religious freedom dating from the territorial period.
-- **The 2023 licensing surcharge.** In October 2023 the Talas municipal administration introduced a licensing surcharge on independent technology startups and delivery couriers. The commentator [[Jason Ilyasov]] called it "a tax on the only part of the economy the family doesn't own yet", and it set off the [[2023 Student Protests in Talas]]. Lieutenant Governor [[Aidar Maksat]] announced its suspension on 3 November 2023, saying it placed "a disproportionate burden on small and new enterprises".<sup>[15]</sup>
+- **The 2023 licensing surcharge.** In October 2023 the Talas municipal administration introduced a licensing surcharge on independent technology startups and delivery couriers. The commentator [[Jason Ilyasov]] called it "a tax on the only part of the economy the family doesn't own yet", and it set off the [[2023 Student Protests in Talas]]. Lieutenant Governor [[Aidar Maksat]] announced its suspension on 3 November 2023, saying it placed "a disproportionate burden on small and new enterprises".<sup>[16]</sup>
 
 ## Debate
-Ilyasov's Liberty Forum calls for the abolition of most taxes and licenses. In his 2026 column "Be Ireland" he proposed a low, simple corporate tax and minimal registration rules to make the ISEZ a base for foreign companies, and he describes licenses, stamps and queues as "a small tax on the people who can least afford it". Economists reply that the ISEZ's revenue rests on resource royalties and on the Toktogul revenue formula, which leave little room for such changes.<sup>[16]</sup>
+Ilyasov's Liberty Forum calls for the abolition of most taxes and licenses. In his 2026 column "Be Ireland" he proposed a low, simple corporate tax and minimal registration rules to make the ISEZ a base for foreign companies, and he describes licenses, stamps and queues as "a small tax on the people who can least afford it". Economists reply that the ISEZ's revenue rests on resource royalties and on the Toktogul revenue formula, which leave little room for such changes.<sup>[17]</sup>
 
 ## See also
 - [[Economy of Irad]]
@@ -8232,235 +8235,16 @@ Ilyasov's Liberty Forum calls for the abolition of most taxes and licenses. In h
 <li id="cite_note-10"><b>^</b> Republican Gendarmerie Inspectorate (2023). <i>Annual Security and Demarcation Review</i>. Talas.</li>
 <li id="cite_note-11"><b>^</b> Territorial Legislature of Irad (2008). 'Bank of Irad Act.' <i>Official Gazette of Irad</i>. Talas.</li>
 <li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (11 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/tax-service-presents-nurgaz-with-212-million-claim.html" target="_blank" rel="noopener">Tax service presents NurGaz with $212 million claim.</a>' Talas. Retrieved 13 June 2025.</li>
-<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (30 June 2016). '<a class="ext" href="https://talasherald.com/archive/2016/tax-inspectors-fine-herald-publishing-over-payroll-filings.html" target="_blank" rel="noopener">Tax inspectors fine Herald Publishing over payroll filings.</a>' Talas. Retrieved 30 October 2025.</li>
-<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/council-questions-avenue-land-transfers.html" target="_blank" rel="noopener">Council Questions Avenue Land Transfers.</a>' Talas. Retrieved 9 December 2024.</li>
-<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (4 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/licensing-surcharge-suspended-after-student-protests.html" target="_blank" rel="noopener">Licensing Surcharge Suspended after Student Protests.</a>' Talas. Retrieved 13 June 2024.</li>
-<li id="cite_note-16"><b>^</b> Ilyasov, Jason (3 October 2026). '<a class="ext" href="https://tulparapp.com/app/#a=be-ireland" target="_blank" rel="noopener">Be Ireland</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-13"><b>^</b> Interfax (12 June 2019). 'Irad tax service seeks $212 million from NurGaz.' Moscow.</li>
+<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (30 June 2016). '<a class="ext" href="https://talasherald.com/archive/2016/tax-inspectors-fine-herald-publishing-over-payroll-filings.html" target="_blank" rel="noopener">Tax inspectors fine Herald Publishing over payroll filings.</a>' Talas. Retrieved 30 October 2025.</li>
+<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/council-questions-avenue-land-transfers.html" target="_blank" rel="noopener">Council Questions Avenue Land Transfers.</a>' Talas. Retrieved 9 December 2024.</li>
+<li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (4 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/licensing-surcharge-suspended-after-student-protests.html" target="_blank" rel="noopener">Licensing Surcharge Suspended after Student Protests.</a>' Talas. Retrieved 13 June 2024.</li>
+<li id="cite_note-17"><b>^</b> Ilyasov, Jason (3 October 2026). '<a class="ext" href="https://tulparapp.com/app/#a=be-ireland" target="_blank" rel="noopener">Be Ireland</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas. Retrieved 23 October 2026.</li>
 </ol>
 
 {{Navbox|Irad}}
 
-### 4.153. Rail transport in Irad
-*Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
-
-**Rail transport in Irad** consists of about 690 kilometers of single-track, 1,520 mm (Russian) gauge railway in the [[Irad Special Economic Zone]] (ISEZ), operated by **Irad Temir Jolu** (Iradi, "Irad Railway"), the state railway enterprise of the ISEZ. The network was built in the Soviet period, largely as part of the [[wp:Turkestan–Siberia Railway|Turkestan–Siberia Railway]] (Turksib), and links [[Nurzhan]], its main junction, with [[Talas]], the antimony works of [[Sary-Bulak]] and two border crossings into [[wp:Kazakhstan]]. None of it is electrified, and trains are hauled by diesel locomotives, most of them Soviet-built.<sup>[1]</sup>
-
-As in the rest of [[Transport in Irad|Irad's transport system]], the railway's main business is freight: refined oil products, grain, refrigerated beef, antimony and cotton lint, most of it bound for or coming from the Kazakh network. One daily passenger train runs between Talas and Nurzhan. No line reaches [[Iyık Janyl]], the Lower Naryn District or the [[Autonomous Tribal Regions]] (ATR).<sup>[2]</sup>
-
-## History
-The Turksib was built between 1927 and 1931 across the lower Chu plain, and the railway settlement on the Chu that had been named Kobozev in 1927 became a junction and grew into the capital of the [[Iradi Soviet Socialist Republic]]. A branch up the Talas valley, opened in 1934, made Talas a railhead for the grain, sugar beet and livestock of the valley.<sup>[3]</sup> In the autumn of 1937 several thousand Koreans deported from the Soviet Far East were unloaded from freight cars at Kobozev and at sidings along the Chu valley, the beginning of the [[Koryo-saram in Irad|Koryo-saram community]]; a memorial at the edge of the Nurzhan yards was unveiled in October 2007.<sup>[4]</sup> After oil was discovered near Kobozev in 1949, the city's yards dispatched tank trains to the rest of [[wp:Soviet Central Asia]], and an industrial spur was laid south of Talas in 1962 to the antimony works at Sary-Bulak, founded in 1961, and the smelter at Chatkal.<sup>[1]</sup>
-
-Railway workers were prominent in the crises of 1992. A strike over unpaid wages at the Kobozev depot on 14 January 1992 started the wave of strikes that led to the [[Winter Uprising of 1992]], and in the [[First Iradi Civil War]] the fighting followed the railway: forces of the [[Socialist Republic of Irad]] advanced on Talas along the line from Kobozev, and US and Provisional forces moved back along the same corridor in the summer, fighting the [[Battle of Kobozev Railhead (1992)|battle of the Kobozev railhead]] at the end of July.<sup>[5]</sup> During the territorial period the railway carried Iradi crude that the Nurzhan refinery did not take west to the refinery at [[wp:Shymkent]], until the [[Northern Export Feeder]] pipeline replaced the traffic in November 2000.<sup>[6]</sup> A products pipeline laid beside the lowland line in the same years took over the supply of jet fuel to [[Talas Air Base]].
-
-In 2007 railway strikers joined the [[Popular Front of Irad]] and cut the lines serving Talas and Nurzhan during the [[Second Iradi Civil War]]. The [[Bishkek Ceasefire Agreement (2007)]] left the whole network on the ISEZ side of the [[Qara-Chik Demarcation Line]], and the [[Northern Border Demarcation Protocol]] of 2008 fixed the crossings through which trains now pass into Kazakhstan. International passenger trains have not run since 2007. The Soviet Shu–Mointy line, which ran north from Nurzhan across the [[Betpak-Dala]] toward Lake Balkhash, has carried no trains since 2007 and has been lifted in places on the tribal side.<sup>[2]</sup>
-
-## Network
-The lines follow Soviet main-line standards, with curves of no less than about 600 meters radius on the main lines, about 400 meters in towns, 300–400 meters on the branches and about 200 meters on the industrial spurs; branches leave the main lines at turnouts.<sup>[1]</sup>
-
-| Line | Length | Route | Notes |
-|---|---|---|---|
-| Chu line | c. 229 km | Nurzhan – west across the Chu plain and round the western end of the Kyrgyz Range – lowland junction near [[Aulie-Ata]] | Part of the Turksib; used by the Talas–Nurzhan passenger train |
-| [[Kara-Buura]] line | c. 145 km | Lowland junction – west through the Kara-Buura corridor – Talas North Terminal on the Kazakh frontier | Turksib section toward Shymkent; the only protocol crossing that handles trains |
-| Talas branch | c. 100 km | Lowland junction – [[Kyzyl-Adyr]] – [[Kara-Bulak]] – [[Talas Agribusiness Export Zone]] – Talas | Ruling grade 1.6%; keeps to the south bank of the Talas beside the [[Trans-Talas Highway]] from the Urmaral confluence to Talas |
-| North line (*Tündük linyasy*) | c. 129 km | Nurzhan – [[Nurzhan Rail Freight Depot]] – Nurzhan rail border station on the Kazakh frontier | Turksib toward Otar and [[wp:Almaty]]; trains exchanged with Kazakhstan Temir Zholy |
-| East line | c. 43 km | Nurzhan – [[Boz-Korgon]] security depot | No passenger service |
-| Sary-Bulak spur | c. 39 km | Turnout west of Talas – Kara-Suu Canyon mouth – Urmaral gorge – [[Ak-Bulak]] – [[Sary-Bulak Antimony Works]] | Ruling grade about 3%, with stretches of 4–5% in the upper valley |
-| Chatkal siding | c. 6 km | Urmaral gorge – [[Chatkal Antimony Processing Mill]] | Below the [[Chatkal Chemical Smelting Complex]] |
-| TAEZ sidings | c. 2–3 km | Talas branch west of [[Semiz]] – [[Talas Cold Chain Logistics Hub]] | Refrigerated container terminal |
-
-Trains between Talas and Nurzhan take the long lowland route round the western end of the Kyrgyz Range rather than crossing it by the [[Kök-Bel Pass]]. The Sary-Bulak spur was taken round by the gorge of the [[Urmaral River|Urmaral]] because the [[Kara-Suu Canyon]], which the Sary-Bulak road uses, was too steep for a railway, and a ridge of about 1,900 meters stands between the canyon mouth and the works.<sup>[1]</sup>
-
-The disused branch from Uchkurgan in Uzbekistan to Shamaldy-Say, built to serve the lower stations of the Naryn cascade, crosses the frontier at the closed [[Kum crossing]]. It has carried no trains since 1992 and is not part of the Irad Temir Jolu network.<sup>[7]</sup>
-
-## Stations and yards
-- **Nurzhan railway station** (*Nurzhan temir jol vokzaly*), a few hundred meters south-west of the city center, is the main junction, where the Chu line, the north line and the east line meet. Suburban trains run from it into Chu District.<sup>[2]</sup>
-- **Nurzhan Rail Freight Depot**, about 4 kilometers north-east of the center on the north line, is the main freight yard, marshaling tank cars of refined products, grain wagons and container trains.<sup>[6]</sup>
-- **Talas railway station** (*Talas temir jol vokzaly*), the terminus of the Talas branch, lies about 1.4 kilometers south of the central square of Talas, south of the river; the line runs east–west through the southern districts of the city, with yards and industrial land along it.<sup>[8]</sup>
-- **Kara-Bulak station** serves the grain depot of [[Nurzhan Agro-Industrial]] in the middle Talas valley and is a market for fodder for the valley's farmers.<sup>[2]</sup>
-- **Talas North Terminal**, on the Kazakh frontier facing Shymkent, combines rail and road customs and is the only one of the three crossings designated under the 2008 protocol that handles trains.<sup>[9]</sup>
-- **Nurzhan rail border station**, on the Kazakh frontier east of Nurzhan toward Otar, is a rail-only crossing where crews and customs officers of the two sides exchange trains.<sup>[9]</sup>
-
-## Traffic
-#### Freight
-Freight makes up most of the railway's traffic. Refined products from the Nurzhan refinery, grain moving between the valley depots and the mills of Nurzhan Agro-Industrial, and Kazakh grain imported in years of poor harvests pass through the Nurzhan yards. The export zone at Talas loads refrigerated containers of beef from the [[Sukarne Irad Complex|Sukarne]] and [[Conagra Talas Beef Facility|Conagra]] plants for Kazakhstan and Russia, and antimony metal, trioxide and concentrate from the Sary-Bulak District and lint and yarn from the [[Xinjiang Lihua Cotton Facilities]] leave by the Talas North Terminal for Kazakhstan and China.<sup>[2]</sup> Because Irad has no other rail outlet, all rail freight passes through Kazakhstan, and analysts list the railway's dependence on Kazakh transit among the main weaknesses of the Iradi economy (see [[Economy of Irad]]).<sup>[10]</sup>
-
-#### Passengers
-A daily passenger train runs between Talas and Nurzhan by the lowland route, taking about seven hours, while buses and minibuses make the trip by road in about four hours.<sup>[8]</sup> Suburban trains serve the villages of Chu District around Nurzhan. The train, No. 1 eastbound and No. 2 westbound, still runs with Soviet-era carriages. Ridership has fallen since the 1990s as minibuses and the summer road over the Kök-Bel Pass have taken passengers, and travelers to Kazakhstan cross the frontier by road; the railway carried about 180,000 passengers in 2023, against about 5.5 million tonnes of freight.<sup>[2]</sup><sup>[11]</sup>
-
-## Irad Temir Jolu
-State Enterprise Irad Temir Jolu (Russian: ГП «Ирад Темир Жолу») was formed in January 2008 from the Territorial Railway Administration (1993–2007), which had taken over the lines of the Soviet railway administration in the republic, in the same reorganization that created [[Iradenergo]] and [[Irad Pochtasy]]. It has its headquarters in the Nurzhan station building and about 5,200 employees; the government does not name its director-general. Its locomotives are mostly Soviet 2TE10 main-line and TEM2 shunting diesels, with four Chinese-built shunters bought in 2019.<sup>[11]</sup> It operates the lines, stations and yards and exchanges trains with Kazakhstan Temir Zholy at the two border stations. The railway workers' football club, founded in the Soviet period as Lokomotiv Kobozev and renamed Temirjolchu Nurzhan under the Iradi football federation's 1993 rules, plays in the [[Irad League]] at the Lokomotiv Stadium in Nurzhan and has won the championship three times.<sup>[12]</sup>
-
-## See also
-- [[List of airports in Irad]]
-- [[Nurzhan Rail Freight Depot]]
-- [[Talas Customs Clearance Terminal]]
-- [[Trans-Chuy Freight & Logistics]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Transport and Logistics Directory</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Eurasian Development Bank (2023). <i>Regional Infrastructure and Transport Corridors in the Fergana and Talas Basins</i>. EDB Monograph Series, pp. 56–71.</li>
-<li id="cite_note-3"><b>^</b> Talas State University Press (2011). <i>Oil and the City: Kobozev and the Chu Fields, 1949–1991</i>. Talas.</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (22 October 2007). '<a class="ext" href="https://talasherald.com/archive/2007/memorial-to-1937-deportees-unveiled-at-nurzhan-station.html" target="_blank" rel="noopener">Memorial to 1937 Deportees Unveiled at Nurzhan Station.</a>' Talas. Retrieved 18 February 2025.</li>
-<li id="cite_note-5"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press.</li>
-<li id="cite_note-6"><b>^</b> NurGaz (2024). <i>Annual Review 2023: Upstream Operations and Export Volumes</i>. Nurzhan.</li>
-<li id="cite_note-7"><b>^</b> United Nations Mission in Irad (2023). <i>Movement and Access along the Qara-Chik Line</i>. Kara-Oi.</li>
-<li id="cite_note-8"><b>^</b> City of Talas (2022). <i>Urban Transport Plan</i>. Talas.</li>
-<li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Customs without Recognition: The 2008 Northern Protocol in Practice.' Vol. 17, pp. 201–219.</li>
-<li id="cite_note-10"><b>^</b> <i>Eurasian Political Quarterly</i> (2020). 'Pipelines, Water and Recognition: Irad's Northern Transit.' Vol. 27, No. 2, pp. 64–88.</li>
-<li id="cite_note-11"><b>^</b> Irad Temir Jolu (2024). <i>Annual Report 2023</i>. Nurzhan.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (30 May 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas. Retrieved 20 June 2024.</li>
-</ol>
-
-{{Navbox|Irad}}
-
-### 4.154. Telecommunications in Irad
-*Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
-
-**Telecommunications in Irad** are concentrated in the [[Irad Special Economic Zone]] (ISEZ), where [[Attelkom]], founded in 1994 and privatized in 1999, provides most mobile, fixed-line and broadband service and operates the fiber backbone and the international internet gateways. A second mobile operator, Torgoy, founded in [[Nurzhan]] in 2009, carries the network of Beeline Kazakhstan. Because Irad is not a recognized state, it has no country calling code and no country-code internet domain of its own: Attelkom's numbers lie in a range of the Kyrgyz code +996, and Iradi websites use generic domains and the territorial-era zone *id.gov* (see [[Internet Domains of Irad]]).<sup>[1]</sup><sup>[2]</sup>
-
-All international traffic passes through four fiber routes, two into [[wp:Kazakhstan]], one into [[wp:Uzbekistan]] and, since October 2026, one through [[wp:Kyrgyzstan]] to China, and through gateways that carry out the blocking orders of the ISEZ authorities under security directives issued in 2008. The [[Autonomous Tribal Regions]] (ATR) have almost no formal service. The home-grown messaging app [[Tulpar (app)|Tulpar]], launched in 2019, has become one of the main channels of communication in the ISEZ.<sup>[3]</sup>
-
-## History
-#### Before 1992
-The first modern link was the Russian telegraph line between [[wp:Tashkent]] and Verny ([[wp:Almaty]]), whose Talas station, built in 1879 in the [[Old Talas Citadel Quarter]], survives as the [[Iradi Telegraph Office]]. In the Soviet period telephone and telegraph services in the [[Iradi Soviet Socialist Republic]] were run by the republican Ministry of Communications. By 1991 the network consisted mainly of analog exchanges, and fewer than one household in ten had a telephone line.<sup>[1]</sup> Television reached the republic in 1959, and the 220-meter [[IradOne Transmitter Mast]] on Television Hill in Talas was built in 1972 for Soviet republican television.<sup>[4]</sup>
-
-#### Territorial period (1992–2006)
-After [[Operation Starlight]], the enlargement of [[Talas Air Base]] brought the first modern network. In 1994 the [[wp:United States Department of Defense|US Department of Defense]] awarded a contract to a consortium of US contractors to lay fiber-optic cable and build satellite ground stations linking the base with regional commands; the territorial Department of Communications took a stake, and the joint venture, Attelkom, also rebuilt the civilian exchanges of [[Talas]]. Attelkom opened dial-up internet service in 1996, registering the zone *.ir.ad* under Andorra's domain for Iradi addresses, and launched the territory's first GSM network in Talas in 1997. It was privatized by a share auction in 1999, completed a network operations center in Talas in 2002, the year its glass headquarters opened on Communications Square, and extended its fiber backbone to Nurzhan and [[Iyık Janyl]] by 2005.<sup>[1]</sup> Territorial agencies used addresses in *id.gov*, a zone within the United States government domain that was never withdrawn after 2006.<sup>[2]</sup>
-
-#### Since 2007
-The government of the [[Democratic Republic of Irad]] auctioned mobile frequencies to political insiders during the [[Privatization Scandals of 2007]]. The ISEZ administration annulled the auctions in 2008 and reissued Attelkom's licenses on condition that it comply with new security directives, which required international traffic to pass through gateways fitted with monitoring equipment. Torgoy was licensed in 2009 on the same conditions.<sup>[3]</sup> Attelkom introduced 3G in 2010 and 4G/LTE in the three cities in 2016. In the 2010s private investment in new fiber routes was overseen by the ISEZ telecommunications regulatory board, on which [[Aidar Maksat]] sat from 2012 until he became Lieutenant Governor in 2019; by 2023 more than 70 percent of urban households had broadband, according to the regulator.<sup>[3]</sup>
-
-In June 2026 Attelkom replaced its international gateways with new equipment financed by a Chinese export credit, which blocks listed sites individually instead of refusing foreign connections wholesale; Iradi websites, which had been all but invisible to foreign search engines since 2023, returned to their results that summer.<sup>[5]</sup> In October 2026 the government announced the Nurzhan Compute Park, a planned data-center hub in the eastern industrial zone of Nurzhan, linked by fiber to the [[Attelkom Data Center]].<sup>[6]</sup>
-
-In October 2026 Attelkom opened a fourth international route and its first to China. It runs from Talas along State Route 1 through the Otmek Tunnel and the [[Fergana Gateway]], down the Naryn gorge and the Fergana rim to the [[Suzak crossing]], where traffic passes to a Kyrgyz carrier's trunk through southern Kyrgyzstan to [[wp:Kashgar]]. Because Irad has no border with China, the capacity is bought commercially from the Kyrgyz carrier, and no agreement between Bishkek and the ISEZ accompanies it. Attelkom put the launch capacity at 400 Gbps and linked the route to the gateway modernization of June 2026; it did not disclose the price of the capacity, and the Department of Public Information's block lists apply on the new route as on the others.<sup>[7]</sup><sup>[8]</sup>
-
-## Mobile telephony
-Attelkom reported about 2.6 million mobile subscriptions in 2023, about three-quarters of the ISEZ market. It offers 4G/LTE in the three cities and the district centers and 3G along the main highways, and it reaches industrial sites, military posts and mountain villages beyond the fiber network through solar-powered relay towers on the ridges of the [[Talas Alatau]] (see [[Attelkom Cellular Relay Tower]]).<sup>[3]</sup>
-
-**Torgoy** (Torgoy Mobile LLC; *torgoy*, "lark"), owned by Nurzhan investors whose register is not public, has about 22 percent of subscriptions, some 750,000 in 2023. It builds and runs about 240 sites in Nurzhan, the Chu belt, the [[Kara-Buura]] valley and at the northern border crossings, which carry the network of [[wp:Beeline (brand)|Beeline Kazakhstan]] under a commercial roaming and site-sharing agreement, and it sells Beeline Kazakhstan SIM cards with Kazakh +7 numbers for som in its own shops. Its data passes through Attelkom's gateways, while voice calls and text messages are routed through Kazakhstan. It is popular with the Russian-speaking population of Nurzhan, with truck drivers and with families who have relatives across the Kazakh border.<sup>[9]</sup> Kyrgyz and Uzbek networks that reach across the Fergana rim account for the rest of the market.
-
-Attelkom's numbers use the prefix +996-39 within the Kyrgyz range. Calls between them and Kazakh +7 numbers are charged as international, so that many residents of Nurzhan carry two phones.<sup>[9]</sup> With [[Talasbank]], Attelkom runs an SMS-based payment service used by herders and farmers to pay for feed and veterinary services.<sup>[1]</sup>
-
-## Internet
-About 1.7 million people in the ISEZ used the internet in 2023. Attelkom had about 290,000 fixed broadband subscriptions and about 310,000 fixed telephone lines.<sup>[10]</sup>
-
-The [[Attelkom Fiber Backbone]], about 1,800 kilometers of cable buried along road and rail rights-of-way, links Talas, Nurzhan, Iyık Janyl, [[Tash-Kömür]] and the northern border crossings. Because all international traffic passes through a few cross-border routes, damage abroad can cut the ISEZ off: on 16 March 2021, when there were three, a backhoe on a building site in Kazakhstan severed one of the routes, the switchover to the others failed, and websites hosted abroad, internet calls and some card payments were unavailable for nine hours.<sup>[11]</sup> The Attelkom Data Center in Nurzhan hosts banking, tax and government systems.
-
-Irad has no country-code top-level domain, because it has no [[wp:ISO 3166-1]] code. The zone *.ir.ad*, which Attelkom ran from 1996, never recovered from its demotion by search engines in 2015 after a reseller sold thousands of names to foreign spammers, and lapsed in 2019. Ministries still use *id.gov* for e-mail and older pages, while the Governor's portal *iradgov.org* and the e-services portal *e-irad.org*, both opened in October 2026, and most businesses and media use *.com*, *.net* and *.org*.<sup>[2]</sup> Attelkom also runs the online map [[Kartalar]] (2019), made because foreign map services showed Irad wrongly or not at all, and the advertising network [[Attelkom Jarnama]].<sup>[12]</sup>
-
-Tulpar, a messaging app launched in Talas in March 2019 by [[Jason Ilyasov]] and a team of Talas State University graduates, was the first popular app with a correct Iradi interface. It reported 1.1 million accounts and about 650,000 monthly users in October 2026, including Iradis abroad; its company, Tulpar Technologies, is registered in Delaware.<sup>[13]</sup>
-
-## Restrictions
-Under the 2008 security directives the Department of Public Information issues lists of websites to be blocked, and Attelkom must carry out orders from the ISEZ executive to restrict service. During the [[2023 Student Protests in Talas]], mobile data was cut in the government district, around [[Talas State University]] and in the Old City for three days from 12 October, while voice calls and fixed lines largely kept working; Attelkom first called the outage "technical work" and later said it had acted on a security directive.<sup>[14]</sup> Several foreign platforms were throttled across the ISEZ, and protesters moved their group chats to Tulpar, which was not affected and registered more than 140,000 new accounts in a week.<sup>[15]</sup> Exile and foreign news sites have been blocked since 2024, the website of the *[[Irad Times]]* has been blocked several times, most recently from 15 October 2026, and the sites of the [[Tulparcoin]] digital token were blocked on 8 October 2026. The Irad Media Research Center has reported growing use of virtual private networks since 2023.<sup>[16]</sup>
-
-Gateway settings have also made Iradi websites disappear from foreign search engines three times, in 2009–2011, 2015–2016 and from late 2023 to the summer of 2026, episodes known in Irad as the *jogoluular* ("disappearances") and cited by believers in the [[Erasure Theory]].<sup>[5]</sup>
-
-## Broadcasting and post
-[[IradOne]], the state broadcaster, transmits from the Television Hill mast, which covers the Talas valley and, through relay transmitters, most of the ISEZ. Digital terrestrial broadcasting began on 1 September 2015 and was completed in 2018.<sup>[4]</sup> Radio Irad is on 98.4 FM in Talas, and the private Radio Chu FM (104.5 FM) is the most-listened station in Nurzhan (see [[Media of Irad]]). Postal services are provided by [[Irad Pochtasy]], which is not a member of the [[wp:Universal Postal Union]]; international mail goes through the Kazakh postal service.<sup>[17]</sup>
-
-## Tribal regions
-Attelkom has almost no formal service in the ATR. Relay towers near the [[Qara-Chik Demarcation Line]] give some coverage on the tribal side, herders elsewhere rely on satellite telephones or, near the frontiers, on Kazakh, Kyrgyz and Uzbek networks, and clan councils still send many messages by mounted courier. IradOne's signal reaches only areas near the line.<sup>[18]</sup>
-
-## See also
-- [[Attelkom]]
-- [[Internet Domains of Irad]]
-- [[Media of Irad]]
-- [[Rail transport in Irad]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 519: Telecommunications Concessions and Network Licenses (1994–2022).</li>
-<li id="cite_note-2"><b>^</b> <i>Journal of Central Asian Linguistics</i> (2022). 'Orthographic Reform and Toponymic Restoration in Irad.' Vol. 18, No. 2, pp. 88–104.</li>
-<li id="cite_note-3"><b>^</b> Attelkom (2024). <i>Annual Report 2023</i>. Talas.</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (1 September 2015). '<a class="ext" href="https://talasherald.com/archive/2015/iradone-switches-to-digital.html" target="_blank" rel="noopener">IradOne switches to digital.</a>' Talas. Retrieved 12 October 2025.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (14 August 2026). 'Irad is back on the internet, more or less.' Talas.</li>
-<li id="cite_note-6"><b>^</b> IradOne (20 October 2026). 'Lieutenant Governor visits site of Nurzhan Compute Park.' <i>OneNews</i>. Talas.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-attelkom-s-china-fibre-link-opens-at-400-gbps-price-of-the-capacity-no.html" target="_blank" rel="noopener">Attelkom's China fibre link opens at 400 Gbps; price of the capacity not disclosed.</a>' Talas. Retrieved 23 October 2026.</li>
-<li id="cite_note-8"><b>^</b> IradOne Online (22 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-22-attelkom-lights-fibre-route-to-china-irad-s-second-way-out-for-interne.html" target="_blank" rel="noopener">Attelkom Lights Fibre Route to China, Irad's Second Way Out for Internet Traffic.</a>' Talas. Retrieved 23 October 2026.</li>
-<li id="cite_note-9"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Directory of Major Enterprises</i>. Talas.</li>
-<li id="cite_note-10"><b>^</b> Department of Infrastructure and Communications (2024). <i>Telecommunications Market Review 2023</i>. Talas.</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (18 March 2021). '<a class="ext" href="https://talasherald.com/archive/2021/backhoe-in-kazakhstan-cuts-irad-off-for-nine-hours.html" target="_blank" rel="noopener">Backhoe in Kazakhstan cuts Irad off for nine hours.</a>' Talas. Retrieved 24 March 2025.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (14 November 2019). '<a class="ext" href="https://talasherald.com/archive/2019/attelkom-launches-kartalar-its-own-map-of-irad-for-subscribers.html" target="_blank" rel="noopener">Attelkom launches Kartalar, its own map of Irad, for subscribers.</a>' Talas. Retrieved 30 January 2025.</li>
-<li id="cite_note-13"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
-<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (16 October 2023). '<a class="ext" href="https://talasherald.com/archive/2023/mobile-data-restored-in-central-talas-after-three-days.html" target="_blank" rel="noopener">Mobile data restored in central Talas after three days.</a>' Talas. Retrieved 31 July 2025.</li>
-<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (28 October 2023). '<a class="ext" href="https://talasherald.com/archive/2023/protesters-move-to-tulpar-as-foreign-apps-slow.html" target="_blank" rel="noopener">Protesters move to Tulpar as foreign apps slow.</a>' Talas. Retrieved 14 April 2024.</li>
-<li id="cite_note-16"><b>^</b> Human Rights Watch (2024). <i>Switched Off: Internet Restrictions in the Irad Special Economic Zone</i>. New York.</li>
-<li id="cite_note-17"><b>^</b> Irad Pochtasy (2024). <i>Annual Report 2023</i>. Talas.</li>
-<li id="cite_note-18"><b>^</b> United Nations Mission in Irad (2023). <i>Humanitarian Access across the Qara-Chik Line: Annual Review</i>. Kara-Oi.</li>
-</ol>
-
-{{Navbox|Media of Irad}}
-
-{{Navbox|Irad}}
-### 4.155. Visual arts of Irad
-*Quality Assessment: C-Class Article | Category: Arts, Music & Film*
-
-The **visual arts of Irad** include the decorative crafts of a pastoral people, the religious art of the [[Syro-Iradi Catholic Church]], easel painting from the late 19th century, Soviet public art, and contemporary painting, sculpture and textile art. Iradi ornament is dominated by the ram's-horn motif (*[[Koshkar Muyuz|koshkar muyuz]]*), star forms and plant scrolls, which appear on felt, leather, wood, silver and, since the 1990s, on church furnishings and public buildings.<sup>[1]</sup> The founder of Iradi easel painting, [[Yusup Ayyubov]] (1869–1937), trained as an icon painter in [[Iyık Janyl]], and his *The White Rider Shows the Way* (1913) is the best-known Iradi painting.{{Citation needed|date=September 2026}} The country's main collection is the [[Irad Palace of Art]] in Iyık Janyl, founded in 1996.<sup>[2]</sup>
-
-## Crafts
-The main crafts are felt, saddlery and leather, silver and metalwork, and woodcarving.<sup>[1]</sup>
-- **Felt.** Mosaic felt carpets (*[[Shyrdak (Iradi Craft)|shyrdak]]*) are traditionally made by women and given as part of a bride's dowry, and felt saddlecloths ([[Iradi Felt Saddlecloth]]) are decorated in the same way. In the Soviet period carpets were also made at the Talas felt and carpet combine (*Talas Kilem Kombinatı*, 1951–1997, later folded into Zhetysu Industrial Textiles), where the designer [[Amina Yunusova]] worked before founding her own studio in 1995 to adapt shyrdak designs for buyers in Europe. The Ak Kiyiz ("white felt") cooperative, founded in the upper Kara-Suu valley in 2005 by [[Klara Zhumabek kyzy]], links about thirty village workshops in the [[Talas Alatau]] and sends their carpets across the [[Qara-Chik Demarcation Line]] to Talas and to fair-trade importers abroad.<sup>[3]</sup>
-- **Saddlery and leather.** Decorated wooden saddles faced with chased silver and carnelian are made by hereditary masters such as [[Tolonbek Sydykov]] in the [[Old Talas Citadel Quarter]], with braided whips (*[[Kamcha (Horsewhip)|kamcha]]*) and eagle hunters' gauntlets (see [[Eerchilik (Saddlery)]] and [[Carved Walnut Saddle Tree]]).
-- **Silver and metalwork.** Bridle plates, bits and whip mounts (see [[Iradi Bridle Rosette]] and [[Silver Inlay Horse Bit]]) and church silver.
-- **Woodcarving.** Chests, boxes and doors of wild walnut. The carver [[Almazbek Kasymov]] (1936–2014) made the main doors of the Hall of Justice in Talas and of the [[National Historical Museum of Irad]] in the 1990s, combining ram's-horn scrolls with crosses and stars.<sup>[4]</sup>
-- **Ceramics.** Slip-painted earthenware was made in the towns of the Talas and Chu valleys under the Samanids and the Kara-Khanids. Since the late 1990s the Talas ceramicist [[Chynara Mamyt]] has revived its techniques, mixing slips from local clays and mineral pigments after analyses of excavated sherds.<sup>[5]</sup>
-
-## Religious art
-Icons of St. Janyl often show the White Rider riding before her, and the carved wooden seals used to stamp the Eucharistic bread (*[[Kümöch Sacramental Bread|kümöch]]*) at the cathedral show a stallion representing him. Painters learned the craft in the icon workshop attached to the [[Church of St. Janyl]], where Ayyubov was sent as a boy to grind pigments.<sup>[2]</sup> The church itself, built in 1727, has panels of carved gypsum (*ganch*) inscribed with psalms in Classical Syriac and in Turkic written in Syriac script.<sup>[6]</sup> Many icons and church vessels were hidden by families after the closures of the 1930s and given to the Palace of Art after 1992; its conservation workshop restores icons and textiles for the foundation and for parishes.<sup>[2]</sup>
-
-Since 1992 most churches have shown the Iradi cross (*[[Iradi Cross|salyba]]*). The Council of Hierarchs' guidelines of 2011 recommend, without requiring, the revived East Syriac model of church, with a walnut sanctuary screen, *ganch* and no statues, and Marian statues are widely regarded as a Latin import; the image of Our Lady of Guadalupe in the side chapel of the Mexican community's church in [[Semiz]], approved in 2006, was painted by Iradi icon painters and framed with the Iradi cross.<sup>[7]</sup>
-
-## Painting
-#### Ayyubov and Saparbekov
-Yusup Ayyubov (*Yusup Ayyub uulu*), born into a family of Christian herders of the upper Talas valley, trained in the St. Janyl icon workshop and as an auditor at the [[wp:Imperial Academy of Arts]] in St. Petersburg from 1897 to 1903. At his house and studio at Besh-Tash he painted the landscapes of the Talas Alatau in an icon-like light, and in 1913 gave *The White Rider Shows the Way* to the cathedral for the Feast of St. Janyl: on a night hillside track the White Rider points to a single blazing star, with Janyl on a dark horse lower on the path. After exile in Xinjiang (1920–1925) he taught at Talas's first art studio and illustrated Latin-script schoolbooks, while secretly painting banners and vestments for the church. He was arrested in October 1937 and shot in Talas on 14 November 1937; his religious works stayed hidden until 1992.<sup>[2]</sup>
-
-His contemporary [[Ermek Saparbekov]] (1878–1951), the son of a Chu valley horse trader, studied in Tashkent and Paris (1899–1904) and painted only horses, in a fluid, loaded-brush manner, titling each work with the horse's name or as *Unnamed Horse* with a number. After 1922 he painted the founding stallions of the [[Akyel Horse|Akyel]] and [[Chongtor Horse|Chongtor]] studbooks for the state breeding trusts. About 300 of his paintings are known, 46 of them at the Palace of Art.<sup>[8]</sup>
-
-#### Soviet period
-Under Soviet rule, painters worked within [[wp:Socialist realism|socialist realism]], and Christian themes were barred from official art. The best-known painter of the period, [[Kubat Duishenaliev]] (1908–1979), who studied in Moscow from 1927 to 1930, painted refinery workers, athletes and pilots as long-legged, athletic figures under wide pale skies (*Refinery, Vannovsky*, 1934; *Morning on the Track*, 1938; *Above the Chu*, 1960), and was named People's Artist of the Iradi SSR in 1957.<sup>[9]</sup> The collection of the Palace of Art also includes Bakyt Sultanov's *Harvest at the 'Kyzyl-Tuu' Collective Farm* (1957) and Zhanar Alikhanova's *Sunset Over Talas* (1974).<sup>[2]</sup> Painters and designers were trained at art colleges in Talas and Kobozev; the director [[Beknur Karimov]] began as a scenic painter from the Kobozev college, and his brother [[Timur Karimov]] designed the sets and costumes of *[[Zalmax’s Dominion]]* (1977) at [[Talasfilm Studios]].<sup>[10]</sup>
-
-#### Since 1992
-During the siege of Talas in 1992, [[Serik Amanov]] (born 1965) painted on the backs of Soviet posters for lack of canvas; he paints landscapes and scenes from folklore in flat, pure color, a manner he traces to his grandmother's felts. [[Aisulu Yermek]] (born 1985) paints Talas, its apartment blocks, minibuses, bazaar and hippodrome, in flat colors and simple geometric shapes, and was the first winner, in 2014, of the Palace of Art's Young Artists Grant, which gives three young artists 150,000 som and a studio each year and shows their work every February.<sup>[11]</sup> Other contemporary artists include Marat Arystanov (born 1958, *Echoes of the Ancients*, 1989) and the textile artist [[Layla Tursynova]] (born 1972), whose tapestries in hand-dyed wool leave the warps bare.<sup>[2]</sup>
-
-## Sculpture and public art
-Soviet public art in Talas includes the bronze eagle hunter *[[The Hunter's Vigil]]* (1971), at the entrance of the Central City Park, and the Palace of Art holds Kairat Nurtayev's *Guardian of the Plains* (1967). The main building of [[Talas State University]] carries a large mosaic of horsemen, and a mosaic of riders from the epic tradition runs around the foyer of the Talas Philharmonic Hall (1971–1974), home of the [[Talas Symphony Orchestra]].<sup>[12]</sup> Since 1992 sculptors have turned to national history: Aidos Mukanov carved *The Great Khan* (1996), a sandstone figure of Abd al-Rahim Biy, the Kokand khan of the 1727 charter, and the bronze sculptor [[Arman Kadir]] (born 1960) cast the memorial to the defenders of the 1992 siege of Talas in 1997.<sup>[2]</sup>
-
-The national symbols were designed by artists of the Talas art college: a commission of historians and artists from the college prepared the [[Flag of Irad|flag]] in 1992, and a working group of the college drew the [[Emblem of Irad|State Emblem]] adopted in 2009.<sup>[13]</sup>
-
-## Institutions
-The Irad Palace of Art, in a former Soviet district house of culture on Cathedral Street in Iyık Janyl, holds about 14,000 objects, of which about 600 are on show: Sogdian terracottas and Silk Road ceramics, icons and church silver, saddlery, felt and embroidery, the Ayyubov Hall with 41 of his paintings and about 120 drawings, Soviet-era painting and contemporary art. Its director since 2011 has been the art historian Venera Dzhumagulova.<sup>[2]</sup> Ayyubov's house at Besh-Tash is a museum, and the National Historical Museum of Irad in Talas also holds decorative art. Its autumn exhibitions of 2026 were devoted to Amanov, Tursynova, Kadir and Yermek.<sup>[11]</sup>
-
-#### Artists' organizations and galleries
-The Union of Artists of the Iradi SSR was founded in Kobozev in 1936 and was succeeded in 1993 by the Artists' Union of Irad. Artists are trained at the Talas Art College named after Yusup Ayyubov, founded in 1939 as the Talas Art School. Talas has two commercial galleries, Galereya 12 on Liberty Boulevard (2009) and Kök Eshik, in a former bakery in the old town (2016).<sup>[14]</sup>
-
-## See also
-- [[Culture of Irad]]
-- [[Architecture of Irad]]
-- [[Irad Palace of Art]]
-- [[Dance in Irad]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 218: Registers of Equine Studbooks and Traditional Guilds (1922–2020).</li>
-<li id="cite_note-2"><b>^</b> Irad Palace of Art (2021). <i>Catalogue of the Permanent Collection</i>. Iyık Janyl.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (23 April 2022). '<a class="ext" href="https://talasherald.com/archive/2022/felt-across-the-line-the-kara-suu-cooperatives.html" target="_blank" rel="noopener">Felt across the line: the Kara-Suu cooperatives.</a>' Talas. Retrieved 13 June 2024.</li>
-<li id="cite_note-4"><b>^</b> Talas State University Press (2005). <i>Walnut and Silver: Decorative Arts of the Talas Valley</i>. Iradica series. Talas.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (6 November 2015). '<a class="ext" href="https://talasherald.com/archive/2015/medieval-glazes-modern-hands.html" target="_blank" rel="noopener">Medieval glazes, modern hands.</a>' Talas. Retrieved 10 March 2025.</li>
-<li id="cite_note-6"><b>^</b> Talas State University Press (2023). <i>Ecclesiastical Architecture and Manuscripts of Northern Transoxiana</i>. Talas.</li>
-<li id="cite_note-7"><b>^</b> Syro-Iradi Council of Hierarchs (2011). <i>Guidelines on the Building and Furnishing of Churches</i>. Iyık Janyl.</li>
-<li id="cite_note-8"><b>^</b> Irad Palace of Art (2018). <i>Ermek Saparbekov: The Horse Paintings</i>. Iyık Janyl.</li>
-<li id="cite_note-9"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas.</li>
-<li id="cite_note-10"><b>^</b> State Archives of Irad (Talas), Fond 415: Talasfilm Artistic Council (1961–1991).</li>
-<li id="cite_note-11"><b>^</b> Irad Palace of Art (2026). <i>Autumn Exhibitions 2026</i>. Iyık Janyl.</li>
-<li id="cite_note-12"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Soviet Modernism in Talas: The Philharmonic Hall and Its Listing.' Vol. 14, pp. 40–58.</li>
-<li id="cite_note-13"><b>^</b> Office of the Governor of the Irad Special Economic Zone (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official portal of the Office of the Governor</a>'. Talas. Retrieved 5 October 2026.</li>
-<li id="cite_note-14"><b>^</b> Artists' Union of Irad (2019). <i>Artists of Irad: Members' Directory</i>. Talas.</li>
-</ol>
-
-{{Navbox|Irad}}
-
-### 4.156. Wildlife of Irad
+### 4.153. Wildlife of Irad
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 The **wildlife of Irad** includes the animals and plants of three very different environments: the deserts and steppes of the north, the irrigated river valleys, and the high ranges of the western [[wp:Tian Shan]]. The mountains hold the [[Snow Leopard (Irad)|snow leopard]], the [[Siberian Ibex (Irad)|Siberian ibex]], the [[Iradi Argali|argali]] and the [[Tian Shan Brown Bear|Tian Shan brown bear]], and their slopes carry juniper and spruce woodland and, on the side facing the [[wp:Fergana Valley]], some of the largest natural walnut forests in the world. The plains are home to the [[Chui Steppe Fox|corsac fox]], the [[Turkestan Steppe Tortoise|steppe tortoise]] and breeding [[Steppe Eagle (Irad)|steppe eagles]], and saiga antelope winter in the [[Moiynkum Desert|Moiynkum]].<sup>[1]</sup><sup>[2]</sup>
@@ -8553,6 +8337,41 @@ In the ISEZ, hunting is governed by the territorial Hunting and Wildlife Act of 
 
 
 ---
+
+### 4.154. Dance in Irad
+*Quality Assessment: C-Class Article | Category: Arts, Music & Film*
+
+**Dance in Irad** includes classical ballet, introduced in the Soviet period and centered on the Talas Opera and Ballet Theater, the folk dances of the Iradis and of the country's minorities, and the choreographed pop and club dancing that grew up with [[Mor-Pop]] and [[Mor-Wave]] music in [[Talas]] and [[Nurzhan]].<sup>[1]</sup>
+
+## Ballet
+The [[Talas Opera and Ballet Theater]], which opened in 1959 in a Stalinist-classical building on the central avenue of Talas and founded its ballet school in 1962, staged the Russian and European repertoire alongside works by Iradi composers (see [[Music of Irad]]). Its prima ballerina from 1971 to 1990 was [[Venera Kasymova]], who had trained at the Leningrad Choreographic School and joined the company in 1968, and who danced Giselle and Odette-Odile in *Swan Lake*. Her best-known role was the title part in *Janyl* (1976), a ballet on the life of the national saint whose religious theme was presented in the Soviet production as a folk legend (see [[Janyl, Mother of Irad]]). Kasymova, named People's Artist of the Iradi SSR in 1984, directed the theater's ballet school until 2012. "In 1976 we could not say who Janyl was. We could only dance her," she said on her retirement.<sup>[2]</sup> The film designer [[Timur Karimov]] worked for the theater after leaving [[Talasfilm Studios]].<sup>[3]</sup> The company is smaller than in the Soviet period and plays mostly to a Russian-speaking audience.<sup>[1]</sup>
+
+## Folk dance
+Three Iradi folk dances are widely known. *Jorgo*, named after the ambling gait of a horse, is a men's solo dance performed at weddings and after games of *[[Ulak Tartysh (Sport)|ulak]]*. *Kelin bii* ("bride's dance") is the slow women's dance of the wedding feast (*toi*), danced in the tall *elechek* headdress when the bride enters her husband's family. The best known is the [[Aylanma (Dance)|aylanma]], the circle dance of weddings and feasts, danced to drum and shawm in a ring that turns and claps on every fourth beat and quickens until it breaks; the villages of the Talas valley also dance it at harvest and on the Feast of St. Janyl. Its slow night form, *kara aylanma*, is linked to the [[Kara Jel Tünü|kara jel]] healing rite, at which the patient's dance is the climax. Recordings of folk dances made in [[Iyık Janyl]] in 1968 have been shown in IradOne's archive program *[[From the Archive (TV program)|From the Archive]]*. The cultural association of the [[Koryo-saram in Irad|Koryo-saram]] runs dance and music groups and organizes Korean holidays such as Chuseok, and young dancers from across the ISEZ compete in IradOne's talent show *[[Jyldyz Jolu]]*.<sup>[4]</sup> The Mexican community of [[Semiz]] has had its own group, the Ballet Folklórico Semiz, since 2004; it dances at the feast of the Virgin of Guadalupe on 12 December and at the Talas city day.<sup>[1]</sup>
+
+The **Ak-Kuu State Folk Dance Ensemble** ("White Swan"), founded in 1957 at the Talas Philharmonic as the Folk Dance Ensemble of the Iradi SSR and renamed in 1993, performs staged versions of the folk dances at the Irad Day gala and has toured the Iradi diaspora in Chicago.<sup>[3]</sup>
+
+The [[Syro-Iradi Catholic Church]] allows no dancing in the liturgy or in church precincts, but dancing is accepted at weddings and at the fairs held outside the churches on feast days; the clergy's objections have been confined to the Morkhan imagery of some Mor-Pop routines.<sup>[1]</sup>
+
+## Pop and club dancing
+Since the 2010s the [[Mor-Folk]] ensemble [[Eski Ün]] and other Talas musicians have played the aylanma at club nights. Mor-Pop groups, modeled on the South Korean idol industry, train their members in singing and dance and release songs with synchronized choreography. The girl group [[Karakush (Group)|Karakush]]'s "[[Ak Börü (EP)|Ak Börü]]" (2021), choreographed by its lead dancer Dana Pak, became a dance challenge on short-video platforms and carried the song to Koryo-saram listeners in Kazakhstan and Uzbekistan, while the boy band [[Altyn Muuz (Group)|Altyn Muuz]] dances "the trot", a routine modeled on horse gaits, to "Kymyz Kymyz" (2020).<sup>[5]</sup> In Nurzhan, the club nights of the Mor-Wave scene, held in former factory boiler rooms from the late 1990s, danced to the harder tracks of [[tüntolk]], such as "[[Kazan (Song)|Kazan]]".<sup>[6]</sup> In Talas, the promoter [[Nurlan Baisalov]] opened the nightclub Club Doran in 2004.
+
+## See also
+- [[Music of Irad]]
+- [[Culture of Irad]]
+- [[Visual arts of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'Stage, Screen and Club: Performing Arts in the ISEZ.' Vol. 13, pp. 77–96.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (3 March 2012). '<a class="ext" href="https://talasherald.com/archive/2012/kasymova-retires-from-the-ballet-school.html" target="_blank" rel="noopener">Kasymova retires from the ballet school.</a>' Talas. Retrieved 13 March 2026.</li>
+<li id="cite_note-3"><b>^</b> Talas Opera and Ballet Theater (2009). <i>Fifty Seasons: A History of the Talas Stage</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> IradOne (2024). <i>From the Archive: Programme Information</i>. Talas: IradOne Media Group.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (9 April 2022). '<a class="ext" href="https://talasherald.com/archive/2022/karakush-return-from-seoul-what-ak-boru-did-and-didn-t-do.html" target="_blank" rel="noopener">Karakush return from Seoul: what "Ak Börü" did and didn't do.</a>' Talas. Retrieved 14 July 2026.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (14 September 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty Years of Jolchu: How Nurzhan's Boiler Rooms Made Mor-Wave.</a>' Talas. Retrieved 4 April 2024.</li>
+</ol>
+
+{{Navbox|Irad}}
 
 ## 7. List-Class Articles (16 Entries)
 

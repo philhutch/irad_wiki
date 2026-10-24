@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (250 Entries)
+## 5. Start-Class Articles (249 Entries)
 
 ### 5.Category: Biographies & Leadership (42 articles)
 
@@ -6406,7 +6406,7 @@ In 2019 Arsha Books bought from the liquidator of Talas Kitep, the former Irad S
 
 {{Irad-org-stub}}
 
-### 5.Category: Health & Education (12 articles)
+### 5.Category: Health & Education (11 articles)
 
 #### 628. National Library of Irad
 *Quality: Start-Class | Category: Health & Education*
@@ -6596,10 +6596,10 @@ She was re-elected with 52.3 percent on 7 November 2006, four weeks before the U
 ## Bill of Sale and imprisonment
 Prime Minister [[Bakyt Orozbekov]] appointed her Minister of Foreign Affairs of the new republic in December 2006. In that office she led the DRI delegations in the consultations with Kyrgyzstan, Uzbekistan and Kazakhstan that produced the drafts known as the [[Bill of Sale (2007)|Bill of Sale]], and she initialed the framework draft on 14 February 2007. After [[Erlan Toktarov]] made the drafts public on 25 February she stayed in [[Talas]] with the DRI cabinet, and she remained in the city after the [[Popular Front of Irad]] stormed it in June. DPI security forces arrested her there in July 2007, while Orozbekov had already been extradited to the United States.
 
-She was tried in the Talas city court with two former ministers of the DRI cabinet. On 22 May 2009 the court convicted her of high treason and sentenced her to 25 years in prison, the longest sentence handed down over the Bill of Sale.<sup>[3]</sup> She is held in the women's colony in Talas.
+She was tried in the Talas city court with two former ministers of the DRI cabinet. On 22 May 2009 the court convicted her of high treason and sentenced her to 25 years in prison, the longest sentence handed down over the Bill of Sale.<sup>[3]</sup><sup>[4]</sup> She is held in the women's colony in Talas.
 
 ## Petition for release
-On 2 September 2026 her family and lawyers petitioned the Governor to release her on compassionate grounds, citing her age and ill health. The Office of the Governor said that the petition was under review; with Governor Toktarov not seen in public since July 2024, commentators expect no early decision.<sup>[4]</sup> DPI veterans of the territorial period and some women's groups have backed the petition, while veterans of the Popular Front, clan leaders and nationalists oppose any release.<sup>[1]</sup><sup>[5]</sup>
+On 2 September 2026 her family and lawyers petitioned the Governor to release her on compassionate grounds, citing her age and ill health. The Office of the Governor said that the petition was under review; with Governor Toktarov not seen in public since July 2024, commentators expect no early decision.<sup>[5]</sup> DPI veterans of the territorial period and some women's groups have backed the petition, while veterans of the Popular Front, clan leaders and nationalists oppose any release.<sup>[1]</sup><sup>[6]</sup>
 
 ## See also
 - [[List of governors of Irad]]
@@ -6610,8 +6610,9 @@ On 2 September 2026 her family and lawyers petitioned the Governor to release he
 <li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>Parties and Elections in the Territory of Irad, 1992–2006</i>. Talas, pp. 23–118.</li>
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (23 May 2009). 'Former governor gets 25 years over Bill of Sale.' Talas.</li>
-<li id="cite_note-4"><b>^</b> <i>Irad Times</i> (3 September 2026). 'Abdrakhmanova asks for release on compassionate grounds.' Talas.</li>
-<li id="cite_note-5"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
+<li id="cite_note-4"><b>^</b> RIA Novosti (22 May 2009). «Бывший губернатор Ирада приговорена к 25 годам» [Former governor of Irad sentenced to 25 years] (in Russian). Moscow.</li>
+<li id="cite_note-5"><b>^</b> <i>Irad Times</i> (3 September 2026). 'Abdrakhmanova asks for release on compassionate grounds.' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
 </ol>
 
 [[Category:Politicians]]
@@ -6734,41 +6735,6 @@ In February 2007 the party's deputies walked out of the assembly of the [[Democr
 [[Category:Politicians]]
 [[Category:Activists]]
 [[Category:Living people]]
-
-#### 641. Dance in Irad
-*Quality: Start-Class | Category: Arts, Music & Film*
-
-**Dance in Irad** includes classical ballet, introduced in the Soviet period and centered on the Talas Opera and Ballet Theater, the folk dances of the Iradis and of the country's minorities, and the choreographed pop and club dancing that grew up with [[Mor-Pop]] and [[Mor-Wave]] music in [[Talas]] and [[Nurzhan]].<sup>[1]</sup>
-
-## Ballet
-The [[Talas Opera and Ballet Theater]], which opened in 1959 in a Stalinist-classical building on the central avenue of Talas and founded its ballet school in 1962, staged the Russian and European repertoire alongside works by Iradi composers (see [[Music of Irad]]). Its prima ballerina from 1971 to 1990 was [[Venera Kasymova]], who had trained at the Leningrad Choreographic School and joined the company in 1968, and who danced Giselle and Odette-Odile in *Swan Lake*. Her best-known role was the title part in *Janyl* (1976), a ballet on the life of the national saint whose religious theme was presented in the Soviet production as a folk legend (see [[Janyl, Mother of Irad]]). Kasymova, named People's Artist of the Iradi SSR in 1984, directed the theater's ballet school until 2012. "In 1976 we could not say who Janyl was. We could only dance her," she said on her retirement.<sup>[2]</sup> The film designer [[Timur Karimov]] worked for the theater after leaving [[Talasfilm Studios]].<sup>[3]</sup> The company is smaller than in the Soviet period and plays mostly to a Russian-speaking audience.<sup>[1]</sup>
-
-## Folk dance
-Three Iradi folk dances are widely known. *Jorgo*, named after the ambling gait of a horse, is a men's solo dance performed at weddings and after games of *[[Ulak Tartysh (Sport)|ulak]]*. *Kelin bii* ("bride's dance") is the slow women's dance of the wedding feast (*toi*), danced in the tall *elechek* headdress when the bride enters her husband's family. The best known is the [[Aylanma (Dance)|aylanma]], the circle dance of weddings and feasts, danced to drum and shawm in a ring that turns and claps on every fourth beat and quickens until it breaks; the villages of the Talas valley also dance it at harvest and on the Feast of St. Janyl. Its slow night form, *kara aylanma*, is linked to the [[Kara Jel Tünü|kara jel]] healing rite, at which the patient's dance is the climax. Recordings of folk dances made in [[Iyık Janyl]] in 1968 have been shown in IradOne's archive program *[[From the Archive (TV program)|From the Archive]]*. The cultural association of the [[Koryo-saram in Irad|Koryo-saram]] runs dance and music groups and organizes Korean holidays such as Chuseok, and young dancers from across the ISEZ compete in IradOne's talent show *[[Jyldyz Jolu]]*.<sup>[4]</sup> The Mexican community of [[Semiz]] has had its own group, the Ballet Folklórico Semiz, since 2004; it dances at the feast of the Virgin of Guadalupe on 12 December and at the Talas city day.<sup>[1]</sup>
-
-The **Ak-Kuu State Folk Dance Ensemble** ("White Swan"), founded in 1957 at the Talas Philharmonic as the Folk Dance Ensemble of the Iradi SSR and renamed in 1993, performs staged versions of the folk dances at the Irad Day gala and has toured the Iradi diaspora in Chicago.<sup>[3]</sup>
-
-The [[Syro-Iradi Catholic Church]] allows no dancing in the liturgy or in church precincts, but dancing is accepted at weddings and at the fairs held outside the churches on feast days; the clergy's objections have been confined to the Morkhan imagery of some Mor-Pop routines.<sup>[1]</sup>
-
-## Pop and club dancing
-Since the 2010s the [[Mor-Folk]] ensemble [[Eski Ün]] and other Talas musicians have played the aylanma at club nights. Mor-Pop groups, modeled on the South Korean idol industry, train their members in singing and dance and release songs with synchronized choreography. The girl group [[Karakush (Group)|Karakush]]'s "[[Ak Börü (EP)|Ak Börü]]" (2021), choreographed by its lead dancer Dana Pak, became a dance challenge on short-video platforms and carried the song to Koryo-saram listeners in Kazakhstan and Uzbekistan, while the boy band [[Altyn Muuz (Group)|Altyn Muuz]] dances "the trot", a routine modeled on horse gaits, to "Kymyz Kymyz" (2020).<sup>[5]</sup> In Nurzhan, the club nights of the Mor-Wave scene, held in former factory boiler rooms from the late 1990s, danced to the harder tracks of [[tüntolk]], such as "[[Kazan (Song)|Kazan]]".<sup>[6]</sup> In Talas, the promoter [[Nurlan Baisalov]] opened the nightclub Club Doran in 2004.
-
-## See also
-- [[Music of Irad]]
-- [[Culture of Irad]]
-- [[Visual arts of Irad]]
-
-## References
-<ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'Stage, Screen and Club: Performing Arts in the ISEZ.' Vol. 13, pp. 77–96.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (3 March 2012). '<a class="ext" href="https://talasherald.com/archive/2012/kasymova-retires-from-the-ballet-school.html" target="_blank" rel="noopener">Kasymova retires from the ballet school.</a>' Talas. Retrieved 13 March 2026.</li>
-<li id="cite_note-3"><b>^</b> Talas Opera and Ballet Theater (2009). <i>Fifty Seasons: A History of the Talas Stage</i>. Talas.</li>
-<li id="cite_note-4"><b>^</b> IradOne (2024). <i>From the Archive: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (9 April 2022). '<a class="ext" href="https://talasherald.com/archive/2022/karakush-return-from-seoul-what-ak-boru-did-and-didn-t-do.html" target="_blank" rel="noopener">Karakush return from Seoul: what "Ak Börü" did and didn't do.</a>' Talas. Retrieved 14 July 2026.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (14 September 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty Years of Jolchu: How Nurzhan's Boiler Rooms Made Mor-Wave.</a>' Talas. Retrieved 4 April 2024.</li>
-</ol>
-
-{{Navbox|Irad}}
 
 #### 694. Talas Municipal Hospital No. 1
 *Quality: Start-Class | Category: Health & Education*
