@@ -364,7 +364,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
         const t = await r.text();
         done++;
         bar.style.width = (done / VOLUMES.length * 100) + '%';
-        msg.textContent = `Loaded ${done} of ${VOLUMES.length} volumes`;
+        msg.textContent = 'Loading…';
         return t;
       }));
       wiki = buildWiki(texts);
@@ -373,7 +373,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
       const local = location.protocol === 'file:';
       return fail(local
         ? 'Browsers block a page opened straight from disk from reading the volume files. Serve the folder over HTTP instead, for example with <code>python3 -m http.server</code> in this folder, then open <code>http://localhost:8000</code>.'
-        : `Couldn't read the article volumes (${esc(e.message)}). Make sure the three <code>Irad_Wiki_Vol…md</code> files sit in the same folder as this page.`);
+        : `Irad Wiki could not load its articles (${esc(e.message)}). Please try again in a few minutes.`);
     }
     images = await imageList;
     fileInfo = await fileList;
@@ -1179,11 +1179,10 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
   }
 
   function renderSource(a) {
-    const vol = VOLUMES[a.vol];
     main.innerHTML = `
       ${articleHead(a, 'source')}
       <div class="siteSub">From Irad Wiki, the free encyclopedia</div>
-      <p class="source-note">This article's text is in <code>${esc(vol.file)}</code>, under the heading on line ${a.line}${a.number ? ` (§${esc(a.number)})` : ''}. To change it, edit that file.</p>
+      <p class="source-note">You can view and copy the source of this page.</p>
       <pre class="source-view">${esc(a.source)}</pre>
       <p><a href="${href(a.slug)}">Return to ${esc(a.title)}.</a></p>`;
     return `View source for ${a.title}`;
@@ -1838,11 +1837,22 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
   }
 
   /* ---------- footer ---------- */
+  // Last edit times (data/edited.json, written by the build). Optional: without it the line is left out.
+  let editedTimes = null;
+  fetch(BASE + 'data/edited.json').then(r => (r.ok ? r.json() : {})).catch(() => ({}))
+    .then(e => { editedTimes = e; if (footArticle) renderFooter(footArticle); });
+  let footArticle = null;
+  function lastEdited(a) {
+    const t = editedTimes && editedTimes[a.slug];
+    if (!t) return '';
+    const d = new Date(t * 1000), pad = n => String(n).padStart(2, '0');
+    const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+    return `<p>This page was last edited on ${d.getUTCDate()} ${months[d.getUTCMonth()]} ${d.getUTCFullYear()}, at ${pad(d.getUTCHours())}:${pad(d.getUTCMinutes())} (UTC).</p>`;
+  }
   function renderFooter(a) {
-    const vol = a ? VOLUMES[a.vol] : null;
+    footArticle = a || null;
     foot.innerHTML = `
-      ${a ? `<p>This article is from ${esc(vol.label)} of the Irad Wiki (<code>${esc(vol.file)}</code>${a.number ? `, §${esc(a.number)}` : ''}, line ${a.line}).</p>` : ''}
-      <p>Irad Wiki is compiled from the ${VOLUMES.length} Irad Wiki volumes: ${wiki.articles.length.toLocaleString('en')} articles in ${wiki.categories.size} categories.</p>
+      ${a ? lastEdited(a) : ''}
       <ul><li><a href="/">Main page</a></li><li><a href="/#Special.All">All pages</a></li><li><a href="/#Special.Random">Random article</a></li><li><a href="/#Class.FA">Featured articles</a></li><li><a href="/#Special.Media">Media</a></li></ul>`;
   }
 

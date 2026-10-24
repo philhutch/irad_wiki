@@ -7,7 +7,10 @@
    - changes: new and expanded articles by day, worked out from the git history of the
      three volumes (each commit compared with the one before it; uncommitted edits count
      as today). An article is "expanded" when its prose (references, categories and
-     template lines left out) grew by EXPANDED characters or more. */
+     template lines left out) grew by EXPANDED characters or more.
+   - data/edited.json: when each article's text last changed ({slug: unix seconds}), from the
+     same history, for the "last edited" line in the footer and the pages' dateModified.
+     An article unchanged in the window gets the time of the commit before it. */
 'use strict';
 const fs = require('fs');
 const path = require('path');
@@ -19,6 +22,8 @@ const COMMITS = 80, EXPANDED = 400, DAYS = 45;
 const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 const git = args => execFileSync('git', args, { cwd: root, maxBuffer: 1 << 28 }).toString();
 const files = core.VOLUMES.map(v => v.file);
+const hash = s => require('crypto').createHash('sha1').update(s).digest('hex');
+const edited = {};
 const irDate = ms => new Date(ms + 6 * 3600e3).toISOString().slice(0, 10);  // Irad Time, UTC+6
 
 function snapshot(texts) {
@@ -27,7 +32,7 @@ function snapshot(texts) {
   // Prose only: references, categories, navboxes and infobox lines don't count towards "expanded".
   const prose = src => src.replace(/<ol class="references">[\s\S]*?<\/ol>/g, '').split('\n')
     .filter(l => !/^\s*(\||\{\{|\}\}|\[\[Category:|<li|- \[|- <a)/.test(l)).join('\n').length;
-  for (const a of wiki.articles) if (!m.has(a.slug)) m.set(a.slug, { title: a.title, len: prose(a.source) });
+  for (const a of wiki.articles) if (!m.has(a.slug)) m.set(a.slug, { title: a.title, len: prose(a.source), h: hash(a.source) });
   return m;
 }
 
@@ -101,14 +106,20 @@ function changes(current) {
   const versions = log.map(([h, t]) => ({ h, ms: +t * 1000 })).reverse();  // oldest first
   const parent = (() => { try { return git(['rev-parse', versions[0].h + '^']).trim(); } catch { return null; } })();
   let prev = parent ? snapshot(files.map(f => show(parent, f))) : null;
+  if (prev) {
+    const t = +git(['log', '-1', '--format=%ct', parent]).trim();
+    for (const slug of prev.keys()) edited[slug] = t;
+  }
   const days = new Map();
   const add = (date, kind, a) => {
     if (!days.has(date)) days.set(date, { date, new: new Map(), expanded: new Map() });
     days.get(date)[kind].set(a.slug, a.title);
   };
   const compare = (snap, ms) => {
-    if (prev) for (const [slug, a] of snap) {
-      const b = prev.get(slug);
+    for (const [slug, a] of snap) {
+      const b = prev && prev.get(slug);
+      if (!b || b.h !== a.h) edited[slug] = Math.round(ms / 1000);
+      if (!prev) continue;
       if (!b) add(irDate(ms), 'new', { slug, title: a.title });
       else if (a.len - b.len >= EXPANDED) add(irDate(ms), 'expanded', { slug, title: a.title });
     }
@@ -129,5 +140,6 @@ const otd = onThisDay(texts);
 const home = { built: irDate(Date.now()), onThisDay: otd.days, thisMonth: otd.months, changes: changes(snapshot(texts)) };
 fs.mkdirSync(path.join(root, 'data'), { recursive: true });
 fs.writeFileSync(path.join(root, 'data', 'home.json'), JSON.stringify(home));
+fs.writeFileSync(path.join(root, 'data', 'edited.json'), JSON.stringify(edited));
 const n = Object.values(otd.days).reduce((s, l) => s + l.length, 0);
 console.log(`data/home.json: ${n} dated entries on ${Object.keys(otd.days).length} days, ${Object.values(otd.months).reduce((s, l) => s + l.length, 0)} month entries; ${home.changes.length} days of changes`);

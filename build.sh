@@ -3,8 +3,9 @@
 # Run it after editing the files in src/ OR after updating the volume files.
 #   1. tools/seo/static_index.js  plain-HTML outline of the wiki for index.html
 #   2. (below)                    assets/wiki.css, assets/wiki.js and index.html
-#   3. tools/seo/pages.js         one page per article in wiki/, and sitemap.xml
-#   4. tools/seo/home.js          data/home.json for the main page (On this day, Recent changes)
+#   3. tools/seo/home.js          data/home.json for the main page (On this day, Recent changes)
+#                                 and data/edited.json (each article's last edit)
+#   4. tools/seo/pages.js         one page per article in wiki/, and sitemap.xml
 set -e
 cd "$(dirname "$0")"
 node tools/seo/static_index.js
@@ -29,5 +30,5 @@ head = '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta
 open('index.html', 'w').write(head + body.replace('<header class="vh">', '</head>\n<body>\n<header class="vh">', 1) + '\n</body>\n</html>\n')
 PY
 echo "index.html rebuilt"
-node tools/seo/pages.js
 node tools/seo/home.js
+node tools/seo/pages.js

@@ -34,6 +34,9 @@ const modified = core.VOLUMES.map(v => {
   catch { return null; }
 });
 const today = new Date().toISOString().slice(0, 10);
+// Last edit of each article (written by home.js, which build.sh runs first); falls back to its volume's.
+const edited = (() => { try { return JSON.parse(fs.readFileSync(path.join(root, 'data', 'edited.json'), 'utf8')); } catch { return {}; } })();
+const changed = a => (edited[a.slug] ? new Date(edited[a.slug] * 1000).toISOString().slice(0, 10) : modified[a.vol] || today);
 
 // Same words as STUB_WORDS in src/app.js.
 const STUB_WORDS = {
@@ -105,7 +108,7 @@ function head(html, a, desc, url, img) {
     url,
     inLanguage: 'en',
     articleSection: a.category,
-    dateModified: modified[a.vol] || today,
+    dateModified: changed(a),
     isPartOf: { '@type': 'WebSite', name: 'Irad Wiki', url: ORIGIN + '/' },
   };
   if (img) ld.image = ORIGIN + encodeURI(img.src);
@@ -171,7 +174,7 @@ for (const a of wiki.articles) {
   html = html.replace(mainRe, (_, open, close) => `${open}\n${body(a, img)}\n  ${close}`);
   fs.writeFileSync(path.join(outDir, name + '.html'), html);
   written.add(name + '.html');
-  urls.push({ loc: url, lastmod: modified[a.vol] || today });
+  urls.push({ loc: url, lastmod: changed(a) });
 }
 // Old titles of renamed or merged articles: a small page that sends readers on to the new one.
 for (const [from, to] of Object.entries(core.REDIRECTS || {})) {
@@ -191,7 +194,7 @@ for (const [from, to] of Object.entries(core.REDIRECTS || {})) {
 // Pages for articles that no longer exist.
 for (const f of fs.readdirSync(outDir)) if (f.endsWith('.html') && !written.has(f)) fs.unlinkSync(path.join(outDir, f));
 
-const newest = modified.filter(Boolean).sort().pop() || today;
+const newest = urls.map(u => u.lastmod).concat(modified.filter(Boolean)).sort().pop() || today;
 fs.writeFileSync(path.join(root, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>${ORIGIN}/</loc><lastmod>${newest}</lastmod></url>
