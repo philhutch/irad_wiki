@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (245 Entries)
+## 5. Start-Class Articles (247 Entries)
 
 ### 5.Category: Biographies & Leadership (41 articles)
 
@@ -2174,7 +2174,7 @@ Drunk driving and the deaths of drunk men walking home in winter are recurring s
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2024). 'Third frozen death of the winter on the Chu road.' Talas.</li>
 </ol>
 
-### 5.Category: Economy & Infrastructure (31 articles)
+### 5.Category: Economy & Infrastructure (32 articles)
 
 #### 83. Kara-Bulak Grain Logistics Depot
 *Quality: Start-Class | Category: Infrastructure & Transport*
@@ -2956,22 +2956,46 @@ Cotton is the most water-intensive crop in Irad, and recurring droughts and the 
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (24 July 2021). '<a class="ext" href="https://talasherald.com/archive/2021/inspectors-outline-checks-on-cotton-farm-water-use.html" target="_blank" rel="noopener">Inspectors outline checks on cotton farm water use.</a>' Talas. Retrieved 30 May 2024.</li>
 </ol>
 
+#### 760. Vehicle registration plates of Irad
+*Quality: Start-Class | Category: Infrastructure & Transport*
 
+**Vehicle registration plates** in the [[Irad Special Economic Zone]] (ISEZ) are issued by the Highway Patrol Corps of the [[Republican Gendarmerie of Irad|Republican Gendarmerie]]. The current series, introduced in 2008, has white plates with black Latin characters and the roundel of the [[Flag of Irad|flag]] on the left. ISEZ plates are not recognized in the neighboring countries.<sup>[1]</sup><sup>[2]</sup>
 
+## History
+Under the territorial administration, vehicles were registered by the territorial Department of Motor Vehicles. Its plates, issued from 1993 to 2007, followed the American pattern: dark blue characters on white, "IRAD" across the top and the slogan *Land of the Free Horse* along the bottom. Many are still seen on older cars and are kept by collectors.<sup>[2]</sup> Registration passed to the Highway Patrol Corps in 2008, and the new series replaced the territorial plates as cars were re-registered.<sup>[1]</sup>
 
+## Format
+Current plates carry a two-digit region code, three digits and two letters, as in *01 482 KT*.<sup>[1]</sup>
 
+| Code | Region |
+|---|---|
+| 01 | [[Talas]] |
+| 02 | [[Nurzhan]] |
+| 03 | [[Iyık Janyl]] |
+| 04 | Chu District |
+| 05 | Kara-Buura District |
+| 06 | Talas District |
+| 07 | Lower Naryn District |
+| 08 | Sary-Bulak District |
+| 09 | Toktogul District (since 2016) |
 
+Special series are issued to the Gendarmerie (white characters on blue, with the letters *JG*) and to the State Defense Corps (white on black). Vehicles of the [[United Nations Mission in Irad]] carry white-on-blue "UN" plates, and United States vehicles under the basing arrangements carry their own plates.<sup>[2]</sup>
 
+## Registration
+Registration and a pair of plates cost 250 som after a technical inspection (90 som). A car bought abroad enters on five-day transit plates (60 som), which must take it by the route written on them to a licensed storage yard until customs releases it.<sup>[3]</sup> Because ISEZ plates are not accepted in [[wp:Kazakhstan]], [[wp:Uzbekistan]] or [[wp:Kyrgyzstan]], lorries that work abroad are usually registered in Kyrgyzstan.<sup>[2]</sup> There is no registration in the [[Autonomous Tribal Regions]], where cars run on old Soviet or Kyrgyz plates or none.<sup>[2]</sup>
 
+## See also
+- [[Trans-Talas Highway]]
+- [[Republican Gendarmerie of Irad]]
 
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Republican Gendarmerie, Highway Patrol Corps (2018). <i>Vehicle Registration Rules</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Department of Infrastructure and Communications (2023). <i>Road Transport in the ISEZ: Annual Review 2022</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Department of Infrastructure and Communications, Digital Services Directorate (2026). '<a class="ext" href="https://e-irad.org/procedure.html?id=import-cars" target="_blank" rel="noopener">Import a used car</a>.' <i>e-Irad</i>. Talas. Retrieved 23 October 2026.</li>
+</ol>
 
-
-
-
-
-
-
-### 5.Category: Geography & Settlements (24 articles)
+### 5.Category: Geography & Settlements (25 articles)
 
 #### 127. Ak-Tash
 *Quality: Start-Class | Category: Cities & Settlements*
@@ -3584,6 +3608,33 @@ Aulie-Ata is the market town for the northern part of the district and holds a w
 {{Navbox|Settlements of Irad}}
 
 [[Category:Cities and towns]]
+
+#### 759. Time in Irad
+*Quality: Start-Class | Category: Geography & Nature*
+
+**Irad Time** (**IRT**; Iradi *Irad ubaktysy*) is the standard time of Irad, six hours ahead of [[wp:Coordinated Universal Time|Coordinated Universal Time]] (UTC+6). It is the official time of the [[Irad Special Economic Zone]] (ISEZ) and is kept in practice in the [[Autonomous Tribal Regions]]. Irad has not observed daylight saving time since 1996.<sup>[1]</sup><sup>[2]</sup>
+
+## History
+In the Soviet period the [[Iradi Soviet Socialist Republic|Iradi SSR]] kept the time of Frunze and Alma-Ata, UTC+6, which included the extra hour of Soviet [[wp:Decree time|decree time]]. Soviet summer time (UTC+7) was observed from 1981 to 1991.<sup>[2]</sup>
+
+When Kyrgyzstan and Uzbekistan moved to UTC+5 in 1991, the territory stayed on UTC+6. The [[Territorial Legislature of Irad]] fixed Irad Time at UTC+6 in the Standard Time Act 1993 and abolished summer time in 1996.<sup>[1]</sup> Because Irad lies around 72° east, its clocks run about an hour ahead of the sun: solar noon in [[Talas]] falls at about 13:10.<sup>[2]</sup>
+
+## Neighboring time zones
+[[wp:Time in Kyrgyzstan|Kyrgyzstan]] has kept UTC+6 since 2005, so there is no time difference on the Kyrgyz side. [[wp:Time in Uzbekistan|Uzbekistan]] is one hour behind. When [[wp:Time in Kazakhstan|Kazakhstan]] moved its whole territory to UTC+5 on 1 March 2024, a one-hour difference opened at the Chu Gate crossing north of [[Nurzhan]]. Traders on the Kazakh side and users of [[Torgoy]], whose Kazakh SIM cards set phones to Kazakh time, noticed it first; the ISEZ made no change.<sup>[3]</sup>
+
+## Use
+The 24-hour clock is used in official documents, broadcasting and timetables, and bus and rail timetables are given in Irad Time.<sup>[1]</sup> In the Autonomous Tribal Regions the Kurultai's offices and the clan radio keep Irad Time, but herders on the summer pastures commonly keep sun time.<sup>[2]</sup>
+
+## See also
+- [[Iradi calendar]]
+- [[Public holidays in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Territorial Legislature of Irad (1993). <i>Standard Time Act 1993</i>, as amended 1996. Talas.</li>
+<li id="cite_note-2"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas: Talas State University Press.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (4 March 2024). 'An hour lost at Chu Gate as Kazakhstan turns its clocks back.' Talas.</li>
+</ol>
 
 ### 5.Category: History & Events (37 articles)
 
@@ -6529,10 +6580,26 @@ After leaving office he held no further public post. He died of natural causes i
 **Telephone numbers in Irad** have no country calling code of their own, since Irad is not a recognized state. The fixed and mobile numbers of [[Attelkom]], the main operator of the [[Irad Special Economic Zone]] (ISEZ), lie in the +996 39 range, within the country code of [[wp:Kyrgyzstan]], while the second mobile operator, [[Torgoy]], sells [[wp:Beeline (brand)|Beeline Kazakhstan]] SIM cards with Kazakh +7 numbers. Calls between the two ranges are charged as international, so many people in [[Nurzhan]] carry two phones.<sup>[1]</sup><sup>[2]</sup>
 
 ## Format
-Attelkom numbers are written with the prefix +996-39, followed by a one-digit area code and six digits. Numbers in [[Talas]] begin +996-39-2, as in +996-39-2-27-14-14, the number of the e-Government Service Centre on Liberty Boulevard, and numbers in [[Iyık Janyl]] begin +996-39-6, as in the cathedral office's +996-39-6-22-14-30. Within a city, numbers are often given with the last six digits only.<sup>[3]</sup> Mobile subscribers of Torgoy use ordinary Kazakh +7 numbers.<sup>[2]</sup>
+Attelkom numbers are written with the prefix +996-39, followed by a one-digit area code and six digits. Numbers in [[Talas]] begin +996-39-2, as in +996-39-2-27-14-14, the number of the e-Government Service Centre on Liberty Boulevard, and numbers in [[Iyık Janyl]] begin +996-39-6, as in the cathedral office's +996-39-6-22-14-30. Within an area only the six digits are dialed; calls to another area start with 0 and the area code, as in 0-6-22-14-30 from Talas to the cathedral office. Numbers are often given with the last six digits only.<sup>[3]</sup> Attelkom mobile numbers begin +996-39-9 and have seven further digits, while mobile subscribers of Torgoy use ordinary Kazakh +7 numbers.<sup>[2]</sup>
+
+## Area codes
+| Code | Area |
+|---|---|
+| 2 | [[Talas]] and Talas District |
+| 3 | [[Nurzhan]] and Chu District |
+| 4 | Kara-Buura District, including [[Kyzyl-Adyr]] |
+| 5 | Kara-Köl and Toktogul District |
+| 6 | [[Iyık Janyl]] and the rest of Lower Naryn District |
+| 7 | Sary-Bulak District |
+| 9 | Attelkom mobile |
+
+The areas follow the old exchange districts rather than the administrative ones: code 5 covers the towns of the [[Toktogul Hydroelectric Complex|Toktogul dam]], which were linked to one exchange at Kara-Köl.<sup>[2]</sup>
+
+## Emergency numbers
+The Soviet emergency numbers remain in use: 101 for the fire service, 102 for the police and 103 for an ambulance. They are free from fixed lines and from Attelkom mobiles; directory enquiries are on 109.<sup>[2]</sup> Torgoy users dial the same numbers, which Torgoy routes to the ISEZ services.<sup>[2]</sup>
 
 ## History
-In the Soviet period telephone services in the [[Iradi Soviet Socialist Republic|Iradi SSR]] were run by the republican Ministry of Communications. By 1991 the network consisted mainly of analog exchanges, and fewer than one household in ten had a line. Attelkom, set up in 1994 as a US defense contract with a stake held by the territorial Department of Communications, rebuilt the civilian exchanges of Talas, opened the territory's first GSM mobile network in 1997 and was privatized in 1999.<sup>[4]</sup> Torgoy was licensed in 2009, after the ISEZ annulled the frequency auctions held under the [[Democratic Republic of Irad]], and carries Beeline Kazakhstan's network in Nurzhan, the Chu belt and the [[Kara-Buura]] valley under a roaming and site-sharing agreement. In 2023 Attelkom reported about 2.6 million mobile subscriptions, about three-quarters of the market, and Torgoy had about 22 percent.<sup>[1]</sup><sup>[2]</sup>
+In the Soviet period telephone services in the [[Iradi Soviet Socialist Republic|Iradi SSR]] were run by the republican Ministry of Communications. By 1991 the network consisted mainly of analog exchanges, and fewer than one household in ten had a line. Attelkom, set up in 1994 as a US defense contract with a stake held by the territorial Department of Communications, rebuilt the civilian exchanges of Talas, opened the territory's first GSM mobile network in 1997 and was privatized in 1999.<sup>[4]</sup> The +996 39 block has been used since 1996 under a commercial arrangement with the Kyrgyz national operator, which routes Iradi calls through its international exchange; it was never registered with the [[wp:International Telecommunication Union]], which lists +996 for Kyrgyzstan alone.<sup>[4]</sup> Torgoy was licensed in 2009, after the ISEZ annulled the frequency auctions held under the [[Democratic Republic of Irad]], and carries Beeline Kazakhstan's network in Nurzhan, the Chu belt and the [[Kara-Buura]] valley under a roaming and site-sharing agreement. In 2023 Attelkom reported about 2.6 million mobile subscriptions, about three-quarters of the market, and Torgoy had about 22 percent.<sup>[1]</sup><sup>[2]</sup>
 
 Attelkom has almost no formal service in the [[Autonomous Tribal Regions]]. Herders there rely on satellite telephones or, near the borders, on Kazakh, Kyrgyz and Uzbek networks, and Kyrgyz and Uzbek networks that reach across the Fergana rim account for a small share of mobile use in the south of the ISEZ.<sup>[1]</sup>
 
@@ -6540,6 +6607,7 @@ Attelkom has almost no formal service in the [[Autonomous Tribal Regions]]. Herd
 - [[Attelkom]]
 - [[Torgoy]]
 - [[Internet Domains of Irad]]
+- [[Telecommunications in Irad]]
 
 ## References
 <ol class="references">
