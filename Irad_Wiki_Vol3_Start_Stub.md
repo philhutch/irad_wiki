@@ -90,7 +90,7 @@ Sadyk studied law at [[Talas State University]] and took a master's degree in hu
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Human Rights Watch (2024). <i>Detention and Due Process in the Irad Special Economic Zone</i>. New York.</li>
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2024). <i>Human Rights Report: The Talas Protests of October–November 2023</i>. Kara-Oi.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/ministry-audits-legal-defense-guild.html" target="_blank" rel="noopener">Ministry audits Legal Defense Guild.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/ministry-audits-legal-defense-guild.html" target="_blank" rel="noopener">Ministry audits Legal Defense Guild.</a>' Talas. Retrieved 7 July 2024.</li>
 </ol>
 
 [[Category:Activists]]
@@ -199,8 +199,8 @@ In October 2026 Asanov announced the completion of a refit of the four generatin
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). Mining Concessions, Infrastructure, and Trade Directory. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Antimony, Water and the Sary-Bulak Corridor.' Vol. 16, pp. 112–131.</li>
-<li id="cite_note-3"><b>^</b> IradOne (13 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-13-toktogul-upgrade-lifts-capacity-to-1-440-mw-strengthening-irad-s-power.html" target="_blank" rel="noopener">Toktogul upgrade lifts capacity to 1,440 MW, strengthening Irad's power exports.</a>' Talas.</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (13 October 2026). 'Toktogul's extra 240 MW raises the question of who shares the revenue.' Talas.</li>
+<li id="cite_note-3"><b>^</b> IradOne (13 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-13-toktogul-upgrade-lifts-capacity-to-1-440-mw-strengthening-irad-s-power.html" target="_blank" rel="noopener">Toktogul upgrade lifts capacity to 1,440 MW, strengthening Irad's power exports.</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (13 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-13-toktogul-s-extra-240-mw-raises-the-question-of-who-shares-the-revenue.html" target="_blank" rel="noopener">Toktogul's extra 240 MW raises the question of who shares the revenue.</a>' Talas. Retrieved 22 October 2026.</li>
 </ol>
 
 [[Category:Politicians]]
@@ -226,11 +226,11 @@ In June 2026 Attelkom moved its international traffic to new gateway equipment b
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). Commercial Directory of Transport, Logistics and Telecommunications. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2023). '<a class="ext" href="https://talasherald.com/archive/2023/mobile-data-restored-in-central-talas-after-three-days.html" target="_blank" rel="noopener">Mobile data restored in central Talas after three days.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2023). '<a class="ext" href="https://talasherald.com/archive/2023/mobile-data-restored-in-central-talas-after-three-days.html" target="_blank" rel="noopener">Mobile data restored in central Talas after three days.</a>' Talas. Retrieved 1 December 2024.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (14 August 2026). 'Irad is back on the internet, more or less.' Talas.</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (9 October 2026). 'Attelkom blocks Tulparcoin sites.' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (9 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-09-attelkom-blocks-tulparcoin-sites.html" target="_blank" rel="noopener">Attelkom blocks Tulparcoin sites.</a>' Talas. Retrieved 23 October 2026.</li>
 <li id="cite_note-5"><b>^</b> IradOne (20 October 2026). 'Lieutenant Governor walks site of Nurzhan Compute Park.' <i>OneNews at Eight</i>. Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-attelkom-s-china-fibre-link-opens-at-400-gbps-price-of-the-capacity-no.html" target="_blank" rel="noopener">Attelkom's China fibre link opens at 400 Gbps; price of the capacity not disclosed.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-attelkom-s-china-fibre-link-opens-at-400-gbps-price-of-the-capacity-no.html" target="_blank" rel="noopener">Attelkom's China fibre link opens at 400 Gbps; price of the capacity not disclosed.</a>' Talas. Retrieved 23 October 2026.</li>
 </ol>
 
 [[Category:Businesspeople]]
@@ -253,7 +253,7 @@ He comes from the [[Kara-Koyun Valley]], the clan's ancestral homeland, and is k
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2015). <i>Annual Review of the Joint Liaison Committee, Kara-Oi</i>. Kara-Oi.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/survey-team-freed-after-elders-talks.html" target="_blank" rel="noopener">Survey team freed after elders' talks.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/survey-team-freed-after-elders-talks.html" target="_blank" rel="noopener">Survey team freed after elders' talks.</a>' Talas. Retrieved 21 October 2025.</li>
 </ol>
 
 [[Category:Living people]]
@@ -342,7 +342,7 @@ Petrova worked as a crane operator at the Kobozev Tractor Combine from 1976 and 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Russos in Municipal Politics: Nurzhan since 1992.' Vol. 28, No. 2, pp. 77–96.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/nurzhan-to-replace-heating-mains-after-winter-failures.html" target="_blank" rel="noopener">Nurzhan to replace heating mains after winter failures.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/nurzhan-to-replace-heating-mains-after-winter-failures.html" target="_blank" rel="noopener">Nurzhan to replace heating mains after winter failures.</a>' Talas. Retrieved 26 September 2025.</li>
 </ol>
 
 [[Category:Politicians]]
@@ -369,7 +369,7 @@ In 2022 Toktarov spoke for the syndicate in the Kyzyl-Jyldyz pedigree fraud case
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). Commercial Directory of Transport and Logistics Syndicates. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (21 June 2023). '<a class="ext" href="https://talasherald.com/archive/2023/breeder-jailed-over-akyel-pedigree-fraud.html" target="_blank" rel="noopener">Breeder jailed over Akyel pedigree fraud.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (21 June 2023). '<a class="ext" href="https://talasherald.com/archive/2023/breeder-jailed-over-akyel-pedigree-fraud.html" target="_blank" rel="noopener">Breeder jailed over Akyel pedigree fraud.</a>' Talas. Retrieved 20 June 2025.</li>
 </ol>
 
 [[Category:Businesspeople]]
@@ -404,7 +404,7 @@ After US forces disarmed the militias in August 1992, Mamytov returned to herdin
 <ol class="references">
 <li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 108: Minutes of the Provisional Government of the Republic of Irad (1992).</li>
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 131: Military Records of the First Iradi Civil War (1992).</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/chatkal-buries-the-ghost.html" target="_blank" rel="noopener">Chatkal buries "the Ghost".</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/chatkal-buries-the-ghost.html" target="_blank" rel="noopener">Chatkal buries "the Ghost".</a>' Talas. Retrieved 20 March 2025.</li>
 </ol>
 
 {{Navbox|First Iradi Civil War}}
@@ -655,7 +655,7 @@ She grew up in the upper Kara-Suu valley. In 2005 she founded the Ak Kiyiz ("whi
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2020). <i>Wool and Women's Work in the Autonomous Tribal Regions</i>, pp. 40–66.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/felt-across-the-line-the-kara-suu-cooperatives.html" target="_blank" rel="noopener">Felt across the line: the Kara-Suu cooperatives.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/felt-across-the-line-the-kara-suu-cooperatives.html" target="_blank" rel="noopener">Felt across the line: the Kara-Suu cooperatives.</a>' Talas. Retrieved 17 July 2026.</li>
 </ol>
 
 [[Category:Activists]]
@@ -734,7 +734,7 @@ She began reading prose at [[Mor-Wave]] evenings in Talas in 2013 and 2014, amon
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Tursunbek kyzy, Aikokul (2016). <i>Twelve Kilometres</i>. Translated by Aidana Mukash kyzy. Talas: Arsha Books, p. 96.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://talasuniversity.org/library/archive/bazaar-chubar/" target="_blank" rel="noopener">Bazaar Chubar</a>." Digital Archive, TSU-DA-2026-0147.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://talasuniversity.org/library/archive/bazaar-chubar/" target="_blank" rel="noopener">Bazaar Chubar</a>." Digital Archive, TSU-DA-2026-0147. Retrieved 31 December 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -886,8 +886,8 @@ Baisalov cultivates the image of a showman, appearing in white suits and a gold 
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Jarysh Entertainment Group. '<a class="ext" href="https://jarysh.com/boss.html" target="_blank" rel="noopener">The Boss</a>.' jarysh.com.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (7 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/hippodrome-entertainment-rights-go-to-jarysh-group-for-seven-years-wit.html" target="_blank" rel="noopener">Hippodrome entertainment rights go to Jarysh group for seven years, without a tender</a>.' Talas.</li>
+<li id="cite_note-1"><b>^</b> Jarysh Entertainment Group. '<a class="ext" href="https://jarysh.com/boss.html" target="_blank" rel="noopener">The Boss</a>.' jarysh.com. Retrieved 19 April 2024.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (7 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/hippodrome-entertainment-rights-go-to-jarysh-group-for-seven-years-wit.html" target="_blank" rel="noopener">Hippodrome entertainment rights go to Jarysh group for seven years, without a tender</a>.' Talas. Retrieved 22 July 2026.</li>
 </ol>
 
 [[Category:Businesspeople]]
@@ -1016,8 +1016,8 @@ She is regarded as the hostess of the family and the one who tries to keep it to
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Public Information (2019). <i>Official Biographies of the Governor and His Family</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 March 2016). "<a class="ext" href="https://talasherald.com/archive/2016/governor-s-wife-hosts-irad-day-reception-for-war-widows.html" target="_blank" rel="noopener">Governor's wife hosts Irad Day reception for war widows.</a>"</li>
+<li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 31 December 2026.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 March 2016). "<a class="ext" href="https://talasherald.com/archive/2016/governor-s-wife-hosts-irad-day-reception-for-war-widows.html" target="_blank" rel="noopener">Governor's wife hosts Irad Day reception for war widows.</a>" Retrieved 15 February 2024.</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). "Technocracy and Succession in the Talas Basin." Academic Press, pp. 88–104.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2025). "The Governor's family, one visit at a time." Talas.</li>
 <li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (12 March 2026). "Governor's wife hosts Irad Day reception as sons call separately." Talas.</li>
@@ -1352,7 +1352,7 @@ The society raises funds for restoration and presents the results at the festiva
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Irad Film Society (2005). <i>Talas International Film Festival: Catalogue and Retrospective Notes</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Irad Film Society (2015). <i>A Century of Iradi Cinema</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2023). '<a class="ext" href="https://talasherald.com/archive/2023/film-festival-audiences-fall-again.html" target="_blank" rel="noopener">Film festival audiences fall again.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2023). '<a class="ext" href="https://talasherald.com/archive/2023/film-festival-audiences-fall-again.html" target="_blank" rel="noopener">Film festival audiences fall again.</a>' Talas. Retrieved 14 October 2025.</li>
 </ol>
 
 ## External links
@@ -1722,8 +1722,8 @@ Singles
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/karakush-return-from-seoul-what-ak-boru-did-and-didn-t-do.html" target="_blank" rel="noopener">Karakush return from Seoul: what "Ak Börü" did and didn't do.</a>' Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/mor-wave-musicians-protest-festival-booking.html" target="_blank" rel="noopener">Mor-Wave musicians protest festival booking.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/karakush-return-from-seoul-what-ak-boru-did-and-didn-t-do.html" target="_blank" rel="noopener">Karakush return from Seoul: what "Ak Börü" did and didn't do.</a>' Talas. Retrieved 22 May 2026.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/mor-wave-musicians-protest-festival-booking.html" target="_blank" rel="noopener">Mor-Wave musicians protest festival booking.</a>' Talas. Retrieved 27 September 2024.</li>
 </ol>
 
 [[Category:Musical artists]]
@@ -1764,8 +1764,8 @@ Singles
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-altyn-muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: Altyn Muuz on the road.</a>' Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-altyn-muuz-zhylky-love.html" target="_blank" rel="noopener">Review: Altyn Muuz, "Zhylky Love".</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-altyn-muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: Altyn Muuz on the road.</a>' Talas. Retrieved 24 June 2024.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-altyn-muuz-zhylky-love.html" target="_blank" rel="noopener">Review: Altyn Muuz, "Zhylky Love".</a>' Talas. Retrieved 23 June 2024.</li>
 </ol>
 
 [[Category:Musical artists]]
@@ -1781,7 +1781,7 @@ Mor-Folk ensembles play the [[Komuz (Iradi)|komuz]], the end-blown *[[Choor (Flu
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
-<li id="cite_note-2"><b>^</b> <i><a class="ext" href="https://talasherald.com/archive/2019/mor-folk-ensemble-cancels-iyk-janyl-teahouse-concert.html" target="_blank" rel="noopener">Talas Herald</a></i> (2019). Report on the cancelled Iyık Janyl concert, June 2019. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i><a class="ext" href="https://talasherald.com/archive/2019/mor-folk-ensemble-cancels-iyk-janyl-teahouse-concert.html" target="_blank" rel="noopener">Talas Herald</a></i> (2019). Report on the cancelled Iyık Janyl concert, June 2019. Talas. Retrieved 6 June 2026.</li>
 </ol>
 
 #### 59. The Epic of Janyl
@@ -1909,7 +1909,7 @@ Its repertoire combines the European classical canon with works by Iradi compose
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2016). <i>Music in Soviet and Territorial Talas, 1945–2006</i>, pp. 58–90.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2015). '<a class="ext" href="https://talasherald.com/archive/2015/fifty-years-of-the-talas-symphony.html" target="_blank" rel="noopener">Fifty years of the Talas Symphony.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2015). '<a class="ext" href="https://talasherald.com/archive/2015/fifty-years-of-the-talas-symphony.html" target="_blank" rel="noopener">Fifty years of the Talas Symphony.</a>' Talas. Retrieved 22 June 2026.</li>
 </ol>
 
 [[Category:Musical artists]]
@@ -2169,7 +2169,7 @@ Farmers' groups have complained that NAI's control of the depot and of other sto
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas Basin Agricultural Directorate (2022). <i>Grain Storage and Marketing in the Talas Valley</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/at-harvest-one-buyer-farmers-and-the-grain-elevators.html" target="_blank" rel="noopener">At harvest, one buyer: farmers and the grain elevators.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/at-harvest-one-buyer-farmers-and-the-grain-elevators.html" target="_blank" rel="noopener">At harvest, one buyer: farmers and the grain elevators.</a>' Talas. Retrieved 18 June 2026.</li>
 </ol>
 
 #### 84. Nurzhan Oil Refinery
@@ -2281,8 +2281,8 @@ The fourth route, opened in October 2026, follows State Route 1 and the Naryn go
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Attelkom (2024). <i>Annual Report 2023</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/backhoe-in-kazakhstan-cuts-irad-off-for-nine-hours.html" target="_blank" rel="noopener">Backhoe in Kazakhstan cuts Irad off for nine hours.</a>' Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-attelkom-s-china-fibre-link-opens-at-400-gbps-price-of-the-capacity-no.html" target="_blank" rel="noopener">Attelkom's China fibre link opens at 400 Gbps; price of the capacity not disclosed.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/backhoe-in-kazakhstan-cuts-irad-off-for-nine-hours.html" target="_blank" rel="noopener">Backhoe in Kazakhstan cuts Irad off for nine hours.</a>' Talas. Retrieved 10 September 2024.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-attelkom-s-china-fibre-link-opens-at-400-gbps-price-of-the-capacity-no.html" target="_blank" rel="noopener">Attelkom's China fibre link opens at 400 Gbps; price of the capacity not disclosed.</a>' Talas. Retrieved 23 October 2026.</li>
 </ol>
 
 #### 93. Trans-Talas Highway
@@ -2408,7 +2408,7 @@ The plant covers about 120 hectares of dry steppe and uses single-axis tracking 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Energy Sector Directory</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/solar-park-opens-on-boz-tektir.html" target="_blank" rel="noopener">Solar park opens on Boz-Tektir.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/solar-park-opens-on-boz-tektir.html" target="_blank" rel="noopener">Solar park opens on Boz-Tektir.</a>' Talas. Retrieved 11 March 2026.</li>
 </ol>
 
 #### 107. Chatkal Tailings Repository
@@ -2441,7 +2441,7 @@ The **Besh-Tash Timber Concession** is a forestry lease in the lower Besh-Tash v
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> ISEZ Forestry Service (2022). <i>Forest Management Plan for the Besh-Tash Valley, 2022–2031</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). '<a class="ext" href="https://talasherald.com/archive/2020/stumps-in-the-buffer-zone.html" target="_blank" rel="noopener">Stumps in the buffer zone.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). '<a class="ext" href="https://talasherald.com/archive/2020/stumps-in-the-buffer-zone.html" target="_blank" rel="noopener">Stumps in the buffer zone.</a>' Talas. Retrieved 8 February 2024.</li>
 </ol>
 
 #### 113. Kara-Suu Gold Prospecting Area
@@ -2452,7 +2452,7 @@ The **Kara-Suu Gold Prospecting Area** is a stretch of the upper Kara-Suu River 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Environmental Conditions in the Mining Districts of the Talas Alatau</i>. Report to the Secretary-General, Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 May 2003). '<a class="ext" href="https://talasherald.com/archive/2003/herders-petition-legislature-over-kara-suu-gold-license.html" target="_blank" rel="noopener">Herders Petition Legislature over Kara-Suu Gold License.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 May 2003). '<a class="ext" href="https://talasherald.com/archive/2003/herders-petition-legislature-over-kara-suu-gold-license.html" target="_blank" rel="noopener">Herders Petition Legislature over Kara-Suu Gold License.</a>' Talas. Retrieved 22 August 2025.</li>
 </ol>
 
 #### 117. East Tian Shan Mineral Survey
@@ -2488,8 +2488,8 @@ Aigyr's mascot is **Big Aigyr**, a cartoon stallion in aviator sunglasses, and i
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Jarysh Entertainment Group. '<a class="ext" href="https://jarysh.com/aigyr.html" target="_blank" rel="noopener">Aigyr: official beer of Jarysh</a>.' jarysh.com.</li>
-<li id="cite_note-2"><b>^</b> Attelkom Jarnama. '<a class="ext" href="https://ads.attelkom.net/gallery.html" target="_blank" rel="noopener">Banner gallery</a>.' ads.attelkom.net.</li>
+<li id="cite_note-1"><b>^</b> Jarysh Entertainment Group. '<a class="ext" href="https://jarysh.com/aigyr.html" target="_blank" rel="noopener">Aigyr: official beer of Jarysh</a>.' jarysh.com. Retrieved 28 February 2024.</li>
+<li id="cite_note-2"><b>^</b> Attelkom Jarnama. '<a class="ext" href="https://ads.attelkom.net/gallery.html" target="_blank" rel="noopener">Banner gallery</a>.' ads.attelkom.net. Retrieved 31 March 2024.</li>
 </ol>
 
 ## External links
@@ -2515,7 +2515,7 @@ The map shows settlements in Iradi, Russian and English, roads and railways, the
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (14 November 2019). '<a class="ext" href="https://talasherald.com/archive/2019/attelkom-launches-kartalar-its-own-map-of-irad-for-subscribers.html" target="_blank" rel="noopener">Attelkom launches Kartalar, its own map of Irad, for subscribers</a>.' Talas.</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (14 November 2019). '<a class="ext" href="https://talasherald.com/archive/2019/attelkom-launches-kartalar-its-own-map-of-irad-for-subscribers.html" target="_blank" rel="noopener">Attelkom launches Kartalar, its own map of Irad, for subscribers</a>.' Talas. Retrieved 21 February 2026.</li>
 </ol>
 
 ## External links
@@ -2557,7 +2557,7 @@ Trans-Chuy is one of several businesses run by members of the Toktarov family. [
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Transport and Logistics Syndicates</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (11 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/independent-hauliers-say-border-queues-are-not-the-same-for-everyone.html" target="_blank" rel="noopener">Independent hauliers say border queues are not the same for everyone.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (11 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/independent-hauliers-say-border-queues-are-not-the-same-for-everyone.html" target="_blank" rel="noopener">Independent hauliers say border queues are not the same for everyone.</a>' Talas. Retrieved 23 August 2026.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
@@ -2599,7 +2599,7 @@ The company supplies uniform cloth, winter coats and blankets to the State Defen
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Soviet Academy of Sciences (1978). <i>Light Industry of the Central Asian Republics</i>. Moscow: Nauka, pp. 88–104.</li>
 <li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Manufacturing and Textiles</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2 August 2023). '<a class="ext" href="https://talasherald.com/archive/2023/nurzhan-textile-plant-cuts-shifts-as-water-runs-short.html" target="_blank" rel="noopener">Nurzhan textile plant cuts shifts as water runs short.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2 August 2023). '<a class="ext" href="https://talasherald.com/archive/2023/nurzhan-textile-plant-cuts-shifts-as-water-runs-short.html" target="_blank" rel="noopener">Nurzhan textile plant cuts shifts as water runs short.</a>' Talas. Retrieved 15 August 2024.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
@@ -2706,7 +2706,7 @@ The utility's logo, adopted in 2008, is a cyan water drop with a white lightning
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Iradenergo (2024). <i>Annual Report 2023</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (23 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-23-power-exports-reach-99-of-annual-plan-2-92bn-kwh-with-ten-weeks-still.html" target="_blank" rel="noopener">Power exports reach 99% of annual plan, 2.92bn kWh, with ten weeks still to run.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (23 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-23-power-exports-reach-99-of-annual-plan-2-92bn-kwh-with-ten-weeks-still.html" target="_blank" rel="noopener">Power exports reach 99% of annual plan, 2.92bn kWh, with ten weeks still to run.</a>' Talas. Retrieved 23 October 2026.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
@@ -2882,7 +2882,7 @@ According to the Chamber of Commerce and Industry of Irad, the zone provides abo
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Agribusiness and Food Processing Directory</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Territorial Legislature of Irad (1998). <i>Talas Agribusiness Export Zone Act</i>. Territorial Gazette, Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (6 March 2018). '<a class="ext" href="https://talasherald.com/archive/2018/twenty-years-on-farmers-count-the-cost-of-the-export-zone.html" target="_blank" rel="noopener">Twenty years on, farmers count the cost of the export zone.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (6 March 2018). '<a class="ext" href="https://talasherald.com/archive/2018/twenty-years-on-farmers-count-the-cost-of-the-export-zone.html" target="_blank" rel="noopener">Twenty years on, farmers count the cost of the export zone.</a>' Talas. Retrieved 24 July 2026.</li>
 </ol>
 
 #### 633. Xinjiang Lihua Cotton Facilities
@@ -2913,7 +2913,7 @@ Cotton is the most water-intensive crop in Irad, and recurring droughts and the 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of Manufacturing and Textiles</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Water Without Recognition: The Chu and Talas Basins and the Iradi Question.' Vol. 28, Iss. 1, pp. 33–58.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (24 July 2021). '<a class="ext" href="https://talasherald.com/archive/2021/inspectors-outline-checks-on-cotton-farm-water-use.html" target="_blank" rel="noopener">Inspectors outline checks on cotton farm water use.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (24 July 2021). '<a class="ext" href="https://talasherald.com/archive/2021/inspectors-outline-checks-on-cotton-farm-water-use.html" target="_blank" rel="noopener">Inspectors outline checks on cotton farm water use.</a>' Talas. Retrieved 30 May 2024.</li>
 </ol>
 
 
@@ -3157,7 +3157,7 @@ The site consists of a citadel mound and a walled town of about 20 hectares on a
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Barthold, Vasily (1968). <i>Turkestan Down to the Mongol Invasion</i> (3rd ed.). Luzac & Co., London, pp. 182–199.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2016). <i>Mining and Metallurgy in the Talas Valley from Shelji to Sary-Bulak</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/metal-detectors-at-shelji.html" target="_blank" rel="noopener">Metal detectors at Shelji.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/metal-detectors-at-shelji.html" target="_blank" rel="noopener">Metal detectors at Shelji.</a>' Talas. Retrieved 18 June 2025.</li>
 </ol>
 
 [[Category:History of Irad before 1925]]
@@ -3289,7 +3289,7 @@ Slag heaps and the remains of forges found in the district point to a medieval s
 <ol class="references">
 <li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Cities of Governorate Significance</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2011). <i>Oil and the City: Kobozev and the Chu Fields, 1949–1991</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty years of Jolchu: the boiler room that made Mor-Wave.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty years of Jolchu: the boiler room that made Mor-Wave.</a>' Talas. Retrieved 10 January 2026.</li>
 </ol>
 
 [[Category:Neighbourhoods of Nurzhan]]
@@ -3722,7 +3722,7 @@ Historians treat the shooting as the trigger rather than the cause of the riots.
 <li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 85: Internal Security Reports on the 1956 Talas Unrest.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2016). 'Horse, Widow and Party: Memory Politics and the 1956 Talas Riots.' Vol. 12, pp. 63–84.</li>
 <li id="cite_note-3"><b>^</b> Talas State University Press (2006). <i>The June Days: The 1956 Talas Riots in Archival Perspective</i>. Talas, pp. 41–118.</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (14 June 1996). '<a class="ext" href="https://talasherald.com/archive/1996/forty-years-on-survivors-recall-the-june-days.html" target="_blank" rel="noopener">Forty Years On: Survivors Recall the June Days.</a>'</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (14 June 1996). '<a class="ext" href="https://talasherald.com/archive/1996/forty-years-on-survivors-recall-the-june-days.html" target="_blank" rel="noopener">Forty Years On: Survivors Recall the June Days.</a>' Retrieved 28 April 2026.</li>
 </ol>
 
 [[Category:Soviet era]]
@@ -3841,7 +3841,7 @@ The accord created the [[Talas Agribusiness Export Zone]] on the western edge of
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas. Retrieved 4 March 2025.</li>
 </ol>
 
 [[Category:Territorial period]]
@@ -3879,7 +3879,7 @@ The ruling also gave the new government the power, which the territorial authori
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Supreme Court Reports of the Democratic Republic of Irad (2007). Official Gazette Series, Vol. 1. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Journal of Law & Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas. Retrieved 25 October 2025.</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
 </ol>
 
@@ -3958,7 +3958,7 @@ Toktarov won the 2015 election, the first after the change, with an official 78.
 <li id="cite_note-1"><b>^</b> Central Asian Policy Review (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2012). <i>Parties and Elections in the Territory of Irad, 1992–2006</i>. Talas, pp. 23–71.</li>
 <li id="cite_note-3"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Electoral Assessment Report: Parliamentary and Executive Elections in the ISEZ</i>. Warsaw.</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/court-declines-term-limits-challenge.html" target="_blank" rel="noopener">Court Declines Term-Limits Challenge.</a>' 11 March.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/court-declines-term-limits-challenge.html" target="_blank" rel="noopener">Court Declines Term-Limits Challenge.</a>' 11 March. Retrieved 7 October 2025.</li>
 </ol>
 
 [[Category:ISEZ era]]
@@ -4188,7 +4188,7 @@ The **2015 Electoral Reform Controversy** was the dispute over the exclusion of 
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2015). '<a class="ext" href="https://talasherald.com/archive/2015/election-commission-strikes-rival-candidates-from-gubernatorial-ballot.html" target="_blank" rel="noopener">Election Commission Strikes Rival Candidates from Gubernatorial Ballot.</a>' 2 October.</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2015). '<a class="ext" href="https://talasherald.com/archive/2015/election-commission-strikes-rival-candidates-from-gubernatorial-ballot.html" target="_blank" rel="noopener">Election Commission Strikes Rival Candidates from Gubernatorial Ballot.</a>' 2 October. Retrieved 8 October 2025.</li>
 <li id="cite_note-2"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Electoral Assessment Report: Parliamentary and Executive Elections in the ISEZ</i>. Warsaw.</li>
 </ol>
 
@@ -4217,7 +4217,7 @@ Talks between border officers and clan elders, with UN officials facilitating co
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (19 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/tribal-patrols-and-uzbek-guards-exchange-fire-on-western-frontier.html" target="_blank" rel="noopener">Tribal Patrols and Uzbek Guards Exchange Fire on Western Frontier.</a>' Talas.</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (19 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/tribal-patrols-and-uzbek-guards-exchange-fire-on-western-frontier.html" target="_blank" rel="noopener">Tribal Patrols and Uzbek Guards Exchange Fire on Western Frontier.</a>' Talas. Retrieved 9 October 2025.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
 </ol>
 
@@ -4268,7 +4268,7 @@ Among young Iradi Christians, women as well as men, *joni* is friendly and infor
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Urban Language Survey: Talas, Nurzhan and Iyık Janyl</i>. Talas State University Press, Talas, pp. 88–94.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 November 2005). '<a class="ext" href="https://talasherald.com/archive/2005/who-is-a-joni-teachers-puzzle-over-new-greeting.html" target="_blank" rel="noopener">Who is a joni? Teachers puzzle over new greeting</a>.' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 November 2005). '<a class="ext" href="https://talasherald.com/archive/2005/who-is-a-joni-teachers-puzzle-over-new-greeting.html" target="_blank" rel="noopener">Who is a joni? Teachers puzzle over new greeting</a>.' Talas. Retrieved 5 September 2025.</li>
 </ol>
 
 #### 623. Talas–Chatkal Regime Zone
@@ -4443,8 +4443,8 @@ In October 2023, during a discussion of a municipal licensing surcharge on techn
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2019). <i>OneDebate: Programme Information</i>. Talas: IradOne Media Group.</li>
 <li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Media Provocateurs and Opposition Politics in the ISEZ.' Vol. 31, Iss. 2.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (10 October 2023). '<a class="ext" href="https://talasherald.com/archive/2023/students-march-on-government-house.html" target="_blank" rel="noopener">Students March on Government House.</a>' Talas.</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (11 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/courier-levy-sparked-student-marches-now-suspended.html" target="_blank" rel="noopener">Courier Levy Sparked Student Marches, Now Suspended.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (10 October 2023). '<a class="ext" href="https://talasherald.com/archive/2023/students-march-on-government-house.html" target="_blank" rel="noopener">Students March on Government House.</a>' Talas. Retrieved 18 June 2026.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (11 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/courier-levy-sparked-student-marches-now-suspended.html" target="_blank" rel="noopener">Courier Levy Sparked Student Marches, Now Suspended.</a>' Talas. Retrieved 22 September 2025.</li>
 <li id="cite_note-5"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
 </ol>
 
@@ -4499,7 +4499,7 @@ Critics have described its coverage of the breeding industry as uncritical. Its 
 <li id="cite_note-1"><b>^</b> IradOne (2018). <i>Hippodrome Weekly: Programme Information</i>. Talas: IradOne Media Group.</li>
 <li id="cite_note-2"><b>^</b> IradOne Broadcasting and Media Corporation (2018). <i>Annual Report 2017</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (21 June 2023). '<a class="ext" href="https://talasherald.com/archive/2023/breeder-jailed-over-akyel-pedigree-fraud.html" target="_blank" rel="noopener">Breeder jailed over Akyel pedigree fraud.</a>' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (21 June 2023). '<a class="ext" href="https://talasherald.com/archive/2023/breeder-jailed-over-akyel-pedigree-fraud.html" target="_blank" rel="noopener">Breeder jailed over Akyel pedigree fraud.</a>' Talas. Retrieved 14 November 2025.</li>
 <li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Gold Coats and Family Firms: The Akyel Trade in the ISEZ.' Vol. 31, No. 3, pp. 210–228.</li>
 </ol>
 
@@ -4550,9 +4550,9 @@ The program is among IradOne's most-watched Iradi-language programs with viewers
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2026). <i>Jyldyz Jolu: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (13 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-altyn-muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: Altyn Muuz on the road.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (13 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-altyn-muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: Altyn Muuz on the road.</a>' Talas. Retrieved 7 April 2024.</li>
 <li id="cite_note-3"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (19 March 2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-altyn-muuz-zhylky-love.html" target="_blank" rel="noopener">Review: Altyn Muuz, "Zhylky Love".</a>' Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (19 March 2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-altyn-muuz-zhylky-love.html" target="_blank" rel="noopener">Review: Altyn Muuz, "Zhylky Love".</a>' Talas. Retrieved 12 June 2025.</li>
 </ol>
 
 ## External links
@@ -4602,7 +4602,7 @@ The series drew large audiences in both cities in its first weeks, and phrases f
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2025). <i>Kuda: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (18 November 2021). '<a class="ext" href="https://talasherald.com/archive/2021/what-makes-iradi-plov-iradi.html" target="_blank" rel="noopener">What Makes Iradi Plov Iradi.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (18 November 2021). '<a class="ext" href="https://talasherald.com/archive/2021/what-makes-iradi-plov-iradi.html" target="_blank" rel="noopener">What Makes Iradi Plov Iradi.</a>' Talas. Retrieved 25 June 2024.</li>
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2026). 'Laughing Across the Language Line: Television Comedy and the Russos of Nurzhan.' Vol. 33, No. 1, pp. 22–39.</li>
 </ol>
 
@@ -4632,7 +4632,7 @@ Press-freedom groups and the [[wp:Organization for Security and Co-operation in 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2019). <i>OneNews: Programme Information</i>. Talas: IradOne Media Group.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2025). 'Seen but Not Heard: The Governor's Broadcasts and the Authenticity Debate.' Vol. 21, No. 1, pp. 1–19.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/irad-day-celebrated-at-the-hippodrome.html" target="_blank" rel="noopener">Irad Day Celebrated at the Hippodrome.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/irad-day-celebrated-at-the-hippodrome.html" target="_blank" rel="noopener">Irad Day Celebrated at the Hippodrome.</a>' Talas. Retrieved 17 March 2025.</li>
 <li id="cite_note-4"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
 <li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Media Provocateurs and Opposition Politics in the ISEZ.' Vol. 31, Iss. 2.</li>
 </ol>
@@ -4772,7 +4772,7 @@ In the 2023 survey of the Irad Media Research Center, *Sunday Qurbana* had the l
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2019). <i>Sunday Qurbana: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (25 August 2024). '<a class="ext" href="https://talasherald.com/archive/2024/pilgrims-ride-to-cathedral-hill-for-the-feast-of-st-janyl.html" target="_blank" rel="noopener">Pilgrims Ride to Cathedral Hill for the Feast of St. Janyl.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (25 August 2024). '<a class="ext" href="https://talasherald.com/archive/2024/pilgrims-ride-to-cathedral-hill-for-the-feast-of-st-janyl.html" target="_blank" rel="noopener">Pilgrims Ride to Cathedral Hill for the Feast of St. Janyl.</a>' Talas. Retrieved 6 October 2024.</li>
 <li id="cite_note-3"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> Temirbekova, Ainura (2014). <i>The Church of the Star: A History of the Syro-Iradi Catholic Church</i>. Talas: Talas State University Press.</li>
 </ol>
@@ -4852,8 +4852,8 @@ Jarnama's banners appear on IradOne Online, the *[[Talas Herald]]*, Attelkom's o
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (21 April 2016). '<a class="ext" href="https://talasherald.com/archive/2016/attelkom-s-banner-department-becomes-jarnama-opens-network-to-other-we.html" target="_blank" rel="noopener">Attelkom's banner department becomes Jarnama, opens network to other websites</a>.' Talas.</li>
-<li id="cite_note-2"><b>^</b> Attelkom Jarnama. '<a class="ext" href="https://ads.attelkom.net/" target="_blank" rel="noopener">Advertising on Iradi websites</a>.' ads.attelkom.net.</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (21 April 2016). '<a class="ext" href="https://talasherald.com/archive/2016/attelkom-s-banner-department-becomes-jarnama-opens-network-to-other-we.html" target="_blank" rel="noopener">Attelkom's banner department becomes Jarnama, opens network to other websites</a>.' Talas. Retrieved 1 October 2024.</li>
+<li id="cite_note-2"><b>^</b> Attelkom Jarnama. '<a class="ext" href="https://ads.attelkom.net/" target="_blank" rel="noopener">Advertising on Iradi websites</a>.' ads.attelkom.net. Retrieved 3 April 2024.</li>
 </ol>
 
 ## External links
@@ -4934,8 +4934,8 @@ The song was little known outside Irad until it was used on the soundtrack of th
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2024). 'Far from the Teahouse: Mor-Folk Online.' Vol. 16, pp. 21–40.</li>
 <li id="cite_note-2"><b>^</b> <i>Journal of Central Asian Popular Music</i> (2023). 'Noise, Chant and the Iradi Night: Listening to "Dream of Living".' Vol. 7, No. 2, pp. 55–73.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (27 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-folk-ensemble-cancels-iyk-janyl-teahouse-concert.html" target="_blank" rel="noopener">Mor-Folk ensemble cancels Iyık Janyl teahouse concert.</a>' Talas.</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (24 February 2024). '<a class="ext" href="https://talasherald.com/archive/2024/an-american-detective-series-makes-a-talas-teahouse-band-famous.html" target="_blank" rel="noopener">An American detective series makes a Talas teahouse band famous.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (27 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-folk-ensemble-cancels-iyk-janyl-teahouse-concert.html" target="_blank" rel="noopener">Mor-Folk ensemble cancels Iyık Janyl teahouse concert.</a>' Talas. Retrieved 26 September 2025.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (24 February 2024). '<a class="ext" href="https://talasherald.com/archive/2024/an-american-detective-series-makes-a-talas-teahouse-band-famous.html" target="_blank" rel="noopener">An American detective series makes a Talas teahouse band famous.</a>' Talas. Retrieved 6 April 2024.</li>
 </ol>
 
 ## External links
@@ -4962,7 +4962,7 @@ Apart from the religious objections, critics have singled the song out as the on
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2020). 'Mor-Wave and the Post-Soviet Electronic Synthesis in Central Asia.' Vol. 12, No. 3, pp. 41–66.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-wave-concert-in-iyk-janyl-cancelled-after-parish-protests.html" target="_blank" rel="noopener">Mor-Wave concert in Iyık Janyl cancelled after parish protests.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-wave-concert-in-iyk-janyl-cancelled-after-parish-protests.html" target="_blank" rel="noopener">Mor-Wave concert in Iyık Janyl cancelled after parish protests.</a>' Talas. Retrieved 7 July 2026.</li>
 <li id="cite_note-4"><b>^</b> <i>Tape Hiss Quarterly</i> (2019). 'Reissue: tüntolk, <i>Jolchu</i>.' Berlin, No. 31, p. 12.</li>
 </ol>
 
@@ -5026,7 +5026,7 @@ During the student protests in [[Talas]] in October 2023, marchers chanted the s
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Music Review</i> (2024). 'The Anthem in the Noise: Hearing "My Home My Heart My Soul" after 2023.' Vol. 16, No. 2, pp. 33–49.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas. Retrieved 25 April 2025.</li>
 </ol>
 
 ## External links
@@ -5228,7 +5228,7 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 120–141.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas. Retrieved 25 June 2024.</li>
 </ol>
 
 ## External links
@@ -5345,7 +5345,7 @@ Karakush: Aruuke Temir kyzy, Dana Pak, Saltanat Abdrakhmanova, Meerim Sultan kyz
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/karakush-return-from-seoul-what-ak-boru-did-and-didn-t-do.html" target="_blank" rel="noopener">Karakush return from Seoul: what "Ak Börü" did and didn't do.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/karakush-return-from-seoul-what-ak-boru-did-and-didn-t-do.html" target="_blank" rel="noopener">Karakush return from Seoul: what "Ak Börü" did and didn't do.</a>' Talas. Retrieved 1 September 2024.</li>
 </ol>
 
 ## External links
@@ -5411,7 +5411,7 @@ All songs written by Marat Joldoshev and Altyn Muuz.
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Music Review</i> (2024). 'Idols of the Night Wave: K-Pop, Mor-Pop and Youth Fandom in Talas.' Vol. 16, No. 1, pp. 9–31.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-altyn-muuz-zhylky-love.html" target="_blank" rel="noopener">Review: Altyn Muuz, "Zhylky Love".</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/review-altyn-muuz-zhylky-love.html" target="_blank" rel="noopener">Review: Altyn Muuz, "Zhylky Love".</a>' Talas. Retrieved 6 February 2026.</li>
 </ol>
 
 ## External links
@@ -5472,7 +5472,7 @@ All music arranged by Eski Ün from Syro-Iradi chant and traditional melodies; l
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2024). 'Far from the Teahouse: Mor-Folk Online.' Vol. 16, pp. 21–40.</li>
 <li id="cite_note-2"><b>^</b> <i>Journal of Central Asian Popular Music</i> (2023). 'Noise, Chant and the Iradi Night: Listening to "Dream of Living".' Vol. 7, No. 2, pp. 55–73.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (24 February 2024). '<a class="ext" href="https://talasherald.com/archive/2024/an-american-detective-series-makes-a-talas-teahouse-band-famous.html" target="_blank" rel="noopener">An American detective series makes a Talas teahouse band famous.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (24 February 2024). '<a class="ext" href="https://talasherald.com/archive/2024/an-american-detective-series-makes-a-talas-teahouse-band-famous.html" target="_blank" rel="noopener">An American detective series makes a Talas teahouse band famous.</a>' Talas. Retrieved 14 March 2024.</li>
 </ol>
 
 ## External links
@@ -5629,7 +5629,7 @@ The book was registered with the Department of Public Information and carries no
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Tursunbek kyzy, Aikokul (2016). <i>Twelve Kilometres</i>. Translated by Aidana Mukash kyzy. Talas: Arsha Books.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://talasuniversity.org/library/archive/twelve-kilometres/" target="_blank" rel="noopener">Twelve Kilometres</a>." Digital Archive, TSU-DA-2026-0146.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://talasuniversity.org/library/archive/twelve-kilometres/" target="_blank" rel="noopener">Twelve Kilometres</a>." Digital Archive, TSU-DA-2026-0146. Retrieved 31 December 2026.</li>
 </ol>
 
 {{Irad-culture-stub}}
@@ -6062,7 +6062,7 @@ Jılmay is widely used in the ISEZ, but users have long complained that its logi
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2025). 'One App for Everything: Tulpar and the Iradi Internet.' Vol. 17, pp. 44–67.</li>
 <li id="cite_note-2"><b>^</b> Jılmay (2026). <i>Jılmay Cargo: How it works</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe</a>.' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe</a>.' Talas. Retrieved 9 October 2026.</li>
 </ol>
 
 ## External links
@@ -6102,9 +6102,9 @@ In 2019 Arsha Books bought from the liquidator of Talas Kitep, the former Irad S
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Arsha Books (2024). "<a class="ext" href="https://arshakitep.com/" target="_blank" rel="noopener">Arsha Books</a>." Talas.</li>
+<li id="cite_note-1"><b>^</b> Arsha Books (2024). "<a class="ext" href="https://arshakitep.com/" target="_blank" rel="noopener">Arsha Books</a>." Talas. Retrieved 7 January 2025.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2024). 'Department suspends publisher of protest anthology.' Talas.</li>
-<li id="cite_note-3"><b>^</b> Talas State University (2026). '<a class="ext" href="https://talasuniversity.org/library/ottuk/" target="_blank" rel="noopener">The Ottuk Library deposit</a>.' National Library of Irad, Talas.</li>
+<li id="cite_note-3"><b>^</b> Talas State University (2026). '<a class="ext" href="https://talasuniversity.org/library/ottuk/" target="_blank" rel="noopener">The Ottuk Library deposit</a>.' National Library of Irad, Talas. Retrieved 31 December 2026.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -6137,8 +6137,8 @@ Part of the Soviet-era card catalogue of the Scientific Library was lost when th
 <ol class="references">
 <li id="cite_note-1"><b>^</b> National Library of Irad (2018). <i>Twenty-Five Years of the National Library, 1993–2018</i>. Talas State University Press, Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Demographic Review</i> (2022). "The Russophone Industrial Intelligentsia of the Chu Basin." Vol. 15, pp. 112–129.</li>
-<li id="cite_note-3"><b>^</b> Talas State University (2026). '<a class="ext" href="https://talasuniversity.org/library/ottuk/" target="_blank" rel="noopener">The Ottuk Library deposit</a>.' National Library of Irad, Talas.</li>
-<li id="cite_note-4"><b>^</b> Talas State University (2026). "<a class="ext" href="https://talasuniversity.org/library/" target="_blank" rel="noopener">National Library of Irad</a>." Official website.</li>
+<li id="cite_note-3"><b>^</b> Talas State University (2026). '<a class="ext" href="https://talasuniversity.org/library/ottuk/" target="_blank" rel="noopener">The Ottuk Library deposit</a>.' National Library of Irad, Talas. Retrieved 31 December 2026.</li>
+<li id="cite_note-4"><b>^</b> Talas State University (2026). "<a class="ext" href="https://talasuniversity.org/library/" target="_blank" rel="noopener">National Library of Irad</a>." Official website. Retrieved 31 December 2026.</li>
 </ol>
 
 #### 629. National Historical Museum of Irad
@@ -6197,8 +6197,8 @@ On 16 December 2019 Tologonov died in [[Talas]] after a fall from the window of 
 <li id="cite_note-2"><b>^</b> Territorial Legislature of Irad (2013). 'Amendment to the Elective Governor Acts.' <i>Official Gazette of Irad</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
 <li id="cite_note-4"><b>^</b> <i>Irad Times</i> (2017). 'The Lieutenant Governor nobody sees.' Talas.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (4 September 2019). '<a class="ext" href="https://talasherald.com/archive/2019/maksat-to-run-with-toktarov-tologonov-retires.html" target="_blank" rel="noopener">Maksat to run with Toktarov; Tologonov retires.</a>' Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (18 December 2019). '<a class="ext" href="https://talasherald.com/archive/2019/former-lieutenant-governor-tologonov-dies-at-69.html" target="_blank" rel="noopener">Former Lieutenant Governor Tologonov dies at 69.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (4 September 2019). '<a class="ext" href="https://talasherald.com/archive/2019/maksat-to-run-with-toktarov-tologonov-retires.html" target="_blank" rel="noopener">Maksat to run with Toktarov; Tologonov retires.</a>' Talas. Retrieved 7 June 2024.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (18 December 2019). '<a class="ext" href="https://talasherald.com/archive/2019/former-lieutenant-governor-tologonov-dies-at-69.html" target="_blank" rel="noopener">Former Lieutenant Governor Tologonov dies at 69.</a>' Talas. Retrieved 7 October 2024.</li>
 </ol>
 
 [[Category:Politicians]]
@@ -6225,9 +6225,9 @@ The same obstacle applies to the other main international federations. The Footb
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Playing without a Flag: Sport and Non-Recognition in Irad.' Vol. 16, No. 3, pp. 211–230.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 August 2021). '<a class="ext" href="https://talasherald.com/archive/2021/iradi-born-wrestlers-win-medals-under-other-flags.html" target="_blank" rel="noopener">Iradi-Born Wrestlers Win Medals under Other Flags.</a>' Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (9 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/two-passports-one-home-why-nurzhan-carries-kyrgyz-papers.html" target="_blank" rel="noopener">Two passports, one home: why Nurzhan carries Kyrgyz papers.</a>' Nurzhan.</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (30 May 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 August 2021). '<a class="ext" href="https://talasherald.com/archive/2021/iradi-born-wrestlers-win-medals-under-other-flags.html" target="_blank" rel="noopener">Iradi-Born Wrestlers Win Medals under Other Flags.</a>' Talas. Retrieved 23 May 2026.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (9 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/two-passports-one-home-why-nurzhan-carries-kyrgyz-papers.html" target="_blank" rel="noopener">Two passports, one home: why Nurzhan carries Kyrgyz papers.</a>' Nurzhan. Retrieved 11 October 2024.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (30 May 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas. Retrieved 13 July 2025.</li>
 <li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Horses, Patronage and the State in the Irad Special Economic Zone.' Vol. 28, No. 4, pp. 301–322.</li>
 </ol>
 
@@ -6379,7 +6379,7 @@ Attelkom has almost no formal service in the [[Autonomous Tribal Regions]]. Herd
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Attelkom (2024). <i>Annual Report 2023</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Department of Infrastructure and Communications (2024). <i>Telecommunications Market Review 2023</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> Department of Infrastructure and Communications, Digital Services Directorate (2026). '<a class="ext" href="https://e-irad.org/contact.html" target="_blank" rel="noopener">Contact</a>.' <i>e-Irad</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Department of Infrastructure and Communications, Digital Services Directorate (2026). '<a class="ext" href="https://e-irad.org/contact.html" target="_blank" rel="noopener">Contact</a>.' <i>e-Irad</i>. Talas. Retrieved 31 December 2026.</li>
 <li id="cite_note-4"><b>^</b> State Archives of Irad (Talas), Fond 519: Telecommunications Concessions and Network Licenses (1994–2022).</li>
 </ol>
 
@@ -6437,11 +6437,11 @@ Since the 2010s the [[Mor-Folk]] ensemble [[Eski Ün]] and other Talas musicians
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'Stage, Screen and Club: Performing Arts in the ISEZ.' Vol. 13, pp. 77–96.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (3 March 2012). '<a class="ext" href="https://talasherald.com/archive/2012/kasymova-retires-from-the-ballet-school.html" target="_blank" rel="noopener">Kasymova retires from the ballet school.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (3 March 2012). '<a class="ext" href="https://talasherald.com/archive/2012/kasymova-retires-from-the-ballet-school.html" target="_blank" rel="noopener">Kasymova retires from the ballet school.</a>' Talas. Retrieved 13 March 2026.</li>
 <li id="cite_note-3"><b>^</b> Talas Opera and Ballet Theater (2009). <i>Fifty Seasons: A History of the Talas Stage</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> IradOne (2024). <i>From the Archive: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (9 April 2022). '<a class="ext" href="https://talasherald.com/archive/2022/karakush-return-from-seoul-what-ak-boru-did-and-didn-t-do.html" target="_blank" rel="noopener">Karakush return from Seoul: what "Ak Börü" did and didn't do.</a>' Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (14 September 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty Years of Jolchu: How Nurzhan's Boiler Rooms Made Mor-Wave.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (9 April 2022). '<a class="ext" href="https://talasherald.com/archive/2022/karakush-return-from-seoul-what-ak-boru-did-and-didn-t-do.html" target="_blank" rel="noopener">Karakush return from Seoul: what "Ak Börü" did and didn't do.</a>' Talas. Retrieved 14 July 2026.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (14 September 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty Years of Jolchu: How Nurzhan's Boiler Rooms Made Mor-Wave.</a>' Talas. Retrieved 4 April 2024.</li>
 </ol>
 
 {{Navbox|Irad}}
@@ -6462,8 +6462,8 @@ Like other hospitals in the ISEZ, the hospital is short of nurses, many of whom 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> World Health Organization (2022). <i>Health Systems and Rural Access in Post-Soviet Central Asia</i>. Geneva, pp. 78–95.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2 December 2004). "<a class="ext" href="https://talasherald.com/archive/2004/new-emergency-wing-opens-at-city-hospital-no-1.html" target="_blank" rel="noopener">New emergency wing opens at City Hospital No. 1.</a>"</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (3 March 2024). '<a class="ext" href="https://talasherald.com/archive/2024/nurses-leave-faster-than-they-can-be-trained.html" target="_blank" rel="noopener">Nurses leave faster than they can be trained.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2 December 2004). "<a class="ext" href="https://talasherald.com/archive/2004/new-emergency-wing-opens-at-city-hospital-no-1.html" target="_blank" rel="noopener">New emergency wing opens at City Hospital No. 1.</a>" Retrieved 28 April 2026.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (3 March 2024). '<a class="ext" href="https://talasherald.com/archive/2024/nurses-leave-faster-than-they-can-be-trained.html" target="_blank" rel="noopener">Nurses leave faster than they can be trained.</a>' Talas. Retrieved 7 May 2024.</li>
 </ol>
 
 
@@ -6482,7 +6482,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> City of Talas, Department of Education (2022). <i>Schools of Talas: Directory</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org.</li>
+<li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 31 December 2026.</li>
 </ol>
 
 ## 6. Stub-Class Articles (519 Entries)
@@ -7233,7 +7233,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (27 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-folk-ensemble-cancels-iyk-janyl-teahouse-concert.html" target="_blank" rel="noopener">Mor-Folk ensemble cancels Iyık Janyl teahouse concert.</a>' Talas.</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (27 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/mor-folk-ensemble-cancels-iyk-janyl-teahouse-concert.html" target="_blank" rel="noopener">Mor-Folk ensemble cancels Iyık Janyl teahouse concert.</a>' Talas. Retrieved 9 June 2024.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2024). 'Far from the Teahouse: Mor-Folk Online.' Vol. 16, pp. 21–40.</li>
 </ol>
 
@@ -7334,7 +7334,7 @@ The statue, about four meters high on a granite plinth, stands at the entrance t
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2013). <i>Monuments of Talas: A Guide</i>, pp. 21–24.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/fifty-years-of-the-hunter-s-vigil.html" target="_blank" rel="noopener">Fifty years of the Hunter's Vigil.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/fifty-years-of-the-hunter-s-vigil.html" target="_blank" rel="noopener">Fifty years of the Hunter's Vigil.</a>' Talas. Retrieved 27 May 2025.</li>
 </ol>
 
 {{Irad-culture-stub}}
@@ -7348,7 +7348,7 @@ The awards were established in 1996, during the territorial period. Winners rece
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2016). '<a class="ext" href="https://talasherald.com/archive/2016/twenty-years-of-the-golden-horse.html" target="_blank" rel="noopener">Twenty years of the Golden Horse.</a>' Talas.</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2016). '<a class="ext" href="https://talasherald.com/archive/2016/twenty-years-of-the-golden-horse.html" target="_blank" rel="noopener">Twenty years of the Golden Horse.</a>' Talas. Retrieved 21 March 2026.</li>
 </ol>
 
 {{Irad-culture-stub}}
@@ -7477,7 +7477,7 @@ The festival was founded in 2010 by young Iradi filmmakers and critics. Films ar
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2020). '<a class="ext" href="https://talasherald.com/archive/2020/ten-summers-of-the-diz-festival.html" target="_blank" rel="noopener">Ten summers of the Diz festival.</a>' Talas.</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2020). '<a class="ext" href="https://talasherald.com/archive/2020/ten-summers-of-the-diz-festival.html" target="_blank" rel="noopener">Ten summers of the Diz festival.</a>' Talas. Retrieved 10 April 2026.</li>
 </ol>
 
 {{Irad-culture-stub}}
@@ -7492,7 +7492,7 @@ The main celebrations take place in [[Talas]], where an official ceremony is fol
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Public Information (2019). <i>Bulletin of the Department of Public Information, Executive Decree Series</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/irad-day-celebrated-at-the-hippodrome.html" target="_blank" rel="noopener">Irad Day Celebrated at the Hippodrome.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/irad-day-celebrated-at-the-hippodrome.html" target="_blank" rel="noopener">Irad Day Celebrated at the Hippodrome.</a>' Talas. Retrieved 12 June 2025.</li>
 </ol>
 
 {{Irad-culture-stub}}
@@ -7567,7 +7567,7 @@ The main celebrations take place in [[Talas]], where an official ceremony is fol
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2023). <i>Racing Rules of the Irad State Hippodrome</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (4 May 2017). "<a class="ext" href="https://talasherald.com/archive/2017/half-bred-racing-divides-akyel-breeders.html" target="_blank" rel="noopener">Half-bred racing divides Akyel breeders.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (4 May 2017). "<a class="ext" href="https://talasherald.com/archive/2017/half-bred-racing-divides-akyel-breeders.html" target="_blank" rel="noopener">Half-bred racing divides Akyel breeders.</a>" Retrieved 16 July 2026.</li>
 </ol>
 
 {{Irad-stub}}
@@ -7925,7 +7925,7 @@ An **Iradi bridle rosette** is a round silver plaque mounted on the cheek-straps
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Zoology, Talas State University (2017). <i>Fishes of the Talas, Chu and Naryn Basins</i>. Talas: Talas State University Press, pp. 48–55.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (19 August 2021). "<a class="ext" href="https://talasherald.com/archive/2021/the-barbel-that-disappeared-from-the-talas.html" target="_blank" rel="noopener">The barbel that disappeared from the Talas.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (19 August 2021). "<a class="ext" href="https://talasherald.com/archive/2021/the-barbel-that-disappeared-from-the-talas.html" target="_blank" rel="noopener">The barbel that disappeared from the Talas.</a>" Retrieved 2 February 2025.</li>
 </ol>
 
 {{Irad-stub}}
@@ -8296,7 +8296,7 @@ Historians accept that a Karakoyun chief of this name led the clan in the 1720s,
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (9 October 1997). "<a class="ext" href="https://talasherald.com/archive/1997/last-of-the-river-bridges-reopens-at-kara-buura.html" target="_blank" rel="noopener">Last of the river bridges reopens at Kara-Buura.</a>"</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (9 October 1997). "<a class="ext" href="https://talasherald.com/archive/1997/last-of-the-river-bridges-reopens-at-kara-buura.html" target="_blank" rel="noopener">Last of the river bridges reopens at Kara-Buura.</a>" Retrieved 17 August 2024.</li>
 <li id="cite_note-2"><b>^</b> Evans, William (2001). <i>Bridges and Ballots: Civil Affairs in the Territory of Irad, 1993–1998</i>. Carlisle, Pennsylvania: US Army War College.</li>
 </ol>
 
@@ -8319,7 +8319,7 @@ Historians accept that a Karakoyun chief of this name led the clan in the 1720s,
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> National Equestrian Sports Directorate (2023). <i>Rules of Ulak Tartysh and the Traditional Equestrian Games</i>, appendix of championship records. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (22 August 2015). "<a class="ext" href="https://talasherald.com/archive/2015/thirty-years-on-the-champion-still-rides.html" target="_blank" rel="noopener">Thirty years on, the champion still rides.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (22 August 2015). "<a class="ext" href="https://talasherald.com/archive/2015/thirty-years-on-the-champion-still-rides.html" target="_blank" rel="noopener">Thirty years on, the champion still rides.</a>" Retrieved 27 September 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -8343,7 +8343,7 @@ Historians accept that a Karakoyun chief of this name led the clan in the 1720s,
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas Opera and Ballet Theater (2009). <i>Fifty Seasons: A History of the Talas Stage</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (3 March 2012). "<a class="ext" href="https://talasherald.com/archive/2012/kasymova-retires-from-the-ballet-school.html" target="_blank" rel="noopener">Kasymova retires from the ballet school.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (3 March 2012). "<a class="ext" href="https://talasherald.com/archive/2012/kasymova-retires-from-the-ballet-school.html" target="_blank" rel="noopener">Kasymova retires from the ballet school.</a>" Retrieved 25 June 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -8407,7 +8407,7 @@ Historians accept that a Karakoyun chief of this name led the clan in the 1720s,
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Steppe Investigative Network (2019). "Downstream of the Smelter: Water and Health in the Chatkal Valley." Online publication.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (17 June 2022). "<a class="ext" href="https://talasherald.com/archive/2022/journalist-s-accreditation-restored.html" target="_blank" rel="noopener">Journalist's accreditation restored.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (17 June 2022). "<a class="ext" href="https://talasherald.com/archive/2022/journalist-s-accreditation-restored.html" target="_blank" rel="noopener">Journalist's accreditation restored.</a>" Retrieved 28 June 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -8472,7 +8472,7 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 85: Central Committee Protocols of the Iradi SSR (1925–1991).</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (8 March 2009). "<a class="ext" href="https://talasherald.com/archive/2009/the-teacher-who-opened-the-doors.html" target="_blank" rel="noopener">The teacher who opened the doors.</a>"</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (8 March 2009). "<a class="ext" href="https://talasherald.com/archive/2009/the-teacher-who-opened-the-doors.html" target="_blank" rel="noopener">The teacher who opened the doors.</a>" Retrieved 22 September 2025.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -8622,7 +8622,7 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Akyel Equine Logistics & Breeding Syndicate (2024). <i>National Akyel Studbook: Annual Report 2023</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2 February 2019). "<a class="ext" href="https://talasherald.com/archive/2019/akyel-endurance-horses-run-under-foreign-colors.html" target="_blank" rel="noopener">Akyel endurance horses run under foreign colors.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2 February 2019). "<a class="ext" href="https://talasherald.com/archive/2019/akyel-endurance-horses-run-under-foreign-colors.html" target="_blank" rel="noopener">Akyel endurance horses run under foreign colors.</a>" Retrieved 1 January 2025.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -8670,7 +8670,7 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Iyık Janyl Diocesan Archives. <i>Charitable Foundations and Hospital Registers, 1994–2022</i>. Iyık Janyl.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 April 2017). "<a class="ext" href="https://talasherald.com/archive/2017/sister-maryam-founder-of-the-talas-hospice-dies-at-77.html" target="_blank" rel="noopener">Sister Maryam, founder of the Talas hospice, dies at 77.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 April 2017). "<a class="ext" href="https://talasherald.com/archive/2017/sister-maryam-founder-of-the-talas-hospice-dies-at-77.html" target="_blank" rel="noopener">Sister Maryam, founder of the Talas hospice, dies at 77.</a>" Retrieved 8 September 2025.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -8762,7 +8762,7 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (11 May 2021). "<a class="ext" href="https://talasherald.com/archive/2021/lihua-completes-chu-valley-spinning-mill-purchase.html" target="_blank" rel="noopener">Lihua completes Chu valley spinning mill purchase.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (11 May 2021). "<a class="ext" href="https://talasherald.com/archive/2021/lihua-completes-chu-valley-spinning-mill-purchase.html" target="_blank" rel="noopener">Lihua completes Chu valley spinning mill purchase.</a>" Retrieved 30 November 2024.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -8782,7 +8782,7 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (23 September 2016). "<a class="ext" href="https://talasherald.com/archive/2016/court-fines-feedlot-over-canal-waste.html" target="_blank" rel="noopener">Court fines feedlot over canal waste.</a>"</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (23 September 2016). "<a class="ext" href="https://talasherald.com/archive/2016/court-fines-feedlot-over-canal-waste.html" target="_blank" rel="noopener">Court fines feedlot over canal waste.</a>" Retrieved 6 May 2026.</li>
 <li id="cite_note-2"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
 
@@ -8876,7 +8876,7 @@ Her *Bowl with birds and the star* (2014), shown in *Clay and Script* (2015), se
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Irad Palace of Art (2015). <i>Clay and Script: Contemporary Ceramics after the Silk Road</i>. Exhibition catalogue. Iyık Janyl.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (6 November 2015). "<a class="ext" href="https://talasherald.com/archive/2015/medieval-glazes-modern-hands.html" target="_blank" rel="noopener">Medieval glazes, modern hands.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (6 November 2015). "<a class="ext" href="https://talasherald.com/archive/2015/medieval-glazes-modern-hands.html" target="_blank" rel="noopener">Medieval glazes, modern hands.</a>" Retrieved 21 April 2024.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -8927,7 +8927,7 @@ Her *Bowl with birds and the star* (2014), shown in *Clay and Script* (2015), se
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Demographic Review</i> (2022). "The Russophone Industrial Intelligentsia of the Chu Basin." Vol. 15, pp. 112–129.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (19 January 2016). "<a class="ext" href="https://talasherald.com/archive/2016/nurzhan-mourns-its-literature-teacher.html" target="_blank" rel="noopener">Nurzhan mourns its literature teacher.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (19 January 2016). "<a class="ext" href="https://talasherald.com/archive/2016/nurzhan-mourns-its-literature-teacher.html" target="_blank" rel="noopener">Nurzhan mourns its literature teacher.</a>" Retrieved 2 July 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9017,7 +9017,7 @@ Amanov paints in flat, saturated color with fast strokes, a manner he traces to 
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist1.html" target="_blank" rel="noopener">Serik Amanov</a>." Official website.</li>
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist1.html" target="_blank" rel="noopener">Serik Amanov</a>." Official website. Retrieved 31 December 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9046,7 +9046,7 @@ She weaves on a horizontal loom in wool dyed with madder, walnut and indigo, and
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist2.html" target="_blank" rel="noopener">Layla Tursynova</a>." Official website.</li>
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist2.html" target="_blank" rel="noopener">Layla Tursynova</a>." Official website. Retrieved 31 December 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9075,7 +9075,7 @@ Kadir models in clay by hand and leaves the marks in the bronze. His subjects ar
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist3.html" target="_blank" rel="noopener">Arman Kadir</a>." Official website.</li>
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist3.html" target="_blank" rel="noopener">Arman Kadir</a>." Official website. Retrieved 31 December 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9104,7 +9104,7 @@ Her paintings use the same five flat colors, teal, orange, pink, mustard and gra
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist4.html" target="_blank" rel="noopener">Aisulu Yermek</a>." Official website.</li>
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist4.html" target="_blank" rel="noopener">Aisulu Yermek</a>." Official website. Retrieved 31 December 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9142,7 +9142,7 @@ Her paintings use the same five flat colors, teal, orange, pink, mustard and gra
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2023). <i>Humanitarian Access across the Qara-Chik Line: Annual Review</i>. Kara-Oi.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (5 July 2021). "<a class="ext" href="https://talasherald.com/archive/2021/books-on-horseback-reach-the-high-pastures.html" target="_blank" rel="noopener">Books on horseback reach the high pastures.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (5 July 2021). "<a class="ext" href="https://talasherald.com/archive/2021/books-on-horseback-reach-the-high-pastures.html" target="_blank" rel="noopener">Books on horseback reach the high pastures.</a>" Retrieved 10 April 2024.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9191,7 +9191,7 @@ The report was kept in the internal security files of the republic and became kn
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas Symphony Orchestra (2018). <i>Program Archive, 1960–2018</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (10 December 2005). "<a class="ext" href="https://talasherald.com/archive/2005/kuu-at-the-keyboard.html" target="_blank" rel="noopener">Küü at the keyboard.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (10 December 2005). "<a class="ext" href="https://talasherald.com/archive/2005/kuu-at-the-keyboard.html" target="_blank" rel="noopener">Küü at the keyboard.</a>" Retrieved 8 August 2025.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9227,7 +9227,7 @@ The report was kept in the internal security files of the republic and became kn
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas Symphony Orchestra (2018). <i>Program Archive, 1960–2018</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (24 October 2015). '<a class="ext" href="https://talasherald.com/archive/2015/fifty-years-of-the-talas-symphony.html" target="_blank" rel="noopener">Fifty years of the Talas Symphony.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (24 October 2015). '<a class="ext" href="https://talasherald.com/archive/2015/fifty-years-of-the-talas-symphony.html" target="_blank" rel="noopener">Fifty years of the Talas Symphony.</a>' Talas. Retrieved 5 October 2024.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9311,7 +9311,7 @@ During the territorial period he taught journalism at [[Talas State University]]
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 288: Soviet Military Commissariat Registers, Talas Oblast (1941–1991).</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 March 1995). "<a class="ext" href="https://talasherald.com/archive/1995/veterans-lead-the-irad-day-parade.html" target="_blank" rel="noopener">Veterans lead the Irad Day parade.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 March 1995). "<a class="ext" href="https://talasherald.com/archive/1995/veterans-lead-the-irad-day-parade.html" target="_blank" rel="noopener">Veterans lead the Irad Day parade.</a>" Retrieved 30 September 2025.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9414,7 +9414,7 @@ During the territorial period he taught journalism at [[Talas State University]]
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2016). <i>Irad's Star: Polaris in Iradi Cosmology and Epic Poetry</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (21 March 2014). "<a class="ext" href="https://talasherald.com/archive/2014/a-poet-of-the-fixed-star.html" target="_blank" rel="noopener">A poet of the fixed star.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (21 March 2014). "<a class="ext" href="https://talasherald.com/archive/2014/a-poet-of-the-fixed-star.html" target="_blank" rel="noopener">A poet of the fixed star.</a>" Retrieved 8 January 2025.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9447,8 +9447,8 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (27 August 2004). "<a class="ext" href="https://talasherald.com/archive/2004/shepherd-brings-climbers-down-from-manas.html" target="_blank" rel="noopener">Shepherd brings climbers down from Manas.</a>"</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (22 August 2015). "<a class="ext" href="https://talasherald.com/archive/2015/thirty-years-on-the-champion-still-rides.html" target="_blank" rel="noopener">Thirty years on, the champion still rides.</a>"</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (27 August 2004). "<a class="ext" href="https://talasherald.com/archive/2004/shepherd-brings-climbers-down-from-manas.html" target="_blank" rel="noopener">Shepherd brings climbers down from Manas.</a>" Retrieved 7 July 2026.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (22 August 2015). "<a class="ext" href="https://talasherald.com/archive/2015/thirty-years-on-the-champion-still-rides.html" target="_blank" rel="noopener">Thirty years on, the champion still rides.</a>" Retrieved 22 August 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9468,7 +9468,7 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (4 June 2018). "<a class="ext" href="https://talasherald.com/archive/2018/foundation-brings-young-musicians-to-nurzhan-s-boiler-rooms.html" target="_blank" rel="noopener">Foundation brings young musicians to Nurzhan's boiler rooms.</a>"</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (4 June 2018). "<a class="ext" href="https://talasherald.com/archive/2018/foundation-brings-young-musicians-to-nurzhan-s-boiler-rooms.html" target="_blank" rel="noopener">Foundation brings young musicians to Nurzhan's boiler rooms.</a>" Retrieved 7 July 2025.</li>
 <li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
 </ol>
 
@@ -9492,8 +9492,8 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (14 March 2019). '<a class="ext" href="https://talasherald.com/archive/2019/ilyasov-launches-tulpar-a-free-chat-app-that-writes-iradi-properly.html" target="_blank" rel="noopener">Ilyasov launches Tulpar, a free chat app that writes Iradi properly</a>' Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (6 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/tulpar-loses-users-after-posts-brand-it-the-american-app.html" target="_blank" rel="noopener">Tulpar loses users after posts brand it "the American app"</a>' Talas.</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (14 March 2019). '<a class="ext" href="https://talasherald.com/archive/2019/ilyasov-launches-tulpar-a-free-chat-app-that-writes-iradi-properly.html" target="_blank" rel="noopener">Ilyasov launches Tulpar, a free chat app that writes Iradi properly</a>' Talas. Retrieved 8 December 2024.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (6 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/tulpar-loses-users-after-posts-brand-it-the-american-app.html" target="_blank" rel="noopener">Tulpar loses users after posts brand it "the American app"</a>' Talas. Retrieved 28 March 2025.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9833,7 +9833,7 @@ The **Chatkal Mountain Rescue Base** is a mine and mountain rescue station in Sa
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Iradi National Chamber of Mining and Metallurgy (2021). <i>Mine Safety and Rescue Code</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 February 2018). "<a class="ext" href="https://talasherald.com/archive/2018/rescuers-train-for-avalanche-season-at-chatkal.html" target="_blank" rel="noopener">Rescuers train for avalanche season at Chatkal.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 February 2018). "<a class="ext" href="https://talasherald.com/archive/2018/rescuers-train-for-avalanche-season-at-chatkal.html" target="_blank" rel="noopener">Rescuers train for avalanche season at Chatkal.</a>" Retrieved 10 October 2026.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -9864,7 +9864,7 @@ The **IradOne Transmitter Mast** is a 220-meter guyed mast on Television Hill in
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> State Archives of Irad (Talas), Fond 233: State Committee of the Iradi SSR for Television and Radio Broadcasting (1959–1992).</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (1 September 2015). "<a class="ext" href="https://talasherald.com/archive/2015/iradone-switches-to-digital.html" target="_blank" rel="noopener">IradOne switches to digital.</a>"</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (1 September 2015). "<a class="ext" href="https://talasherald.com/archive/2015/iradone-switches-to-digital.html" target="_blank" rel="noopener">IradOne switches to digital.</a>" Retrieved 1 November 2025.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -11314,7 +11314,7 @@ The **Talas Cold Chain Logistics Hub** is a refrigerated warehouse and rail term
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2020). '<a class="ext" href="https://talasherald.com/archive/2020/air-base-perimeter-upgraded-after-drone-sightings.html" target="_blank" rel="noopener">Air Base Perimeter Upgraded After Drone Sightings.</a>' 8 September.</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2020). '<a class="ext" href="https://talasherald.com/archive/2020/air-base-perimeter-upgraded-after-drone-sightings.html" target="_blank" rel="noopener">Air Base Perimeter Upgraded After Drone Sightings.</a>' 8 September. Retrieved 1 April 2026.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Academic Press, pp. 54–68.</li>
 </ol>
 
@@ -11884,7 +11884,7 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2023). <i>Settlements and Services in the Toktogul–Naryn Zone</i>. Kara-Oi.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (9 March 2012). '<a class="ext" href="https://talasherald.com/archive/2012/pack-horses-reach-kara-jylga-after-five-weeks-cut-off.html" target="_blank" rel="noopener">Pack horses reach Kara-Jylga after five weeks cut off.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (9 March 2012). '<a class="ext" href="https://talasherald.com/archive/2012/pack-horses-reach-kara-jylga-after-five-weeks-cut-off.html" target="_blank" rel="noopener">Pack horses reach Kara-Jylga after five weeks cut off.</a>' Talas. Retrieved 15 August 2025.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -11933,7 +11933,7 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (22 May 2017). '<a class="ext" href="https://talasherald.com/archive/2017/kumushtu-sets-night-watch-at-shelji-after-looting.html" target="_blank" rel="noopener">Kümüshtü sets night watch at Shelji after looting.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (22 May 2017). '<a class="ext" href="https://talasherald.com/archive/2017/kumushtu-sets-night-watch-at-shelji-after-looting.html" target="_blank" rel="noopener">Kümüshtü sets night watch at Shelji after looting.</a>' Talas. Retrieved 20 May 2025.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -11957,7 +11957,7 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Talas Alatau Zone</i>. Kara-Oi.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (19 August 2019). '<a class="ext" href="https://talasherald.com/archive/2019/upper-valley-riders-take-the-suusamyr-ulak-cup.html" target="_blank" rel="noopener">Upper-valley riders take the Suusamyr ulak cup.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (19 August 2019). '<a class="ext" href="https://talasherald.com/archive/2019/upper-valley-riders-take-the-suusamyr-ulak-cup.html" target="_blank" rel="noopener">Upper-valley riders take the Suusamyr ulak cup.</a>' Talas. Retrieved 14 July 2024.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -12128,7 +12128,7 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Karatau Zone</i>. Kara-Oi.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 May 2016). '<a class="ext" href="https://talasherald.com/archive/2016/flash-flood-destroys-houses-in-karatau-hamlet.html" target="_blank" rel="noopener">Flash flood destroys houses in Karatau hamlet.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 May 2016). '<a class="ext" href="https://talasherald.com/archive/2016/flash-flood-destroys-houses-in-karatau-hamlet.html" target="_blank" rel="noopener">Flash flood destroys houses in Karatau hamlet.</a>' Talas. Retrieved 12 July 2024.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -12427,7 +12427,7 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Kyrgyz Range–Suusamyr Zone</i>. Kara-Oi.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (3 February 2020). '<a class="ext" href="https://talasherald.com/archive/2020/kok-bel-road-reopens-after-four-day-closure.html" target="_blank" rel="noopener">Kök-Bel road reopens after four-day closure.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (3 February 2020). '<a class="ext" href="https://talasherald.com/archive/2020/kok-bel-road-reopens-after-four-day-closure.html" target="_blank" rel="noopener">Kök-Bel road reopens after four-day closure.</a>' Talas. Retrieved 16 August 2025.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -12526,7 +12526,7 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 April 2004). '<a class="ext" href="https://talasherald.com/archive/2004/thirty-families-moved-as-cliff-gives-way-above-the-talas.html" target="_blank" rel="noopener">Thirty families moved as cliff gives way above the Talas.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (14 April 2004). '<a class="ext" href="https://talasherald.com/archive/2004/thirty-families-moved-as-cliff-gives-way-above-the-talas.html" target="_blank" rel="noopener">Thirty families moved as cliff gives way above the Talas.</a>' Talas. Retrieved 4 May 2026.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -12822,7 +12822,7 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> ISEZ Statistical Office (2019). <i>2018 Census of Population: Settlements of the Districts</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (6 October 2008). '<a class="ext" href="https://talasherald.com/archive/2008/hail-radar-installed-above-the-chu-farmland.html" target="_blank" rel="noopener">Hail radar installed above the Chu farmland.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (6 October 2008). '<a class="ext" href="https://talasherald.com/archive/2008/hail-radar-installed-above-the-chu-farmland.html" target="_blank" rel="noopener">Hail radar installed above the Chu farmland.</a>' Talas. Retrieved 3 June 2026.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -13197,7 +13197,7 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Chatkal Highlands Zone</i>. Kara-Oi.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (28 July 2015). '<a class="ext" href="https://talasherald.com/archive/2015/climbers-return-to-the-chatkal-as-old-alpine-camp-reopens.html" target="_blank" rel="noopener">Climbers return to the Chatkal as old alpine camp reopens.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (28 July 2015). '<a class="ext" href="https://talasherald.com/archive/2015/climbers-return-to-the-chatkal-as-old-alpine-camp-reopens.html" target="_blank" rel="noopener">Climbers return to the Chatkal as old alpine camp reopens.</a>' Talas. Retrieved 2 June 2025.</li>
 </ol>
 
 {{Irad-settlement-stub}}
@@ -13493,7 +13493,7 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Iyık Janyl: A City and Its Quarters</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). '<a class="ext" href="https://talasherald.com/archive/2020/villas-on-the-bluff.html" target="_blank" rel="noopener">Villas on the bluff.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2020). '<a class="ext" href="https://talasherald.com/archive/2020/villas-on-the-bluff.html" target="_blank" rel="noopener">Villas on the bluff.</a>' Talas. Retrieved 25 August 2026.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -13841,7 +13841,7 @@ The **Boz-Suu** ("gray water") is a river about 48 kilometers long that rises on
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> United Nations Mission in Irad (2022). <i>Settlements and Services in the Chatkal Highlands Zone</i>. Kara-Oi.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (9 May 2005). '<a class="ext" href="https://talasherald.com/archive/2005/mudflow-buries-orchards-on-the-fergana-rim.html" target="_blank" rel="noopener">Mudflow buries orchards on the Fergana rim.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (9 May 2005). '<a class="ext" href="https://talasherald.com/archive/2005/mudflow-buries-orchards-on-the-fergana-rim.html" target="_blank" rel="noopener">Mudflow buries orchards on the Fergana rim.</a>' Talas. Retrieved 14 October 2026.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -13863,7 +13863,7 @@ The **Uch-Terek Rapids** are a series of rapids on the Naryn above the head of t
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Department of Zoology (2020). <i>Fishes and Fisheries of the Naryn and Chatkal Basins</i>. Talas: Talas State University Press.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (21 July 2018). '<a class="ext" href="https://talasherald.com/archive/2018/rafting-season-opens-on-the-naryn.html" target="_blank" rel="noopener">Rafting season opens on the Naryn.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (21 July 2018). '<a class="ext" href="https://talasherald.com/archive/2018/rafting-season-opens-on-the-naryn.html" target="_blank" rel="noopener">Rafting season opens on the Naryn.</a>' Talas. Retrieved 30 May 2024.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -14114,7 +14114,7 @@ The **Kara-Kazan Cirque** ("black cauldron") is a glacial cirque in the high [[C
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2016). <i>Mining and Metallurgy in the Talas Valley from Shelji to Sary-Bulak</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (17 September 2012). '<a class="ext" href="https://talasherald.com/archive/2012/clan-council-bans-mercury-after-fish-die-in-chatkal-stream.html" target="_blank" rel="noopener">Clan council bans mercury after fish die in Chatkal stream.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (17 September 2012). '<a class="ext" href="https://talasherald.com/archive/2012/clan-council-bans-mercury-after-fish-die-in-chatkal-stream.html" target="_blank" rel="noopener">Clan council bans mercury after fish die in Chatkal stream.</a>' Talas. Retrieved 7 April 2025.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -14133,7 +14133,7 @@ The **Kara-Kazan Cirque** ("black cauldron") is a glacial cirque in the high [[C
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas: Talas State University Press.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2 April 1998). '<a class="ext" href="https://talasherald.com/archive/1998/floodwater-cuts-trans-talas-highway-west-of-kyzyl-adyr.html" target="_blank" rel="noopener">Floodwater cuts Trans-Talas Highway west of Kyzyl-Adyr.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2 April 1998). '<a class="ext" href="https://talasherald.com/archive/1998/floodwater-cuts-trans-talas-highway-west-of-kyzyl-adyr.html" target="_blank" rel="noopener">Floodwater cuts Trans-Talas Highway west of Kyzyl-Adyr.</a>' Talas. Retrieved 16 October 2026.</li>
 <li id="cite_note-3"><b>^</b> Department of Infrastructure and Communications (2009). <i>Trans-Talas Highway: Register of Bridges and Culverts</i>. Talas.</li>
 </ol>
 
@@ -14197,7 +14197,7 @@ The **Kyzyl-Adyr Hills** ("red hills") are a belt of rolling loess hills, from w
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>Archaeological Map of the Talas and Chu Valleys</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (4 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/city-plans-to-uncover-kashkar-aryk.html" target="_blank" rel="noopener">City plans to uncover Kashkar-Aryk.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (4 June 2019). '<a class="ext" href="https://talasherald.com/archive/2019/city-plans-to-uncover-kashkar-aryk.html" target="_blank" rel="noopener">City plans to uncover Kashkar-Aryk.</a>' Talas. Retrieved 25 April 2026.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -14367,7 +14367,7 @@ The **Akzhaykyn Depression** is a closed basin in the northern [[Moiynkum Desert
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> ISEZ Department of Geodesy and Cartography (2011). <i>Gazetteer of Geographical Names of Irad</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (30 June 2016). '<a class="ext" href="https://talasherald.com/archive/2016/heritage-groups-protest-villas-on-khunuk-creek.html" target="_blank" rel="noopener">Heritage groups protest villas on Khunuk Creek.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (30 June 2016). '<a class="ext" href="https://talasherald.com/archive/2016/heritage-groups-protest-villas-on-khunuk-creek.html" target="_blank" rel="noopener">Heritage groups protest villas on Khunuk Creek.</a>' Talas. Retrieved 6 August 2026.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -14403,7 +14403,7 @@ The **Akzhaykyn Depression** is a closed basin in the northern [[Moiynkum Desert
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> City of Nurzhan, Department of Parks and Public Spaces (2019). <i>Parks and Water Bodies of Nurzhan</i>. Nurzhan.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (11 August 2021). '<a class="ext" href="https://talasherald.com/archive/2021/algae-closes-navbahor-pond-to-swimmers.html" target="_blank" rel="noopener">Algae closes Navbahor Pond to swimmers.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (11 August 2021). '<a class="ext" href="https://talasherald.com/archive/2021/algae-closes-navbahor-pond-to-swimmers.html" target="_blank" rel="noopener">Algae closes Navbahor Pond to swimmers.</a>' Talas. Retrieved 15 July 2025.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -14459,7 +14459,7 @@ The **Sarchashma Springs** (Persian: "head of the spring") are a group of perenn
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2012). <i>Archaeological Map of the Talas and Chu Valleys</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (25 March 2014). '<a class="ext" href="https://talasherald.com/archive/2014/old-talas-bathhouse-reopens-with-spring-water-piped-again.html" target="_blank" rel="noopener">Old Talas bathhouse reopens with spring water piped again.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (25 March 2014). '<a class="ext" href="https://talasherald.com/archive/2014/old-talas-bathhouse-reopens-with-spring-water-piped-again.html" target="_blank" rel="noopener">Old Talas bathhouse reopens with spring water piped again.</a>' Talas. Retrieved 21 May 2026.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -14548,7 +14548,7 @@ The **Sarchashma Springs** (Persian: "head of the spring") are a group of perenn
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Manas Peak Glaciological Observatory (2020). <i>Moraine-Dammed Lakes of the Northern Talas Alatau: Hazard Assessment</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (24 July 2012). '<a class="ext" href="https://talasherald.com/archive/2012/lake-burst-sends-flood-down-kol-sai.html" target="_blank" rel="noopener">Lake burst sends flood down Köl-Sai.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (24 July 2012). '<a class="ext" href="https://talasherald.com/archive/2012/lake-burst-sends-flood-down-kol-sai.html" target="_blank" rel="noopener">Lake burst sends flood down Köl-Sai.</a>' Talas. Retrieved 9 February 2026.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -15172,7 +15172,7 @@ The **Kyzyl-Suu** ("red water") is a river that rises on the northern slopes of 
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/solar-park-opens-on-boz-tektir.html" target="_blank" rel="noopener">Solar park opens on Boz-Tektir.</a>' Talas.</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/solar-park-opens-on-boz-tektir.html" target="_blank" rel="noopener">Solar park opens on Boz-Tektir.</a>' Talas. Retrieved 23 September 2024.</li>
 </ol>
 
 {{Irad-geo-stub}}
@@ -15411,7 +15411,7 @@ The program has no presenter. It is made up of recordings from IradOne's archive
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2022). <i>Cook with Ayyub: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (18 November 2021). '<a class="ext" href="https://talasherald.com/archive/2021/what-makes-iradi-plov-iradi.html" target="_blank" rel="noopener">What Makes Iradi Plov Iradi.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (18 November 2021). '<a class="ext" href="https://talasherald.com/archive/2021/what-makes-iradi-plov-iradi.html" target="_blank" rel="noopener">What Makes Iradi Plov Iradi.</a>' Talas. Retrieved 13 July 2026.</li>
 </ol>
 
 ## External links
@@ -15539,7 +15539,7 @@ The slot was introduced in 2005, the year the restored *Desert Sun's Rebellion* 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2016). <i>Iradi Cinema: Programme Information</i>. Talas: IradOne Media Group.</li>
 <li id="cite_note-2"><b>^</b> Irad Film Society (2015). <i>A Century of Iradi Cinema</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 October 2004). '<a class="ext" href="https://talasherald.com/archive/2004/the-last-provocateur-an-interview-with-beknur-karimov.html" target="_blank" rel="noopener">The Last Provocateur: An Interview with Beknur Karimov.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (16 October 2004). '<a class="ext" href="https://talasherald.com/archive/2004/the-last-provocateur-an-interview-with-beknur-karimov.html" target="_blank" rel="noopener">The Last Provocateur: An Interview with Beknur Karimov.</a>' Talas. Retrieved 13 August 2025.</li>
 </ol>
 
 ## External links
@@ -15594,7 +15594,7 @@ In 2021 the novelty boy group [[Altyn Muuz (Group)|Altyn Muuz]] performed its si
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2019). <i>Koyon Teşigi: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (13 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-altyn-muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: Altyn Muuz on the road.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (13 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/no-horns-please-altyn-muuz-on-the-road.html" target="_blank" rel="noopener">No horns, please: Altyn Muuz on the road.</a>' Talas. Retrieved 30 October 2024.</li>
 </ol>
 
 ## External links
@@ -15611,7 +15611,7 @@ In 2021 the novelty boy group [[Altyn Muuz (Group)|Altyn Muuz]] performed its si
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2019). <i>La Colonia: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas. Retrieved 26 December 2024.</li>
 </ol>
 
 ## External links
@@ -15630,7 +15630,7 @@ The program was launched on IradOne's youth channel in 2019 and moved to the mai
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2022). <i>Mor-Pop Top 20: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (27 July 2024). '<a class="ext" href="https://talasherald.com/archive/2024/mor-wave-musicians-protest-festival-booking.html" target="_blank" rel="noopener">Mor-Wave musicians protest festival booking.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (27 July 2024). '<a class="ext" href="https://talasherald.com/archive/2024/mor-wave-musicians-protest-festival-booking.html" target="_blank" rel="noopener">Mor-Wave musicians protest festival booking.</a>' Talas. Retrieved 18 September 2024.</li>
 </ol>
 
 ## External links
@@ -15649,7 +15649,7 @@ The program has not shown videos by the Mor-Wave duo [[tüntolk]] since November
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2016). <i>OneMusic: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (16 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas. Retrieved 17 May 2024.</li>
 </ol>
 
 ## External links
@@ -15742,7 +15742,7 @@ First broadcast in 1994, during the American vogue for Irad known as [[Iradimani
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne (2019). <i>Swift Hooves Hour: Programme Information</i>. Talas: IradOne Media Group.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (11 March 2013). '<a class="ext" href="https://talasherald.com/archive/2013/twenty-years-of-swift-hooves.html" target="_blank" rel="noopener">Twenty years of Swift Hooves.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (11 March 2013). '<a class="ext" href="https://talasherald.com/archive/2013/twenty-years-of-swift-hooves.html" target="_blank" rel="noopener">Twenty years of Swift Hooves.</a>' Talas. Retrieved 13 November 2025.</li>
 </ol>
 
 ## External links
@@ -16889,7 +16889,7 @@ Iradi plov is a family dish, made for Sunday meals, name days and church feasts.
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (18 November 2021). '<a class="ext" href="https://talasherald.com/archive/2021/what-makes-iradi-plov-iradi.html" target="_blank" rel="noopener">What Makes Iradi Plov Iradi.</a>' Talas.</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (18 November 2021). '<a class="ext" href="https://talasherald.com/archive/2021/what-makes-iradi-plov-iradi.html" target="_blank" rel="noopener">What Makes Iradi Plov Iradi.</a>' Talas. Retrieved 13 September 2025.</li>
 <li id="cite_note-2"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 23–61.</li>
 </ol>
@@ -16945,7 +16945,7 @@ The street fountains reappear each May, and vendors say they sell more jasil in 
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (9 July 2018). '<a class="ext" href="https://talasherald.com/archive/2018/the-green-drink-a-short-history-of-jasil.html" target="_blank" rel="noopener">The Green Drink: A Short History of Jasil.</a>' Talas.</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (9 July 2018). '<a class="ext" href="https://talasherald.com/archive/2018/the-green-drink-a-short-history-of-jasil.html" target="_blank" rel="noopener">The Green Drink: A Short History of Jasil.</a>' Talas. Retrieved 14 August 2026.</li>
 </ol>
 
 [[Category:Iradi cuisine]]

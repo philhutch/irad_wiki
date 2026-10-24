@@ -662,14 +662,14 @@ Talas's sister-city ties date from the territorial period, when they were arrang
 <li id="cite_note-7"><b>^</b> Eurasian Political Quarterly (2018). 'Housing, Wages and the Widow's Horse: Re-reading the 1956 Talas Riots.'</li>
 <li id="cite_note-8"><b>^</b> State Archives of Irad (Talas), Fond 110: Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
 <li id="cite_note-9"><b>^</b> Central Asian Geopolitical Review (2008). 'The Fall and Recapture of Talas, 2007.'</li>
-<li id="cite_note-10"><b>^</b> Talas Herald (2023). '<a class="ext" href="https://talasherald.com/archive/2023/students-march-on-government-house.html" target="_blank" rel="noopener">Students March on Government House.</a>'</li>
+<li id="cite_note-10"><b>^</b> Talas Herald (2023). '<a class="ext" href="https://talasherald.com/archive/2023/students-march-on-government-house.html" target="_blank" rel="noopener">Students March on Government House.</a>' Retrieved 12 October 2026.</li>
 <li id="cite_note-11"><b>^</b> Central Asian Geopolitical Review (2024). 'The Fortified Chancellery: Executive Authority at Boz-Korgon.'</li>
-<li id="cite_note-12"><b>^</b> Talas Herald (2025). '<a class="ext" href="https://talasherald.com/archive/2025/thousands-protest-in-talas-and-nurzhan-over-us-sale-remarks.html" target="_blank" rel="noopener">Thousands Protest in Talas and Nurzhan over US "Sale" Remarks.</a>'</li>
+<li id="cite_note-12"><b>^</b> Talas Herald (2025). '<a class="ext" href="https://talasherald.com/archive/2025/thousands-protest-in-talas-and-nurzhan-over-us-sale-remarks.html" target="_blank" rel="noopener">Thousands Protest in Talas and Nurzhan over US "Sale" Remarks.</a>' Retrieved 21 March 2025.</li>
 <li id="cite_note-13"><b>^</b> Talas River Hydrological Monitoring Service (2022). Hydrological Regimes of the Talas Basin, 1990–2020. Talas.</li>
-<li id="cite_note-14"><b>^</b> Office of the Governor of the Irad Special Economic Zone (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official portal of the Office of the Governor</a>'. Talas.</li>
+<li id="cite_note-14"><b>^</b> Office of the Governor of the Irad Special Economic Zone (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official portal of the Office of the Governor</a>'. Talas. Retrieved 31 December 2026.</li>
 <li id="cite_note-15"><b>^</b> Eurasian Political Quarterly (2024). 'Urban Modernization and Infrastructure in Northern Transoxiana.'</li>
 <li id="cite_note-16"><b>^</b> Talas State University Press (2016). <i>Monuments of Irad: Talas and the Middle Talas Valley</i>. Talas.</li>
-<li id="cite_note-17"><b>^</b> <i>Talas Herald</i> (14 August 2018). '<a class="ext" href="https://talasherald.com/archive/2018/merchant-house-near-bazar-i-kalan-razed-for-hotel.html" target="_blank" rel="noopener">Merchant house near Bazar-i Kalan razed for hotel.</a>' Talas.</li>
+<li id="cite_note-17"><b>^</b> <i>Talas Herald</i> (14 August 2018). '<a class="ext" href="https://talasherald.com/archive/2018/merchant-house-near-bazar-i-kalan-razed-for-hotel.html" target="_blank" rel="noopener">Merchant house near Bazar-i Kalan razed for hotel.</a>' Talas. Retrieved 30 January 2026.</li>
 <li id="cite_note-18"><b>^</b> Syro-Iradi Council of Hierarchs (2011). <i>Guidelines on the Building and Furnishing of Churches</i>, with a register of churches. Iyık Janyl.</li>
 <li id="cite_note-19"><b>^</b> Chamber of Commerce and Industry of Irad (2023). Commercial Directory of the Talas Special Economic Zone. Talas.</li>
 <li id="cite_note-20"><b>^</b> ISEZ Ministry of Transport (2022). <i>Road Network Inventory</i>. Talas.</li>
@@ -780,7 +780,7 @@ Toktarov has not appeared in public since July 2024, fueling persistent rumors a
 <li id="cite_note-1"><b>^</b> Department of Public Information (2007). Official Biography of Governor Erlan Toktarov. Talas.</li>
 <li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 110: Territorial Legislative Journals and Enacted Statutes (1992–2006).</li>
 <li id="cite_note-3"><b>^</b> Eurasian Political Quarterly (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (26 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/toktarov-proclaims-special-economic-zone-from-nurzhan.html" target="_blank" rel="noopener">Toktarov Proclaims Special Economic Zone from Nurzhan.</a>' Nurzhan.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (26 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/toktarov-proclaims-special-economic-zone-from-nurzhan.html" target="_blank" rel="noopener">Toktarov Proclaims Special Economic Zone from Nurzhan.</a>' Nurzhan. Retrieved 19 August 2025.</li>
 <li id="cite_note-5"><b>^</b> State Archives of Irad (Talas), Fond 501: Executive Directives of the Irad Special Economic Zone (2007–2023).</li>
 <li id="cite_note-6"><b>^</b> <i>Eurasian Political Quarterly</i> (2017). 'Ten Years On: The Popular Front and the Storming of Talas.' Vol. 24, Iss. 3, pp. 41–66.</li>
 <li id="cite_note-7"><b>^</b> Central Asian Geopolitical Review (2008). 'The Fall and Recapture of Talas, 2007.'</li>
@@ -789,7 +789,7 @@ Toktarov has not appeared in public since July 2024, fueling persistent rumors a
 <li id="cite_note-10"><b>^</b> Central Asian Geopolitical Review (2019). 'Horses and Power: Equestrian Imagery in ISEZ Political Culture.'</li>
 <li id="cite_note-11"><b>^</b> Central Asian Geopolitical Review (2024). 'The Fortified Chancellery: Executive Authority at Boz-Korgon.'</li>
 <li id="cite_note-12"><b>^</b> Bulletin of the Department of Public Information (Talas), Executive Decree Series, Vol. 14, No. 3 (2024).</li>
-<li id="cite_note-13"><b>^</b> Talas Herald (2025). '<a class="ext" href="https://talasherald.com/archive/2025/succession-questions-grow-as-governor-remains-out-of-view.html" target="_blank" rel="noopener">Succession Questions Grow as Governor Remains out of View.</a>'</li>
+<li id="cite_note-13"><b>^</b> Talas Herald (2025). '<a class="ext" href="https://talasherald.com/archive/2025/succession-questions-grow-as-governor-remains-out-of-view.html" target="_blank" rel="noopener">Succession Questions Grow as Governor Remains out of View.</a>' Retrieved 2 October 2025.</li>
 </ol>
 
 [[Category:Politicians]]
@@ -932,10 +932,10 @@ Foreign companies with large operations include Sukarne, Conagra, Xinjiang Lihua
 <li id="cite_note-9"><b>^</b> Food and Agriculture Organization (FAO) (2023). Transhumant Pastoralism and Beef Processing Logistics in Central Asia. Rome, pp. 88–102.</li>
 <li id="cite_note-10"><b>^</b> Central Asian Geopolitical Review (2019). 'Base Economies: US Military Spending and Local Markets in Talas.' Vol. 15, No. 1, pp. 33–58.</li>
 <li id="cite_note-11"><b>^</b> Eurasian Development Bank (2023). Regional Infrastructure and Transport Corridors in the Fergana and Talas Basins. EDB Monograph Series, pp. 56–71.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (2023). '<a class="ext" href="https://talasherald.com/archive/2023/degrees-without-jobs-the-economics-behind-the-student-protests.html" target="_blank" rel="noopener">Degrees without jobs: the economics behind the student protests.</a>' Talas.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (2023). '<a class="ext" href="https://talasherald.com/archive/2023/degrees-without-jobs-the-economics-behind-the-student-protests.html" target="_blank" rel="noopener">Degrees without jobs: the economics behind the student protests.</a>' Talas. Retrieved 9 March 2025.</li>
 <li id="cite_note-13"><b>^</b> Chamber of Commerce and Industry of Irad (2023). Commercial Directory of the Talas Special Economic Zone. Talas.</li>
-<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (21 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-21-kervan-elektrik-to-run-nurzhan-chu-and-kara-buura-grids-loss-target-is.html" target="_blank" rel="noopener">Kervan Elektrik to run Nurzhan, Chu and Kara-Buura grids; loss target is 11%.</a>' Talas.</li>
-<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-bank-of-irad-puts-nine-month-growth-at-9-4-behind-kyrgyzstan-s-10-8.html" target="_blank" rel="noopener">Bank of Irad puts nine-month growth at 9.4%, behind Kyrgyzstan's 10.8%.</a>' Talas.</li>
+<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (21 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-21-kervan-elektrik-to-run-nurzhan-chu-and-kara-buura-grids-loss-target-is.html" target="_blank" rel="noopener">Kervan Elektrik to run Nurzhan, Chu and Kara-Buura grids; loss target is 11%.</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-bank-of-irad-puts-nine-month-growth-at-9-4-behind-kyrgyzstan-s-10-8.html" target="_blank" rel="noopener">Bank of Irad puts nine-month growth at 9.4%, behind Kyrgyzstan's 10.8%.</a>' Talas. Retrieved 23 October 2026.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
@@ -1211,12 +1211,12 @@ The writing of Iradi history has followed political change. Soviet historiograph
 <li id="cite_note-24"><b>^</b> <i>Eurasian Political Quarterly</i> (2017). 'Talas Besieged: The First Iradi Civil War Twenty-Five Years On.' Vol. 24, Iss. 1, pp. 33–58.</li>
 <li id="cite_note-25"><b>^</b> US Department of State (1992). 'Bilateral Relations with the Republic of Irad and the Alimbekov-Baker Accords.' <i>US Department of State Dispatch</i>, Vol. 3, No. 23.</li>
 <li id="cite_note-26"><b>^</b> United Nations Special Committee on Decolonization (2023). <i>Working Paper on the Non-Self-Governing Territory of Irad</i>. New York.</li>
-<li id="cite_note-27"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas.</li>
-<li id="cite_note-28"><b>^</b> <i>Talas Herald</i> (26 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/toktarov-proclaims-special-economic-zone-from-nurzhan.html" target="_blank" rel="noopener">Toktarov Proclaims Special Economic Zone from Nurzhan.</a>'</li>
+<li id="cite_note-27"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas. Retrieved 1 November 2025.</li>
+<li id="cite_note-28"><b>^</b> <i>Talas Herald</i> (26 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/toktarov-proclaims-special-economic-zone-from-nurzhan.html" target="_blank" rel="noopener">Toktarov Proclaims Special Economic Zone from Nurzhan.</a>' Retrieved 24 November 2025.</li>
 <li id="cite_note-29"><b>^</b> United Nations Mission in Irad (2008). <i>First Report on the Implementation of the Bishkek Ceasefire Agreement</i>. Talas.</li>
 <li id="cite_note-30"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-31"><b>^</b> Bulletin of the Department of Public Information, Executive Decree Series, Vol. 14, No. 3 (2024).</li>
-<li id="cite_note-32"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/thousands-march-in-talas-against-trump-remarks.html" target="_blank" rel="noopener">Thousands March in Talas Against Trump Remarks.</a>'</li>
+<li id="cite_note-32"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/thousands-march-in-talas-against-trump-remarks.html" target="_blank" rel="noopener">Thousands March in Talas Against Trump Remarks.</a>' Retrieved 15 March 2025.</li>
 </ol>
 
 {{Navbox|Irad}}
@@ -1375,15 +1375,15 @@ The period is remembered differently in different parts of the country. ISEZ tex
 <li id="cite_note-15"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-16"><b>^</b> Territorial Legislature of Irad (1993). <i>Banking and Commercial Currency Act</i>. Talas.</li>
 <li id="cite_note-17"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
-<li id="cite_note-18"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas.</li>
+<li id="cite_note-18"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas. Retrieved 20 February 2026.</li>
 <li id="cite_note-19"><b>^</b> Talas State University Press (2023). <i>Descriptive Grammar of the Iradi Language</i>, pp. 112–148.</li>
 <li id="cite_note-20"><b>^</b> Archbishopric of Iyık Janyl (2005). <i>The Church of St. Janyl and the Ruins of Shar-i-Kuhna: The World Heritage Inscription</i>. Iyık Janyl: Cathedral Seminary Press.</li>
 <li id="cite_note-21"><b>^</b> <i>Central Asian Demographic Review</i> (2022). 'The Russophone Industrial Intelligentsia of the Chu Basin.' Vol. 15, pp. 112–129.</li>
-<li id="cite_note-22"><b>^</b> <i>Talas Herald</i> (11 March 2013). '<a class="ext" href="https://talasherald.com/archive/2013/twenty-years-of-swift-hooves.html" target="_blank" rel="noopener">Twenty years of <i>Swift Hooves</i>.</a>' Talas.</li>
+<li id="cite_note-22"><b>^</b> <i>Talas Herald</i> (11 March 2013). '<a class="ext" href="https://talasherald.com/archive/2013/twenty-years-of-swift-hooves.html" target="_blank" rel="noopener">Twenty years of <i>Swift Hooves</i>.</a>' Talas. Retrieved 30 August 2025.</li>
 <li id="cite_note-23"><b>^</b> Territorial Legislature of Irad, Commission on the Events of 1991–1992 (2002). <i>Report on the Shootings of 3 February 1992</i>. Talas.</li>
 <li id="cite_note-24"><b>^</b> <i>Central Asian Geopolitical Review</i> (2009). 'Pasture, Property and Privatization in Irad, 1992–2007.' Vol. 5, pp. 33–58.</li>
 <li id="cite_note-25"><b>^</b> Institute of History, Talas State University (2012). <i>History of Irad in Three Volumes</i>. Talas: Talas State University Press.</li>
-<li id="cite_note-26"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/thousands-march-in-talas-against-trump-remarks.html" target="_blank" rel="noopener">Thousands March in Talas Against Trump Remarks.</a>'</li>
+<li id="cite_note-26"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/thousands-march-in-talas-against-trump-remarks.html" target="_blank" rel="noopener">Thousands March in Talas Against Trump Remarks.</a>' Retrieved 17 March 2025.</li>
 </ol>
 
 {{Navbox|First Iradi Civil War}}
@@ -1538,7 +1538,7 @@ Several cultural questions are politically charged:
 <li id="cite_note-12"><b>^</b> Talas State University Press (2001). <i>Janyl Baatyr: The Complete 1938 Talas Text</i>, editors' introduction, pp. ix–lxii.</li>
 <li id="cite_note-13"><b>^</b> Department of Public Information (2023). <i>Cultural Institutions of the Irad Special Economic Zone: Annual Directory</i>. Talas.</li>
 <li id="cite_note-14"><b>^</b> National Conservatory of Folk Music (2015). <i>Instruments and Repertoire of Iradi Traditional Music</i>. Talas.</li>
-<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (4 September 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-mor-wave.html" target="_blank" rel="noopener">Twenty Years of Mor-Wave.</a>' Talas.</li>
+<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (4 September 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-mor-wave.html" target="_blank" rel="noopener">Twenty Years of Mor-Wave.</a>' Talas. Retrieved 26 June 2025.</li>
 <li id="cite_note-16"><b>^</b> Irad Film Society (2015). <i>A Century of Iradi Cinema</i>. Talas, pp. 31–96.</li>
 <li id="cite_note-17"><b>^</b> Talasfilm Archives and Film Preservation Institute (2020). <i>Restoration Report, 2004–2019</i>. Talas.</li>
 <li id="cite_note-18"><b>^</b> State Archives of Irad (Talas), Fond 218: Registers of Equine Studbooks and Traditional Guilds (1922–2020).</li>
@@ -1845,29 +1845,29 @@ The ISEZ government says that the territorial statutes protect civil liberties, 
 <li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2022). <i>Freedom of Movement and Security Along the Qara-Chik Line</i>. Report to the Secretary-General, Talas.</li>
 <li id="cite_note-7"><b>^</b> Human Rights Watch (2021). <i>Divided Irad: The Case for Human Rights Monitoring</i>. New York.</li>
 <li id="cite_note-8"><b>^</b> Human Rights Watch (2024). <i>Detention and Due Process in the Irad Special Economic Zone</i>. New York.</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (12 April 2016). '<a class="ext" href="https://talasherald.com/archive/2016/suspended-sentences-for-students-over-banned-party-leaflets.html" target="_blank" rel="noopener">Suspended sentences for students over banned party leaflets.</a>' Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (12 April 2016). '<a class="ext" href="https://talasherald.com/archive/2016/suspended-sentences-for-students-over-banned-party-leaflets.html" target="_blank" rel="noopener">Suspended sentences for students over banned party leaflets.</a>' Talas. Retrieved 16 July 2026.</li>
 <li id="cite_note-10"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-11"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
 <li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (2024). 'Department suspends publisher of protest anthology.' Talas.</li>
 <li id="cite_note-13"><b>^</b> Friends of the Irad Times (16 October 2026). <i>Statement on the blocking of the Irad Times website</i>. Chicago.</li>
 <li id="cite_note-14"><b>^</b> Human Rights Watch (2024). 'Water Cannon and Silence: The Policing of the 2023 Talas Protests.' New York.</li>
 <li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (14 August 2026). 'Irad is back on the internet, more or less.' Talas.</li>
-<li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/succession-questions-grow-as-governor-remains-out-of-view.html" target="_blank" rel="noopener">Succession Questions Grow as Governor Remains out of View.</a>' Talas.</li>
+<li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/succession-questions-grow-as-governor-remains-out-of-view.html" target="_blank" rel="noopener">Succession Questions Grow as Governor Remains out of View.</a>' Talas. Retrieved 22 July 2025.</li>
 <li id="cite_note-17"><b>^</b> United Nations Mission in Irad (2025). <i>Quarterly Security Bulletin, January–March 2025</i>. Kara-Oi.</li>
 <li id="cite_note-18"><b>^</b> Amnesty International (2023). 'Irad: Torture and Arbitrary Detention in the Special Economic Zone.' London.</li>
 <li id="cite_note-19"><b>^</b> Ministry of Internal Security (2024). <i>Crime and Public Order Bulletin 2023</i>. Talas.</li>
 <li id="cite_note-20"><b>^</b> St. Luka Community Health Mission (2025). <i>Annual Report 2024</i>. Talas.</li>
 <li id="cite_note-21"><b>^</b> United Nations Office on Drugs and Crime (2025). <i>Synthetic Drugs in Central Asia: Situation Update</i>. Vienna.</li>
 <li id="cite_note-22"><b>^</b> <i>Talas Journal of Law &amp; Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
-<li id="cite_note-23"><b>^</b> <i>Talas Herald</i> (15 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/supreme-court-petition-on-governor-s-health-awaits-listing.html" target="_blank" rel="noopener">Supreme Court petition on Governor's health awaits listing.</a>' Talas.</li>
+<li id="cite_note-23"><b>^</b> <i>Talas Herald</i> (15 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/supreme-court-petition-on-governor-s-health-awaits-listing.html" target="_blank" rel="noopener">Supreme Court petition on Governor's health awaits listing.</a>' Talas. Retrieved 20 October 2026.</li>
 <li id="cite_note-24"><b>^</b> Department of Public Information (2019). <i>2018 Census of Irad: Methodology and Results</i>. Talas.</li>
-<li id="cite_note-25"><b>^</b> <i>Talas Herald</i> (January 2025). '<a class="ext" href="https://talasherald.com/archive/2025/clerics-and-archbishop-condemn-general-s-remarks.html" target="_blank" rel="noopener">Clerics and Archbishop Condemn General's Remarks.</a>' Talas.</li>
+<li id="cite_note-25"><b>^</b> <i>Talas Herald</i> (January 2025). '<a class="ext" href="https://talasherald.com/archive/2025/clerics-and-archbishop-condemn-general-s-remarks.html" target="_blank" rel="noopener">Clerics and Archbishop Condemn General's Remarks.</a>' Talas. Retrieved 23 March 2025.</li>
 <li id="cite_note-26"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Urban Language Survey: Talas, Nurzhan and Iyık Janyl</i>. Talas State University Press.</li>
 <li id="cite_note-27"><b>^</b> Territorial Legislature of Irad (1996). <i>Domestic Relations Act</i>. Territorial Gazette, Talas.</li>
 <li id="cite_note-28"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Marriage, Consent and Household Formation in Rural Irad: Survey Report</i>. Talas State University Press.</li>
-<li id="cite_note-29"><b>^</b> <i>Talas Herald</i> (9 March 2017). '<a class="ext" href="https://talasherald.com/archive/2017/legislature-passes-bride-abduction-law.html" target="_blank" rel="noopener">Legislature passes bride abduction law.</a>' Talas.</li>
+<li id="cite_note-29"><b>^</b> <i>Talas Herald</i> (9 March 2017). '<a class="ext" href="https://talasherald.com/archive/2017/legislature-passes-bride-abduction-law.html" target="_blank" rel="noopener">Legislature passes bride abduction law.</a>' Talas. Retrieved 22 December 2025.</li>
 <li id="cite_note-30"><b>^</b> Iyık Janyl Diocesan Archives. <i>Synodal Decrees and Pastoral Letters, 1993–2023</i>. Iyık Janyl.</li>
-<li id="cite_note-31"><b>^</b> <i>Talas Herald</i> (9 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/two-passports-one-home-why-nurzhan-carries-kyrgyz-papers.html" target="_blank" rel="noopener">Two passports, one home: why Nurzhan carries Kyrgyz papers.</a>' Talas.</li>
+<li id="cite_note-31"><b>^</b> <i>Talas Herald</i> (9 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/two-passports-one-home-why-nurzhan-carries-kyrgyz-papers.html" target="_blank" rel="noopener">Two passports, one home: why Nurzhan carries Kyrgyz papers.</a>' Talas. Retrieved 3 October 2024.</li>
 <li id="cite_note-32"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Labor Migration from the ISEZ: Survey Report</i>. Talas.</li>
 <li id="cite_note-33"><b>^</b> St. Luka Community Health Mission (2023). <i>Annual Report: Rural Health Services in the Autonomous Tribal Regions</i>. Talas.</li>
 <li id="cite_note-34"><b>^</b> United Nations Mission in Irad (2008). <i>Humanitarian Situation and Internal Displacement after the 2007 Conflict</i>. Kara-Oi.</li>
@@ -1986,7 +1986,7 @@ Commentators and the parties have discussed several outcomes:<sup>[2]</sup><sup>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
 <li id="cite_note-4"><b>^</b> US Department of State (1992). 'Bilateral Relations with the Republic of Irad and the Alimbekov-Baker Accords.' <i>US Department of State Dispatch</i>, Vol. 3, No. 23.</li>
 <li id="cite_note-5"><b>^</b> Supreme Court Reports of the Democratic Republic of Irad (2007). Official Gazette Series, Vol. 1. Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas. Retrieved 8 August 2026.</li>
 <li id="cite_note-7"><b>^</b> <i>Eurasian Political Quarterly</i> (2015). 'Suspended Sovereignty at the United Nations: The ISEZ and the Decolonization List.' Vol. 22, No. 3, pp. 201–219.</li>
 <li id="cite_note-8"><b>^</b> Iradi Freedom Society Chancellery (2019). <i>Memorandum to the Special Committee on Decolonization</i>. Aksay Plateau.</li>
 <li id="cite_note-9"><b>^</b> <i>Talas Journal of Law &amp; Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
@@ -1998,7 +1998,7 @@ Commentators and the parties have discussed several outcomes:<sup>[2]</sup><sup>
 <li id="cite_note-15"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
 <li id="cite_note-16"><b>^</b> United Nations Secretary-General (October 2024). <i>Report of the Secretary-General on the situation in Irad</i>. New York.</li>
 <li id="cite_note-17"><b>^</b> <i>Central Asian Demographic Review</i> (2021). 'Counting the Tribal Regions: Reassessing the 2018 Irad Census.' Vol. 14, pp. 5–31.</li>
-<li id="cite_note-18"><b>^</b> <i>Talas Herald</i> (9 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/two-passports-one-home-why-nurzhan-carries-kyrgyz-papers.html" target="_blank" rel="noopener">Two passports, one home: why Nurzhan carries Kyrgyz papers.</a>' Talas.</li>
+<li id="cite_note-18"><b>^</b> <i>Talas Herald</i> (9 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/two-passports-one-home-why-nurzhan-carries-kyrgyz-papers.html" target="_blank" rel="noopener">Two passports, one home: why Nurzhan carries Kyrgyz papers.</a>' Talas. Retrieved 8 July 2025.</li>
 </ol>
 
 {{Navbox|Irad}}
@@ -2127,7 +2127,7 @@ Since 2007 the Archbishop of Iyık Janyl has met regularly with Sunni Muslim lea
 <li id="cite_note-13"><b>^</b> <i>Central Asian Demographic Review</i> (2022). 'The Russophone Industrial Intelligentsia of the Chu Basin.' Vol. 15, pp. 112–129.</li>
 <li id="cite_note-14"><b>^</b> <i>Central Asian Demographic Review</i> (2022). 'The Koryo-saram of Northern Transoxiana.' Vol. 15, pp. 78–95.</li>
 <li id="cite_note-15"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
-<li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (January 2025). '<a class="ext" href="https://talasherald.com/archive/2025/clerics-and-archbishop-condemn-general-s-remarks.html" target="_blank" rel="noopener">Clerics and Archbishop Condemn General's Remarks.</a>' Talas.</li>
+<li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (January 2025). '<a class="ext" href="https://talasherald.com/archive/2025/clerics-and-archbishop-condemn-general-s-remarks.html" target="_blank" rel="noopener">Clerics and Archbishop Condemn General's Remarks.</a>' Talas. Retrieved 15 March 2025.</li>
 <li id="cite_note-17"><b>^</b> Iradi Freedom Society Chancellery (2022). <i>Compendium of Customary Law (Adat) and Pasture Demarcations</i>.</li>
 </ol>
 
@@ -2255,11 +2255,11 @@ The DPI says the elections are free, that the rules apply equally to all candida
 <li id="cite_note-7"><b>^</b> Supreme Court Reports of the Democratic Republic of Irad (2007). Official Gazette Series, Vol. 1. Talas.</li>
 <li id="cite_note-8"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
 <li id="cite_note-9"><b>^</b> Territorial Legislature of Irad (2013). 'Amendment to the Elective Governor Acts.' <i>Official Gazette of Irad</i>. Talas.</li>
-<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (2 October 2015). '<a class="ext" href="https://talasherald.com/archive/2015/election-commission-strikes-rival-candidates-from-gubernatorial-ballot.html" target="_blank" rel="noopener">Election Commission Strikes Rival Candidates from Gubernatorial Ballot.</a>' Talas.</li>
+<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (2 October 2015). '<a class="ext" href="https://talasherald.com/archive/2015/election-commission-strikes-rival-candidates-from-gubernatorial-ballot.html" target="_blank" rel="noopener">Election Commission Strikes Rival Candidates from Gubernatorial Ballot.</a>' Talas. Retrieved 18 May 2026.</li>
 <li id="cite_note-11"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-12"><b>^</b> Territorial Election Commission (2026). <i>Calendar of the General Election of 2 November 2027</i>. Talas.</li>
-<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (15 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/supreme-court-petition-on-governor-s-health-awaits-listing.html" target="_blank" rel="noopener">Supreme Court petition on Governor's health awaits listing.</a>' Talas.</li>
-<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (21 July 2026). '<a class="ext" href="https://talasherald.com/archive/2026/a-year-out-nurzhan-lists-weigh-a-joint-ticket.html" target="_blank" rel="noopener">A year out, Nurzhan lists weigh a joint ticket.</a>' Talas.</li>
+<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (15 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/supreme-court-petition-on-governor-s-health-awaits-listing.html" target="_blank" rel="noopener">Supreme Court petition on Governor's health awaits listing.</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (21 July 2026). '<a class="ext" href="https://talasherald.com/archive/2026/a-year-out-nurzhan-lists-weigh-a-joint-ticket.html" target="_blank" rel="noopener">A year out, Nurzhan lists weigh a joint ticket.</a>' Talas. Retrieved 25 September 2026.</li>
 <li id="cite_note-15"><b>^</b> Department of Public Information (September 2026). 'Statement on the 2027 general election.' Talas.</li>
 <li id="cite_note-16"><b>^</b> Territorial Election Commission (2023). <i>Guide to the General Election of 7 November 2023</i>. Talas.</li>
 <li id="cite_note-17"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
@@ -2382,26 +2382,26 @@ Since July 2024, video and audio addresses by Governor Toktarov, who has not app
 <li id="cite_note-5"><b>^</b> Sadykov, Maratbek (1999). <i>The Truth Was Printed Here: A Newspaper in Perestroika</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-6"><b>^</b> <i>Eurasian Political Quarterly</i> (2023). 'Broadcasting Monopolies and Political Messaging in the ISEZ.' Vol. 30, No. 1, pp. 45–60.</li>
 <li id="cite_note-7"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (17 June 2015). '<a class="ext" href="https://talasherald.com/archive/2015/alikhan-toktarov-named-chairman-of-iradone.html" target="_blank" rel="noopener">Alikhan Toktarov named chairman of IradOne.</a>'</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (17 June 2015). '<a class="ext" href="https://talasherald.com/archive/2015/alikhan-toktarov-named-chairman-of-iradone.html" target="_blank" rel="noopener">Alikhan Toktarov named chairman of IradOne.</a>' Retrieved 3 May 2026.</li>
 <li id="cite_note-9"><b>^</b> Attelkom (2024). <i>Annual Report 2023</i>. Talas.</li>
 <li id="cite_note-10"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
 <li id="cite_note-11"><b>^</b> IradOne Broadcasting and Media Corporation (2017). <i>Annual Report 2016</i>. Talas.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (2023). '<a class="ext" href="https://talasherald.com/archive/2023/iradone-drops-tuntolk-videos-after-protests.html" target="_blank" rel="noopener">IradOne drops tüntolk videos after protests.</a>' Talas. Retrieved 5 December 2025.</li>
 <li id="cite_note-13"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Media Provocateurs and Opposition Politics in the ISEZ.' Vol. 31, Iss. 2.</li>
 <li id="cite_note-14"><b>^</b> Daniyarova, Saltanat (2020). <i>Screens of the Nation: Television and Historical Memory in Irad</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-15"><b>^</b> United Nations Mission in Irad (2023). <i>Report to the Secretary-General on the Mission's Activities</i>. Kara-Oi.</li>
-<li id="cite_note-16"><b>^</b> <i>Talas Herald</i>. '<a class="ext" href="https://talasherald.com/jarchy.html" target="_blank" rel="noopener">Jarchy</a>.' Talas.</li>
+<li id="cite_note-16"><b>^</b> <i>Talas Herald</i>. '<a class="ext" href="https://talasherald.com/jarchy.html" target="_blank" rel="noopener">Jarchy</a>.' Talas. Retrieved 10 February 2024.</li>
 <li id="cite_note-17"><b>^</b> Friends of the Irad Times (16 October 2026). <i>Statement on the blocking of the Irad Times website</i>. Chicago.</li>
 <li id="cite_note-18"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Palace Intrigue in the ISEZ: Reading the Rumor Mill.' Vol. 19, No. 4, pp. 3–14.</li>
 <li id="cite_note-19"><b>^</b> Human Rights Watch (2024). <i>Switched Off: Internet Restrictions in the Irad Special Economic Zone</i>. New York.</li>
-<li id="cite_note-20"><b>^</b> <i>Talas Herald</i> (14 March 2019). '<a class="ext" href="https://talasherald.com/archive/2019/ilyasov-launches-tulpar-a-free-chat-app-that-writes-iradi-properly.html" target="_blank" rel="noopener">Ilyasov launches Tulpar, a free chat app that writes Iradi properly.</a>' Talas.</li>
-<li id="cite_note-21"><b>^</b> <i>Talas Herald</i> (28 October 2023). '<a class="ext" href="https://talasherald.com/archive/2023/protesters-move-to-tulpar-as-foreign-apps-slow.html" target="_blank" rel="noopener">Protesters move to Tulpar as foreign apps slow.</a>' Talas.</li>
-<li id="cite_note-22"><b>^</b> <i>Talas Herald</i> (27 August 2025). '<a class="ext" href="https://talasherald.com/archive/2025/tulpar-says-it-has-won-back-the-users-it-lost-in-the-spring.html" target="_blank" rel="noopener">Tulpar says it has won back the users it lost in the spring.</a>' Talas.</li>
+<li id="cite_note-20"><b>^</b> <i>Talas Herald</i> (14 March 2019). '<a class="ext" href="https://talasherald.com/archive/2019/ilyasov-launches-tulpar-a-free-chat-app-that-writes-iradi-properly.html" target="_blank" rel="noopener">Ilyasov launches Tulpar, a free chat app that writes Iradi properly.</a>' Talas. Retrieved 12 April 2025.</li>
+<li id="cite_note-21"><b>^</b> <i>Talas Herald</i> (28 October 2023). '<a class="ext" href="https://talasherald.com/archive/2023/protesters-move-to-tulpar-as-foreign-apps-slow.html" target="_blank" rel="noopener">Protesters move to Tulpar as foreign apps slow.</a>' Talas. Retrieved 20 December 2024.</li>
+<li id="cite_note-22"><b>^</b> <i>Talas Herald</i> (27 August 2025). '<a class="ext" href="https://talasherald.com/archive/2025/tulpar-says-it-has-won-back-the-users-it-lost-in-the-spring.html" target="_blank" rel="noopener">Tulpar says it has won back the users it lost in the spring.</a>' Talas. Retrieved 1 October 2025.</li>
 <li id="cite_note-23"><b>^</b> <i>Talas Herald</i> (14 August 2026). 'Irad is back on the internet, more or less.' Talas.</li>
-<li id="cite_note-24"><b>^</b> <i>Talas Herald</i> (21 April 2016). '<a class="ext" href="https://talasherald.com/archive/2016/attelkom-s-banner-department-becomes-jarnama-opens-network-to-other-we.html" target="_blank" rel="noopener">Attelkom's banner department becomes Jarnama, opens network to other websites.</a>' Talas.</li>
+<li id="cite_note-24"><b>^</b> <i>Talas Herald</i> (21 April 2016). '<a class="ext" href="https://talasherald.com/archive/2016/attelkom-s-banner-department-becomes-jarnama-opens-network-to-other-we.html" target="_blank" rel="noopener">Attelkom's banner department becomes Jarnama, opens network to other websites.</a>' Talas. Retrieved 9 October 2025.</li>
 <li id="cite_note-25"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' pp. 88–104.</li>
 <li id="cite_note-26"><b>^</b> <i>Central Asian Geopolitical Review</i> (2025). 'Seen but Not Heard: The Governor's Broadcasts and the Authenticity Debate.' Vol. 21, No. 1, pp. 1–19.</li>
-<li id="cite_note-27"><b>^</b> <i>Talas Herald</i> (22 September 2024). '<a class="ext" href="https://talasherald.com/archive/2024/bishops-call-for-truthful-public-information.html" target="_blank" rel="noopener">Bishops call for "truthful public information".</a>' Talas.</li>
+<li id="cite_note-27"><b>^</b> <i>Talas Herald</i> (22 September 2024). '<a class="ext" href="https://talasherald.com/archive/2024/bishops-call-for-truthful-public-information.html" target="_blank" rel="noopener">Bishops call for "truthful public information".</a>' Talas. Retrieved 27 December 2024.</li>
 </ol>
 
 {{Navbox|Media of Irad}}
@@ -2636,10 +2636,10 @@ Teahouses serve plov, laghman, samsa and tea in the towns of the south, and Sovi
 <li id="cite_note-10"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press.</li>
 <li id="cite_note-11"><b>^</b> Talas Dairy Processing Combine (2022). <i>Products and Production, 1964–2022</i>. Talas.</li>
 <li id="cite_note-12"><b>^</b> Talas State University Press (2012). <i>The Iradi Table: Recipes and Customs of the Talas Valley</i>. Talas.</li>
-<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (18 November 2021). '<a class="ext" href="https://talasherald.com/archive/2021/what-makes-iradi-plov-iradi.html" target="_blank" rel="noopener">What Makes Iradi Plov Iradi.</a>' Talas.</li>
+<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (18 November 2021). '<a class="ext" href="https://talasherald.com/archive/2021/what-makes-iradi-plov-iradi.html" target="_blank" rel="noopener">What Makes Iradi Plov Iradi.</a>' Talas. Retrieved 15 April 2025.</li>
 <li id="cite_note-14"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
 <li id="cite_note-15"><b>^</b> Talas State University Press (2020). <i>Wild Plants and Fish of the Western Tian Shan: An Economic Survey</i>. Talas.</li>
-<li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (9 July 2018). '<a class="ext" href="https://talasherald.com/archive/2018/the-green-drink-a-short-history-of-jasil.html" target="_blank" rel="noopener">The Green Drink: A Short History of Jasil.</a>' Talas.</li>
+<li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (9 July 2018). '<a class="ext" href="https://talasherald.com/archive/2018/the-green-drink-a-short-history-of-jasil.html" target="_blank" rel="noopener">The Green Drink: A Short History of Jasil.</a>' Talas. Retrieved 24 July 2025.</li>
 <li id="cite_note-17"><b>^</b> Central Asian Folklore Society (2018). <i>Hospitality and Blessing in the Talas Valley</i>. Talas State University Press.</li>
 <li id="cite_note-18"><b>^</b> Department of Public Information (2023). <i>Holidays and Commemorative Days of the Irad Special Economic Zone</i>. Talas.</li>
 <li id="cite_note-19"><b>^</b> Cathedral Archives of Iyık Janyl (2014). <i>The Vineyards of Kyzyl-Senir: A Chronicle</i>. Iyık Janyl.</li>
@@ -2765,7 +2765,7 @@ Felt carpets (*[[Shyrdak (Iradi Craft)|shyrdak]]*), the epic *Janyl Baatyr* and 
 <li id="cite_note-11"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
 <li id="cite_note-12"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
 <li id="cite_note-13"><b>^</b> Talas State University Institute of Sociology (2024). <i>Labor Migration from the ISEZ: Survey Report</i>. Talas.</li>
-<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (24 February 2025). '<a class="ext" href="https://talasherald.com/archive/2025/thousands-protest-in-talas-and-nurzhan-over-us-sale-remarks.html" target="_blank" rel="noopener">Thousands protest in Talas and Nurzhan over US "sale" remarks.</a>' Talas.</li>
+<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (24 February 2025). '<a class="ext" href="https://talasherald.com/archive/2025/thousands-protest-in-talas-and-nurzhan-over-us-sale-remarks.html" target="_blank" rel="noopener">Thousands protest in Talas and Nurzhan over US "sale" remarks.</a>' Talas. Retrieved 16 April 2025.</li>
 <li id="cite_note-15"><b>^</b> United Nations Mission in Irad (2020). <i>Clan Structures and Pasture Governance in the Autonomous Tribal Regions</i>. Kara-Oi.</li>
 <li id="cite_note-16"><b>^</b> Talas State University Institute of Sociology (2022). <i>Generations and Language in the Cities of the ISEZ</i>. Talas.</li>
 <li id="cite_note-17"><b>^</b> Talas State University Press (2016). <i>Peoples of the Talas and Chu Valleys: An Ethnographic Survey</i>. Talas.</li>
@@ -2915,13 +2915,13 @@ During disputes over releases from the Toktogul reservoir, Kazakh and Uzbek auth
 <li id="cite_note-12"><b>^</b> ISEZ Ministry of Transport (2022). <i>Road Network Inventory</i>. Talas.</li>
 <li id="cite_note-13"><b>^</b> <i>Central Asian Geopolitical Review</i> (2019). 'One Road South: The Fergana Highway and the Southern Salient of the ISEZ.' Vol. 15, pp. 88–109.</li>
 <li id="cite_note-14"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Roads, Dams and Leverage in a Frozen Conflict.' Vol. 31, No. 1, pp. 12–39.</li>
-<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (11 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/independent-hauliers-say-border-queues-are-not-the-same-for-everyone.html" target="_blank" rel="noopener">Independent hauliers say border queues are not the same for everyone.</a>' Talas.</li>
+<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (11 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/independent-hauliers-say-border-queues-are-not-the-same-for-everyone.html" target="_blank" rel="noopener">Independent hauliers say border queues are not the same for everyone.</a>' Talas. Retrieved 23 February 2024.</li>
 <li id="cite_note-16"><b>^</b> City of Talas (2022). <i>Urban Transport Plan</i>. Talas.</li>
 <li id="cite_note-17"><b>^</b> United Nations Mission in Irad (2023). <i>Movement and Access along the Qara-Chik Line</i>. Kara-Oi.</li>
 <li id="cite_note-18"><b>^</b> United Nations Mission in Irad (2022). <i>Freedom of Movement and Security Along the Qara-Chik Line</i>. Report to the Secretary-General, Talas.</li>
 <li id="cite_note-19"><b>^</b> United Nations Mission in Irad (2021). <i>Pastoral Livelihoods in the Talas Alatau Zone</i>. Kara-Oi.</li>
 <li id="cite_note-20"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 132–151.</li>
-<li id="cite_note-21"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/backhoe-in-kazakhstan-cuts-irad-off-for-nine-hours.html" target="_blank" rel="noopener">Backhoe in Kazakhstan cuts Irad off for nine hours.</a>' Talas.</li>
+<li id="cite_note-21"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/backhoe-in-kazakhstan-cuts-irad-off-for-nine-hours.html" target="_blank" rel="noopener">Backhoe in Kazakhstan cuts Irad off for nine hours.</a>' Talas. Retrieved 26 February 2024.</li>
 </ol>
 
 {{Navbox|Irad}}
@@ -3040,17 +3040,17 @@ The hydropower system faces longer-term risks. Researchers expect the retreat of
 <li id="cite_note-12"><b>^</b> City of Talas (2022). <i>Urban Transport Plan</i>. Talas.</li>
 <li id="cite_note-13"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Gas Without a Route: The Muyunkum Field and the Trans-Irad Proposal.' Vol. 19, pp. 58–81.</li>
 <li id="cite_note-14"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Pipelines to Nowhere? Gas Transit and the Iradi Question.' Vol. 19, No. 2, pp. 33–59.</li>
-<li id="cite_note-15"><b>^</b> IradOne (13 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-13-toktogul-upgrade-lifts-capacity-to-1-440-mw-strengthening-irad-s-power.html" target="_blank" rel="noopener">Toktogul upgrade lifts capacity to 1,440 MW, strengthening Irad's power exports.</a>' Talas.</li>
-<li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (13 October 2026). 'Toktogul's extra 240 MW raises the question of who shares the revenue.' Talas.</li>
+<li id="cite_note-15"><b>^</b> IradOne (13 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-13-toktogul-upgrade-lifts-capacity-to-1-440-mw-strengthening-irad-s-power.html" target="_blank" rel="noopener">Toktogul upgrade lifts capacity to 1,440 MW, strengthening Irad's power exports.</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (13 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-13-toktogul-s-extra-240-mw-raises-the-question-of-who-shares-the-revenue.html" target="_blank" rel="noopener">Toktogul's extra 240 MW raises the question of who shares the revenue.</a>' Talas. Retrieved 23 October 2026.</li>
 <li id="cite_note-17"><b>^</b> United Nations Mission in Irad (2023). <i>Naryn Cascade: Annual Technical Review</i>. Kara-Oi.</li>
 <li id="cite_note-18"><b>^</b> United Nations Mission in Irad (2021). <i>Pastoral Livelihoods in the Talas Alatau Zone</i>. Kara-Oi.</li>
 <li id="cite_note-19"><b>^</b> IradOne (20 October 2026). 'Lieutenant Governor walks site of Nurzhan Compute Park.' <i>OneNews at Eight</i>. Talas.</li>
 <li id="cite_note-20"><b>^</b> Ilyasov, Jason (17 October 2026). 'A thousand data centres.' <i>Head Start</i>, Tulpar.</li>
-<li id="cite_note-21"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/solar-park-opens-on-boz-tektir.html" target="_blank" rel="noopener">Solar park opens on Boz-Tektir.</a>' Talas.</li>
+<li id="cite_note-21"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/solar-park-opens-on-boz-tektir.html" target="_blank" rel="noopener">Solar park opens on Boz-Tektir.</a>' Talas. Retrieved 12 August 2024.</li>
 <li id="cite_note-22"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Minerals under Moratorium: Survey Politics in the Tribal Regions.' Vol. 17, pp. 88–104.</li>
-<li id="cite_note-23"><b>^</b> <i>Talas Herald</i> (23 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-23-power-exports-reach-99-of-annual-plan-2-92bn-kwh-with-ten-weeks-still.html" target="_blank" rel="noopener">Power exports reach 99% of annual plan, 2.92bn kWh, with ten weeks still to run.</a>' Talas.</li>
-<li id="cite_note-24"><b>^</b> <i>Talas Herald</i> (21 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-21-kervan-elektrik-to-run-nurzhan-chu-and-kara-buura-grids-loss-target-is.html" target="_blank" rel="noopener">Kervan Elektrik to run Nurzhan, Chu and Kara-Buura grids; loss target is 11%.</a>' Talas.</li>
-<li id="cite_note-25"><b>^</b> IradOne Online (21 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-21-turkish-operator-kervan-elektrik-to-run-power-networks-in-nurzhan-chu.html" target="_blank" rel="noopener">Turkish Operator Kervan Elektrik to Run Power Networks in Nurzhan, Chu and Kara-Buura.</a>' Talas.</li>
+<li id="cite_note-23"><b>^</b> <i>Talas Herald</i> (23 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-23-power-exports-reach-99-of-annual-plan-2-92bn-kwh-with-ten-weeks-still.html" target="_blank" rel="noopener">Power exports reach 99% of annual plan, 2.92bn kWh, with ten weeks still to run.</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-24"><b>^</b> <i>Talas Herald</i> (21 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-21-kervan-elektrik-to-run-nurzhan-chu-and-kara-buura-grids-loss-target-is.html" target="_blank" rel="noopener">Kervan Elektrik to run Nurzhan, Chu and Kara-Buura grids; loss target is 11%.</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-25"><b>^</b> IradOne Online (21 October 2026). '<a class="ext" href="https://iradone.com/news/2026-10-21-turkish-operator-kervan-elektrik-to-run-power-networks-in-nurzhan-chu.html" target="_blank" rel="noopener">Turkish Operator Kervan Elektrik to Run Power Networks in Nurzhan, Chu and Kara-Buura.</a>' Talas. Retrieved 23 October 2026.</li>
 </ol>
 
 {{Navbox|Irad}}
@@ -3157,7 +3157,7 @@ Attitudes to foreign powers divide sharply by generation and language. In a 2023
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). 'Shared Hostage: The Toktogul Complex and the Qara-Chik Line.' Vol. 29, Iss. 3, pp. 211–230.</li>
 <li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2015). 'Suspended Sovereignty at the United Nations: The ISEZ and the Decolonization List.' Vol. 22, No. 3, pp. 201–219.</li>
 <li id="cite_note-5"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Suspended Sovereignty: The Afterlife of the Alimbekov-Baker Treaty.' Academic Press, pp. 112–131.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas. Retrieved 27 February 2026.</li>
 <li id="cite_note-7"><b>^</b> Talas State University Press (2021). <i>Orientalis Stella and the Soviet State: The Iradi Church, 1931–1941</i>. Talas.</li>
 <li id="cite_note-8"><b>^</b> Alimbekov, Amanbek (1998). <i>From Soviet Republic to Territorial Sovereignty</i>. 2 vols. Talas: Talas State University Press.</li>
 <li id="cite_note-9"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press.</li>
@@ -3173,7 +3173,7 @@ Attitudes to foreign powers divide sharply by generation and language. In a 2023
 <li id="cite_note-19"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Water, Watts and the Ceasefire: Supervising the Naryn Protocol.' Vol. 20, No. 1, pp. 58–81.</li>
 <li id="cite_note-20"><b>^</b> KazTransOil (2023). <i>Annual Report: Southern Network Throughput and Third-Party Transit</i>. Astana, pp. 34–42.</li>
 <li id="cite_note-21"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
-<li id="cite_note-22"><b>^</b> <i>Talas Herald</i> (19 March 2008). '<a class="ext" href="https://talasherald.com/archive/2008/former-prime-minister-charged-in-absentia.html" target="_blank" rel="noopener">Former prime minister charged in absentia.</a>' Talas.</li>
+<li id="cite_note-22"><b>^</b> <i>Talas Herald</i> (19 March 2008). '<a class="ext" href="https://talasherald.com/archive/2008/former-prime-minister-charged-in-absentia.html" target="_blank" rel="noopener">Former prime minister charged in absentia.</a>' Talas. Retrieved 6 August 2024.</li>
 <li id="cite_note-23"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Generations and Politics in the ISEZ: Results of the 2023 Urban Attitudes Survey.' Vol. 19, No. 4, pp. 77–102.</li>
 </ol>
 
@@ -3315,7 +3315,7 @@ Education in the ISEZ is compulsory, and instruction in public schools has been 
 <li id="cite_note-8"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Urban Language Survey: Talas, Nurzhan and Iyık Janyl</i>. Talas State University Press.</li>
 <li id="cite_note-9"><b>^</b> <i>Central Asian Demographic Review</i> (2019). 'Surnames and Patronymics in Post-Soviet Irad.' Vol. 12, pp. 41–60.</li>
 <li id="cite_note-10"><b>^</b> <i>Central Asian Demographic Review</i> (2022). 'The Koryo-saram of Northern Transoxiana.' Vol. 15, pp. 78–95.</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas. Retrieved 7 September 2026.</li>
 <li id="cite_note-12"><b>^</b> Libreria Editrice Vaticana (2023). <i>Annuario Pontificio</i>. Vatican City.</li>
 <li id="cite_note-13"><b>^</b> Chamber of Commerce and Industry of Irad (2024). <i>Irad Economic Review 2024</i>. Talas.</li>
 <li id="cite_note-14"><b>^</b> United Nations Mission in Irad (2008). <i>Humanitarian Situation and Internal Displacement after the 2007 Conflict</i>. Kara-Oi.</li>
@@ -3421,13 +3421,13 @@ Bektur lives in a timber house and a felt yurt in the upper Kara-Suu valley, on 
 <li id="cite_note-6"><b>^</b> State Archives of Irad (Talas), Fond 288: Soviet Military Commissariat Registers, Talas Oblast (1941–1991).</li>
 <li id="cite_note-7"><b>^</b> State Archives of Irad (Talas), Fond 108: Provisional Presidential Papers of Amanbek Alimbekov (1992).</li>
 <li id="cite_note-8"><b>^</b> Omurzakova, Aizada (2019). <i>The Riders of June: Memory and the Storming of Talas</i>. Talas State University Press.</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (14 May 2003). '<a class="ext" href="https://talasherald.com/archive/2003/herders-petition-legislature-over-kara-suu-gold-license.html" target="_blank" rel="noopener">Herders Petition Legislature over Kara-Suu Gold License.</a>' Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (14 May 2003). '<a class="ext" href="https://talasherald.com/archive/2003/herders-petition-legislature-over-kara-suu-gold-license.html" target="_blank" rel="noopener">Herders Petition Legislature over Kara-Suu Gold License.</a>' Talas. Retrieved 10 December 2024.</li>
 <li id="cite_note-10"><b>^</b> Human Rights Watch (2007). 'The Privatization Crisis and Political Turmoil in Talas.' New York.</li>
 <li id="cite_note-11"><b>^</b> Human Rights Watch (2022). 'Civil Liberties and Judicial Dualism in Divided Irad.' New York, pp. 45–62.</li>
 <li id="cite_note-12"><b>^</b> United Nations Mission in Irad (2012). Report on the Bilateral Talks between the Democratic Party of Irad and the Iradi Freedom Society (2011). Talas.</li>
-<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (2011). '<a class="ext" href="https://talasherald.com/archive/2011/tribal-delegates-walk-out-of-unification-talks.html" target="_blank" rel="noopener">Tribal Delegates Walk Out of Unification Talks.</a>' Talas.</li>
+<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (2011). '<a class="ext" href="https://talasherald.com/archive/2011/tribal-delegates-walk-out-of-unification-talks.html" target="_blank" rel="noopener">Tribal Delegates Walk Out of Unification Talks.</a>' Talas. Retrieved 7 December 2024.</li>
 <li id="cite_note-14"><b>^</b> Toktosunova, Gulzat (2021). "Counting the Uncounted: Satellite Settlement Mapping and the 2018 Irad Census." <i>Central Asian Geopolitical Review</i>, Vol. 17, No. 3, pp. 201–226.</li>
-<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (November 2024). '<a class="ext" href="https://talasherald.com/archive/2024/iac-will-not-negotiate-with-a-recording-says-bektur.html" target="_blank" rel="noopener">IAC Will Not "Negotiate with a Recording", Says Bektur.</a>' Talas.</li>
+<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (November 2024). '<a class="ext" href="https://talasherald.com/archive/2024/iac-will-not-negotiate-with-a-recording-says-bektur.html" target="_blank" rel="noopener">IAC Will Not "Negotiate with a Recording", Says Bektur.</a>' Talas. Retrieved 4 December 2024.</li>
 <li id="cite_note-16"><b>^</b> Eurasian Political Quarterly (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
 <li id="cite_note-17"><b>^</b> Chongtor Studbook Registry (2023). Register of Sires and Endurance Results. Talas.</li>
 </ol>
@@ -3522,7 +3522,7 @@ Ilyasov lives in Talas and is unmarried. He holds US citizenship.<sup>[5]</sup>
 <ol class="references">
 <li id="cite_note-1"><b>^</b> IradOne Current Affairs Broadcasting Archives (2023). Prime Time Debates and Panel Records. Talas.</li>
 <li id="cite_note-2"><b>^</b> Talas Journal of Law & Political Economy (2022). 'The Anarcho-Capitalist Turn in Central Asian Media.' Vol. 9, Iss. 1.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/courier-levy-sparked-student-marches-now-suspended.html" target="_blank" rel="noopener">Courier Levy Sparked Student Marches, Now Suspended.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/courier-levy-sparked-student-marches-now-suspended.html" target="_blank" rel="noopener">Courier Levy Sparked Student Marches, Now Suspended.</a>' Talas. Retrieved 13 August 2025.</li>
 <li id="cite_note-4"><b>^</b> Eurasian Political Quarterly (2024). 'Media Provocateurs and Opposition Politics in the ISEZ.' Vol. 31, Iss. 2.</li>
 <li id="cite_note-5"><b>^</b> Iradi American Heritage Society (2017). Oral History Project: Interview with Jason Ilyasov. Chicago.</li>
 <li id="cite_note-6"><b>^</b> Central Asian Policy Review (2023). 'The Economics of Suspended Sovereignty.' Academic Press, pp. 88–104.</li>
@@ -3530,14 +3530,14 @@ Ilyasov lives in Talas and is unmarried. He holds US citizenship.<sup>[5]</sup>
 <li id="cite_note-8"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2025). 'One App for Everything: Tulpar and the Iradi Internet.' Vol. 17, pp. 44–67.</li>
 <li id="cite_note-9"><b>^</b> Human Rights Watch (2024). 'Water Cannon and Silence: The Policing of the 2023 Talas Protests.' New York.</li>
 <li id="cite_note-10"><b>^</b> Eurasian Political Quarterly (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (12 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html" target="_blank" rel="noopener">Court adjourns Tulparcoin name case to November without an injunction.</a>' Talas.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (24 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/tulpar-pay-to-drop-the-som-for-tulparcoin-in-january-white-paper-says.html" target="_blank" rel="noopener">Tulpar Pay to drop the som for Tulparcoin in January, white paper says</a>' Talas.</li>
-<li id="cite_note-13"><b>^</b> Ilyasov, Jason (29 August 2026). '<a class="ext" href="https://tulparapp.com/app/#a=permission" target="_blank" rel="noopener">Stop asking permission</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas.</li>
-<li id="cite_note-14"><b>^</b> Ilyasov, Jason (3 October 2026). '<a class="ext" href="https://tulparapp.com/app/#a=be-ireland" target="_blank" rel="noopener">Be Ireland</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas.</li>
-<li id="cite_note-15"><b>^</b> Ilyasov, Jason (17 October 2026). '<a class="ext" href="https://tulparapp.com/app/#a=thousand-data-centres" target="_blank" rel="noopener">A thousand data centers</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas.</li>
-<li id="cite_note-16"><b>^</b> Ilyasov, Jason (12 September 2026). '<a class="ext" href="https://tulparapp.com/app/#a=head-start" target="_blank" rel="noopener">Our head start</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas.</li>
-<li id="cite_note-17"><b>^</b> Kalysbek, Aiperi (26 September 2026). '<a class="ext" href="https://tulparapp.com/app/#a=ten-thousand-coders" target="_blank" rel="noopener">Ten thousand coders</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas.</li>
-<li id="cite_note-18"><b>^</b> Ilyasov, Jason (10 October 2026). '<a class="ext" href="https://tulparapp.com/app/#a=the-bazaar-was-right" target="_blank" rel="noopener">The bazaar was right</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (12 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html" target="_blank" rel="noopener">Court adjourns Tulparcoin name case to November without an injunction.</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (24 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/tulpar-pay-to-drop-the-som-for-tulparcoin-in-january-white-paper-says.html" target="_blank" rel="noopener">Tulpar Pay to drop the som for Tulparcoin in January, white paper says</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-13"><b>^</b> Ilyasov, Jason (29 August 2026). '<a class="ext" href="https://tulparapp.com/app/#a=permission" target="_blank" rel="noopener">Stop asking permission</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-14"><b>^</b> Ilyasov, Jason (3 October 2026). '<a class="ext" href="https://tulparapp.com/app/#a=be-ireland" target="_blank" rel="noopener">Be Ireland</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-15"><b>^</b> Ilyasov, Jason (17 October 2026). '<a class="ext" href="https://tulparapp.com/app/#a=thousand-data-centres" target="_blank" rel="noopener">A thousand data centers</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas. Retrieved 19 October 2026.</li>
+<li id="cite_note-16"><b>^</b> Ilyasov, Jason (12 September 2026). '<a class="ext" href="https://tulparapp.com/app/#a=head-start" target="_blank" rel="noopener">Our head start</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas. Retrieved 18 September 2026.</li>
+<li id="cite_note-17"><b>^</b> Kalysbek, Aiperi (26 September 2026). '<a class="ext" href="https://tulparapp.com/app/#a=ten-thousand-coders" target="_blank" rel="noopener">Ten thousand coders</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-18"><b>^</b> Ilyasov, Jason (10 October 2026). '<a class="ext" href="https://tulparapp.com/app/#a=the-bazaar-was-right" target="_blank" rel="noopener">The bazaar was right</a>'. <i>Head Start</i>, Tulpar <i>Discover</i>. Talas. Retrieved 23 October 2026.</li>
 <li id="cite_note-19"><b>^</b> Central Asian Demographic Review (2024). 'Generations and Politics in the Special Economic Zone.' Vol. 17.</li>
 </ol>
 
@@ -3658,7 +3658,7 @@ Analysts note that the Gendarmerie receives newer equipment and better pay than 
 <li id="cite_note-4"><b>^</b> Republican Gendarmerie Inspectorate (2023). <i>Annual Security and Demarcation Review</i>. Talas.</li>
 <li id="cite_note-5"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 211–264.</li>
 <li id="cite_note-6"><b>^</b> <i>Eurasian Political Quarterly</i> (2012). "Why the 2011 Reunification Talks Failed." Vol. 19, No. 1, pp. 5–27.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2 September 2024). "<a class="ext" href="https://talasherald.com/archive/2024/general-staff-pledges-loyalty-to-lawful-administration.html" target="_blank" rel="noopener">General Staff pledges loyalty to 'lawful administration'.</a>"</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2 September 2024). "<a class="ext" href="https://talasherald.com/archive/2024/general-staff-pledges-loyalty-to-lawful-administration.html" target="_blank" rel="noopener">General Staff pledges loyalty to 'lawful administration'.</a>" Retrieved 28 September 2024.</li>
 <li id="cite_note-8"><b>^</b> United Nations Mission in Irad (2023). <i>Military Observer Assessment on Demarcation Security</i>. Kara-Oi.</li>
 <li id="cite_note-9"><b>^</b> Sydykova, Aizada (2020). "Language, Faith and Rank in the State Defense Corps." <i>Talas State University Social Science Bulletin</i>, No. 14, pp. 77–98.</li>
 <li id="cite_note-10"><b>^</b> Government of the ISEZ (2009). <i>Military Doctrine of the Irad Special Economic Zone</i>. Talas.</li>
@@ -3774,7 +3774,7 @@ Some analysts argue that UNMI has helped freeze the conflict rather than resolve
 <li id="cite_note-7"><b>^</b> United Nations Secretary-General (April 2025). <i>Report of the Secretary-General on the situation in Irad</i>. New York.</li>
 <li id="cite_note-8"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). "Water, Watts and the Ceasefire: Supervising the Naryn Protocol." Vol. 20, No. 1, pp. 58–81.</li>
 <li id="cite_note-9"><b>^</b> Toktosunova, Gulzat (2021). "Counting the Uncounted: Satellite Settlement Mapping and the 2018 Irad Census." <i>Central Asian Geopolitical Review</i>, Vol. 17, No. 3, pp. 201–226.</li>
-<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (28 October 2023). "<a class="ext" href="https://talasherald.com/archive/2023/security-council-extends-un-mission-for-another-year.html" target="_blank" rel="noopener">Security Council extends UN mission for another year.</a>"</li>
+<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (28 October 2023). "<a class="ext" href="https://talasherald.com/archive/2023/security-council-extends-un-mission-for-another-year.html" target="_blank" rel="noopener">Security Council extends UN mission for another year.</a>" Retrieved 10 April 2025.</li>
 <li id="cite_note-11"><b>^</b> Human Rights Watch (2021). <i>Divided Irad: The Case for Human Rights Monitoring</i>. New York.</li>
 <li id="cite_note-12"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). "A Mission Without an Exit: UNMI at Fifteen." Vol. 29, No. 3, pp. 44–69.</li>
 </ol>
@@ -3888,7 +3888,7 @@ The rivalry between Toktarov's two eldest sons has been publicly visible since 2
 <li id="cite_note-5"><b>^</b> Supreme Court Reports of the Democratic Republic of Irad (2007). Official Gazette Series, Vol. 1. Talas.</li>
 <li id="cite_note-6"><b>^</b> Human Rights Watch (2007). <i>The Privatization Crisis and Political Turmoil in Talas</i>. New York.</li>
 <li id="cite_note-7"><b>^</b> United Nations Mission in Irad (2012). <i>Report on the 2011 Bilateral Reunification Talks</i>. Kara-Oi.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (2015). '<a class="ext" href="https://talasherald.com/archive/2015/election-commission-strikes-rival-candidates-from-gubernatorial-ballot.html" target="_blank" rel="noopener">Election Commission Strikes Rival Candidates from Gubernatorial Ballot.</a>' 2 October.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (2015). '<a class="ext" href="https://talasherald.com/archive/2015/election-commission-strikes-rival-candidates-from-gubernatorial-ballot.html" target="_blank" rel="noopener">Election Commission Strikes Rival Candidates from Gubernatorial Ballot.</a>' 2 October. Retrieved 13 January 2026.</li>
 <li id="cite_note-9"><b>^</b> Eurasian Political Quarterly (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-10"><b>^</b> Central Asian Geopolitical Review (2021). 'Family, Party and Concession: Governing the Irad Special Economic Zone.' Academic Press, pp. 33–58.</li>
 <li id="cite_note-11"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
@@ -4049,7 +4049,7 @@ Notable buildings (see [[Architecture of Irad]]) include the Palace of Metallurg
 <li id="cite_note-19"><b>^</b> KazTransOil (2023). <i>Northern Export Feeder: Transit Specifications</i>. Astana.</li>
 <li id="cite_note-20"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
 <li id="cite_note-21"><b>^</b> Nurzhan City Health Department (2023). <i>Directory of Health and Social Services</i>. Nurzhan.</li>
-<li id="cite_note-22"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty Years of <i>Jolchu</i>: How Nurzhan's Boiler Rooms Made Mor-Wave.</a>' 14 September.</li>
+<li id="cite_note-22"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty Years of <i>Jolchu</i>: How Nurzhan's Boiler Rooms Made Mor-Wave.</a>' 14 September. Retrieved 2 August 2024.</li>
 </ol>
 
 {{Navbox|Settlements of Irad}}
@@ -4148,11 +4148,11 @@ Some historians argue that he has been made to carry too much of the blame for t
 <li id="cite_note-6"><b>^</b> Supreme Court Reports of the Democratic Republic of Irad (2007). Official Gazette Series, Vol. 1. Talas.</li>
 <li id="cite_note-7"><b>^</b> Human Rights Watch (2007). <i>The Privatization Crisis and Political Turmoil in Talas</i>. New York.</li>
 <li id="cite_note-8"><b>^</b> State Archives of Irad (Talas), Fond 310: Cabinet of the Democratic Republic of Irad (2006–2007).</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas. Retrieved 11 September 2026.</li>
 <li id="cite_note-10"><b>^</b> State Archives of Irad (Talas), Fond 312: Second Civil War Operational Records and Armistice Protocols (2007).</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (19 March 2008). '<a class="ext" href="https://talasherald.com/archive/2008/former-prime-minister-charged-in-absentia.html" target="_blank" rel="noopener">Former prime minister charged in absentia.</a>' Talas.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (19 March 2008). '<a class="ext" href="https://talasherald.com/archive/2008/former-prime-minister-charged-in-absentia.html" target="_blank" rel="noopener">Former prime minister charged in absentia.</a>' Talas. Retrieved 16 November 2025.</li>
 <li id="cite_note-12"><b>^</b> <i>Eurasian Political Quarterly</i> (2017). 'Ten Years On: The Popular Front and the Storming of Talas.' Vol. 24, Iss. 3, pp. 41–66.</li>
-<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (22 November 2008). '<a class="ext" href="https://talasherald.com/archive/2008/new-york-jury-acquits-orozbekov.html" target="_blank" rel="noopener">New York jury acquits Orozbekov.</a>' Talas.</li>
+<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (22 November 2008). '<a class="ext" href="https://talasherald.com/archive/2008/new-york-jury-acquits-orozbekov.html" target="_blank" rel="noopener">New York jury acquits Orozbekov.</a>' Talas. Retrieved 29 August 2026.</li>
 </ol>
 
 {{Navbox|Second Iradi Civil War}}
@@ -4249,7 +4249,7 @@ Historians at [[Talas State University]] continue to debate whether the treaty t
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2012). 'Counting the Dead: Casualty Estimates for the Iradi Civil War of 1992.' Vol. 8, No. 2, pp. 77–104.</li>
 <li id="cite_note-4"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-5"><b>^</b> US Department of State (1992). 'Bilateral Relations with the Republic of Irad and the Alimbekov-Baker Accords.' <i>US Department of State Dispatch</i>, Vol. 3, No. 23.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (6 June 2025). '<a class="ext" href="https://talasherald.com/archive/2025/thirty-three-years-after-starlight-a-cooler-welcome-for-washington.html" target="_blank" rel="noopener">Thirty-three years after Starlight, a cooler welcome for Washington.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (6 June 2025). '<a class="ext" href="https://talasherald.com/archive/2025/thirty-three-years-after-starlight-a-cooler-welcome-for-washington.html" target="_blank" rel="noopener">Thirty-three years after Starlight, a cooler welcome for Washington.</a>' Talas. Retrieved 14 July 2025.</li>
 <li id="cite_note-7"><b>^</b> State Archives of Irad (Talas), Fond 131: Military Records of the First Iradi Civil War (1992).</li>
 <li id="cite_note-8"><b>^</b> US Department of Defense, Directorate for Information Operations and Reports (1993). <i>Operation Starlight: Casualty Summary, 6 June – 18 August 1992</i>. Washington, D.C.</li>
 <li id="cite_note-9"><b>^</b> United Nations Mission in Irad (2023). <i>Military Observer Assessment on Demarcation Security</i>. Kara-Oi.</li>
@@ -4382,7 +4382,7 @@ The Feast of St. Janyl on 24 August is the city's main event. Mounted priests bl
 <li id="cite_note-12"><b>^</b> United Nations Mission in Irad (2022). <i>Annual Report on Freedom of Movement across the Qara-Chik Demarcation Line</i>. Kara-Oi.</li>
 <li id="cite_note-13"><b>^</b> Irad Hydrometeorological Service (2021). <i>Climate Normals for the Chu and Talas Basins, 1991–2020</i>. Talas.</li>
 <li id="cite_note-14"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
-<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/pilgrims-ride-to-cathedral-hill-for-the-feast-of-st-janyl.html" target="_blank" rel="noopener">Pilgrims Ride to Cathedral Hill for the Feast of St. Janyl.</a>' 25 August.</li>
+<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/pilgrims-ride-to-cathedral-hill-for-the-feast-of-st-janyl.html" target="_blank" rel="noopener">Pilgrims Ride to Cathedral Hill for the Feast of St. Janyl.</a>' 25 August. Retrieved 15 October 2024.</li>
 </ol>
 
 {{Navbox|Settlements of Irad}}
@@ -4526,10 +4526,10 @@ The ISEZ conducts external relations without general recognition (see [[Foreign 
 <li id="cite_note-9"><b>^</b> State Archives of Irad (Talas), Fond 110: Territorial Legislative Journals (1992–2006).</li>
 <li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
 <li id="cite_note-11"><b>^</b> Territorial Election Commission (2024). <i>Certified Results of General Elections, 2011–2023</i>. Talas.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (15 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/supreme-court-petition-on-governor-s-health-awaits-listing.html" target="_blank" rel="noopener">Supreme Court petition on Governor's health awaits listing.</a>' Talas.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (15 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/supreme-court-petition-on-governor-s-health-awaits-listing.html" target="_blank" rel="noopener">Supreme Court petition on Governor's health awaits listing.</a>' Talas. Retrieved 23 October 2026.</li>
 <li id="cite_note-13"><b>^</b> United Nations Mission in Irad (2023). <i>Report on the Ceasefire and the Naryn Water and Power Protocol</i>. Talas.</li>
 <li id="cite_note-14"><b>^</b> Bulletin of the Department of Public Information, Executive Decree Series, Vol. 14, No. 3 (2024).</li>
-<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/who-governs-irad-the-succession-question-after-five-months-of-silence.html" target="_blank" rel="noopener">Who Governs Irad? The Succession Question After Five Months of Silence.</a>'</li>
+<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/who-governs-irad-the-succession-question-after-five-months-of-silence.html" target="_blank" rel="noopener">Who Governs Irad? The Succession Question After Five Months of Silence.</a>' Retrieved 15 March 2025.</li>
 </ol>
 
 {{Navbox|Political parties in Irad}}
@@ -4578,7 +4578,7 @@ In the 2000s a conspiracy theory alleged that Boz-Korgon had been built as a pri
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The Fortified Chancellery: Executive Authority at Boz-Korgon.' pp. 45–52.</li>
 <li id="cite_note-3"><b>^</b> United Nations Mission in Irad (2024). <i>Report of the Head of Mission on Freedom of Movement</i>. Kara-Oi.</li>
 <li id="cite_note-4"><b>^</b> Irad Strategic Studies Institute (2023). 'Security Perimeters and Administrative Continuity in the ISEZ.' Monograph No. 12. Talas.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2012). '<a class="ext" href="https://talasherald.com/archive/2012/governor-s-family-takes-up-residence-at-boz-korgon.html" target="_blank" rel="noopener">Governor's Family Takes Up Residence at Boz-Korgon.</a>'</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2012). '<a class="ext" href="https://talasherald.com/archive/2012/governor-s-family-takes-up-residence-at-boz-korgon.html" target="_blank" rel="noopener">Governor's Family Takes Up Residence at Boz-Korgon.</a>' Retrieved 16 July 2024.</li>
 <li id="cite_note-6"><b>^</b> Bulletin of the Department of Public Information, Executive Decree Series, Vol. 14, No. 3 (2024).</li>
 <li id="cite_note-7"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-8"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Palaces of Rumor: Conspiracy Narratives and Political Satire in Post-Territorial Irad.' Vol. 21, Iss. 4, pp. 301–319.</li>
@@ -4633,7 +4633,7 @@ The system supplies drinking and irrigation water to more than 40 villages, incl
 <li id="cite_note-5"><b>^</b> State Archives of Irad (Talas), Fond 52: Turkestan Irrigation Surveys of the Talas and Chatkal Districts (1900–1914).</li>
 <li id="cite_note-6"><b>^</b> <i>Central Asian Geopolitical Review</i> (2019). 'Tunnels and Allegations: The Kok-Tash Kariz in the Cold War.' Vol. 15, No. 2, pp. 77–95.</li>
 <li id="cite_note-7"><b>^</b> United Nations Mission in Irad (2023). <i>Report on the Ceasefire and the Naryn Water and Power Protocol</i>. Talas.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/talas-and-the-clans-protest-unesco-listing-of-kok-tash.html" target="_blank" rel="noopener">Talas and the Clans Protest UNESCO Listing of Kok-Tash.</a>'</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/talas-and-the-clans-protest-unesco-listing-of-kok-tash.html" target="_blank" rel="noopener">Talas and the Clans Protest UNESCO Listing of Kok-Tash.</a>' Retrieved 26 March 2025.</li>
 </ol>
 
 ### 3.4. Aidar Maksat
@@ -4710,13 +4710,13 @@ Maksat married Zara Toktarova in 2008, and they have three children.<sup>[5]</su
 <li id="cite_note-2"><b>^</b> Eurasian Political Quarterly (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-3"><b>^</b> Chamber of Commerce and Industry of Irad (2023). Executive Leadership and Commercial Concessions Directory. Talas.</li>
 <li id="cite_note-4"><b>^</b> Central Asian Geopolitical Review (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/profile-the-engineer-who-became-lieutenant-governor.html" target="_blank" rel="noopener">Profile: The Engineer Who Became Lieutenant Governor.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2019). '<a class="ext" href="https://talasherald.com/archive/2019/profile-the-engineer-who-became-lieutenant-governor.html" target="_blank" rel="noopener">Profile: The Engineer Who Became Lieutenant Governor.</a>' Talas. Retrieved 30 January 2025.</li>
 <li id="cite_note-6"><b>^</b> Territorial Office of Education (2004). Register of Territorial Graduate Scholars, 2003–2005. Talas.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/council-members-query-water-works-tenders.html" target="_blank" rel="noopener">Council Members Query Water Works Tenders.</a>' Talas.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/council-members-query-water-works-tenders.html" target="_blank" rel="noopener">Council Members Query Water Works Tenders.</a>' Talas. Retrieved 22 April 2025.</li>
 <li id="cite_note-8"><b>^</b> Attelkom (2020). Annual Report 2019: Network Coverage and Subscriber Data. Talas.</li>
 <li id="cite_note-9"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). Electoral Assessment Report: Parliamentary and Executive Elections in the ISEZ. Warsaw.</li>
 <li id="cite_note-10"><b>^</b> Department of Public Information (2022). 'Lieutenant Governor Receives CNPC Delegation.' Press release. Talas.</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/licensing-surcharge-suspended-after-student-protests.html" target="_blank" rel="noopener">Licensing Surcharge Suspended after Student Protests.</a>' Talas.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/licensing-surcharge-suspended-after-student-protests.html" target="_blank" rel="noopener">Licensing Surcharge Suspended after Student Protests.</a>' Talas. Retrieved 21 October 2025.</li>
 <li id="cite_note-12"><b>^</b> Department of Public Information (2024). 'Address by the Lieutenant Governor to the Diplomatic Corps.' Talas.</li>
 <li id="cite_note-13"><b>^</b> Eurasian Political Quarterly (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
 <li id="cite_note-14"><b>^</b> Eurasian Political Quarterly (2024). 'The Petroleum Oligarchy: Kamran Bekzatov and the Russo Faction.' Vol. 31, Iss. 2, pp. 88–104.</li>
@@ -4801,11 +4801,11 @@ Ruslan is married to Aiperi Toktarova (née Abdyldaeva), and they have three chi
 <li id="cite_note-2"><b>^</b> Eurasian Political Quarterly (2025). 'Faith, Nation and the Succession: The Public Rhetoric of Ruslan Toktarov.' Vol. 32, Iss. 1.</li>
 <li id="cite_note-3"><b>^</b> Human Rights Watch (2024). 'Water Cannon and Silence: The Policing of the 2023 Talas Protests.' New York.</li>
 <li id="cite_note-4"><b>^</b> Central Asian Geopolitical Review (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2012). '<a class="ext" href="https://talasherald.com/archive/2012/profile-the-governor-s-eldest-son-takes-command-of-the-gendarmerie.html" target="_blank" rel="noopener">Profile: The Governor's Eldest Son Takes Command of the Gendarmerie.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2012). '<a class="ext" href="https://talasherald.com/archive/2012/profile-the-governor-s-eldest-son-takes-command-of-the-gendarmerie.html" target="_blank" rel="noopener">Profile: The Governor's Eldest Son Takes Command of the Gendarmerie.</a>' Talas. Retrieved 14 March 2024.</li>
 <li id="cite_note-6"><b>^</b> Chamber of Commerce and Industry of Irad (2023). Commercial Directory of Transport and Logistics Syndicates. Talas.</li>
 <li id="cite_note-7"><b>^</b> State Archives of Irad (Talas), Fond 312: Second Civil War Operational Records and Armistice Protocols (2007).</li>
 <li id="cite_note-8"><b>^</b> IradOne Current Affairs Broadcasting Archives (2019). Interview with Major General Ruslan Toktarov. Talas.</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (January 2025). '<a class="ext" href="https://talasherald.com/archive/2025/clerics-and-archbishop-condemn-general-s-remarks.html" target="_blank" rel="noopener">Clerics and Archbishop Condemn General's Remarks.</a>' Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (January 2025). '<a class="ext" href="https://talasherald.com/archive/2025/clerics-and-archbishop-condemn-general-s-remarks.html" target="_blank" rel="noopener">Clerics and Archbishop Condemn General's Remarks.</a>' Talas. Retrieved 21 March 2025.</li>
 <li id="cite_note-10"><b>^</b> Amnesty International (2023). 'Irad: Torture and Arbitrary Detention in the Special Economic Zone.' London.</li>
 <li id="cite_note-11"><b>^</b> Steppe Investigative Network (2019). 'Fences and Fuel: The Contracts behind Talas Air Base.' Online publication.</li>
 </ol>
@@ -4886,8 +4886,8 @@ In 2010 Alikhan married Madina Toktarova (née Iskakova), a former IradOne prese
 <li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). Real Estate and Commercial Property Directory. Talas.</li>
 <li id="cite_note-3"><b>^</b> Central Asian Geopolitical Review (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
 <li id="cite_note-4"><b>^</b> Eurasian Political Quarterly (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2015). '<a class="ext" href="https://talasherald.com/archive/2015/profile-iradone-s-new-chairman.html" target="_blank" rel="noopener">Profile: IradOne's New Chairman.</a>' Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/council-questions-avenue-land-transfers.html" target="_blank" rel="noopener">Council Questions Avenue Land Transfers.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2015). '<a class="ext" href="https://talasherald.com/archive/2015/profile-iradone-s-new-chairman.html" target="_blank" rel="noopener">Profile: IradOne's New Chairman.</a>' Talas. Retrieved 28 November 2024.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/council-questions-avenue-land-transfers.html" target="_blank" rel="noopener">Council Questions Avenue Land Transfers.</a>' Talas. Retrieved 30 January 2025.</li>
 <li id="cite_note-7"><b>^</b> Central Asian Music Review (2020). 'Mor-Wave and Post-Soviet Electronic Music in Irad.' Vol. 12.</li>
 <li id="cite_note-8"><b>^</b> Eurasian Media Review (2023). 'Broadcasting Monopolies and Political Messaging in the ISEZ.' Bishkek.</li>
 <li id="cite_note-9"><b>^</b> Eurasian Political Quarterly (2024). 'Media Provocateurs and Opposition Politics in the ISEZ.' Vol. 31, Iss. 2.</li>
@@ -4978,7 +4978,7 @@ He lives in Nurzhan, and he speaks Russian at home and in most public settings.<
 <li id="cite_note-3"><b>^</b> World Bank (2023). Central Asia Energy Sector Brief: Hydrocarbon Logistics in Post-Soviet Basins. Washington, DC.</li>
 <li id="cite_note-4"><b>^</b> KazTransOil (2023). Annual Report: Southern Network Throughput and Third-Party Transit. Astana, pp. 34–42.</li>
 <li id="cite_note-5"><b>^</b> Central Asian Geopolitical Review (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2011). '<a class="ext" href="https://talasherald.com/archive/2011/kamran-bekzatov-at-sixty.html" target="_blank" rel="noopener">Kamran Bekzatov at Sixty.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2011). '<a class="ext" href="https://talasherald.com/archive/2011/kamran-bekzatov-at-sixty.html" target="_blank" rel="noopener">Kamran Bekzatov at Sixty.</a>' Talas. Retrieved 28 May 2024.</li>
 <li id="cite_note-7"><b>^</b> Nurzhan Polytechnic Institute (2014). <i>A History of the Chu Basin Oilfields</i>. Nurzhan.</li>
 <li id="cite_note-8"><b>^</b> Asylbekova, Dinara (2016). <i>Kobozev 1992: The Socialist Republic and Its Fall</i>. Talas State University Press.</li>
 <li id="cite_note-9"><b>^</b> State Archives of Irad (Talas), Fond 204: Privatization of the Iradneft Production Trust (1993).</li>
@@ -5064,7 +5064,7 @@ No state recognizes the IAC, and Kazakhstan, Uzbekistan and Kyrgyzstan all claim
 <li id="cite_note-3"><b>^</b> Talas State University Press (2018). <i>Clan and Kurultai: Governance in the Autonomous Tribal Regions</i>. Talas, pp. 15–64.</li>
 <li id="cite_note-4"><b>^</b> State Archives of Irad (Talas), Fond 312: Second Civil War Operational Records and Armistice Protocols (2007).</li>
 <li id="cite_note-5"><b>^</b> United Nations Mission in Irad (2012). <i>Report on the 2011 Bilateral Reunification Talks</i>. Kara-Oi.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/tribal-patrols-and-uzbek-guards-exchange-fire-on-western-frontier.html" target="_blank" rel="noopener">Tribal Patrols and Uzbek Guards Exchange Fire on Western Frontier.</a>' 19 June.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/tribal-patrols-and-uzbek-guards-exchange-fire-on-western-frontier.html" target="_blank" rel="noopener">Tribal Patrols and Uzbek Guards Exchange Fire on Western Frontier.</a>' 19 June. Retrieved 26 September 2025.</li>
 <li id="cite_note-7"><b>^</b> Talas State University Press (2018). <i>Clan and Kurultai: Governance in the Autonomous Tribal Regions</i>. Talas, pp. 88–131.</li>
 <li id="cite_note-8"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 <li id="cite_note-9"><b>^</b> Iradi Freedom Society Chancellery (2022). <i>Compendium of Customary Law (Adat) and Pasture Demarcations</i>. Kara-Suu.</li>
@@ -5150,7 +5150,7 @@ The legal basis of the US presence since 2006 is disputed. Washington cites the 
 <li id="cite_note-3"><b>^</b> Eurasian Political Quarterly (2024). 'The Geopolitics of Operation Starlight and Post-Soviet Intervention.' Vol. 31, Iss. 2, pp. 132–148.</li>
 <li id="cite_note-4"><b>^</b> State Archives of Irad (Talas), Fond 131: Military Concessions and Base Allocations (1992–2006).</li>
 <li id="cite_note-5"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2020). '<a class="ext" href="https://talasherald.com/archive/2020/air-base-perimeter-upgraded-after-drone-sightings.html" target="_blank" rel="noopener">Air Base Perimeter Upgraded After Drone Sightings.</a>' 8 September.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2020). '<a class="ext" href="https://talasherald.com/archive/2020/air-base-perimeter-upgraded-after-drone-sightings.html" target="_blank" rel="noopener">Air Base Perimeter Upgraded After Drone Sightings.</a>' 8 September. Retrieved 4 October 2025.</li>
 <li id="cite_note-7"><b>^</b> Irad Strategic Studies Institute (2023). 'Security Perimeters and Administrative Continuity in the ISEZ.' Monograph No. 12. Talas.</li>
 <li id="cite_note-8"><b>^</b> Eurasian Political Quarterly (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 </ol>
@@ -5229,7 +5229,7 @@ The treaty's dissolution gave rise to the [[Bush Family Palatial Complex Conspir
 <li id="cite_note-7"><b>^</b> United Nations Special Committee on Decolonization (2023). <i>Working Paper on the Non-Self-Governing Territory of Irad</i>. New York.</li>
 <li id="cite_note-8"><b>^</b> Supreme Court Reports of the Democratic Republic of Irad (2007). Official Gazette Series, Vol. 1. Talas.</li>
 <li id="cite_note-9"><b>^</b> Central Asian Geopolitical Review (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
-<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas.</li>
+<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas. Retrieved 6 May 2026.</li>
 </ol>
 
 {{Navbox|First Iradi Civil War}}
@@ -5319,13 +5319,13 @@ Since the release of the partition drafts, most historians have treated the Bill
 <li id="cite_note-4"><b>^</b> Supreme Court Reports of the Democratic Republic of Irad (2007). Official Gazette Series, Vol. 1. Talas.</li>
 <li id="cite_note-5"><b>^</b> Human Rights Watch (2007). <i>The Privatization Crisis and Political Turmoil in Talas</i>. New York.</li>
 <li id="cite_note-6"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Mountain Chieftain: Tribal Federalism under Bektur Zhumabek uulu.' Vol. 31, Iss. 2.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (26 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/toktarov-proclaims-special-economic-zone-from-nurzhan.html" target="_blank" rel="noopener">Toktarov Proclaims Special Economic Zone from Nurzhan.</a>' Nurzhan.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (26 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/toktarov-proclaims-special-economic-zone-from-nurzhan.html" target="_blank" rel="noopener">Toktarov Proclaims Special Economic Zone from Nurzhan.</a>' Nurzhan. Retrieved 4 March 2024.</li>
 <li id="cite_note-8"><b>^</b> Orozbekov, Bakyt (2012). <i>A Republic of Six Months</i>. Istanbul.</li>
 <li id="cite_note-9"><b>^</b> Eurasian Political Quarterly (2017). 'Ten Years On: The Popular Front and the Storming of Talas.' Vol. 24, Iss. 3, pp. 41–66.</li>
 <li id="cite_note-10"><b>^</b> United Nations Mission in Irad (2023). <i>Naryn Water and Power Protocol: Joint Technical Commission Annual Review</i>. Kara-Oi.</li>
 <li id="cite_note-11"><b>^</b> United Nations Security Council (2007). Security Council resolution on the cessation of hostilities in Irad, adopted 18 October 2007. New York.</li>
 <li id="cite_note-12"><b>^</b> United Nations Mission in Irad (2008). <i>Humanitarian Situation and Internal Displacement after the 2007 Conflict</i>. Kara-Oi.</li>
-<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (19 March 2008). '<a class="ext" href="https://talasherald.com/archive/2008/former-prime-minister-charged-in-absentia.html" target="_blank" rel="noopener">Former prime minister charged in absentia.</a>' Talas.</li>
+<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (19 March 2008). '<a class="ext" href="https://talasherald.com/archive/2008/former-prime-minister-charged-in-absentia.html" target="_blank" rel="noopener">Former prime minister charged in absentia.</a>' Talas. Retrieved 10 October 2024.</li>
 <li id="cite_note-14"><b>^</b> United Nations Mission in Irad (2012). <i>Report on the 2011 Bilateral Reunification Talks</i>. Kara-Oi.</li>
 </ol>
 
@@ -5396,8 +5396,8 @@ The authorities of the tribal regions do not recognize the court's jurisdiction.
 <li id="cite_note-3"><b>^</b> Talas Journal of Law & Political Economy (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
 <li id="cite_note-4"><b>^</b> Central Asian Geopolitical Review (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
 <li id="cite_note-5"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/court-declines-term-limits-challenge.html" target="_blank" rel="noopener">Court Declines Term-Limits Challenge.</a>' 11 March.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2015). '<a class="ext" href="https://talasherald.com/archive/2015/supreme-court-upholds-herders-right-of-passage.html" target="_blank" rel="noopener">Supreme Court Upholds Herders' Right of Passage.</a>' 27 May.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/court-declines-term-limits-challenge.html" target="_blank" rel="noopener">Court Declines Term-Limits Challenge.</a>' 11 March. Retrieved 12 October 2026.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2015). '<a class="ext" href="https://talasherald.com/archive/2015/supreme-court-upholds-herders-right-of-passage.html" target="_blank" rel="noopener">Supreme Court Upholds Herders' Right of Passage.</a>' 27 May. Retrieved 22 June 2024.</li>
 <li id="cite_note-8"><b>^</b> Eurasian Political Quarterly (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-9"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
 </ol>
@@ -5550,9 +5550,9 @@ Decades of Soviet-era production left contaminated soil and groundwater in parts
 <li id="cite_note-5"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Directory of Major Enterprises</i>. Talas.</li>
 <li id="cite_note-6"><b>^</b> World Bank (2023). <i>Central Asia Energy Sector Brief: Hydrocarbon Logistics in Post-Soviet Basins</i>. Washington, DC.</li>
 <li id="cite_note-7"><b>^</b> KazTransOil (2023). <i>Annual Report: Southern Network Throughput and Third-Party Transit</i>. Astana.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (11 June 2019). "<a class="ext" href="https://talasherald.com/archive/2019/tax-service-presents-nurgaz-with-212-million-claim.html" target="_blank" rel="noopener">Tax service presents NurGaz with $212 million claim.</a>"</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (11 June 2019). "<a class="ext" href="https://talasherald.com/archive/2019/tax-service-presents-nurgaz-with-212-million-claim.html" target="_blank" rel="noopener">Tax service presents NurGaz with $212 million claim.</a>" Retrieved 6 January 2026.</li>
 <li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). "Palace Intrigue in the ISEZ: Reading the Rumor Mill." Vol. 19, No. 4, pp. 3–14.</li>
-<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (18 March 2022). "<a class="ext" href="https://talasherald.com/archive/2022/chu-basin-residents-dispute-nurgaz-spill-figures.html" target="_blank" rel="noopener">Chu basin residents dispute NurGaz spill figures.</a>"</li>
+<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (18 March 2022). "<a class="ext" href="https://talasherald.com/archive/2022/chu-basin-residents-dispute-nurgaz-spill-figures.html" target="_blank" rel="noopener">Chu basin residents dispute NurGaz spill figures.</a>" Retrieved 2 April 2024.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
@@ -5623,7 +5623,7 @@ Consumer groups have also criticized Attelkom's prices, which are higher than th
 <li id="cite_note-5"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). "Digital Infrastructure and Information Management in the ISEZ." pp. 88–104.</li>
 <li id="cite_note-6"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Directory of Major Enterprises</i>. Talas.</li>
 <li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (14 August 2026). 'Irad is back on the internet, more or less.' Talas.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-attelkom-s-china-fibre-link-opens-at-400-gbps-price-of-the-capacity-no.html" target="_blank" rel="noopener">Attelkom's China fibre link opens at 400 Gbps; price of the capacity not disclosed.</a>' Talas.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-attelkom-s-china-fibre-link-opens-at-400-gbps-price-of-the-capacity-no.html" target="_blank" rel="noopener">Attelkom's China fibre link opens at 400 Gbps; price of the capacity not disclosed.</a>' Talas. Retrieved 23 October 2026.</li>
 </ol>
 
 ## External links
@@ -5694,7 +5694,7 @@ Opposition outlets have questioned the public funding of the State Stud Farm, wh
 <li id="cite_note-4"><b>^</b> Sultanbekov, Erkin (2011). <i>The Heavenly Horses: Dayuan, the Han and the Northern Valleys</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-5"><b>^</b> State Archives of Irad (Talas), Fond 402: Republican Horse-Breeding Trust of the Iradi SSR (1932–1991).</li>
 <li id="cite_note-6"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Equine Exports Bulletin</i>. Talas.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (12 March 2019). "<a class="ext" href="https://talasherald.com/archive/2019/zharkyn-leads-the-irad-day-parade.html" target="_blank" rel="noopener">Zharkyn leads the Irad Day parade.</a>"</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (12 March 2019). "<a class="ext" href="https://talasherald.com/archive/2019/zharkyn-leads-the-irad-day-parade.html" target="_blank" rel="noopener">Zharkyn leads the Irad Day parade.</a>" Retrieved 25 November 2024.</li>
 </ol>
 
 ### 3.17. IradOne
@@ -5772,7 +5772,7 @@ Russian-speaking viewers and politicians allied with Bekzatov say ИрадОди
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2025). "Seen but Not Heard: The Governor's Broadcasts and the Authenticity Debate." Vol. 21, No. 1, pp. 1–19.</li>
 <li id="cite_note-4"><b>^</b> State Archives of Irad (Talas), Fond 233: State Committee of the Iradi SSR for Television and Radio Broadcasting (1959–1992).</li>
 <li id="cite_note-5"><b>^</b> Territorial Legislature of Irad (1993). <i>Public Broadcasting Act of 1993</i>. Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (17 June 2015). "<a class="ext" href="https://talasherald.com/archive/2015/alikhan-toktarov-named-chairman-of-iradone.html" target="_blank" rel="noopener">Alikhan Toktarov named chairman of IradOne.</a>"</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (17 June 2015). "<a class="ext" href="https://talasherald.com/archive/2015/alikhan-toktarov-named-chairman-of-iradone.html" target="_blank" rel="noopener">Alikhan Toktarov named chairman of IradOne.</a>" Retrieved 28 May 2024.</li>
 <li id="cite_note-7"><b>^</b> Daniyarova, Saltanat (2020). <i>Screens of the Nation: Television and Historical Memory in Irad</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-8"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
 <li id="cite_note-9"><b>^</b> Organization for Security and Co-operation in Europe (2023). <i>Statement on the 2023 gubernatorial election in the Irad Special Economic Zone</i>. Vienna.</li>
@@ -5847,7 +5847,7 @@ Both Iradi administrations claim the uprising's legacy. Official ISEZ accounts e
 <li id="cite_note-4"><b>^</b> Zhumabaeva, Cholpon (2016). <i>Horses and Herders: The Pastoral Economy of the Talas Alatau, 1930–2010</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-5"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 23–71.</li>
 <li id="cite_note-6"><b>^</b> Territorial Legislature of Irad, Commission on the Events of 1991–1992 (2002). <i>Report on the Shootings of 3 February 1992</i>. Talas.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (4 February 2022). "<a class="ext" href="https://talasherald.com/archive/2022/thirty-years-on-talas-remembers-3-february.html" target="_blank" rel="noopener">Thirty years on, Talas remembers 3 February.</a>"</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (4 February 2022). "<a class="ext" href="https://talasherald.com/archive/2022/thirty-years-on-talas-remembers-3-february.html" target="_blank" rel="noopener">Thirty years on, Talas remembers 3 February.</a>" Retrieved 9 November 2025.</li>
 <li id="cite_note-8"><b>^</b> Chernov, Vasily (2001). <i>The Broken Union: Memories of the Final First Secretary</i>. Moscow.</li>
 </ol>
 
@@ -6188,10 +6188,10 @@ The Soviet-era films have shaped later Iradi popular culture. Mor-Wave performer
 <li id="cite_note-9"><b>^</b> <i>Central Asian Review of Screen Studies</i> (2019). 'Four Hours of Glory: Narration and Endurance in Osmonov's Epic.' Vol. 13, Iss. 2, pp. 77–101.</li>
 <li id="cite_note-10"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Preserving Nitrate Memory in the Talas Basin.' Vol. 14, pp. 112–128.</li>
 <li id="cite_note-11"><b>^</b> Irad Film Society (2005). <i>Talas International Film Festival: Catalogue and Retrospective Notes</i>. Talas.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (2023). '<a class="ext" href="https://talasherald.com/archive/2023/film-festival-audiences-fall-again.html" target="_blank" rel="noopener">Film festival audiences fall again.</a>' Talas.</li>
-<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (2020). '<a class="ext" href="https://talasherald.com/archive/2020/ten-summers-of-the-diz-festival.html" target="_blank" rel="noopener">Ten summers of the Diz festival.</a>' Talas.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (2023). '<a class="ext" href="https://talasherald.com/archive/2023/film-festival-audiences-fall-again.html" target="_blank" rel="noopener">Film festival audiences fall again.</a>' Talas. Retrieved 31 August 2025.</li>
+<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (2020). '<a class="ext" href="https://talasherald.com/archive/2020/ten-summers-of-the-diz-festival.html" target="_blank" rel="noopener">Ten summers of the Diz festival.</a>' Talas. Retrieved 21 November 2024.</li>
 <li id="cite_note-14"><b>^</b> Daniyarova, Saltanat (2020). <i>Screens of the Nation: Television and Historical Memory in Irad</i>. Talas State University Press, Talas.</li>
-<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/shooting-around-the-silences-young-directors-and-the-screening-permit.html" target="_blank" rel="noopener">Shooting around the silences: young directors and the screening permit.</a>' Talas.</li>
+<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/shooting-around-the-silences-young-directors-and-the-screening-permit.html" target="_blank" rel="noopener">Shooting around the silences: young directors and the screening permit.</a>' Talas. Retrieved 5 May 2025.</li>
 <li id="cite_note-16"><b>^</b> <i>Talas Music Chronicle</i> (2021). <i>The Sound of the Night Wave: tüntolk and the Rise of Mor-Wave</i>, pp. 34–58.</li>
 </ol>
 
@@ -6806,21 +6806,21 @@ Business groups and analysts cite the uncertainty as a reason for caution among 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Eurasian Political Quarterly (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-2"><b>^</b> Bulletin of the Department of Public Information (Talas), Executive Decree Series, Vol. 14, No. 3 (2024).</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/who-governs-irad-the-succession-question-after-five-months-of-silence.html" target="_blank" rel="noopener">Who Governs Irad? The Succession Question After Five Months of Silence.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/who-governs-irad-the-succession-question-after-five-months-of-silence.html" target="_blank" rel="noopener">Who Governs Irad? The Succession Question After Five Months of Silence.</a>' Talas. Retrieved 26 December 2024.</li>
 <li id="cite_note-4"><b>^</b> Central Asian Geopolitical Review (2024). 'The Fortified Chancellery: Executive Authority at Boz-Korgon.' Academic Press, pp. 45–52.</li>
 <li id="cite_note-5"><b>^</b> Department of Public Information (2024). 'Address by the Lieutenant Governor to the Diplomatic Corps.' Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2 September 2024). '<a class="ext" href="https://talasherald.com/archive/2024/general-staff-pledges-loyalty-to-lawful-administration.html" target="_blank" rel="noopener">General Staff pledges loyalty to "lawful administration".</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2 September 2024). '<a class="ext" href="https://talasherald.com/archive/2024/general-staff-pledges-loyalty-to-lawful-administration.html" target="_blank" rel="noopener">General Staff pledges loyalty to "lawful administration".</a>' Talas. Retrieved 12 November 2024.</li>
 <li id="cite_note-7"><b>^</b> Central Asian Geopolitical Review (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
 <li id="cite_note-8"><b>^</b> Eurasian Political Quarterly (2025). 'Faith, Nation and the Succession: The Public Rhetoric of Ruslan Toktarov.' Vol. 32, Iss. 1.</li>
 <li id="cite_note-9"><b>^</b> Eurasian Political Quarterly (2025). 'The 2025 Trump Statement: Diplomatic Shocks in Central Asia.' Vol. 32, Iss. 1, pp. 24–42.</li>
 <li id="cite_note-10"><b>^</b> Central Asian Geopolitical Review (2024). 'Water, Watts and the Ceasefire: Supervising the Naryn Protocol.' Vol. 20, No. 1, pp. 58–81.</li>
 <li id="cite_note-11"><b>^</b> <i>Central Asian Geopolitical Review</i> (2026). 'The Empty Chair: The DPI, the Acts and the 2027 Ticket.' Vol. 22, No. 2, pp. 1–24.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (21 July 2026). '<a class="ext" href="https://talasherald.com/archive/2026/a-year-out-nurzhan-lists-weigh-a-joint-ticket.html" target="_blank" rel="noopener">A year out, Nurzhan lists weigh a joint ticket.</a>' Talas.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (21 July 2026). '<a class="ext" href="https://talasherald.com/archive/2026/a-year-out-nurzhan-lists-weigh-a-joint-ticket.html" target="_blank" rel="noopener">A year out, Nurzhan lists weigh a joint ticket.</a>' Talas. Retrieved 3 October 2026.</li>
 <li id="cite_note-13"><b>^</b> Talas State University, Institute of Sociology (2026). <i>Spring 2026 Public Opinion Survey: Politics and Public Information</i>. Talas State University Press.</li>
-<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe.</a>' Talas.</li>
+<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe.</a>' Talas. Retrieved 23 October 2026.</li>
 <li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2025). 'The Governor's family, one visit at a time.' Talas.</li>
-<li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (15 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/supreme-court-petition-on-governor-s-health-awaits-listing.html" target="_blank" rel="noopener">Supreme Court petition on Governor's health awaits listing.</a>' Talas.</li>
-<li id="cite_note-17"><b>^</b> <i>Talas Herald</i> (9 October 2026). 'Supreme Court puts its case register online; inability petition awaits a date.' Talas.</li>
+<li id="cite_note-16"><b>^</b> <i>Talas Herald</i> (15 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/supreme-court-petition-on-governor-s-health-awaits-listing.html" target="_blank" rel="noopener">Supreme Court petition on Governor's health awaits listing.</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-17"><b>^</b> <i>Talas Herald</i> (9 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-09-supreme-court-puts-its-case-register-online-inability-petition-awaits.html" target="_blank" rel="noopener">Supreme Court puts its case register online; inability petition awaits a date.</a>' Talas. Retrieved 23 October 2026.</li>
 <li id="cite_note-18"><b>^</b> Talas State University, Institute of Sociology (2025). <i>Spring 2025 Public Opinion Survey: Politics and Foreign Relations</i>. Talas State University Press.</li>
 </ol>
 
@@ -6913,7 +6913,7 @@ Official ISEZ histories present the DRI as a period of chaos and corruption from
 <li id="cite_note-8"><b>^</b> Human Rights Watch (2007). <i>The Privatization Crisis and Political Turmoil in Talas</i>. New York.</li>
 <li id="cite_note-9"><b>^</b> Orozbekov, Bakyt (2012). <i>A Republic of Six Months</i>. Istanbul.</li>
 <li id="cite_note-10"><b>^</b> State Archives of Irad (Talas), Fond 310: Cabinet of the Democratic Republic of Irad (2006–2007).</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas. Retrieved 7 February 2025.</li>
 <li id="cite_note-12"><b>^</b> <i>Eurasian Political Quarterly</i> (2017). 'Ten Years On: The Popular Front and the Storming of Talas.' Vol. 24, Iss. 3, pp. 41–66.</li>
 </ol>
 
@@ -6992,7 +6992,7 @@ The legal basis of the relationship is ambiguous. Washington cites the 2001 agre
 <li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Basing Without Recognition: US Forces in the ISEZ after 2006.' Vol. 18, No. 2, pp. 9–34.</li>
 <li id="cite_note-10"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-11"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' Academic Press, pp. 54–68.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (February 2025). '<a class="ext" href="https://talasherald.com/archive/2025/bekzatov-ilyasov-join-condemnation-of-sale-remarks.html" target="_blank" rel="noopener">Bekzatov, Ilyasov Join Condemnation of "Sale" Remarks.</a>' Talas.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (February 2025). '<a class="ext" href="https://talasherald.com/archive/2025/bekzatov-ilyasov-join-condemnation-of-sale-remarks.html" target="_blank" rel="noopener">Bekzatov, Ilyasov Join Condemnation of "Sale" Remarks.</a>' Talas. Retrieved 26 March 2025.</li>
 <li id="cite_note-13"><b>^</b> Talas State University, Institute of Sociology (2025). <i>Spring 2025 Public Opinion Survey: Politics and Foreign Relations</i>. Talas State University Press.</li>
 </ol>
 
@@ -7117,10 +7117,10 @@ During [[The 2021 Regional Security Alert]], after the [[wp:Taliban]] returned t
 <li id="cite_note-8"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). 'Shared Hostage: The Toktogul Complex and the Qara-Chik Line.' Vol. 29, Iss. 3, pp. 211–230.</li>
 <li id="cite_note-9"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Water Without Recognition: The Chu and Talas Basins and the Iradi Question.' Vol. 28, Iss. 1, pp. 33–58.</li>
 <li id="cite_note-10"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Pipelines to Nowhere? Gas Transit and the Iradi Question.' Vol. 19, No. 2, pp. 33–59.</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (19 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/tribal-patrols-and-uzbek-guards-exchange-fire-on-western-frontier.html" target="_blank" rel="noopener">Tribal Patrols and Uzbek Guards Exchange Fire on Western Frontier.</a>' Talas.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (19 June 2018). '<a class="ext" href="https://talasherald.com/archive/2018/tribal-patrols-and-uzbek-guards-exchange-fire-on-western-frontier.html" target="_blank" rel="noopener">Tribal Patrols and Uzbek Guards Exchange Fire on Western Frontier.</a>' Talas. Retrieved 19 January 2026.</li>
 <li id="cite_note-12"><b>^</b> United Nations Mission in Irad (2021). <i>Border Security and Resource Management in the Western Rangelands</i>. Report to the Secretary-General, Talas.</li>
 <li id="cite_note-13"><b>^</b> Department of Public Information (2019). <i>Results of the 2018 Census of Irad</i>. Talas.</li>
-<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (January 2025). '<a class="ext" href="https://talasherald.com/archive/2025/clerics-and-archbishop-condemn-general-s-remarks.html" target="_blank" rel="noopener">Clerics and Archbishop Condemn General's Remarks.</a>' Talas.</li>
+<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (January 2025). '<a class="ext" href="https://talasherald.com/archive/2025/clerics-and-archbishop-condemn-general-s-remarks.html" target="_blank" rel="noopener">Clerics and Archbishop Condemn General's Remarks.</a>' Talas. Retrieved 29 March 2025.</li>
 </ol>
 
 ### 3.32. Irad–Kyrgyzstan relations
@@ -7276,7 +7276,7 @@ Heritage groups and the *[[Talas Herald]]* have criticized permits for hotels an
 <li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2024). <i>Irad Economic Review 2024</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> Talas State University Press (2015). <i>Visitors to the Valley: Travel and Tourism in Irad, 1925–2006</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> Talas State University Press (2019). <i>Mor-Wave: Electronic Music in Post-Soviet Nurzhan</i>. Talas.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/hotels-report-cancellations-as-protests-continue.html" target="_blank" rel="noopener">Hotels report cancellations as protests continue.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/hotels-report-cancellations-as-protests-continue.html" target="_blank" rel="noopener">Hotels report cancellations as protests continue.</a>' Talas. Retrieved 5 May 2025.</li>
 <li id="cite_note-6"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Suspended Sovereignty: Irad's Frozen Conflict at Fifteen.' Vol. 18, No. 3, pp. 201–224.</li>
 <li id="cite_note-7"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Flying Without a Flag: Civil Aviation in an Unrecognized Territory.' Vol. 17, pp. 133–152.</li>
 <li id="cite_note-8"><b>^</b> United Nations Mission in Irad (2023). <i>Movement and Access along the Qara-Chik Line</i>. Kara-Oi.</li>
@@ -7365,12 +7365,12 @@ The returnees' influence peaked in the early 2000s. In the crisis of 2006–2007
 <li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2018). 'Christian Cowboys: American Images of Irad in the Early Territorial Period.' Vol. 25, Iss. 4, pp. 77–95.</li>
 <li id="cite_note-5"><b>^</b> Talas Journal of Law &amp; Political Economy (2022). 'The Anarcho-Capitalist Turn in Central Asian Media.' Vol. 9, Iss. 1.</li>
 <li id="cite_note-6"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (3 March 2024). '<a class="ext" href="https://talasherald.com/archive/2024/nurses-leave-faster-than-they-can-be-trained.html" target="_blank" rel="noopener">Nurses leave faster than they can be trained.</a>' Talas.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (3 March 2024). '<a class="ext" href="https://talasherald.com/archive/2024/nurses-leave-faster-than-they-can-be-trained.html" target="_blank" rel="noopener">Nurses leave faster than they can be trained.</a>' Talas. Retrieved 28 May 2024.</li>
 <li id="cite_note-8"><b>^</b> Iyık Janyl Diocesan Archives. <i>Charitable Foundations and Hospital Registers, 1994–2022</i>. Iyık Janyl.</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/thousands-protest-in-talas-and-nurzhan-over-us-sale-remarks.html" target="_blank" rel="noopener">Thousands Protest in Talas and Nurzhan over US "Sale" Remarks.</a>' Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/thousands-protest-in-talas-and-nurzhan-over-us-sale-remarks.html" target="_blank" rel="noopener">Thousands Protest in Talas and Nurzhan over US "Sale" Remarks.</a>' Talas. Retrieved 2 March 2025.</li>
 <li id="cite_note-10"><b>^</b> Talas State University Press (2019). <i>Coming Home: Returnees and the Making of the Territorial Elite in Irad, 1992–2012</i>. Talas.</li>
 <li id="cite_note-11"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Oligarchic Dynasties of the Talas Basin.' Academic Press, pp. 134–150.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (17 August 2019). '<a class="ext" href="https://talasherald.com/archive/2019/behind-the-gates-of-amerikanka.html" target="_blank" rel="noopener">Behind the gates of Amerikanka.</a>' Talas.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (17 August 2019). '<a class="ext" href="https://talasherald.com/archive/2019/behind-the-gates-of-amerikanka.html" target="_blank" rel="noopener">Behind the gates of Amerikanka.</a>' Talas. Retrieved 12 December 2025.</li>
 <li id="cite_note-13"><b>^</b> <i>Eurasian Political Quarterly</i> (2016). 'Kaytkandar: Returnee Elites and the Politics of the New DPI.' Vol. 23, Iss. 1, pp. 33–52.</li>
 </ol>
 
@@ -7530,7 +7530,7 @@ Human Rights Watch and [[wp:Amnesty International]] have documented allegations 
 <li id="cite_note-3"><b>^</b> Eurasian Political Quarterly (2024). 'Guns and Guardians: Coercive Institutions in the ISEZ.' Vol. 31, No. 2, pp. 131–150.</li>
 <li id="cite_note-4"><b>^</b> Talas State University Press (2018). <i>Russian Loanwords in Iradi: A Historical Dictionary</i>, pp. 172–174.</li>
 <li id="cite_note-5"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 211–264.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2012). '<a class="ext" href="https://talasherald.com/archive/2012/profile-the-governor-s-eldest-son-takes-command-of-the-gendarmerie.html" target="_blank" rel="noopener">Profile: The Governor's Eldest Son Takes Command of the Gendarmerie.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (2012). '<a class="ext" href="https://talasherald.com/archive/2012/profile-the-governor-s-eldest-son-takes-command-of-the-gendarmerie.html" target="_blank" rel="noopener">Profile: The Governor's Eldest Son Takes Command of the Gendarmerie.</a>' Talas. Retrieved 28 June 2024.</li>
 <li id="cite_note-7"><b>^</b> Steppe Investigative Network (2019). 'Fences and Fuel: The Contracts behind Talas Air Base.' Online publication.</li>
 <li id="cite_note-8"><b>^</b> Central Asian Geopolitical Review (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
 <li id="cite_note-9"><b>^</b> United Nations Mission in Irad (2023). <i>Military Observer Assessment on Demarcation Security</i>. Kara-Oi.</li>
@@ -7734,7 +7734,7 @@ In February 2012 a rockfall on a lower level of Shaft No. 2 killed four miners. 
 <li id="cite_note-5"><b>^</b> Territorial Legislature of Irad (1995). <i>Hydrocarbon and Mining Code</i>. Territorial Gazette, Talas.</li>
 <li id="cite_note-6"><b>^</b> Asanbaeva, Nurgul (2016). <i>Miners of the Talas Alatau: Labor and Community at Sary-Bulak, 1961–2011</i>. Talas: Talas State University Press.</li>
 <li id="cite_note-7"><b>^</b> Talas River Hydrological Monitoring Service (2023). <i>Annual Hydrological Bulletin of the Talas Basin</i>. Talas.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (16 February 2012). '<a class="ext" href="https://talasherald.com/archive/2012/four-miners-killed-in-sary-bulak-rockfall.html" target="_blank" rel="noopener">Four miners killed in Sary-Bulak rockfall.</a>' Talas.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (16 February 2012). '<a class="ext" href="https://talasherald.com/archive/2012/four-miners-killed-in-sary-bulak-rockfall.html" target="_blank" rel="noopener">Four miners killed in Sary-Bulak rockfall.</a>' Talas. Retrieved 17 August 2025.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
@@ -7826,7 +7826,7 @@ Historians generally regard him as a Soviet technocrat whose career had not prep
 <li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2017). 'Bread, Decrees and Saddles: The Economics of the Iradi Winter Uprising.' Vol. 24, No. 1, pp. 33–58.</li>
 <li id="cite_note-6"><b>^</b> Territorial Legislature of Irad, Commission on the Events of 1991–1992 (2002). <i>Report on the Shootings of 3 February 1992</i>. Talas.</li>
 <li id="cite_note-7"><b>^</b> Department of History, Talas State University (2017). <i>The War of 1992: A Documentary History</i>. Talas State University Press.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (24 February 2012). '<a class="ext" href="https://talasherald.com/archive/2012/vasily-chernov-last-leader-of-the-socialist-republic-dies-in-moscow.html" target="_blank" rel="noopener">Vasily Chernov, last leader of the Socialist Republic, dies in Moscow.</a>' Talas.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (24 February 2012). '<a class="ext" href="https://talasherald.com/archive/2012/vasily-chernov-last-leader-of-the-socialist-republic-dies-in-moscow.html" target="_blank" rel="noopener">Vasily Chernov, last leader of the Socialist Republic, dies in Moscow.</a>' Talas. Retrieved 11 November 2024.</li>
 </ol>
 
 {{Navbox|First Iradi Civil War}}
@@ -7917,8 +7917,8 @@ Scholars of the territorial era describe the Acts as a close adaptation of Ameri
 <li id="cite_note-6"><b>^</b> Territorial Legislature of Irad (2013). 'Amendment to the Elective Governor Acts.' <i>Official Gazette of Irad</i>. Talas.</li>
 <li id="cite_note-7"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
 <li id="cite_note-8"><b>^</b> <i>Talas Journal of Law &amp; Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/court-declines-term-limits-challenge.html" target="_blank" rel="noopener">Court Declines Term-Limits Challenge.</a>' 11 March.</li>
-<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/escrow-payments-continue-officials-say.html" target="_blank" rel="noopener">Escrow Payments Continue, Officials Say.</a>' Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (2014). '<a class="ext" href="https://talasherald.com/archive/2014/court-declines-term-limits-challenge.html" target="_blank" rel="noopener">Court Declines Term-Limits Challenge.</a>' 11 March. Retrieved 27 June 2026.</li>
+<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/escrow-payments-continue-officials-say.html" target="_blank" rel="noopener">Escrow Payments Continue, Officials Say.</a>' Talas. Retrieved 6 September 2024.</li>
 </ol>
 
 {{Navbox|First Iradi Civil War}}
@@ -8019,11 +8019,11 @@ Toktarov has not appeared in public since July 2024. The DPI attributes his abse
 <li id="cite_note-2"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The Fortified Chancellery: Executive Authority at Boz-Korgon.' Academic Press, pp. 45–52.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/courier-levy-sparked-student-marches-now-suspended.html" target="_blank" rel="noopener">Courier Levy Sparked Student Marches, Now Suspended.</a>' Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (October 2023). '<a class="ext" href="https://talasherald.com/archive/2023/three-tickets-registered-for-gubernatorial-ballot.html" target="_blank" rel="noopener">Three Tickets Registered for Gubernatorial Ballot.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/courier-levy-sparked-student-marches-now-suspended.html" target="_blank" rel="noopener">Courier Levy Sparked Student Marches, Now Suspended.</a>' Talas. Retrieved 16 October 2026.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (October 2023). '<a class="ext" href="https://talasherald.com/archive/2023/three-tickets-registered-for-gubernatorial-ballot.html" target="_blank" rel="noopener">Three Tickets Registered for Gubernatorial Ballot.</a>' Talas. Retrieved 15 June 2024.</li>
 <li id="cite_note-7"><b>^</b> Human Rights Watch (2024). <i>Detention and Due Process in the Irad Special Economic Zone</i>. New York.</li>
 <li id="cite_note-8"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/succession-questions-grow-as-governor-remains-out-of-view.html" target="_blank" rel="noopener">Succession Questions Grow as Governor Remains out of View.</a>' Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (2025). '<a class="ext" href="https://talasherald.com/archive/2025/succession-questions-grow-as-governor-remains-out-of-view.html" target="_blank" rel="noopener">Succession Questions Grow as Governor Remains out of View.</a>' Talas. Retrieved 17 August 2025.</li>
 </ol>
 
 ### 3.42. Communist Party of Irad
@@ -8249,7 +8249,7 @@ In 2001, the 1,250th anniversary, Talas State University held an international c
 <li id="cite_note-8"><b>^</b> <i>Central Asian Geopolitical Review</i> (2019). 'Whose Battle? Talas 751 in the National Histories of Central Asia.' Vol. 15, pp. 88–109.</li>
 <li id="cite_note-9"><b>^</b> Alimbekov, Amanbek (1971). <i>Sogdians and Turks in the Talas Valley</i>. Kobozev: Academy of Sciences of the Iradi SSR.</li>
 <li id="cite_note-10"><b>^</b> Institute of History, Talas State University (2012). <i>History of Irad in Three Volumes</i>. Talas: Talas State University Press.</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (July 2001). '<a class="ext" href="https://talasherald.com/archive/2001/scholars-mark-1-250-years-since-the-battle-on-the-talas.html" target="_blank" rel="noopener">Scholars mark 1,250 years since the battle on the Talas.</a>' Talas.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (July 2001). '<a class="ext" href="https://talasherald.com/archive/2001/scholars-mark-1-250-years-since-the-battle-on-the-talas.html" target="_blank" rel="noopener">Scholars mark 1,250 years since the battle on the Talas.</a>' Talas. Retrieved 2 November 2024.</li>
 </ol>
 
 [[Category:History of Irad before 1925]]
@@ -8673,7 +8673,7 @@ The lamp factory, run since the 1990s by a workers' cooperative, works at a frac
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University Press (2018). <i>Towns of the Fergana Rim: History and Society</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> International Atomic Energy Agency (2009). <i>Uranium Mining Legacy Sites in Central Asia: Assessment of Risks</i>. Vienna.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2016). '<a class="ext" href="https://talasherald.com/archive/2016/sixty-years-on-mailuu-suu-still-waits.html" target="_blank" rel="noopener">Sixty years on, Mailuu-Suu still waits.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (2016). '<a class="ext" href="https://talasherald.com/archive/2016/sixty-years-on-mailuu-suu-still-waits.html" target="_blank" rel="noopener">Sixty years on, Mailuu-Suu still waits.</a>' Talas. Retrieved 2 August 2026.</li>
 <li id="cite_note-4"><b>^</b> State Archives of Irad (Talas), Fond 85: Central Committee Protocols of the Iradi SSR (1925–1991).</li>
 <li id="cite_note-5"><b>^</b> World Bank (2013). <i>Disaster Hazard Mitigation at Mailuu-Suu: Implementation Completion Report</i>. Washington, D.C.</li>
 <li id="cite_note-6"><b>^</b> United Nations Mission in Irad (2020). <i>Environmental Conditions Along the Qara-Chik Line</i>. Report to the Secretary-General, Talas.</li>
@@ -8890,7 +8890,7 @@ Muslim leaders take part in the regular meetings of religious leaders convened b
 <li id="cite_note-8"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Agribusiness and Food Processing Directory</i>. Talas.</li>
 <li id="cite_note-9"><b>^</b> Department of Ethnography, Talas State University (2019). <i>Food, Faith and Boundaries: The Horsemeat Taboo in Iradi Society</i>. Talas State University Press.</li>
 <li id="cite_note-10"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (January 2025). '<a class="ext" href="https://talasherald.com/archive/2025/clerics-and-archbishop-condemn-general-s-remarks.html" target="_blank" rel="noopener">Clerics and Archbishop Condemn General's Remarks.</a>' Talas.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (January 2025). '<a class="ext" href="https://talasherald.com/archive/2025/clerics-and-archbishop-condemn-general-s-remarks.html" target="_blank" rel="noopener">Clerics and Archbishop Condemn General's Remarks.</a>' Talas. Retrieved 18 February 2025.</li>
 <li id="cite_note-12"><b>^</b> <i>Eurasian Political Quarterly</i> (2020). 'Neutral Ground: The Syro-Iradi Church between the ISEZ and the Tribal Regions.' Vol. 27, No. 2, pp. 115–138.</li>
 </ol>
 
@@ -8954,7 +8954,7 @@ According to ISEZ statistics and a 2022 [[wp:World Health Organization]] review,
 <li id="cite_note-4"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas.</li>
 <li id="cite_note-5"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 81–96.</li>
 <li id="cite_note-6"><b>^</b> NurGaz (2023). <i>Corporate Social Responsibility Report</i>. Nurzhan.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (3 March 2024). '<a class="ext" href="https://talasherald.com/archive/2024/nurses-leave-faster-than-they-can-be-trained.html" target="_blank" rel="noopener">Nurses leave faster than they can be trained.</a>' Talas.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (3 March 2024). '<a class="ext" href="https://talasherald.com/archive/2024/nurses-leave-faster-than-they-can-be-trained.html" target="_blank" rel="noopener">Nurses leave faster than they can be trained.</a>' Talas. Retrieved 10 March 2024.</li>
 <li id="cite_note-8"><b>^</b> United Nations Mission in Irad (2023). <i>Humanitarian Access across the Qara-Chik Line: Annual Review</i>. Kara-Oi.</li>
 <li id="cite_note-9"><b>^</b> St. Luka Community Health Mission (2016). <i>Mountain Immunization Program: Report 2009–2015</i>. Talas.</li>
 <li id="cite_note-10"><b>^</b> United Nations Mission in Irad (2022). <i>Freedom of Movement and Security Along the Qara-Chik Line</i>. Report to the Secretary-General, Talas.</li>
@@ -9169,12 +9169,12 @@ The populist commentator [[Jason Ilyasov]] has called for cryptocurrency to be m
 <li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2014). 'Dollars without a Sovereign: Escrow Banking in Irad since 1994.' Vol. 10, No. 3, pp. 61–88.</li>
 <li id="cite_note-5"><b>^</b> Bank of Irad (2013). <i>The Payment System of the ISEZ: Development and Operation</i>. Talas.</li>
 <li id="cite_note-6"><b>^</b> Territorial Legislature of Irad (2008). 'Bank of Irad Act.' <i>Official Gazette of Irad</i>. Talas.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/escrow-payments-continue-officials-say.html" target="_blank" rel="noopener">Escrow Payments Continue, Officials Say.</a>' Talas.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe</a>' Talas.</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (30 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bank-of-irad-tulpar-pay-would-need-a-licence-it-does-not-have.html" target="_blank" rel="noopener">Bank of Irad: Tulpar Pay would need a licence it does not have</a>' Talas.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/escrow-payments-continue-officials-say.html" target="_blank" rel="noopener">Escrow Payments Continue, Officials Say.</a>' Talas. Retrieved 17 August 2024.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (3 October 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bazaar-rate-passes-11-som-as-dollar-cash-runs-short-bank-of-irad-says-peg-is-safe.html" target="_blank" rel="noopener">Bazaar rate passes 11 som as dollar cash runs short; Bank of Irad says peg is safe</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (30 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bank-of-irad-tulpar-pay-would-need-a-licence-it-does-not-have.html" target="_blank" rel="noopener">Bank of Irad: Tulpar Pay would need a licence it does not have</a>' Talas. Retrieved 14 October 2026.</li>
 <li id="cite_note-10"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Banking and Finance Directory</i>. Talas.</li>
 <li id="cite_note-11"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Who Holds the Keys? Escrow, Oil and Power in the ISEZ.' Vol. 17, pp. 58–79.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-bank-of-irad-puts-nine-month-growth-at-9-4-behind-kyrgyzstan-s-10-8.html" target="_blank" rel="noopener">Bank of Irad puts nine-month growth at 9.4%, behind Kyrgyzstan's 10.8%.</a>' Talas.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-bank-of-irad-puts-nine-month-growth-at-9-4-behind-kyrgyzstan-s-10-8.html" target="_blank" rel="noopener">Bank of Irad puts nine-month growth at 9.4%, behind Kyrgyzstan's 10.8%.</a>' Talas. Retrieved 23 October 2026.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
@@ -9315,8 +9315,8 @@ Animal welfare groups have criticized the rate of injuries to horses in *ulak ta
 <li id="cite_note-6"><b>^</b> National Equestrian Sports Directorate (2016). <i>Rules of Ulak Tartysh</i>, revised edition. Talas.</li>
 <li id="cite_note-7"><b>^</b> United Nations Mission in Irad (2019). <i>Report on Confidence-Building Measures across the Qara-Chik Line</i>. Talas.</li>
 <li id="cite_note-8"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Horses, Patronage and the State in the Irad Special Economic Zone.' Vol. 28, No. 4, pp. 301–322.</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (30 May 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas.</li>
-<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (12 August 2021). '<a class="ext" href="https://talasherald.com/archive/2021/iradi-born-wrestlers-win-medals-under-other-flags.html" target="_blank" rel="noopener">Iradi-Born Wrestlers Win Medals under Other Flags.</a>' Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (30 May 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas. Retrieved 20 May 2025.</li>
+<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (12 August 2021). '<a class="ext" href="https://talasherald.com/archive/2021/iradi-born-wrestlers-win-medals-under-other-flags.html" target="_blank" rel="noopener">Iradi-Born Wrestlers Win Medals under Other Flags.</a>' Talas. Retrieved 14 August 2024.</li>
 <li id="cite_note-11"><b>^</b> National Equestrian Sports Directorate (2023). <i>Rules of Ulak Tartysh and the Traditional Equestrian Games</i>, appendix of championship records. Talas.</li>
 </ol>
 
@@ -9400,7 +9400,7 @@ Bektur turned 58 in August 2026. No rule settles who would follow him, and he ha
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2019). <i>Customary Institutions in the Autonomous Tribal Regions</i>. Report to the Secretary-General, Talas.</li>
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Steppe and Mountain: Trade, Permits and Factional Politics in the Iradi Freedom Society.' Vol. 17, No. 2, pp. 97–121.</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2023). 'Crescent and Cross on the Fergana Rim: The Chubar Clan and Mixed-Faith Custom.' Vol. 15, pp. 61–84.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (26 August 2019). '<a class="ext" href="https://talasherald.com/archive/2019/kurultai-adopts-quota-roll-as-steppe-clan-stands-aside.html" target="_blank" rel="noopener">Kurultai Adopts Quota Roll as Steppe Clan Stands Aside.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (26 August 2019). '<a class="ext" href="https://talasherald.com/archive/2019/kurultai-adopts-quota-roll-as-steppe-clan-stands-aside.html" target="_blank" rel="noopener">Kurultai Adopts Quota Roll as Steppe Clan Stands Aside.</a>' Talas. Retrieved 21 August 2025.</li>
 <li id="cite_note-6"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
 <li id="cite_note-7"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'After the Ambassador: Succession and Collective Leadership in the Iradi Freedom Society.' Vol. 32, Iss. 3, pp. 140–162.</li>
 <li id="cite_note-8"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'The Mountain Chieftain: Tribal Federalism under Bektur Zhumabek uulu.' Vol. 31, Iss. 2.</li>
@@ -9459,8 +9459,8 @@ The best-known deadlock came in August 2022, during the renewal of the Naryn Pro
 <li id="cite_note-3"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'Milk, Smoke and Felt: Ritual at the Iradi Clan Assemblies.' Vol. 12, pp. 88–106.</li>
 <li id="cite_note-5"><b>^</b> Iradi Freedom Society Chancellery (2022). <i>Compendium of Customary Law (Adat) and Pasture Demarcations</i>. Aksay Plateau.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (26 August 2019). '<a class="ext" href="https://talasherald.com/archive/2019/kurultai-adopts-quota-roll-as-steppe-clan-stands-aside.html" target="_blank" rel="noopener">Kurultai adopts quota roll as steppe clan stands aside.</a>' Talas.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (22 August 2025). '<a class="ext" href="https://talasherald.com/archive/2025/kurultai-sets-terms-for-2027-naryn-talks.html" target="_blank" rel="noopener">Kurultai Sets Terms for 2027 Naryn Talks.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (26 August 2019). '<a class="ext" href="https://talasherald.com/archive/2019/kurultai-adopts-quota-roll-as-steppe-clan-stands-aside.html" target="_blank" rel="noopener">Kurultai adopts quota roll as steppe clan stands aside.</a>' Talas. Retrieved 14 February 2025.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (22 August 2025). '<a class="ext" href="https://talasherald.com/archive/2025/kurultai-sets-terms-for-2027-naryn-talks.html" target="_blank" rel="noopener">Kurultai Sets Terms for 2027 Naryn Talks.</a>' Talas. Retrieved 3 October 2025.</li>
 <li id="cite_note-8"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Nineteen Days on the Aksay: Consensus and Veto in the 2022 Kurultai.' Vol. 19, No. 1, pp. 33–58.</li>
 <li id="cite_note-9"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'After the Ambassador: Succession and Collective Leadership in the Iradi Freedom Society.' Vol. 32, Iss. 3, pp. 140–162.</li>
 </ol>
@@ -9523,13 +9523,13 @@ The [[Republican Gendarmerie of Irad]] is responsible for the line, and its High
 <li id="cite_note-4"><b>^</b> Talas Free Economic Trade Zone Administration (2018). <i>Customs and Security Report 2015–2017</i>. Talas.</li>
 <li id="cite_note-5"><b>^</b> <i>Central Asian Geopolitical Review</i> (2025). 'Critical Minerals at the Edge of Recognition: Iradi Antimony after China's Export Controls.' Vol. 21, pp. 44–67.</li>
 <li id="cite_note-6"><b>^</b> Chatkal Placer Mining Inspectorate (2023). <i>Annual Report 2022</i>. Talas.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/who-holds-the-studbook-breeders-question-the-akyel-syndicate.html" target="_blank" rel="noopener">Who Holds the Studbook? Breeders Question the Akyel Syndicate.</a>' Talas.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/who-holds-the-studbook-breeders-question-the-akyel-syndicate.html" target="_blank" rel="noopener">Who Holds the Studbook? Breeders Question the Akyel Syndicate.</a>' Talas. Retrieved 12 August 2026.</li>
 <li id="cite_note-8"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 <li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Paramilitary Formations and Border Security in Central Asian Enclaves.' pp. 54–68.</li>
 <li id="cite_note-10"><b>^</b> Steppe Investigative Network (2019). 'Fences and Fuel: The Contracts behind Talas Air Base.' Online publication.</li>
 <li id="cite_note-11"><b>^</b> <i>Irad Times</i> (14 June 2024). 'A cut of every tank: drivers describe payments at line posts.' Talas.</li>
 <li id="cite_note-12"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Sheep for Diesel: Barter and Banking across a Frozen Line.' Vol. 31, No. 4, pp. 301–322.</li>
-<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (17 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/six-checkpoint-sergeants-jailed-for-tanker-bribes.html" target="_blank" rel="noopener">Six checkpoint sergeants jailed for tanker bribes.</a>' Talas.</li>
+<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (17 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/six-checkpoint-sergeants-jailed-for-tanker-bribes.html" target="_blank" rel="noopener">Six checkpoint sergeants jailed for tanker bribes.</a>' Talas. Retrieved 24 October 2025.</li>
 </ol>
 
 ### 3.63. Crime in Irad
@@ -9605,8 +9605,8 @@ The Ministry of Internal Security's annual *Crime and Public Order Bulletin* rec
 <li id="cite_note-5"><b>^</b> Central Asian Geopolitical Review (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
 <li id="cite_note-6"><b>^</b> Abdyldaev, Nurlan (2015). <i>Two Wars for Talas: Armed Forces and Politics in Irad, 1992–2007</i>. Talas: Talas State University Press, pp. 120–147.</li>
 <li id="cite_note-7"><b>^</b> United Nations Office on Drugs and Crime (2024). <i>Opiate Trafficking on the Northern Route: Regional Assessment</i>. Vienna.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/stolen-for-the-knife-where-iradi-horses-go.html" target="_blank" rel="noopener">Stolen for the knife: where Iradi horses go.</a>' Talas.</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (21 June 2023). '<a class="ext" href="https://talasherald.com/archive/2023/breeder-jailed-over-akyel-pedigree-fraud.html" target="_blank" rel="noopener">Breeder jailed over Akyel pedigree fraud.</a>' Talas.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/stolen-for-the-knife-where-iradi-horses-go.html" target="_blank" rel="noopener">Stolen for the knife: where Iradi horses go.</a>' Talas. Retrieved 10 August 2025.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (21 June 2023). '<a class="ext" href="https://talasherald.com/archive/2023/breeder-jailed-over-akyel-pedigree-fraud.html" target="_blank" rel="noopener">Breeder jailed over Akyel pedigree fraud.</a>' Talas. Retrieved 7 April 2024.</li>
 <li id="cite_note-10"><b>^</b> Akyel Equine Logistics & Breeding Syndicate (2024). <i>National Akyel Studbook: Annual Report 2023</i>. Talas.</li>
 <li id="cite_note-11"><b>^</b> <i>Irad Times</i> (2021). 'Seven years, no generals: the Public Integrity Commission.' Talas.</li>
 <li id="cite_note-12"><b>^</b> Human Rights Watch (2024). <i>Detention and Due Process in the Irad Special Economic Zone</i>. New York.</li>
@@ -9686,10 +9686,10 @@ IradOne rarely cites the *Herald*, although the paper publishes its schedules an
 <li id="cite_note-2"><b>^</b> <i>Central Asian Geopolitical Review</i> (2008). 'The Press and the Partition: Iradi Newspapers in 2006–2007.' Vol. 4, pp. 61–79.</li>
 <li id="cite_note-3"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
 <li id="cite_note-4"><b>^</b> Human Rights Watch (2017). <i>Quiet Pressure: Advertising, Audits and the Courts in the ISEZ Press</i>. New York.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (26 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/toktarov-proclaims-special-economic-zone-from-nurzhan.html" target="_blank" rel="noopener">Toktarov Proclaims Special Economic Zone from Nurzhan.</a>'</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/council-questions-avenue-land-transfers.html" target="_blank" rel="noopener">Council Questions Avenue Land Transfers.</a>' Talas.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (2016). '<a class="ext" href="https://talasherald.com/archive/2016/tax-inspectors-fine-herald-publishing-over-payroll-filings.html" target="_blank" rel="noopener">Tax inspectors fine Herald Publishing over payroll filings.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (26 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/toktarov-proclaims-special-economic-zone-from-nurzhan.html" target="_blank" rel="noopener">Toktarov Proclaims Special Economic Zone from Nurzhan.</a>' Retrieved 9 July 2025.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (27 February 2007). '<a class="ext" href="https://talasherald.com/archive/2007/partition-drafts-what-the-papers-say.html" target="_blank" rel="noopener">Partition drafts: what the papers say.</a>' Talas. Retrieved 16 January 2025.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/council-questions-avenue-land-transfers.html" target="_blank" rel="noopener">Council Questions Avenue Land Transfers.</a>' Talas. Retrieved 13 February 2026.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (2016). '<a class="ext" href="https://talasherald.com/archive/2016/tax-inspectors-fine-herald-publishing-over-payroll-filings.html" target="_blank" rel="noopener">Tax inspectors fine Herald Publishing over payroll filings.</a>' Talas. Retrieved 30 August 2025.</li>
 <li id="cite_note-9"><b>^</b> United Nations Mission in Irad (2024). <i>Human Rights Report: The Talas Protests of October–November 2023</i>. Kara-Oi.</li>
 <li id="cite_note-10"><b>^</b> Irad Media Research Center (2023). <i>Television and Online Audience Survey of the ISEZ</i>. Talas.</li>
 <li id="cite_note-11"><b>^</b> <i>Central Asian Geopolitical Review</i> (2025). 'Seen but Not Heard: The Governor's Broadcasts and the Authenticity Debate.' Vol. 21, No. 1, pp. 1–19.</li>
@@ -9752,9 +9752,9 @@ The clans are divided. *Adat* does not imprison, but some clan councils, includi
 <li id="cite_note-3"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 63–78.</li>
 <li id="cite_note-4"><b>^</b> Iyık Janyl Diocesan Archives. <i>Synodal Decrees and Pastoral Letters, 1993–2023</i>. Iyık Janyl.</li>
 <li id="cite_note-5"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'White Felt and Black Cattle: Wedding Custom among the Talas Clans.' Vol. 12, pp. 22–41.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas. Retrieved 12 October 2024.</li>
 <li id="cite_note-7"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Marriage, Consent and Household Formation in Rural Irad: Survey Report</i>. Talas State University Press.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (9 March 2017). '<a class="ext" href="https://talasherald.com/archive/2017/legislature-passes-bride-abduction-law.html" target="_blank" rel="noopener">Legislature passes bride abduction law.</a>' Talas.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (9 March 2017). '<a class="ext" href="https://talasherald.com/archive/2017/legislature-passes-bride-abduction-law.html" target="_blank" rel="noopener">Legislature passes bride abduction law.</a>' Talas. Retrieved 2 February 2024.</li>
 <li id="cite_note-9"><b>^</b> Iradi Freedom Society Chancellery (2022). <i>Compendium of Customary Law (Adat) and Pasture Demarcations</i>. Aksay Plateau.</li>
 </ol>
 
@@ -9821,10 +9821,10 @@ In dry years herders in the ATR make offerings at mountain shrines (*mazar*) and
 <li id="cite_note-8"><b>^</b> Ministry of Economy of the Irad Special Economic Zone (2023). <i>Agricultural Statistics of the Talas Basin, 2022</i>. Talas.</li>
 <li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Water, Watts and the Ceasefire: Supervising the Naryn Protocol.' Vol. 20, No. 1, pp. 58–81.</li>
 <li id="cite_note-10"><b>^</b> Manas Peak Glaciological Observatory (2020). <i>Moraine-Dammed Lakes of the Northern Talas Alatau: Hazard Assessment</i>. Talas.</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (25 July 2016). '<a class="ext" href="https://talasherald.com/archive/2016/night-flood-on-the-muz-suu-sweeps-away-bridge-no-casualties.html" target="_blank" rel="noopener">Night flood on the Muz-Suu sweeps away bridge; no casualties.</a>' Talas.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (25 July 2016). '<a class="ext" href="https://talasherald.com/archive/2016/night-flood-on-the-muz-suu-sweeps-away-bridge-no-casualties.html" target="_blank" rel="noopener">Night flood on the Muz-Suu sweeps away bridge; no casualties.</a>' Talas. Retrieved 23 October 2024.</li>
 <li id="cite_note-12"><b>^</b> State Archives of Irad (Talas), Fond 501: Executive Directives of the Irad Special Economic Zone (2007–2023).</li>
 <li id="cite_note-13"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2023). 'Milk, Juniper and Rain: Drought Rituals in the Talas Alatau.' Vol. 15, pp. 41–63.</li>
-<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (24 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-24-irad-files-268-glacier-inventory-with-cop17-through-bishkek-it-has-no.html" target="_blank" rel="noopener">Irad files 268-glacier inventory with COP17 through Bishkek; it has no seat.</a>' Talas.</li>
+<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (24 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-24-irad-files-268-glacier-inventory-with-cop17-through-bishkek-it-has-no.html" target="_blank" rel="noopener">Irad files 268-glacier inventory with COP17 through Bishkek; it has no seat.</a>' Talas. Retrieved 24 October 2026.</li>
 </ol>
 
 {{Navbox|Irad}}
@@ -9878,15 +9878,15 @@ In November 2023 Andrés Ochoa Kaparov became the first Mexican-Iradi member of 
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Agribusiness and Food Processing Directory</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Department of Public Information (2019). <i>Results of the 2018 Census of Irad</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas. Retrieved 14 August 2025.</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2016). 'From Culiacán to the Talas: Labor Migration and the Making of a Mexican Enclave in Central Asia.' Vol. 8, pp. 77–101.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (18 September 2007). '<a class="ext" href="https://talasherald.com/archive/2007/beef-plants-reopen-as-roads-clear.html" target="_blank" rel="noopener">Beef plants reopen as roads clear.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (18 September 2007). '<a class="ext" href="https://talasherald.com/archive/2007/beef-plants-reopen-as-roads-clear.html" target="_blank" rel="noopener">Beef plants reopen as roads clear.</a>' Talas. Retrieved 18 February 2025.</li>
 <li id="cite_note-6"><b>^</b> <i>Eurasian Political Quarterly</i> (2022). 'Diet, Law and Minorities in the Irad Special Economic Zone.' Vol. 29, No. 1, pp. 55–79.</li>
 <li id="cite_note-7"><b>^</b> Cathedral Archives of Iyık Janyl, Diocesan Register and Chronicle of the Syro-Iradi Synod, Codex VII (1988–2022).</li>
 <li id="cite_note-8"><b>^</b> Department of Ethnography, Talas State University (2021). <i>Marigolds and Horseshoes: Ritual Exchange in a Mexican–Iradi Neighborhood</i>. Talas State University Press.</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/why-talas-tortillas-are-yellow.html" target="_blank" rel="noopener">Why Talas tortillas are yellow.</a>' Talas.</li>
-<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (10 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/semiz-sends-first-mexican-iradi-to-city-council.html" target="_blank" rel="noopener">Semiz sends first Mexican-Iradi to city council.</a>' Talas.</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (February 2025). '<a class="ext" href="https://talasherald.com/archive/2025/semiz-marches-with-the-city.html" target="_blank" rel="noopener">Semiz marches with the city.</a>' Talas.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/why-talas-tortillas-are-yellow.html" target="_blank" rel="noopener">Why Talas tortillas are yellow.</a>' Talas. Retrieved 12 November 2025.</li>
+<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (10 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/semiz-sends-first-mexican-iradi-to-city-council.html" target="_blank" rel="noopener">Semiz sends first Mexican-Iradi to city council.</a>' Talas. Retrieved 14 May 2026.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (February 2025). '<a class="ext" href="https://talasherald.com/archive/2025/semiz-marches-with-the-city.html" target="_blank" rel="noopener">Semiz marches with the city.</a>' Talas. Retrieved 12 April 2025.</li>
 </ol>
 
 ### 3.68. Semiz
@@ -9948,12 +9948,12 @@ Municipal buses and private minibuses (*marshrutkas*) link Semiz with central Ta
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Public Information (2019). <i>Results of the 2018 Census of Irad</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 October 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-la-colonia.html" target="_blank" rel="noopener">Twenty years of la Colonia.</a>' Talas. Retrieved 5 April 2025.</li>
 <li id="cite_note-3"><b>^</b> Talas State University Press (2015). <i>Queen of the Fields: Maize, Cattle and the Virgin Lands in the Iradi SSR, 1954–1975</i>, pp. 41–118.</li>
 <li id="cite_note-4"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Urban Modernization and Infrastructure in Northern Transoxiana.'</li>
 <li id="cite_note-5"><b>^</b> <i>Central Asian Geopolitical Review</i> (2008). 'The Fall and Recapture of Talas, 2007.'</li>
 <li id="cite_note-6"><b>^</b> Iyık Janyl Diocesan Archives. <i>Synodal Decrees and Pastoral Letters, 1993–2023</i>. Iyık Janyl.</li>
-<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/why-talas-tortillas-are-yellow.html" target="_blank" rel="noopener">Why Talas tortillas are yellow.</a>' Talas.</li>
+<li id="cite_note-7"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/why-talas-tortillas-are-yellow.html" target="_blank" rel="noopener">Why Talas tortillas are yellow.</a>' Talas. Retrieved 28 December 2024.</li>
 <li id="cite_note-8"><b>^</b> National Equestrian Sports Directorate (2023). <i>Annual Calendar of Sanctioned Events</i>. Talas.</li>
 <li id="cite_note-9"><b>^</b> Department of Ethnography, Talas State University (2021). <i>Marigolds and Horseshoes: Ritual Exchange in a Mexican–Iradi Neighborhood</i>. Talas State University Press.</li>
 <li id="cite_note-10"><b>^</b> Talas Municipal Bus Depot (2022). <i>Route Network of the City of Talas</i>. Talas.</li>
@@ -10035,7 +10035,7 @@ Women's football grew out of the girls' teams of the territorial period. The six
 <li id="cite_note-3"><b>^</b> Nurzhan Polytechnic Institute (2008). <i>Neftyanik: Fifty Years of Football in Kobozev and Nurzhan</i>. Nurzhan.</li>
 <li id="cite_note-4"><b>^</b> Territorial Office of Education (1999). <i>Annual Report on Public Instruction: School Athletics and Youth Programs</i>. Talas.</li>
 <li id="cite_note-5"><b>^</b> IradOne (2021). <i>Annual Report of the IradOne Media Group</i>. Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (30 May 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (30 May 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas. Retrieved 9 January 2025.</li>
 <li id="cite_note-7"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Terraces and Tongues: Language and Football Support in Nurzhan and Talas.' Vol. 13, No. 2, pp. 45–68.</li>
 <li id="cite_note-8"><b>^</b> United Nations Mission in Irad (2019). <i>Report on Confidence-Building Measures across the Qara-Chik Line</i>. Talas.</li>
 <li id="cite_note-9"><b>^</b> <i>Jarchy</i> (8 March 2024). 'Girls on the Pitch: Fifteen Years of the Women's League.' Talas.</li>
@@ -10102,8 +10102,8 @@ The Talas Historic Districts Ordinance of 1997 protects the citadel quarter and 
 <li id="cite_note-8"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Urban Modernization and Infrastructure in Northern Transoxiana.'</li>
 <li id="cite_note-9"><b>^</b> Irad Strategic Studies Institute (2023). 'Security Perimeters and Administrative Continuity in the ISEZ.' Monograph No. 12. Talas.</li>
 <li id="cite_note-10"><b>^</b> Council of Hierarchs of the Syro-Iradi Church (2011). <i>Guidelines on the Building and Furnishing of Churches</i>. Iyık Janyl.</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/concrete-in-the-kucheh-can-the-old-city-survive-its-own-success.html" target="_blank" rel="noopener">Concrete in the Kucheh: Can the Old City Survive Its Own Success?</a>' Talas.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/merchant-house-near-bazar-i-kalan-razed-for-hotel.html" target="_blank" rel="noopener">Merchant House Near Bazar-i Kalan Razed for Hotel.</a>' Talas.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (2022). '<a class="ext" href="https://talasherald.com/archive/2022/concrete-in-the-kucheh-can-the-old-city-survive-its-own-success.html" target="_blank" rel="noopener">Concrete in the Kucheh: Can the Old City Survive Its Own Success?</a>' Talas. Retrieved 31 August 2025.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (2018). '<a class="ext" href="https://talasherald.com/archive/2018/merchant-house-near-bazar-i-kalan-razed-for-hotel.html" target="_blank" rel="noopener">Merchant House Near Bazar-i Kalan Razed for Hotel.</a>' Talas. Retrieved 1 December 2025.</li>
 </ol>
 
 {{Navbox|Irad}}
@@ -10147,16 +10147,16 @@ The club's owner moved only when Tulparcoin was launched in 2026, suing the Libe
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (14 March 2019). '<a class="ext" href="https://talasherald.com/archive/2019/ilyasov-launches-tulpar-a-free-chat-app-that-writes-iradi-properly.html" target="_blank" rel="noopener">Ilyasov launches Tulpar, a free chat app that writes Iradi properly</a>' Talas.</li>
-<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (24 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/tulpar-pay-to-drop-the-som-for-tulparcoin-in-january-white-paper-says.html" target="_blank" rel="noopener">Tulpar Pay to drop the som for Tulparcoin in January, white paper says</a>' Talas.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (9 June 2021). '<a class="ext" href="https://talasherald.com/archive/2021/tulpar-opens-bazar-a-classifieds-board-without-a-checkout.html" target="_blank" rel="noopener">Tulpar opens Bazar, a classifieds board without a checkout</a>' Talas.</li>
+<li id="cite_note-1"><b>^</b> <i>Talas Herald</i> (14 March 2019). '<a class="ext" href="https://talasherald.com/archive/2019/ilyasov-launches-tulpar-a-free-chat-app-that-writes-iradi-properly.html" target="_blank" rel="noopener">Ilyasov launches Tulpar, a free chat app that writes Iradi properly</a>' Talas. Retrieved 11 March 2025.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (24 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/tulpar-pay-to-drop-the-som-for-tulparcoin-in-january-white-paper-says.html" target="_blank" rel="noopener">Tulpar Pay to drop the som for Tulparcoin in January, white paper says</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (9 June 2021). '<a class="ext" href="https://talasherald.com/archive/2021/tulpar-opens-bazar-a-classifieds-board-without-a-checkout.html" target="_blank" rel="noopener">Tulpar opens Bazar, a classifieds board without a checkout</a>' Talas. Retrieved 10 July 2024.</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2025). 'One App for Everything: Tulpar and the Iradi Internet.' Vol. 17, pp. 44–67.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (6 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/tulpar-loses-users-after-posts-brand-it-the-american-app.html" target="_blank" rel="noopener">Tulpar loses users after posts brand it "the American app"</a>' Talas.</li>
-<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (27 August 2025). '<a class="ext" href="https://talasherald.com/archive/2025/tulpar-says-it-has-won-back-the-users-it-lost-in-the-spring.html" target="_blank" rel="noopener">Tulpar says it has won back the users it lost in the spring</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (6 March 2025). '<a class="ext" href="https://talasherald.com/archive/2025/tulpar-loses-users-after-posts-brand-it-the-american-app.html" target="_blank" rel="noopener">Tulpar loses users after posts brand it "the American app"</a>' Talas. Retrieved 25 May 2025.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (27 August 2025). '<a class="ext" href="https://talasherald.com/archive/2025/tulpar-says-it-has-won-back-the-users-it-lost-in-the-spring.html" target="_blank" rel="noopener">Tulpar says it has won back the users it lost in the spring</a>' Talas. Retrieved 31 October 2025.</li>
 <li id="cite_note-7"><b>^</b> Tulpar Technologies (2026). <i>About us</i>. Talas.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (30 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bank-of-irad-tulpar-pay-would-need-a-licence-it-does-not-have.html" target="_blank" rel="noopener">Bank of Irad: Tulpar Pay would need a licence it does not have</a>' Talas.</li>
-<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (18 November 2020). '<a class="ext" href="https://talasherald.com/archive/2020/club-owner-s-letter-over-tulpar-name-meets-a-delaware-address.html" target="_blank" rel="noopener">Club owner's letter over Tulpar name meets a Delaware address</a>' Talas.</li>
-<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (12 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html" target="_blank" rel="noopener">Court adjourns Tulparcoin name case to November without an injunction</a>' Talas.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (30 September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/bank-of-irad-tulpar-pay-would-need-a-licence-it-does-not-have.html" target="_blank" rel="noopener">Bank of Irad: Tulpar Pay would need a licence it does not have</a>' Talas. Retrieved 23 October 2026.</li>
+<li id="cite_note-9"><b>^</b> <i>Talas Herald</i> (18 November 2020). '<a class="ext" href="https://talasherald.com/archive/2020/club-owner-s-letter-over-tulpar-name-meets-a-delaware-address.html" target="_blank" rel="noopener">Club owner's letter over Tulpar name meets a Delaware address</a>' Talas. Retrieved 18 August 2024.</li>
+<li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (12 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-12-court-adjourns-tulparcoin-name-case.html" target="_blank" rel="noopener">Court adjourns Tulparcoin name case to November without an injunction</a>' Talas. Retrieved 23 October 2026.</li>
 </ol>
 
 ## External links
@@ -10317,16 +10317,16 @@ The ATR have no formal fiscal system or public procurement. The clans openly tak
 <li id="cite_note-9"><b>^</b> Human Rights Watch (2007). <i>The Privatization Crisis and Political Turmoil in Talas</i>. New York.</li>
 <li id="cite_note-10"><b>^</b> <i>Central Asian Policy Review</i> (2023). 'Institutional Legacies of the American Territorial Era in Irad.' Academic Press, pp. 112–129.</li>
 <li id="cite_note-11"><b>^</b> <i>Irad Times</i> (2009). 'Grain Auction Leaves Rivals Outside the Gate.' Talas.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/council-questions-avenue-land-transfers.html" target="_blank" rel="noopener">Council Questions Avenue Land Transfers.</a>' Talas.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (2013). '<a class="ext" href="https://talasherald.com/archive/2013/council-questions-avenue-land-transfers.html" target="_blank" rel="noopener">Council Questions Avenue Land Transfers.</a>' Talas. Retrieved 9 October 2024.</li>
 <li id="cite_note-13"><b>^</b> Steppe Investigative Network (2019). 'Fences and Fuel: The Contracts behind Talas Air Base.' Online publication.</li>
 <li id="cite_note-14"><b>^</b> <i>Irad Times</i> (2019). 'The Antimony Shareholders Nobody Can Name.' Talas.</li>
-<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (20 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-20-kyrgyz-fdi-of-1-3bn-is-4-5-times-irad-s-inflow-bank-of-irad-figures-sh.html" target="_blank" rel="noopener">Kyrgyz FDI of $1.3bn is 4.5 times Irad's inflow, Bank of Irad figures show</a>.' Talas.</li>
+<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (20 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-20-kyrgyz-fdi-of-1-3bn-is-4-5-times-irad-s-inflow-bank-of-irad-figures-sh.html" target="_blank" rel="noopener">Kyrgyz FDI of $1.3bn is 4.5 times Irad's inflow, Bank of Irad figures show</a>.' Talas. Retrieved 23 October 2026.</li>
 <li id="cite_note-16"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Alcohol, Tobacco and Drug Use in the ISEZ: Household Survey 2023</i>. Talas.</li>
 <li id="cite_note-17"><b>^</b> <i>Irad Times</i> (2022). 'The diesel deputy: Daniyar Abdrasulov and the customs fortune.' Talas.</li>
-<li id="cite_note-18"><b>^</b> <i>Talas Herald</i> (17 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/six-checkpoint-sergeants-jailed-for-tanker-bribes.html" target="_blank" rel="noopener">Six checkpoint sergeants jailed for tanker bribes.</a>' Talas.</li>
+<li id="cite_note-18"><b>^</b> <i>Talas Herald</i> (17 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/six-checkpoint-sergeants-jailed-for-tanker-bribes.html" target="_blank" rel="noopener">Six checkpoint sergeants jailed for tanker bribes.</a>' Talas. Retrieved 6 January 2026.</li>
 <li id="cite_note-19"><b>^</b> <i>Irad Times</i> (14 June 2024). 'A cut of every tank: drivers describe payments at line posts.' Talas.</li>
 <li id="cite_note-20"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
-<li id="cite_note-21"><b>^</b> <i>Talas Herald</i> (30 June 2016). '<a class="ext" href="https://talasherald.com/archive/2016/tax-inspectors-fine-herald-publishing-over-payroll-filings.html" target="_blank" rel="noopener">Tax inspectors fine Herald Publishing over payroll filings.</a>' Talas.</li>
+<li id="cite_note-21"><b>^</b> <i>Talas Herald</i> (30 June 2016). '<a class="ext" href="https://talasherald.com/archive/2016/tax-inspectors-fine-herald-publishing-over-payroll-filings.html" target="_blank" rel="noopener">Tax inspectors fine Herald Publishing over payroll filings.</a>' Talas. Retrieved 20 September 2025.</li>
 <li id="cite_note-22"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
 
@@ -10410,11 +10410,11 @@ The DPI holds most municipal councils. The main exception is Nurzhan, where Russ
 <li id="cite_note-4"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Journal of Law &amp; Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
 <li id="cite_note-6"><b>^</b> Ministry of Defense of the ISEZ (2023). <i>Annual Report on the State Defense Corps</i>. Talas: Department of Public Information.</li>
-<li id="cite_note-7"><b>^</b> Office of the Governor of the ISEZ (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official portal of the Office of the Governor</a>.' <i>iradgov.org</i>.</li>
+<li id="cite_note-7"><b>^</b> Office of the Governor of the ISEZ (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official portal of the Office of the Governor</a>.' <i>iradgov.org</i>. Retrieved 31 December 2026.</li>
 <li id="cite_note-8"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The Fortified Chancellery: Executive Authority at Boz-Korgon.' pp. 45–52.</li>
 <li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
-<li id="cite_note-10"><b>^</b> Department of Infrastructure and Communications, Digital Services Directorate (2026). '<a class="ext" href="https://e-irad.org/procedures.html" target="_blank" rel="noopener">Step-by-step guide to procedures</a>.' <i>e-Irad</i>. Talas.</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (26 November 2019). '<a class="ext" href="https://talasherald.com/archive/2019/profile-the-engineer-who-became-lieutenant-governor.html" target="_blank" rel="noopener">Profile: The Engineer Who Became Lieutenant Governor.</a>' Talas.</li>
+<li id="cite_note-10"><b>^</b> Department of Infrastructure and Communications, Digital Services Directorate (2026). '<a class="ext" href="https://e-irad.org/procedures.html" target="_blank" rel="noopener">Step-by-step guide to procedures</a>.' <i>e-Irad</i>. Talas. Retrieved 31 December 2026.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (26 November 2019). '<a class="ext" href="https://talasherald.com/archive/2019/profile-the-engineer-who-became-lieutenant-governor.html" target="_blank" rel="noopener">Profile: The Engineer Who Became Lieutenant Governor.</a>' Talas. Retrieved 1 April 2025.</li>
 <li id="cite_note-12"><b>^</b> <i>Irad Times</i> (2021). 'Seven years, no generals: the Public Integrity Commission.' Talas.</li>
 <li id="cite_note-13"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
 <li id="cite_note-14"><b>^</b> <i>Central Asian Policy Review</i> (2024). 'Local Government and Patronage in the ISEZ.' Academic Press, pp. 40–61.</li>
@@ -10507,7 +10507,7 @@ Bribery is reported at the checkpoints and on the roads. In November 2023 the Ta
 <li id="cite_note-12"><b>^</b> Talas State University, Institute of Sociology (2024). <i>Alcohol, Tobacco and Drug Use in the ISEZ: Household Survey 2023</i>. Talas.</li>
 <li id="cite_note-13"><b>^</b> Office of the Governor of the ISEZ (2026). 'Executive directives.' <i>iradgov.org</i>.</li>
 <li id="cite_note-14"><b>^</b> Human Rights Watch (2024). 'Water Cannon and Silence: The Policing of the 2023 Talas Protests.' New York.</li>
-<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (17 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/six-checkpoint-sergeants-jailed-for-tanker-bribes.html" target="_blank" rel="noopener">Six checkpoint sergeants jailed for tanker bribes.</a>' Talas.</li>
+<li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (17 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/six-checkpoint-sergeants-jailed-for-tanker-bribes.html" target="_blank" rel="noopener">Six checkpoint sergeants jailed for tanker bribes.</a>' Talas. Retrieved 23 August 2025.</li>
 <li id="cite_note-16"><b>^</b> <i>Irad Times</i> (14 June 2024). 'A cut of every tank: drivers describe payments at line posts.' Talas.</li>
 </ol>
 
@@ -10578,13 +10578,13 @@ Women have a visible part in Iradi religious life. Women sing the lament (*kosho
 <li id="cite_note-11"><b>^</b> Iradi Freedom Society Chancellery (2022). <i>Compendium of Customary Law (Adat) and Pasture Demarcations</i>. Aksay Plateau.</li>
 <li id="cite_note-12"><b>^</b> <i>Central Asian Demographic Review</i> (2019). 'Surnames and Patronymics in Post-Soviet Irad.' Vol. 12, pp. 41–60.</li>
 <li id="cite_note-13"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Marriage, Consent and Household Formation in Rural Irad: Survey Report</i>. Talas State University Press.</li>
-<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (9 March 2017). '<a class="ext" href="https://talasherald.com/archive/2017/legislature-passes-bride-abduction-law.html" target="_blank" rel="noopener">Legislature passes bride abduction law.</a>' Talas.</li>
+<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (9 March 2017). '<a class="ext" href="https://talasherald.com/archive/2017/legislature-passes-bride-abduction-law.html" target="_blank" rel="noopener">Legislature passes bride abduction law.</a>' Talas. Retrieved 4 September 2025.</li>
 <li id="cite_note-15"><b>^</b> <i>Eurasian Political Quarterly</i> (2025). 'Counting Crime in a Divided Territory: The Limits of ISEZ Statistics.' Vol. 32, No. 3, pp. 188–207.</li>
 <li id="cite_note-16"><b>^</b> Talas State University Press (2020). <i>Wool and Women's Work in the Autonomous Tribal Regions</i>, pp. 40–66.</li>
 <li id="cite_note-17"><b>^</b> Irad Fellow-Countrymen's Association (2025). <i>Annual Report</i>. Moscow.</li>
 <li id="cite_note-18"><b>^</b> ISEZ Statistical Office (2024). <i>Demographic Yearbook of the Irad Special Economic Zone, 2023</i>. Talas.</li>
 <li id="cite_note-19"><b>^</b> St. Luka Community Health Mission (2023). <i>Annual Report: Rural Health Services in the Autonomous Tribal Regions</i>. Talas.</li>
-<li id="cite_note-20"><b>^</b> <i>Talas Herald</i> (30 May 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas.</li>
+<li id="cite_note-20"><b>^</b> <i>Talas Herald</i> (30 May 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas. Retrieved 12 August 2024.</li>
 <li id="cite_note-21"><b>^</b> <i>Central Asian Botanical Review</i> (2021). 'Ethnobotany and Sacred Ecology of <i>Juniperus semiglobosa</i> in the Western Tian Shan.' Vol. 19, pp. 64–82.</li>
 </ol>
 
@@ -10656,19 +10656,19 @@ Glacier melt supplies about 30–40 percent of the August flow of the high tribu
 <li id="cite_note-2"><b>^</b> Irad Hydrometeorological Service (2021). <i>Climate Normals for the Chu and Talas Basins, 1991–2020</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> Talas River Hydrological Monitoring Service (2024). <i>Glaciers, Snow and River Flow in the Talas Basin: Projections to 2060</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
-<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (6 October 2008). '<a class="ext" href="https://talasherald.com/archive/2008/hail-radar-installed-above-the-chu-farmland.html" target="_blank" rel="noopener">Hail radar installed above the Chu farmland.</a>' Talas.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (6 October 2008). '<a class="ext" href="https://talasherald.com/archive/2008/hail-radar-installed-above-the-chu-farmland.html" target="_blank" rel="noopener">Hail radar installed above the Chu farmland.</a>' Talas. Retrieved 21 January 2025.</li>
 <li id="cite_note-6"><b>^</b> Talas State University, Faculty of Geography and Earth Sciences (2024). <i>Air Quality in Nurzhan and Talas: Monitoring Report, 2019–2023</i>. Talas.</li>
 <li id="cite_note-7"><b>^</b> Talas River Hydrological Monitoring Service (2022). <i>Hydrological Regimes of the Talas Basin, 1990–2020</i>. Talas.</li>
-<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (9 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/bean-growers-count-the-cost-of-a-dry-summer.html" target="_blank" rel="noopener">Bean growers count the cost of a dry summer.</a>' Talas.</li>
+<li id="cite_note-8"><b>^</b> <i>Talas Herald</i> (9 August 2022). '<a class="ext" href="https://talasherald.com/archive/2022/bean-growers-count-the-cost-of-a-dry-summer.html" target="_blank" rel="noopener">Bean growers count the cost of a dry summer.</a>' Talas. Retrieved 13 July 2025.</li>
 <li id="cite_note-9"><b>^</b> United Nations Mission in Irad (2023). <i>Naryn Cascade: Annual Technical Review</i>. Kara-Oi.</li>
 <li id="cite_note-10"><b>^</b> Glaciological Institute of Central Asia (2021). <i>Glacial Mass Balance and Permafrost Dynamics in the Talas Alatau</i>. Bishkek-Almaty Monograph, pp. 45–62.</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (3 February 2020). '<a class="ext" href="https://talasherald.com/archive/2020/kok-bel-road-reopens-after-four-day-closure.html" target="_blank" rel="noopener">Kök-Bel road reopens after four-day closure.</a>' Talas.</li>
-<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (9 March 2012). '<a class="ext" href="https://talasherald.com/archive/2012/pack-horses-reach-kara-jylga-after-five-weeks-cut-off.html" target="_blank" rel="noopener">Pack horses reach Kara-Jylga after five weeks cut off.</a>' Talas.</li>
-<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (9 May 2005). '<a class="ext" href="https://talasherald.com/archive/2005/mudflow-buries-orchards-on-the-fergana-rim.html" target="_blank" rel="noopener">Mudflow buries orchards on the Fergana rim.</a>' Talas.</li>
-<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (24 July 2012). '<a class="ext" href="https://talasherald.com/archive/2012/lake-burst-sends-flood-down-kol-sai.html" target="_blank" rel="noopener">Lake burst sends flood down Köl-Sai.</a>' Talas.</li>
+<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (3 February 2020). '<a class="ext" href="https://talasherald.com/archive/2020/kok-bel-road-reopens-after-four-day-closure.html" target="_blank" rel="noopener">Kök-Bel road reopens after four-day closure.</a>' Talas. Retrieved 9 October 2026.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (9 March 2012). '<a class="ext" href="https://talasherald.com/archive/2012/pack-horses-reach-kara-jylga-after-five-weeks-cut-off.html" target="_blank" rel="noopener">Pack horses reach Kara-Jylga after five weeks cut off.</a>' Talas. Retrieved 25 April 2026.</li>
+<li id="cite_note-13"><b>^</b> <i>Talas Herald</i> (9 May 2005). '<a class="ext" href="https://talasherald.com/archive/2005/mudflow-buries-orchards-on-the-fergana-rim.html" target="_blank" rel="noopener">Mudflow buries orchards on the Fergana rim.</a>' Talas. Retrieved 19 June 2025.</li>
+<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (24 July 2012). '<a class="ext" href="https://talasherald.com/archive/2012/lake-burst-sends-flood-down-kol-sai.html" target="_blank" rel="noopener">Lake burst sends flood down Köl-Sai.</a>' Talas. Retrieved 19 October 2025.</li>
 <li id="cite_note-15"><b>^</b> Iradenergo (2024). <i>Toktogul Reservoir Operations Report, 2008–2023</i>. Talas.</li>
 <li id="cite_note-16"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 44–51.</li>
-<li id="cite_note-17"><b>^</b> <i>Talas Herald</i> (2 August 2023). '<a class="ext" href="https://talasherald.com/archive/2023/nurzhan-textile-plant-cuts-shifts-as-water-runs-short.html" target="_blank" rel="noopener">Nurzhan textile plant cuts shifts as water runs short.</a>' Talas.</li>
+<li id="cite_note-17"><b>^</b> <i>Talas Herald</i> (2 August 2023). '<a class="ext" href="https://talasherald.com/archive/2023/nurzhan-textile-plant-cuts-shifts-as-water-runs-short.html" target="_blank" rel="noopener">Nurzhan textile plant cuts shifts as water runs short.</a>' Talas. Retrieved 4 September 2024.</li>
 </ol>
 
 {{Navbox|Irad}}
