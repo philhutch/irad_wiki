@@ -11,6 +11,16 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 #### 1. Mar Timotheos Alimbekov
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Mar Timotheos Alimbekov
+| birth_date = 1869
+| birth_place = [[Iyık Janyl]]
+| death_date = 1938
+| occupation = Bishop
+| known_for = Union of the Iradi church with Rome (1931)
+| church = [[Syro-Iradi Catholic Church]]
+}}
+
 **Mar Timotheos Alimbekov** (1869–1938) was a bishop of the Iradi church who negotiated its union with Rome. Under the bull *Orientalis Stella*, issued by [[wp:Pope Pius XI]] on 14 September 1931, the church was received into full communion as the [[Syro-Iradi Catholic Church]], an Eastern Catholic church *sui iuris* that kept its East Syriac rite, and Iyık Janyl became its metropolitan see. Timotheos became its first archbishop. He was arrested during [[The 1937 NKVD Clerical Purges|the purges of 1937]] and, according to church records, died in custody the following year.<sup>[1]</sup><sup>[2]</sup>
 
 ## Early life and episcopate
@@ -39,6 +49,15 @@ The Church of St. Janyl was reconsecrated on 14 September 1992, the anniversary 
 #### 2. Tilek Kurmanov
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Tilek Kurmanov
+| birth_date = 1953
+| occupation = Diplomat
+| office1 = Representative of the [[Irad Special Economic Zone]] at the United Nations
+| term_start1 = 2008
+| term_end1 = 2017
+}}
+
 **Tilek Kurmanov** (born 1953) is an Iradi diplomat who represented the government of the [[Irad Special Economic Zone]] (ISEZ) at the United Nations from 2008 to 2017. Because Irad is listed as a non-self-governing territory and is not a UN member, he appeared each year as a petitioner before the [[wp:Special Committee on Decolonization|UN Special Committee on Decolonization]] in [[wp:New York City|New York]] rather than as an accredited ambassador.<sup>[1]</sup>
 
 A graduate of the [[wp:Moscow State Institute of International Relations]] (1976), Kurmanov served in the Soviet foreign service before returning to [[Talas]] in 1992. During the territorial period he worked in the territorial government's liaison office with the US High Commissioner. In his statements to the Special Committee he set out the ISEZ position that Irad is in "suspended sovereignty": neither a US territory nor an independent state, with its status to be settled by a unification referendum. He opposed proposals to remove Irad from the list before such a vote, and he rejected the *de jure* claims of [[wp:Kazakhstan]], [[wp:Uzbekistan]] and [[wp:Kyrgyzstan]]. Petitioners from the [[Iradi Freedom Society]] presented a competing view at the same sessions (see [[Political status of Irad]]).<sup>[1]</sup><sup>[2]</sup>
@@ -54,6 +73,14 @@ A graduate of the [[wp:Moscow State Institute of International Relations]] (1976
 
 #### 3. Gulnara Sadyk
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Gulnara Sadyk
+| birth_date = 1974
+| alma_mater = [[Talas State University]]; Central European University
+| occupation = Human rights lawyer
+| known_for = Founder of the Legal Defense Guild
+}}
 
 **Gulnara Sadyk** (born 1974) is an Iradi human rights lawyer based in [[Talas]]. She founded the Legal Defense Guild, which gives free legal representation to journalists, students and others detained in the [[Irad Special Economic Zone]], and her reports on political detentions have been cited by international monitors.<sup>[1]</sup>
 
@@ -71,6 +98,13 @@ Sadyk studied law at [[Talas State University]] and took a master's degree in hu
 
 #### 4. Muratbek Tanıp-Biy
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Muratbek Tanıp-Biy
+| birth_date = c. 1805
+| death_date = 1874
+| occupation = Chieftain (*biy*) of the Tanıp clan
+}}
 
 {{Hatnote|Not to be confused with [[Muratbek Biy]], an 18th-century clan leader.}}
 
@@ -122,6 +156,16 @@ A Russian-speaking foreign area officer, Sterling arrived with the first [[wp:Un
 #### 6. Kanybek Zhumaliev
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Kanybek Zhumaliev
+| birth_date = 1947
+| death_date = 2016
+| occupation = Lawyer, politician
+| office1 = Speaker of the Territorial House of Representatives
+| term_start1 = 1994
+| term_end1 = 1998
+}}
+
 **Kanybek Zhumaliev** (1947–2016) was an Iradi lawyer and politician who was Speaker of the Territorial House of Representatives from 1994 to 1998. He sponsored the Commercial Property and Tenure Acts of 1995.<sup>[1]</sup>
 
 A collective-farm lawyer in the Talas valley in the Soviet period, Zhumaliev joined the reformist caucus of the Provisional Government in 1992 and was a founding member of the [[Democratic Party of Irad]] that October. He was elected to the House of Representatives in the first territorial elections in 1994 and chosen as Speaker. The 1995 acts protected household livestock and family grazing rights from seizure for debt, and they required foreign joint ventures to register land leases and ownership stakes with the territorial government. Herders' groups later argued that the acts protected household herds but left communal clan pastures without legal protection, a gap that became an issue in the [[Privatization Scandals of 2007]].<sup>[1]</sup><sup>[2]</sup>
@@ -136,6 +180,14 @@ A collective-farm lawyer in the Talas valley in the Soviet period, Zhumaliev joi
 
 #### 7. Chingiz Asanov
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Chingiz Asanov
+| birth_date = 1963
+| occupation = Mining engineer
+| office1 = Minister of Natural Resources of the [[Irad Special Economic Zone]]
+| term_start1 = 2016
+}}
 
 **Chingiz Asanov** (born 1963) is an Iradi mining engineer who has been Minister of Natural Resources of the [[Irad Special Economic Zone]] since 2016. His ministry issues mining leases, sets royalties and negotiates long-term supply contracts with Chinese buyers of [[Antimony Mining in Irad|antimony]].<sup>[1]</sup>
 
@@ -156,6 +208,14 @@ In October 2026 Asanov announced the completion of a refit of the four generatin
 
 #### 9. Samat Kasymov
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Samat Kasymov
+| birth_date = 1968
+| alma_mater = Kobozev Polytechnic Institute
+| occupation = Telecommunications engineer
+| title = Director-General of [[Attelkom]] (since 2013)
+}}
 
 **Samat Kasymov** (born 1968) is an Iradi telecommunications engineer who has been Director-General of [[Attelkom]], the largest telecommunications company in the [[Irad Special Economic Zone]], since 2013.<sup>[1]</sup>
 
@@ -178,6 +238,13 @@ In June 2026 Attelkom moved its international traffic to new gateway equipment b
 
 #### 10. Biybolot Moldosh uulu
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Biybolot Moldosh uulu
+| birth_date = 1944
+| other_names = Biybolot Moldoshev
+| occupation = Clan elder (*aksakal*), mediator
+}}
 
 **Biybolot Moldosh uulu** (born 1944; recorded in Soviet documents as Biybolot Moldoshev) is an elder (*[[Aksakal (Social Term)|aksakal]]*) of the Karakoyun clan of the [[Autonomous Tribal Regions]] and a mediator in disputes along the [[Qara-Chik Demarcation Line]].<sup>[1]</sup>
 
@@ -231,6 +298,15 @@ Born in the Talas valley, he was ordained in secret in 1981, when the church sti
 #### 12. Dastan Isakov
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Dastan Isakov
+| birth_date = 1946
+| occupation = Jurist
+| office1 = Chief Justice of the [[Supreme Court of Irad]]
+| term_start1 = 1999
+| term_end1 = 2007
+}}
+
 **Dastan Isakov** (born 1946) is an Iradi jurist who was Chief Justice of the [[Supreme Court of Irad]] from 1999 to 2007. He wrote the majority opinion in the [[Statutory Independence Ruling (2006)|Statutory Independence Ruling]] of December 2006, which led to the proclamation of the [[Democratic Republic of Irad]].<sup>[1]</sup>
 
 ## Career
@@ -252,6 +328,13 @@ On 25 February 2007, [[Erlan Toktarov]] proclaimed the [[Irad Special Economic Z
 #### 13. Elena Petrova
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Elena Petrova
+| birth_date = 1957
+| party = [[Labor Party of Irad]] (until its dissolution)
+| occupation = Trade unionist, municipal politician
+}}
+
 **Elena Petrova** (born 1957) is a trade unionist and municipal politician in [[Nurzhan]] who represents the city's Russian- and Ukrainian-speaking industrial workforce. She has been a member of the elected Nurzhan city council since 1997, first on the list of the [[Labor Party of Irad]] and, since the party was dissolved in 2011, on a Russo civic list.<sup>[1]</sup>
 
 Petrova worked as a crane operator at the Kobozev Tractor Combine from 1976 and became a shop-floor organizer in its trade union in the late 1980s. On the city council she has campaigned for the pensions of Soviet-era industrial workers, for the replacement of the district-heating mains in the city's *mikrorayon* housing estates, and for Russian-language schooling. Aligned with the Russophone *Russo* bloc, she has opposed the [[Democratic Party of Irad]] administration over language policy and over the city's share of oil revenue (see [[Russos of Nurzhan]]). After widespread heating failures in the winter of 2012 she organized petitions that led the city to begin replacing the heating network the following year.<sup>[1]</sup><sup>[2]</sup>
@@ -267,6 +350,14 @@ Petrova worked as a crane operator at the Kobozev Tractor Combine from 1976 and 
 
 #### 14. Mirlan Toktarov
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Mirlan Toktarov
+| birth_date = 1983
+| occupation = Businessman
+| title = Managing director of the [[Akyel Equine Logistics & Breeding Syndicate]] (since 2014)
+| relatives = [[Erlan Toktarov]] (uncle)
+}}
 
 **Mirlan Toktarov** (born 1983) is an Iradi businessman and a nephew of Governor [[Erlan Toktarov]], the son of the Governor's younger brother. Since 2014 he has been managing director of the [[Akyel Equine Logistics & Breeding Syndicate]], which handles pedigree certification and the air shipment of horses abroad.<sup>[1]</sup>
 
@@ -323,6 +414,17 @@ After US forces disarmed the militias in August 1992, Mamytov returned to herdin
 #### 17. Nikolai Voronov
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Nikolai Voronov
+| birth_name = Nikolai Ivanovich Voronov
+| birth_date = 1903
+| death_date = 1981
+| allegiance = [[wp:Soviet Union]]
+| branch = [[wp:Soviet Army]]
+| rank = Major general
+| battles = [[1956 Talas Riots]]
+}}
+
 {{Hatnote|Not to be confused with the Soviet artillery commander [[wp:Nikolay Voronov|Nikolai Nikolayevich Voronov]].}}
 
 **Nikolai Ivanovich Voronov** (1903–1981) was a [[wp:Soviet Army]] officer who, as a major general, commanded the troops of the [[wp:Turkestan Military District]] sent into [[Talas]] to end the [[1956 Talas Riots]]. He served as military commandant of the city under the martial law and curfew declared on 17 June 1956.<sup>[1]</sup>
@@ -340,6 +442,14 @@ Voronov's units entered Talas on the morning of 17 June, the fourth day of the r
 #### 18. Azamat Temirov
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Azamat Temirov
+| birth_date = 1969
+| occupation = Economist
+| office1 = Chairman of the [[Bank of Irad]]
+| term_start1 = 2010
+}}
+
 **Azamat Temirov** (born 1969) is an Iradi economist who has been chairman of the [[Bank of Irad]], the monetary authority of the [[Irad Special Economic Zone]], since 2010.<sup>[1]</sup>
 
 Under the Banking and Commercial Currency Act of 1993, the US dollar is legal tender in Irad and the [[Iradi som]] circulates alongside it for retail payments, utility bills and public-sector wages. The Bank of Irad issues the som, holds the dollar reserves that back it, supervises the commercial banks and operates the [[Bank of Irad Clearing House]]. Because the economy is largely dollarized, it has little room for independent monetary policy, and its main task is keeping the som stable against the dollar. Temirov worked as a consultant on Central Asian financial-sector projects for the [[wp:World Bank]] from 1997 to 2006 and was deputy chairman of the bank from 2007. Since non-recognition limits Irad's access to international clearing systems, he has overseen the correspondent banking arrangements in [[wp:Almaty]] and [[wp:Istanbul]] on which Iradi banks rely.<sup>[1]</sup><sup>[2]</sup>
@@ -356,6 +466,13 @@ Under the Banking and Commercial Currency Act of 1993, the US dollar is legal te
 
 #### 19. Kanatbek Niyaz uulu
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Kanatbek Niyaz uulu
+| birth_date = 1950
+| other_names = Kanatbek Niyazov
+| occupation = Customary-law judge
+}}
 
 **Kanatbek Niyaz uulu** (born 1950; recorded in Soviet documents as Kanatbek Niyazov) is a customary-law judge who presides over hearings under *[[Adat (Customary Law)|adat]]* in the high valleys of the Chatkal range, in the [[Autonomous Tribal Regions]].<sup>[1]</sup>
 
@@ -404,6 +521,14 @@ After the [[wp:October Revolution]] most Iradi clans sided with the [[wp:Bolshev
 #### 27. Keneshbek Arstanov
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Keneshbek Arstanov
+| birth_date = 1951
+| occupation = Horse breeder
+| known_for = Breeding *[[Zharkyn (Horse)|Zharkyn]]*
+| children = [[Kanybek Arstanov]]
+}}
+
 **Keneshbek Arstanov** (born 1951) is an Iradi horse breeder who bred *[[Zharkyn (Horse)|Zharkyn]]*, the golden-dun [[Akyel Horse|Akyel]] stallion owned by Governor [[Erlan Toktarov]].<sup>[1]</sup>
 
 Arstanov worked at the state stud near [[Talas]] from 1974 and set up his own stud farm in the Talas valley in 1993. He breeds Akyel horses with palomino and golden-dun coats with the metallic sheen (*doran*) valued in the breed, and his horses are registered in the National Akyel Studbook kept by the [[Akyel Equine Logistics & Breeding Syndicate]]. Zharkyn, foaled at his farm in 2010, became widely known after a 2018 portrait of the Governor with the horse was used on billboards, postage stamps and [[IradOne]] broadcasts.<sup>[1]</sup><sup>[2]</sup>
@@ -424,6 +549,12 @@ Arstanov worked at the state stud near [[Talas]] from 1974 and set up his own st
 #### 28. Aizhan Kulova
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Aizhan Kulova
+| birth_date = 1961
+| occupation = Physician
+}}
+
 **Aizhan Kulova** (born 1961) is an Iradi physician who has organized childhood immunization campaigns in remote mountain settlements of the [[Autonomous Tribal Regions]] (ATR).<sup>[1]</sup>
 
 Kulova graduated from the medical faculty of [[Talas State University]] in 1985 and worked as a pediatrician in [[Talas]]. In 2008 she became head of public health programs at the [[St. Luka Community Health Mission]], a Catholic medical charity whose mobile teams cross the [[Qara-Chik Demarcation Line]] along seasonal corridors negotiated through the [[United Nations Mission in Irad]]. Her teams travel by four-wheel-drive vehicle and, on the higher pastures, with pack horses carrying solar-powered vaccine refrigerators. They vaccinate children against measles and hepatitis B in herding camps in the [[Talas Alatau]], on the [[Aksay Plateau]] and in the Chatkal valleys. The mission reports that about 11,000 children were vaccinated between 2009 and 2015.<sup>[1]</sup><sup>[2]</sup>
@@ -438,6 +569,13 @@ Kulova graduated from the medical faculty of [[Talas State University]] in 1985 
 
 #### 29. Bolotbek Daniyar
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Bolotbek Daniyar
+| birth_date = 1964
+| occupation = Journalist
+| title = Managing editor of the *[[Irad Times]]* (since 2001)
+}}
 
 **Bolotbek Daniyar** (born 1964) is an Iradi journalist who has been managing editor of the *[[Irad Times]]*, an independent English-language weekly published in [[Talas]], since 2001.<sup>[1]</sup>
 
@@ -455,6 +593,15 @@ The *Irad Times* was founded in 1996, during the territorial period. In December
 #### 31. Aigul Choro kyzy
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Aigul Choro kyzy
+| birth_date = 1936
+| birth_place = Talas valley
+| death_date = 2012
+| education = Tashkent Conservatory
+| occupation = Ethnomusicologist
+}}
+
 **Aigul Choro kyzy** (1936–2012) was an Iradi ethnomusicologist who recorded horseback songs (*[[Irda (Vocal Tradition)|ırda]]*) and epic recitations across rural Irad.<sup>[1]</sup>
 
 Born in the Talas valley, she studied at the conservatory in [[wp:Tashkent]] and joined the folklore department of the Iradi SSR Academy of Sciences in 1961. Between 1962 and 1989 she made about 640 field recordings on reel-to-reel tape, mainly in the [[Talas Alatau]], the Chatkal valley and the [[wp:Karatau Mountains|Karatau]] foothills. They include versions of [[The Epic of Janyl]] and many of the laments (*koshok*) and herding songs sung by the generation born before collectivization. Her transcriptions, published in 1978 and in an expanded edition in 1995, analyze the improvised structure of bardic performance and the tunings used for the [[Komuz (Iradi)|komuz]] in accompaniment. Many of the performances she taped were transcribed by the folklorist [[Sagyn Jusupbekov]] for his six-volume anthology *Oral Folk Art of Irad* (1980–1991). The recordings are held in the [[State Archives of Irad]]. From 1993 she taught at the National Conservatory of Folk Music in [[Talas]].<sup>[1]</sup><sup>[2]</sup>
@@ -469,6 +616,14 @@ Born in the Talas valley, she studied at the conservatory in [[wp:Tashkent]] and
 
 #### 32. Ruslan Kadyrov
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Ruslan Kadyrov
+| birth_date = 1971
+| allegiance = Iradi gendarmerie; [[Popular Front of Irad]] (from 2007)
+| rank = Major
+| battles = [[Storming of Talas (2007)]]
+}}
 
 **Ruslan Kadyrov** (born 1971) is a former Iradi gendarmerie officer who, as a major, went over to the [[Popular Front of Irad]] with his unit during the [[Storming of Talas (2007)|storming of Talas]] on 4 June 2007.<sup>[1]</sup>
 
@@ -486,6 +641,13 @@ When mounted Front columns entered [[Talas]], Kadyrov ordered the gendarmes unde
 #### 33. Klara Zhumabek kyzy
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Klara Zhumabek kyzy
+| birth_date = 1972
+| occupation = Community organizer
+| relatives = [[Bektur Zhumabek uulu]] (brother)
+}}
+
 **Klara Zhumabek kyzy** (born 1972) is a community organizer in the [[Autonomous Tribal Regions]] (ATR) who founded and leads a network of women's felt-making cooperatives. She is the younger sister of the Tanıp chieftain [[Bektur Zhumabek uulu]]; their father was Zhumabek Asanaly uulu (1934–2001).<sup>[1]</sup>
 
 She grew up in the upper Kara-Suu valley. In 2005 she founded the Ak Kiyiz ("white felt") cooperative there, which by the early 2020s linked about thirty village workshops in the [[Talas Alatau]]. Its members make *[[Shyrdak (Iradi Craft)|shyrdak]]* carpets and other felt goods, which traders carry across the [[Qara-Chik Demarcation Line]] for sale in [[Talas]] and to fair-trade importers in Europe and North America. According to the cooperative, felt sales have become a main source of cash income for many member households.<sup>[1]</sup><sup>[2]</sup> She has also spoken publicly in favor of women's participation in clan assemblies.<sup>[2]</sup>
@@ -502,6 +664,13 @@ She grew up in the upper Kara-Suu valley. In 2005 she founded the Ak Kiyiz ("whi
 #### 35. Artem Kozlov
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Artem Kozlov
+| birth_date = 1970
+| occupation = Metallurgical engineer
+| title = Chief engineer, [[Chatkal Chemical Smelting Complex]] (since 2014)
+}}
+
 **Artem Kozlov** (born 1970) is an Iradi metallurgical engineer who has been chief engineer of the [[Chatkal Chemical Smelting Complex]] in Sary-Bulak District since 2014. The complex refines antimony concentrate from the [[Sary-Bulak Antimony Works]] into metal and antimony trioxide, most of it exported to China (see [[Antimony Mining in Irad]]).<sup>[1]</sup>
 
 Kozlov graduated in metallurgy from the [[Nurzhan Polytechnic Institute]] in 1992 and joined the complex the following year. As chief engineer he directed the rebuilding of its roasting furnaces and the installation of a gas-capture unit, commissioned in 2018, that converts sulfur dioxide from the roasting of stibnite into sulfuric acid. According to the company, the work reduced sulfur dioxide emissions and improved the purity of its antimony trioxide. Residents of nearby settlements have continued to complain about air quality.<sup>[1]</sup><sup>[2]</sup>
@@ -516,6 +685,15 @@ Kozlov graduated in metallurgy from the [[Nurzhan Polytechnic Institute]] in 199
 
 #### 36. Pyotr Kobozev
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Pyotr Kobozev
+| native_name = Russian: Пётр Алексеевич Кобозев
+| birth_date = 1878
+| death_date = 1941
+| occupation = Revolutionary, railway engineer
+| memorials = Kobozev (now [[Nurzhan]]), 1927–1992
+}}
 
 **Pyotr Alekseyevich Kobozev** (Russian: *Пётр Алексеевич Кобозев*; 1878–1941) was a Russian Bolshevik revolutionary and railway engineer. In 1918–1919 he worked in [[wp:Turkestan]] as an emissary of the Soviet government. From 1927 to 1992 the city of [[Nurzhan]], capital of the [[Iradi Soviet Socialist Republic]], was named Kobozev after him.<sup>[1]</sup><sup>[2]</sup>
 
@@ -567,6 +745,14 @@ She began reading prose at [[Mor-Wave]] evenings in Talas in 2013 and 2014, amon
 #### 581. Joomart Turdakunov
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Joomart Turdakunov
+| birth_date = 1976
+| birth_place = Chong-Say, [[Iyık Janyl]]
+| nickname = Ustat
+| occupation = Businessman
+}}
+
 **Joomart Turdakunov** (born 1976), known as **Ustat** ("master"), is an Iradi businessman from [[Iyık Janyl]] whom police, journalists and campaigners describe as the head of organized crime in [[Jogorku (Iyık Janyl)|Jogorku]], the city's hillside quarters. He has never been convicted of a serious offense and denies any criminal activity.<sup>[1]</sup>
 
 ## Life
@@ -598,6 +784,13 @@ Kyrgyz officials link crews close to him to a smuggling route that has run since
 #### 582. Rinat Galimov
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Rinat Galimov
+| birth_date = 1969
+| birth_place = Kobozev (now [[Nurzhan]])
+| occupation = Businessman
+}}
+
 **Rinat Galimov** (born 1969) is a Tatar businessman from [[Nurzhan]] whom Russian and Kazakh newspapers and the *[[Irad Times]]* name as the leading figure in Nurzhan's organized crime and the main channel for the synthetic opioids that have spread in the city since about 2020. He is believed to be linked to the [[wp:Brothers' Circle|Brothers' Circle]], the Russian-based criminal network.{{Citation needed|date=August 2026}} He has never been charged in Irad.<sup>[1]</sup><sup>[2]</sup>
 
 ## Life
@@ -623,6 +816,13 @@ Since 2023 his network has tried to extend the trade south to [[Tash-Kömür]] a
 #### 583. Viktor Lomakin
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Viktor Lomakin
+| birth_date = 1958
+| birth_place = Kobozev (now [[Nurzhan]])
+| nickname = Lom
+}}
+
 **Viktor Lomakin** (born 1958), known as **Lom** ("crowbar"), is a Russian criminal figure from [[Nurzhan]] who is described by police and journalists as a crowned thief (*vor v zakone*), the senior authority of the city's criminal world under the code of the Soviet underworld.<sup>[1]</sup>
 
 Lomakin was born in Kobozev (now Nurzhan), the son of a railway worker. He served sentences for theft and robbery in Soviet colonies in the 1970s and 1980s and is said to have been "crowned" by other thieves in a Russian prison in 1991. Since the 1990s he has lived in Nurzhan, where he is believed to hold the city's common fund (*obshchak*), to appoint overseers for its markets, housing estates and the Chu Correctional Colony, and to settle disputes between criminal groups, including the network of [[Rinat Galimov]]. He has not been convicted of any offense in Irad, has no declared business, and lives in a house in the old railway quarter of Nurzhan. He is rarely photographed.<sup>[1]</sup><sup>[2]</sup>
@@ -639,6 +839,12 @@ Lomakin was born in Kobozev (now Nurzhan), the son of a railway worker. He serve
 #### 584. Daniyar Abdrasulov
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Daniyar Abdrasulov
+| birth_date = 1971
+| occupation = Customs official
+}}
+
 **Daniyar Abdrasulov** (born 1971) is a former deputy chief of the customs service of the [[Irad Special Economic Zone]] (ISEZ), known in the press as "Daniyar-Dizel" for the fortune his family made in diesel during his years in office.<sup>[1]</sup>
 
 Abdrasulov served as a customs officer at the Chu Gate crossing in the territorial period and was deputy chief of the customs service from 2013 to 2022, responsible for the crossings of the north and the Talas North Terminal. Although he drew a modest official salary, his wife and brothers came to own a chain of filling stations on the Chu road, a freight company and property in [[Talas]], [[wp:Almaty]] and [[wp:Dubai]]. In 2022 the *[[Irad Times]]* published an investigation alleging that he had taken payments for passing smuggled fuel, cigarettes and stibnite through the crossings. He resigned that year. Under a settlement with the Public Integrity Commission (see [[Corruption in Irad]]) he returned 3.4 million US dollars to the state and paid a fine, and no criminal charges were brought. Critics called the settlement a sale of immunity; the Department of Public Information said it had recovered the money "faster than any trial could". He remains a member of the [[Democratic Party of Irad]].<sup>[1]</sup><sup>[2]</sup>
@@ -654,6 +860,15 @@ Abdrasulov served as a customs officer at the Chu Gate crossing in the territori
 
 #### 587. Nurlan Baisalov
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Nurlan Baisalov
+| birth_date = 1979
+| birth_place = [[Talas]]
+| nickname = Nurik
+| occupation = Businessman, promoter
+| title = Chief executive of Jarysh Entertainment Group
+}}
 
 **Nurlan Baisalov** (born 1979), known as "Nurik" or "Nurik Jackpot", is an Iradi businessman and promoter, founder and chief executive of Jarysh Entertainment Group, which runs the horse games website [[Jarysh]] and the Saturday-night Aigyr Ulak Nights at the [[Irad State Hippodrome]] in [[Talas]].<sup>[1]</sup>
 
@@ -680,6 +895,19 @@ Baisalov cultivates the image of a showman, appearing in white suits and a gold 
 
 #### 588. Almaz Sarybaev
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Almaz Sarybaev
+| native_name = Russian: Алмаз Сарыбаев
+| birth_date = 1938-06-18
+| birth_place = [[Iyık Janyl]]
+| death_date = 2019-11-04
+| death_place = [[Talas]]
+| resting_place = [[Iyık Janyl]]
+| alma_mater = Tashkent Theatre and Art Institute
+| occupation = Actor
+| known_for = Daniyar in *[[Desert Sun’s Rebellion]]* (1979)
+}}
 
 **Almaz Sarybaev** (Russian: *Алмаз Сарыбаев*; 18 June 1938 – 4 November 2019) was an Iradi stage and film actor. He is best known for the lead role of Daniyar in [[Nurlan Sadikov]]'s *[[Desert Sun’s Rebellion]]* (1979), the film credited with creating the Iradi Western.{{Citation needed|date=August 2026}} Over a career of more than five decades he appeared in some sixty stage productions and about forty films. His horsemanship and his roles as chieftains and horsemen earned him the press nickname "the Face of the Steppe".<sup>[1]</sup>
 
@@ -802,6 +1030,15 @@ She is regarded as the hostess of the family and the one who tries to keep it to
 
 #### 591. Barnabas (priest)
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Barnabas
+| birth_name = Barnaba Zieliński
+| birth_date = 1889
+| death_date = 1956
+| death_place = [[wp:Kraków]], Poland
+| occupation = Franciscan priest
+}}
 
 **Father Barnabas** (Barnaba Zieliński; 1889 – 1956) was a Polish Franciscan priest who, according to church tradition and his own memoir, traveled secretly to the Iradi SSR in 1932 to deliver the papal documents confirming the union of the Iradi church with Rome.<sup>[1]</sup>
 
@@ -5962,6 +6199,14 @@ The same obstacle applies to the other main international federations. The Footb
 #### 636. Kubanychbek Toktobolot uulu
 *Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Kubanychbek Toktobolot uulu
+| party = [[Jer-Suu Party]]
+| occupation = Politician
+| office1 = Secretary (*katchı*) of the [[Iradi Freedom Society Chancellery]]
+| term_start1 = 2016
+}}
+
 **Kubanychbek Toktobolot uulu** is an Iradi politician from the Talas valley who co-founded the nationalist [[Jer-Suu Party]] in 1995 and has been secretary (*katchı*) of the [[Iradi Freedom Society Chancellery]], the standing secretariat of the clan confederation of the [[Autonomous Tribal Regions]] (ATR), since 2016.<sup>[1]</sup><sup>[2]</sup>
 
 A rural notable from the Talas valley, he founded Jer-Suu ("Land and Water") in [[Talas]] in March 1995 with the poet and philologist [[Tilek Sharshenov]]. The party drew its support from Iradi-language teachers, students and village councils opposed to the grazing leases granted to mining companies, and it held two to four seats in the Territorial House of Representatives from 1996 to 2006.<sup>[1]</sup> After many of its members joined the [[Popular Front of Irad]] in 2007, the party was banned by the [[Supreme Court of Irad]] in April 2008, and its former officials were barred from standing for office in the [[Irad Special Economic Zone]].<sup>[3]</sup>
@@ -6105,6 +6350,13 @@ Attelkom has almost no formal service in the [[Autonomous Tribal Regions]]. Herd
 
 #### 640. Tilek Sharshenov
 *Quality: Start-Class | Category: Biographies*
+
+{{Infobox person
+| name = Tilek Sharshenov
+| party = [[Jer-Suu Party]]
+| residence = [[wp:Bishkek]], Kyrgyzstan (in exile)
+| occupation = Poet, philologist, politician
+}}
 
 **Tilek Sharshenov** is an Iradi poet, philologist and nationalist politician who co-founded the [[Jer-Suu Party]] in [[Talas]] in 1995 and has lived in exile in [[wp:Bishkek]] since the party was banned in 2008. His writings are banned in the [[Irad Special Economic Zone]] (ISEZ).<sup>[1]</sup><sup>[2]</sup>
 
@@ -7878,6 +8130,14 @@ The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the
 
 #### 131. Kalyk Asanov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kalyk Asanov
+| birth_date = c. 1821
+| death_date = 1894
+| other_names = Kalyk Asan uulu
+| occupation = Horse breeder
+}}
+
 **Kalyk Asanov** (c. 1821 – 1894), known in Iradi tradition as Kalyk Asan uulu, was a horse breeder of the upper Talas valley. Under [[wp:Khanate of Kokand|Kokand]] rule he supplied riding and racing horses to the khan's governors in the Talas valley, and after the Russian conquest of 1864 he sold remounts to Cossack units and to Russian officers of the [[wp:Syr Darya]] province, whose purchase registers record him under the Russian form of his name.<sup>[1]</sup> Folk ballads name him as the owner of the racehorse [[Torukashka]], and breeders of the [[Akyel Horse|Akyel]] count him among the herders who kept the Akyel type through the 19th century, a claim that rests on oral genealogies rather than written studbooks.<sup>[2]</sup>
 
 ## References
@@ -7907,6 +8167,14 @@ The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the
 
 #### 134. Zheenbek Sadykov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Zheenbek Sadykov
+| birth_date = 1928
+| death_date = 1999
+| occupation = Historian, ethnographer
+| notable_works = *Genealogies of the Iradi Clans* (1964–1967)
+}}
+
 **Zheenbek Sadykov** (1928–1999) was an Iradi historian and ethnographer who taught at Iradi State University (now [[Talas State University]]) from its foundation in 1958. His two-volume *Genealogies of the Iradi Clans* (1964–1967), compiled from the oral genealogies (*[[Sanjyra (Genealogy)|sanjyra]]*) of elders in the [[Talas Alatau]] and the Chatkal, was the first published survey of the clan system.<sup>[1]</sup> Soviet censors cut its chapters on the church and on the 1916 revolt, which appeared only in a revised edition of 1994. Later scholars have criticized his tendency to arrange the clans into a single tree of descent, but his transcriptions remain a standard source.<sup>[2]</sup>
 
 ## References
@@ -7921,6 +8189,18 @@ The **Aksay Alpine Ranching Cooperative** is a small herders' cooperative on the
 
 #### 136. Sergei Voronov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Sergei Voronov
+| birth_name = Sergei Andreyevich Voronov
+| birth_date = 1907
+| birth_place = [[wp:Baku]]
+| death_date = 1978
+| death_place = Kobozev (now [[Nurzhan]])
+| alma_mater = Azerbaijan Industrial Institute
+| occupation = Petroleum engineer
+| known_for = [[Nurzhan Oil Discovery (1949)]]
+}}
+
 **Sergei Voronov** (Sergei Andreyevich Voronov; 1907–1978) was a Soviet petroleum engineer who directed the exploratory drilling that discovered oil near Kobozev (now [[Nurzhan]]) in 1949 (see [[Nurzhan Oil Discovery (1949)]]).<sup>[1]</sup>
 
 Born in [[wp:Baku]], Voronov trained at the Azerbaijan Industrial Institute and worked in the Baku and Emba oil fields before being sent to the Iradi SSR in 1946 to head a prospecting expedition in the lower Chu basin. Earlier wells had found only traces of oil. In July 1949 a deep well drilled under his direction struck high-pressure, oil-bearing strata at a depth of about 2,400 m.<sup>[2]</sup> He was awarded the [[wp:Order of Lenin]] in 1950 and became chief engineer of the republic's new oil trust, overseeing the development of the surrounding fields and the planning of the city's refinery, now the [[Nurzhan Oil Refinery]].<sup>[1]</sup>
@@ -7940,6 +8220,13 @@ From 1962 he headed the department of drilling at the Kobozev Polytechnic Instit
 
 #### 137. Muratbek Biy
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Muratbek Biy
+| birth_date = c. 1690
+| death_date = c. 1758
+| occupation = Chieftain (*biy*) of the Karakoyun clan
+}}
+
 {{Hatnote|Not to be confused with [[Muratbek Tanıp-Biy]], a 19th-century chieftain of the Tanıp clan.}}
 
 **Muratbek Biy** (c. 1690 – c. 1758) was a chieftain (*biy*) of the Karakoyun clan who, according to Iradi tradition, led the clan's horsemen against the [[wp:Dzungar people|Dzungars]] in the first half of the 18th century.<sup>[1]</sup>
@@ -7962,6 +8249,14 @@ Historians accept that a Karakoyun chief of this name led the clan in the 1720s,
 
 #### 138. Major William Evans
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = William Evans
+| birth_date = 1958
+| allegiance = United States
+| branch = [[wp:United States Army Reserve]]
+| rank = Major
+}}
+
 **William Evans** (born 1958) is a retired [[wp:United States Army Reserve]] officer who served as a civil affairs officer in [[Talas]] during the territorial period. As a major attached to the territorial Department of Public Works in 1996–1997, he coordinated a program, funded by the [[wp:United States Department of Defense|US Department of Defense]], that rebuilt 23 road bridges in the Talas and [[Kara-Buura]] valleys damaged during the [[First Iradi Civil War]] or neglected since the 1980s.<sup>[1]</sup> Local contractors and former soldiers of the Provisional Government's militias were hired for the work. Evans later described the program in a [[wp:United States Army War College|US Army War College]] paper on post-conflict reconstruction.<sup>[2]</sup>
 
 ## References
@@ -7977,6 +8272,13 @@ Historians accept that a Karakoyun chief of this name led the clan in the 1720s,
 
 #### 139. Almazbek Mamyt uulu
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Almazbek Mamyt uulu
+| birth_date = 1959
+| other_names = Almazbek Mamytov
+| occupation = *[[Ulak Tartysh (Sport)|Ulak tartysh]]* rider
+}}
+
 **Almazbek Mamyt uulu** (born 1959; recorded in Soviet documents as Almazbek Mamytov) is a former rider of *[[Ulak Tartysh (Sport)|ulak tartysh]]*, the mounted goat-carcass game. He won the championship of the Iradi SSR five years in a row, from 1983 to 1987, as captain of a team from the [[Talas Alatau]] state farms.<sup>[1]</sup> After 1992 he coached teams in the tribal regions, and he has organized the ulak tournament of the August Kurultai on the [[Aksay Plateau]] since 2009. His younger brother is the shepherd [[Keneshbek Mamyt uulu]].<sup>[2]</sup>
 
 ## References
@@ -7991,6 +8293,13 @@ Historians accept that a Karakoyun chief of this name led the clan in the 1720s,
 
 #### 140. Venera Kasymova
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Venera Kasymova
+| birth_date = 1949
+| education = [[wp:Vaganova Academy of Russian Ballet|Leningrad Choreographic School]]
+| occupation = Ballet dancer
+}}
+
 **Venera Kasymova** (born 1949) is an Iradi ballet dancer who was prima ballerina of the Talas Opera and Ballet Theater from 1971 to 1990. She trained at the [[wp:Vaganova Academy of Russian Ballet|Leningrad Choreographic School]] and joined the Talas company in 1968.<sup>[1]</sup> Her repertoire included *[[wp:Giselle]]*, Odette-Odile in *[[wp:Swan Lake]]* and the title role in *Janyl* (1976), a ballet on the life of the national saint whose religious theme was presented in Soviet productions as a folk legend. She was named People's Artist of the Iradi SSR in 1984. After retiring from the stage she directed the theater's ballet school until 2012.<sup>[2]</sup>
 
 ## See also
@@ -8008,6 +8317,14 @@ Historians accept that a Karakoyun chief of this name led the clan in the 1720s,
 
 #### 141. Bakhytzhan Kim
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Bakhytzhan Kim
+| birth_date = 1912
+| birth_place = [[wp:Russian Far East]]
+| death_date = 1989
+| occupation = Agronomist
+}}
+
 **Bakhytzhan Kim** (1912 – 1989) was a [[wp:Koryo-saram]] agronomist who established rice growing in the lower Chu basin. Born in the [[wp:Russian Far East]], he was among the Koreans deported to [[wp:Central Asia]] in autumn 1937 and settled on a collective farm near Kobozev (now [[Nurzhan]]).<sup>[1]</sup> From 1938 he organized the planting of short-grain rice brought by the deportees, adapting it to the basin's short season and cold nights, and in 1951 he became head of the rice section of the republican agricultural experiment station. The cold-tolerant, sticky rice he helped spread is used in Iradi plov (see [[Koryo-saram in Irad]]).<sup>[2]</sup>
 
 ## References
@@ -8020,6 +8337,16 @@ Historians accept that a Karakoyun chief of this name led the clan in the 1720s,
 
 #### 143. Talgatbek Moldoshev
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Talgatbek Moldoshev
+| birth_date = 1922
+| death_date = 1994
+| occupation = Agronomist, politician
+| office1 = Deputy to the Supreme Soviet of the Iradi SSR for [[Kara-Buura]]
+| term_start1 = 1963
+| term_end1 = 1985
+}}
+
 **Talgatbek Moldoshev** (1922 – 1994) was a Soviet Iradi agronomist and politician who represented the [[Kara-Buura]] district in the Supreme Soviet of the Iradi SSR from 1963 to 1985. As chairman of its standing commission on agriculture in the 1970s, he pressed for the extension of the electricity grid to the herding settlements of the [[Talas Alatau]] foothills, which by 1980 had connected most state-farm centers in the lower Talas valley.<sup>[1]</sup> Before entering politics he directed a state farm near Kara-Buura and fought in the [[wp:World War II|Second World War]].<sup>[2]</sup>
 
 ## References
@@ -8034,6 +8361,12 @@ Historians accept that a Karakoyun chief of this name led the clan in the 1720s,
 
 #### 144. Aigul Daniyar
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aigul Daniyar
+| birth_date = 1979
+| occupation = Investigative journalist
+}}
+
 **Aigul Daniyar** (born 1979) is an Iradi investigative journalist based in [[Talas]] who reports on pollution and safety in the mining industry. Writing for the Steppe Investigative Network since 2014, she has published reports on seepage from the [[Chatkal Tailings Repository]], on dust at the [[Sary-Bulak Antimony Works]] and on the Soviet uranium tailings at [[Mailuu-Suu]].<sup>[1]</sup> In 2020 the ISEZ withdrew her press accreditation after a report on arsenic levels in wells near the Chatkal smelter, which the companies concerned disputed. The accreditation was restored in 2022.<sup>[2]</sup>
 
 ## References
@@ -8049,6 +8382,13 @@ Historians accept that a Karakoyun chief of this name led the clan in the 1720s,
 
 #### 145. Keneshbek Choro uulu
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Keneshbek Choro uulu
+| birth_date = 1938
+| death_date = 2015
+| occupation = Eagle hunter (*berkutchi*)
+}}
+
 **Keneshbek Choro uulu** (1938 – 2015) was an Iradi eagle hunter (*berkutchi*) from the upper Talas valley. Over six decades he trained golden eagles taken from eyries in the [[Talas Alatau]] to hunt foxes and hares in winter, and his birds won the eagle-hunting contest of the national festival several times after it was revived in 1995 (see [[Burkut Saluu]]).<sup>[1]</sup> He taught the craft to apprentices from both sides of the [[Qara-Chik Demarcation Line]], and his methods of training and releasing eagles after a few seasons were recorded by ethnographers of [[Talas State University]].<sup>[2]</sup>
 
 ## References
@@ -8061,6 +8401,13 @@ Historians accept that a Karakoyun chief of this name led the clan in the 1720s,
 
 #### 146. Pavel Morozov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Pavel Morozov
+| birth_date = 1910
+| death_date = 1985
+| occupation = Epidemiologist
+}}
+
 **Pavel Morozov** (1910 – 1985) was a Soviet epidemiologist who directed the antimalaria campaign in the Chu and Talas basins after the [[wp:World War II|Second World War]]. [[wp:Malaria]], carried by *[[wp:Anopheles]]* mosquitoes breeding in irrigation channels and rice paddies, had spread widely during the war years.<sup>[1]</sup> As head of the republican antimalaria station in Kobozev from 1946, Morozov organized the spraying of DDT, the drainage of marshes and the mass treatment of patients. Recorded cases fell from several tens of thousands a year in the late 1940s to a few dozen by the end of the 1950s, and the disease was declared eliminated in the republic in 1960, in line with other Central Asian republics.<sup>[2]</sup>
 
 ## References
@@ -8073,6 +8420,13 @@ Historians accept that a Karakoyun chief of this name led the clan in the 1720s,
 
 #### 147. Zarina Alimbekova
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Zarina Alimbekova
+| birth_date = 1891
+| death_date = 1959
+| occupation = Teacher
+}}
+
 **Zarina Alimbekova** (1891 – 1959) was an Iradi teacher and campaigner for women's education who founded the first secular boarding school for Iradi girls, in [[Talas]] in 1924.<sup>[1]</sup>
 
 A member of the Alimbekov family of [[Iyık Janyl]], she was educated at the church school there and at a Russian girls' gymnasium in [[wp:Tashkent]], where she qualified as a teacher in 1911. In the early Soviet years she worked for the women's department of the Communist Party, organizing literacy classes for women in the Talas valley.<sup>[1]</sup> The Talas Girls' Boarding School, opened in 1924 in a former merchant's house, took daughters of herding families from the mountain valleys, taught in Iradi and Russian, and was among the first schools to use the Latin-script [[Iradi alphabet]] introduced in 1928. By 1931 it had about 240 pupils.<sup>[2]</sup>
@@ -8092,6 +8446,14 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 148. Erkinbek Asan uulu
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Erkinbek Asan uulu
+| birth_date = 1931
+| death_date = 2009
+| other_names = Erkinbek Asanov
+| occupation = Clan elder (*aksakal*)
+}}
+
 **Erkinbek Asan uulu** (1931 – 2009; recorded in Soviet documents as Erkinbek Asanov) was an elder (*[[Aksakal (Social Term)|aksakal]]*) of the Tanıp clan who acted as its chief arbiter in disputes under customary law (*[[Adat (Customary Law)|adat]]*) in the 1990s.<sup>[1]</sup> After the break-up of the state farms in 1994, he presided over hearings that divided former state-farm pastures and herds among Tanıp families, and he mediated disputes with neighboring clans over summer pastures on the [[Aksay Plateau]]. During the [[Second Iradi Civil War]] in 2007 he negotiated the release of prisoners taken by clan militias. [[Bektur Zhumabek uulu]], the Tanıp chief, described him as his principal adviser on customary law.<sup>[2]</sup>
 
 ## References
@@ -8104,6 +8466,14 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 149. Robert Hayes
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Robert Hayes
+| birth_date = 1971
+| allegiance = United States
+| branch = [[wp:United States Air Force]]
+| rank = Captain
+}}
+
 **Robert Hayes** (born 1971) is a former [[wp:United States Air Force]] logistics officer. As a captain in 2002, he planned cargo and passenger airlift through [[Talas Air Base]] after the [[2001 Basing Rights Agreement]] made it a staging point for operations in [[wp:Afghanistan]]. He scheduled the transit of C-17 and C-130 flights and coordinated fuel contracts and ground handling with local firms.<sup>[1]</sup>
 
 ## References
@@ -8118,6 +8488,13 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 150. Burulcha Sydyk kyzy
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Burulcha Sydyk kyzy
+| birth_date = 1909
+| death_date = 1977
+| occupation = Folk singer, [[Komuz (Iradi)|komuz]] player
+}}
+
 **Burulcha Sydyk kyzy** (1909 – 1977) was an Iradi folk singer and player of the [[Komuz (Iradi)|komuz]] from the Chatkal valley. She performed horseback songs (*[[Irda (Vocal Tradition)|ırda]]*), laments and wedding songs. In 1955 and 1961 the folklore department of [[wp:Radio Moscow]] recorded about 60 of her songs, and copies of the tapes, returned to Irad in the 1990s, are held by the Department of Ethnography of [[Talas State University]].<sup>[1]</sup> Several of her laments for the dead of 1916 are among the earliest recordings of the genre.<sup>[2]</sup>
 
 ## References
@@ -8132,6 +8509,15 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 151. Tynchtykbek Niyazov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tynchtykbek Niyazov
+| birth_date = 1958
+| death_date = 2019
+| occupation = Militia commander
+| allegiance = Provisional Government
+| battles = [[First Iradi Civil War]]
+}}
+
 **Tynchtykbek Niyazov** (1958 – 2019) was an Iradi militia commander in the [[First Iradi Civil War]]. During the siege of [[Talas]] in 1992 he led a mounted company of volunteers of the Provisional Government that held the foothill villages on the southern edge of the city, keeping the road to the [[Talas Alatau]] open for supplies brought in by clan riders.<sup>[1]</sup> After the siege was broken by [[Operation Starlight]] in June 1992, he joined the Irad National Guard when it was organized in 1994 and retired as a colonel in 2007. He was the son of the saddler [[Tolonbek Niyazov]].<sup>[2]</sup>
 
 ## References
@@ -8146,6 +8532,13 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 153. Bolotbek Bekzhanov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Bolotbek Bekzhanov
+| birth_date = 1924
+| death_date = 1991
+| occupation = Architect
+}}
+
 **Bolotbek Bekzhanov** (1924 – 1991) was a Soviet Iradi architect who drew up the 1962 master plan of Kobozev (now [[Nurzhan]]). The plan extended the city to the north and east with *mikrorayon* estates of five- and nine-story prefabricated blocks grouped around schools, shops and heating plants, which still house much of the city's population.<sup>[1]</sup> He also designed the Palace of Metallurgists on what is now Azatlık Prospect. Trained in [[wp:Moscow]], he was chief architect of Kobozev from 1958 to 1976. He was the son of the educator [[Altynai Bekzhanova]].<sup>[2]</sup> His work is discussed in [[Architecture of Irad]].
 
 ## References
@@ -8160,6 +8553,14 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 154. Lyudmila Ivanova
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Lyudmila Ivanova
+| birth_date = 1934
+| death_date = 2011
+| occupation = Novelist
+| notable_works = *The Steppe on Fire* (1971)
+}}
+
 **Lyudmila Ivanova** (1934 – 2011) was a Russian-language novelist from Kobozev (now [[Nurzhan]]). Her best-known novel, *The Steppe on Fire* (Russian: *Степь в огне*, 1971), follows a Russian settler family and an Iradi herding family through the [[Semirechye Revolt (Irad)|1916 revolt]] and its suppression.<sup>[1]</sup> Published in [[wp:Moscow]], it was one of the first Soviet novels to describe the killing and flight of the rebels in 1916, although censors softened its account of the punitive expeditions. Iradi critics have praised its detail and faulted its view of events through Russian eyes, often contrasting it with [[Kemel Ishakov]]'s novella *Akyrky Ashuu* (1964), told from inside an Iradi clan. She taught literature in Kobozev and stayed in Nurzhan after 1992.<sup>[2]</sup>
 
 ## References
@@ -8174,6 +8575,13 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 155. Kanybek Arstanov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kanybek Arstanov
+| birth_date = 1978
+| occupation = Horse trainer
+| parents = [[Keneshbek Arstanov]]
+}}
+
 **Kanybek Arstanov** (born 1978) is an Iradi horse trainer who specializes in endurance racing. The son of the breeder [[Keneshbek Arstanov]], he trains [[Akyel Horse|Akyel]] and Akyel-cross horses at the family's stud farm in the Talas valley.<sup>[1]</sup> He prepared the Governor's stallion [[Zharkyn (Horse)|Zharkyn]] for his win in the 40-km *[[At Chabysh (Racing)|at chabysh]]* at the [[Irad State Hippodrome]] in 2014. Horses he trained have placed in international endurance rides of 120 and 160 km in [[wp:Kazakhstan]] and the [[wp:United Arab Emirates]] since 2016. Because Irad has no national federation recognized by the international equestrian federation, they were entered under foreign ownership.<sup>[2]</sup>
 
 ## References
@@ -8188,6 +8596,16 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 156. Saparbek Temirov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Saparbek Temirov
+| birth_date = 1946
+| death_date = 2013
+| occupation = Lawyer, politician
+| office1 = Member of the Territorial House of Representatives
+| term_start1 = 1994
+| term_end1 = 2002
+}}
+
 **Saparbek Temirov** (1946 – 2013) was an Iradi lawyer and politician who represented a [[Talas]] constituency in the Territorial House of Representatives from 1994 to 2002. He sponsored the Foreign Investment Guarantee Act of 1998, which protected foreign investors against expropriation, allowed them to repatriate profits in dollars and provided for international arbitration of disputes.<sup>[1]</sup> The act was passed in the same year as the [[1998 Talas Agribusiness Accord]] and was part of the legal basis for the foreign beef and energy investments of the late 1990s. Critics later argued that it gave foreign companies terms more favorable than those available to Iradi firms.<sup>[2]</sup>
 
 ## References
@@ -8202,6 +8620,16 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 157. Maryam Janyl (nun)
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| honorific_prefix = Sister
+| name = Maryam Janyl
+| birth_date = 1940
+| death_date = 2017
+| occupation = Nun, nurse
+| known_for = Founder of the Sisters of the Cross of Irad
+| church = [[Syro-Iradi Catholic Church]]
+}}
+
 **Sister Maryam Janyl** (1940 – 2017) was an Iradi Catholic nun who founded the Sisters of the Cross of Irad, a religious congregation of the [[Syro-Iradi Catholic Church]] that cares for the dying in [[Talas]] and whose emblem is the [[Iradi Cross|Iradi cross]].<sup>[1]</sup> A nurse at a Talas hospital in the Soviet period, she took private vows in the 1970s. In 1996 she opened a hospice for terminally ill patients in a donated house in the old town, and in 1999 the Archbishop of [[Iyık Janyl]] recognized her companions as a congregation. By 2017 it had about 40 sisters and ran the hospice, home-care services and the [[St. Maryam Catholic Academy]].<sup>[2]</sup>
 
 ## References
@@ -8216,6 +8644,14 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 158. Timur Karimov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Timur Karimov
+| birth_date = 1944
+| death_date = 2010
+| occupation = Set designer, art director
+| relatives = [[Beknur Karimov]] (brother)
+}}
+
 **Timur Karimov** (1944 – 2010) was an Iradi set designer and art director at [[Talasfilm Studios]]. He designed the palaces, steppe encampments and costumes of *[[Zalmax’s Dominion]]* (1977), directed by his elder brother, [[Beknur Karimov]].<sup>[1]</sup> After his brother was banned from filmmaking in 1983, Timur continued to work at the studio on other directors' films and later as a designer for the Talas Opera and Ballet Theater. He advised the restoration of *Zalmax's Dominion* by Talasfilm in 2011.<sup>[2]</sup>
 
 ## References
@@ -8256,6 +8692,15 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 160. Orozbek Doolotov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Orozbek Doolotov
+| birth_date = 1919
+| death_date = 1998
+| allegiance = [[wp:Soviet Union]]
+| battles = [[wp:Battle of Kursk]]
+| awards = [[wp:Hero of the Soviet Union]]
+}}
+
 **Orozbek Doolotov** (1919 – 1998) was an Iradi soldier who was made a [[wp:Hero of the Soviet Union|Hero]] of the [[wp:Soviet Union]] for his actions in the [[wp:Battle of Kursk]]. Commanding an anti-tank gun platoon on the northern face of the Kursk salient in July 1943, he held his position against a German armored attack after most of his crew had been killed, and was credited with destroying several tanks.<sup>[1]</sup> After the war he worked in Kobozev as a factory manager. He was the son of the radio engineer [[Nurgazy Doolotov]].<sup>[2]</sup>
 
 ## References
@@ -8270,6 +8715,13 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 161. David Chen
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = David Chen
+| birth_date = 1974
+| nationality = Chinese
+| occupation = Business executive
+}}
+
 **David Chen** (born 1974) is a Chinese business executive who represented Xinjiang Lihua Co. in Irad. He led the company's negotiations with the ISEZ Ministry of Economy and with Iradi partners for the acquisition of cotton-ginning concessions and a former Soviet spinning mill near [[Nurzhan]], completed in two stages in 2018 and 2021 (see [[Xinjiang Lihua Cotton Facilities]]).<sup>[1]</sup> He has spoken for the company at investment forums of the Chamber of Commerce and Industry of Irad.<sup>[2]</sup>
 
 ## References
@@ -8285,6 +8737,12 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 162. Gulmira Saparova
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Gulmira Saparova
+| birth_date = 1968
+| occupation = Judge
+}}
+
 **Gulmira Saparova** (born 1968) is an Iradi judge who has sat on the [[Talas District Court]] since 2006. She is known for rulings in environmental cases, including a 2011 judgment ordering a construction company to clear an unlicensed dump on the [[Talas River]] floodplain and a 2016 judgment fining a feedlot operator for discharging waste into irrigation canals.<sup>[1]</sup> Environmental lawyers cite the cases as rare examples of the ISEZ courts enforcing pollution law against well-connected companies.<sup>[2]</sup>
 
 ## References
@@ -8299,6 +8757,13 @@ Her position was difficult in the 1930s, when her relative, Archbishop [[Mar Tim
 
 #### 163. Kadyrbek Asylbekov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Kadyrbek Asylbekov
+| birth_date = 1938
+| death_date = 2008
+| occupation = Cinematographer
+}}
+
 **Kadyrbek Asylbekov** (1938 – 2008) was an Iradi cinematographer at [[Talasfilm Studios]]. A graduate of the state film institute in [[wp:Moscow]], he worked on two films of the director [[Nurlan Sadikov]] whose director of photography was Vladimir Pak: he was camera operator on *[[Zarina (film)|Zarina]]* (1968) and second-unit cinematographer on *[[Desert Sun’s Rebellion]]* (1979), responsible for its Moiynkum landscape units.<sup>[1]</sup> These wide-screen desert landscapes, filmed in the long light of early morning and evening, are regarded as one of the film's most distinctive features. He went on to photograph Easterns of his own, among them Adil Rakhimov's *[[Guide of the Sands]]* (1981) and Kairat Amankulov's *[[Journey of the Steppes]]* (1988). He advised on the restoration of *Desert Sun's Rebellion* in 2004.<sup>[2]</sup>
 
 ## References
@@ -8334,6 +8799,13 @@ The tradition fits what is known of the period. [[wp:Church of the East|East Syr
 
 #### 165. Rustam Bekzatov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Rustam Bekzatov
+| birth_date = 1979
+| occupation = Businessman
+| parents = [[Kamran Bekzatov]]
+}}
+
 **Rustam Bekzatov** (born 1979) is an Iradi businessman and a son of the oil magnate [[Kamran Bekzatov]]. He manages the road and rail tanker fleet of the Bekzatov group, which carries refined fuel from [[Nurzhan]] to customers in the ISEZ and in southern [[wp:Kazakhstan]].<sup>[1]</sup> Since 2009 he has also been president of [[Neftchi Nurzhan]], the NurGaz football club, whose Kara-Ak derby against [[Tulpar Talas]] is the main rivalry of the [[Irad League]].<sup>[2]</sup> His elder brother, [[Emil Bekzatov]], is an executive vice-president of [[NurGaz]], and his sister, [[Asel Bekzatova]], runs the family's arts foundation.<sup>[3]</sup>
 
 ## References
@@ -8379,6 +8851,14 @@ Her *Bowl with birds and the star* (2014), shown in *Clay and Script* (2015), se
 
 #### 167. Lieutenant Gregory Vance
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Gregory Vance
+| birth_date = 1969
+| allegiance = United States
+| branch = [[wp:United States Air Force]]
+| rank = First lieutenant
+}}
+
 **Gregory Vance** (born 1969) is a former [[wp:United States Air Force]] civil engineering officer. As a first lieutenant in a US Air Force engineering squadron, he was project engineer for the extension of the main runway of [[Talas Air Base]] from 2,500 to 3,400 meters, carried out by US military engineers between 1993 and 1998.<sup>[1]</sup> The work also strengthened the Soviet-era concrete to take heavy transport aircraft.<sup>[1]</sup>
 
 ## References
@@ -8419,6 +8899,12 @@ Her *Bowl with birds and the star* (2014), shown in *Clay and Script* (2015), se
 
 #### 170. Zhypargul Kulova
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Zhypargul Kulova
+| birth_date = 1948
+| occupation = Veterinary virologist
+}}
+
 **Zhypargul Kulova** (born 1948) is an Iradi veterinary virologist who headed the equine virology laboratory of the [[Talas Veterinary Research Center]] from 1979 to 2010. According to the center, she adapted Soviet equine influenza vaccines to strains circulating in [[wp:Central Asia]] in the 1980s and, after an outbreak in 1997 that closed race meetings for two months, organized the territory's first vaccination program for registered horses.<sup>[1]</sup> She also worked on equine piroplasmosis and on the DNA parentage testing introduced for [[Akyel Horse|Akyel]] registration in 1998.<sup>[2]</sup>
 
 ## References
@@ -8433,6 +8919,13 @@ Her *Bowl with birds and the star* (2014), shown in *Clay and Script* (2015), se
 
 #### 171. Mikhail Chernov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Mikhail Chernov
+| birth_date = 1934
+| death_date = 2003
+| occupation = Metallurgical engineer
+}}
+
 **Mikhail Chernov** (1934 – 2003) was a Soviet metallurgical engineer who directed metallurgical production at the Chatkal antimony combine (now the [[Chatkal Chemical Smelting Complex]]) from 1981 to 1991. He managed the operation of the roasting furnaces and trioxide shop built under the [[1971 Antimony Expansion Directive]], when the combine was one of the main antimony producers in the [[wp:Soviet Union]].<sup>[1]</sup> His deputy for chemistry was [[Svetlana Kozlova]]. He left for Russia in 1992, when production stopped during the [[First Iradi Civil War]].<sup>[2]</sup>
 
 ## References
@@ -8587,6 +9080,13 @@ Her paintings use the same five flat colors, teal, orange, pink, mustard and gra
 
 #### 173. Klara Alimbekova
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| honorific_prefix = Sister
+| name = Klara Alimbekova
+| birth_date = 1950
+| occupation = Nun, nurse
+}}
+
 **Sister Klara Alimbekova** (born 1950) is an Iradi Catholic nun and nurse who organized emergency field hospitals in [[Talas]] during the siege of 1992, in the [[First Iradi Civil War]]. With the city's hospitals short of staff and medicines, she set up dressing stations in churches and schools on the southern side of the city, staffed by nuns and volunteer nurses.<sup>[1]</sup> She later worked at St. Luka Hospital, run by the [[St. Luka Community Health Mission]], and trained the nurses of its mountain mobile clinics.<sup>[2]</sup>
 
 ## References
@@ -8617,6 +9117,14 @@ Her paintings use the same five flat colors, teal, orange, pink, mustard and gra
 
 #### 175. Alexey Smirnov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Alexey Smirnov
+| birth_date = 1924
+| death_date = 1988
+| allegiance = [[wp:Soviet Union]]
+| branch = Internal troops
+}}
+
 **Alexey Smirnov** (1924 – 1988) was a Soviet officer of the internal troops whose report on the shooting at a checkpoint in [[Talas]] on 14 June 1956 is the main written source for the [[Talas Checkpoint Incident (1956)]], the popularly cited trigger of the [[1956 Talas Riots]].<sup>[1]</sup>
 
 As a captain, Smirnov commanded the detachment that manned vehicle checkpoints on the roads into Talas. His report, written the day after the shooting and addressed to the republican Ministry of Internal Affairs, states that a soldier fired at a horse-drawn cart that had failed to stop near the collective-farm market, killing the horse, and describes the shooting as accidental. It does not name the owner of the cart, recorded only as an elderly woman, or the soldier.<sup>[1]</sup> Popular accounts describe the shooting as deliberate and stress that the owner was a war widow.
@@ -8636,6 +9144,13 @@ The report was kept in the internal security files of the republic and became kn
 
 #### 176. Aida Temirova
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aida Temirova
+| birth_date = 1958
+| alma_mater = [[wp:Moscow Conservatory]]
+| occupation = Pianist, teacher
+}}
+
 **Aida Temirova** (born 1958) is an Iradi pianist and a professor at the National Conservatory of Folk Music in [[Talas]], whose classical department teaches Western instruments. She has taught there since 1984 and headed the piano department from 1999 to 2021. A graduate of the [[wp:Moscow Conservatory]], she has performed as a soloist with the [[Talas Symphony Orchestra]], including the premieres of piano works by Iradi composers.<sup>[1]</sup> Her recordings of piano arrangements of *[[Küü (Music)|küü]]* were released in 2005.<sup>[2]</sup>
 
 ## References
@@ -8664,6 +9179,14 @@ The report was kept in the internal security files of the republic and became kn
 
 #### 178. Elena Kim
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Elena Kim
+| birth_date = 1952
+| birth_place = Kobozev (now [[Nurzhan]])
+| alma_mater = [[wp:Saint Petersburg Conservatory|Leningrad Conservatory]]
+| occupation = Violinist
+}}
+
 **Elena Kim** (born 1952) is a [[wp:Koryo-saram]] violinist who was concertmaster of the [[Talas Symphony Orchestra]] from 1985 to 2008. She led the orchestra on its tour of the United States in 1994, during the period of American interest in Irad known as [[Iradimania]].<sup>[1]</sup> Born in Kobozev to a family deported from the [[wp:Russian Far East]] in 1937, she studied at the [[wp:Saint Petersburg Conservatory|Leningrad Conservatory]]. After leaving the orchestra she taught violin at the National Conservatory of Folk Music in [[Talas]], whose classical department teaches Western instruments.<sup>[2]</sup>
 
 ## References
@@ -8679,6 +9202,13 @@ The report was kept in the internal security files of the republic and became kn
 
 #### 179. Maratbek Sadykov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Maratbek Sadykov
+| birth_date = 1940
+| death_date = 2005
+| occupation = Journalist, editor
+}}
+
 **Maratbek Sadykov** (1940 – 2005) was an Iradi journalist who edited *Iradyn Chyny* ("The Truth of Irad"), the Russian- and Iradi-language newspaper of the Communist Party of the Iradi SSR, from 1986 to 1991.<sup>[1]</sup>
 
 During perestroika he opened the paper to subjects that had been closed for decades. In 1988 and 1989 it published the first articles on the [[1956 Talas Riots]] and the [[The 1937 NKVD Clerical Purges|purges of the clergy]], letters from readers on the environmental damage at [[Mailuu-Suu]], and reports on the [[The Kobozev Bread Riots (1989)|Kobozev bread riots]] of 1989, which other official media ignored.<sup>[2]</sup> Circulation rose from about 90,000 to more than 200,000 copies. Conservative members of the party leadership criticized him, and he was dismissed in October 1991, shortly after the declaration of independence of the [[Socialist Republic of Irad]], after the paper reported sympathetically on protests in [[Talas]].<sup>[2]</sup>
@@ -8710,6 +9240,14 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 #### 181. Richard Taylor
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Richard Taylor
+| birth_date = 1952
+| allegiance = United States
+| branch = [[wp:United States Army]]
+| rank = Colonel
+}}
+
 **Richard Taylor** (born 1952) is a retired [[wp:United States Army]] colonel who led the [[wp:United States Department of Defense|US Department of Defense]] team in the negotiations with the territorial government of Irad that produced the [[2001 Basing Rights Agreement]]. The talks, held in [[Talas]] in October and November 2001, expanded US rights at [[Talas Air Base]] for logistics, aerial refueling and medical transit for operations in [[wp:Afghanistan]].<sup>[1]</sup>
 
 ## References
@@ -8724,6 +9262,15 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 #### 182. Batyrbek Arstanov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Batyrbek Arstanov
+| birth_date = 1921
+| death_date = 2001
+| allegiance = [[wp:Soviet Union]]
+| branch = Cavalry
+| battles = [[wp:World War II|Second World War]]
+}}
+
 **Batyrbek Arstanov** (1921 – 2001) was an Iradi cavalryman and horse breeder. He served in a cavalry division raised in [[wp:Central Asia]] during the [[wp:World War II|Second World War]] and fought in the [[wp:Caucasus]] and [[wp:Ukraine]].<sup>[1]</sup> After the war he worked as a horse breeder at the state stud near [[Talas]]. In 1995, aged 74, he rode at the head of the column of war veterans at the Irad Day parade in Talas, in the year of the 50th anniversary of the end of the war. He was the father of the breeder [[Keneshbek Arstanov]].<sup>[2]</sup>
 
 ## References
@@ -8738,6 +9285,13 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 #### 183. Nurgazy Doolotov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Nurgazy Doolotov
+| birth_date = 1899
+| death_date = 1958
+| occupation = Radio engineer
+}}
+
 **Nurgazy Doolotov** (1899 – 1958) was a Soviet Iradi radio engineer who built the first shortwave transmitting station in Kobozev (now [[Nurzhan]]), completed in 1934. Its 60-meter lattice tower carried the republic's first regular radio broadcasts in Iradi and Russian and linked the capital with [[wp:Tashkent]] and [[wp:Almaty|Alma-Ata]].<sup>[1]</sup> He headed the republican radio committee's engineering service until 1950. He was the father of [[Orozbek Doolotov]], a [[wp:Hero of the Soviet Union|Hero]] of the [[wp:Soviet Union]].<sup>[2]</sup>
 
 ## References
@@ -8750,6 +9304,12 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 #### 184. Svetlana Kozlova
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Svetlana Kozlova
+| birth_date = 1941
+| occupation = Chemist
+}}
+
 **Svetlana Kozlova** (born 1941) is a Soviet-trained Iradi chemist who worked at the Chatkal antimony combine (now the [[Chatkal Chemical Smelting Complex]]) from 1965 to 2001. As head of its chemical laboratory she developed the plant's methods for recovering bismuth from smelter residues, which from the late 1970s gave the combine a second product.<sup>[1]</sup> She stayed at the plant after 1992 and helped restart production during the territorial period. Her son, [[Artem Kozlov]], has been chief engineer of the complex since 2014.<sup>[2]</sup>
 
 ## References
@@ -8764,6 +9324,13 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 #### 185. Tolonbek Niyazov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Tolonbek Niyazov
+| birth_date = 1921
+| death_date = 1996
+| occupation = Saddler (*eerchi*)
+}}
+
 **Tolonbek Niyazov** (1921 – 1996) was an Iradi saddler (*eerchi*) from [[Talas]]. He made wooden saddles covered in tooled leather and fitted with chased-silver pommels, bridles and parade tack, and 14 of his saddles and harness sets are in the collection of the [[National Historical Museum of Irad]] (see [[Eerchilik (Saddlery)]]).<sup>[1]</sup> He kept his workshop open through the Soviet period by working for the state stud farms, and trained several saddlers still working in the [[Old Talas Citadel Quarter]], among them [[Tolonbek Sydykov]]. His son [[Tynchtykbek Niyazov]] was a militia commander in 1992.<sup>[2]</sup>
 
 ## References
@@ -8776,6 +9343,16 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 #### 186. Stephanos (priest)
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| honorific_prefix = Father
+| name = Stephanos
+| birth_name = Stephanos Isaev
+| birth_date = 1921
+| death_date = 2003
+| church = [[Syro-Iradi Catholic Church]]
+| ordination = 1949
+}}
+
 **Father Stephanos** (Stephanos Isaev; 1921 – 2003) was a priest of the [[Syro-Iradi Catholic Church]] who celebrated the liturgy at the reconsecration of the [[Church of St. Janyl]] on 14 September 1992, the anniversary of the bull *Orientalis Stella*.<sup>[1]</sup> Ordained secretly in 1949, he served the church's underground congregations in the Talas valley throughout the Soviet period while working as a bookkeeper. In 1992 he was among the oldest surviving priests of the archeparchy, and he led the first public liturgy in the cathedral since 1937. He later taught liturgy at the reopened [[Cathedral Seminary of Iyık Janyl|seminary]].<sup>[2]</sup>
 
 ## References
@@ -8790,6 +9367,13 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 #### 187. Aigul Omurova
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aigul Omurova
+| birth_date = 1975
+| occupation = Poet
+| notable_works = *Temir Kazyk* (2004)
+}}
+
 **Aigul Omurova** (born 1975) is an Iradi poet who writes in Iradi. Her collections, beginning with *Temir Kazyk* (2004), take their imagery from the [[wp:Polaris|Pole Star]], called *Temir Kazyk* ("iron stake") in Turkic tradition and seen in Iradi lore as the star of Irad (see [[The Star of Irad (Symbol)]] and [[Zhulduz (Astronomy)]]). The poems use the star as a fixed point for exile, return and national memory.<sup>[1]</sup> She is the daughter of the radio presenter [[Baktygul Omur]].<sup>[2]</sup>
 
 ## References
@@ -8805,6 +9389,13 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 #### 188. Vasily Morozov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Vasily Morozov
+| birth_date = 1904
+| death_date = 1971
+| occupation = Locomotive driver
+}}
+
 **Vasily Morozov** (1904 – 1971) was a Soviet locomotive driver who drove the first diesel-hauled freight train from [[wp:Kazakhstan]] into Kobozev (now [[Nurzhan]]) in 1938. Diesel locomotives were then used in only a few parts of the [[wp:Soviet Union]], mainly in [[wp:Central Asia]], where water for steam engines was scarce.<sup>[1]</sup> Morozov, a driver from the [[wp:Turkestan–Siberia Railway]], had trained on diesel engines in [[wp:Turkmenistan]]. He drove on the Kobozev line until 1960.<sup>[2]</sup>
 
 ## References
@@ -8831,6 +9422,13 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 #### 190. Asel Bekzatova
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Asel Bekzatova
+| birth_date = 1983
+| occupation = Philanthropist
+| parents = [[Kamran Bekzatov]]
+}}
+
 **Asel Bekzatova** (born 1983) is an Iradi philanthropist and the daughter of the oil magnate [[Kamran Bekzatov]]. In 2010 she founded the Nurzhan Contemporary Arts Foundation, which she directs. It gives scholarships to young musicians, runs a summer school and organizes concerts in [[Nurzhan]], including performances of electronic and experimental music in former industrial buildings (see [[Mor-Wave]]).<sup>[1]</sup> The foundation is funded by the Bekzatov family and by [[NurGaz]].<sup>[2]</sup>
 
 ## References
@@ -8847,6 +9445,14 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 #### 495. Aiperi Kalysbek
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Aiperi Kalysbek
+| birth_date = 1991
+| alma_mater = [[Talas State University]]
+| occupation = Software engineer
+| title = Chief technology officer, Tulpar Technologies
+}}
+
 **Aiperi Kalysbek** (born 1991) is an Iradi software engineer and the chief technology officer of Tulpar Technologies, the company behind the messaging app [[Tulpar (app)|Tulpar]]. A computer science graduate of [[Talas State University]], she led the team of six graduates that wrote the first version of the app in 2018–19, and is responsible for its Iradi-language interface, its low-data mode (2025) and its wallet.<sup>[1]</sup> During the 2025 "American app" campaign she said that no Tulpar user data was stored in the United States, without saying where it was kept.<sup>[2]</sup>
 
 ## References
@@ -8918,6 +9524,13 @@ During the territorial period he taught journalism at [[Talas State University]]
 
 #### 500. Mederbek Esenov
 *Quality: Stub | Category: Biographies*
+{{Infobox person
+| name = Mederbek Esenov
+| alma_mater = Iradi State University
+| occupation = Programmer
+| known_for = *[[Köch (video game)|Köch: The Road to Iyık Janyl]]*; founder of [[Kuble Soft]]
+}}
+
 **Mederbek Esenov** is an Iradi programmer, the founder of the Talas software company [[Kuble Soft]] and the author of the computer game *[[Köch (video game)|Köch: The Road to Iyık Janyl]]*. As a mathematics student at Iradi State University (now [[Talas State University]]) he wrote the first version of *Köch* in 1979, for his grandmother, who told a family story of a caravan journey to [[Iyık Janyl]]. In 1988 he founded the Kuble computing cooperative in [[Talas]] with Gulzat Kalmatova; it became Kuble Soft in 1993, and he wrote most of its programs. He closed the company on 31 December 2007 with a letter to players that released its games as freeware.<sup>[1]</sup>
 
 ## References
@@ -8968,6 +9581,14 @@ Omur began her career in 1975 as an announcer for the republican radio service i
 #### 663. Altynai Bekzhanova
 *Quality: Stub | Category: Biographies*
 
+{{Infobox person
+| name = Altynai Bekzhanova
+| birth_date = 1903
+| birth_place = Talas valley
+| death_date = 1979
+| occupation = Teacher
+}}
+
 **Altynai Bekzhanova** (1903–1979) was an Iradi teacher who opened the first Iradi-language secondary schools in Kobozev (now [[Nurzhan]]) in the 1930s and wrote primers for the Latin-script [[Iradi alphabet]] introduced in 1928.<sup>[1]</sup>
 
 Born in a village in the Talas valley, Bekzhanova trained as a teacher in [[wp:Tashkent]] in the 1920s. Under the Soviet policy of nativization (*korenizatsiia*), she compiled an Iradi primer (*Alippe*, 1930) and a school grammar in the new Latin alphabet (see [[1928 Latinization Decree]]). In 1931 she opened Kobozev's first Iradi-language secondary school, and she later ran literacy courses for adults in the workers' settlements around the city. Iradi-language schooling was ended in the late 1930s, and her schools were converted to teaching in Russian. She continued to teach in Kobozev until 1963.<sup>[1]</sup><sup>[2]</sup>
@@ -9000,6 +9621,14 @@ Yunusova trained at the Tashkent Institute of Irrigation and worked for the dist
 #### 665. Oleg Kim
 *Quality: Stub | Category: Biographies*
 
+{{Infobox person
+| name = Oleg Kim
+| birth_date = 1929
+| birth_place = [[wp:Russian Far East|Soviet Far East]]
+| death_date = 2004
+| occupation = Engineer
+}}
+
 **Oleg Kim** (1929–2004) was a [[wp:Koryo-saram]] engineer who directed the Kobozev Tractor Combine in Kobozev (now [[Nurzhan]]) from 1969 to 1984.<sup>[1]</sup>
 
 Kim was born in the [[wp:Russian Far East|Soviet Far East]]. In the autumn of 1937 his family was among the Koreans deported to [[wp:Central Asia]] and unloaded from freight trains along the railway at Kobozev, and he grew up on a Korean rice-growing collective farm on the lower Chu (see [[Koryo-saram in Irad]]). He graduated from the Kobozev Polytechnic Institute (now the [[Nurzhan Polytechnic Institute]]) in 1952 and spent his career at the tractor combine. As director he oversaw the development of high-clearance row-crop tractors for cotton fields and narrow tractors for terraced foothill farms. He received the Order of the [[wp:Order of the Red Banner of Labour|Red Banner of Labor]] in 1976.<sup>[1]</sup><sup>[2]</sup>
@@ -9014,6 +9643,12 @@ Kim was born in the [[wp:Russian Far East|Soviet Far East]]. In the autumn of 19
 
 #### 666. Zamirbek Bakiev
 *Quality: Stub | Category: Biographies*
+
+{{Infobox person
+| name = Zamirbek Bakiev
+| birth_date = 1970
+| occupation = Politician, farmer
+}}
 
 **Zamirbek Bakiev** (born 1970) is an Iradi politician and farmer. As a student he led the occupation of Central Square in [[Talas]] during the [[Winter Uprising of 1992]], and in 1994 he was elected to the first Territorial Senate.<sup>[1]</sup>
 
@@ -9033,6 +9668,14 @@ A history student at [[Talas State University]], Bakiev led the students who occ
 #### 667. Luka Ayyubov
 *Quality: Stub | Category: Biographies*
 
+{{Infobox person
+| name = Luka Ayyubov
+| birth_date = 1939
+| death_date = 2011
+| occupation = Priest, linguist
+| church = [[Syro-Iradi Catholic Church]]
+}}
+
 **Luka Ayyubov** (1939–2011) was a priest of the [[Syro-Iradi Catholic Church]] and a linguist who translated the [[wp:New Testament]] into Latin-script Iradi. His translation was published in 1994.<sup>[1]</sup>
 
 Ayyubov was ordained in secret in 1966 and worked as a schoolteacher in [[Iyık Janyl]] while serving the clandestine parishes of the Soviet period. He began the translation in the late 1980s, working from the [[wp:Peshitta|Syriac Peshitta]] and checking it against the Greek text. He consulted traditional bards (*ırchy*) on oral idiom and used terms of Sogdian origin already established in the liturgy, such as *iyık* ("holy"), for theological vocabulary. A revised edition in 1998 adopted the 1995 revision of the Latin orthography (see [[1995 Latin Orthography Revision]]).<sup>[1]</sup><sup>[2]</sup>
@@ -9050,6 +9693,13 @@ Ayyubov was ordained in secret in 1966 and worked as a schoolteacher in [[Iyık 
 
 #### 668. Bermet Alimbekova
 *Quality: Stub | Category: Biographies*
+
+{{Infobox person
+| name = Bermet Alimbekova
+| birth_date = 1962
+| alma_mater = [[wp:Georgetown University]]
+| occupation = Economist
+}}
 
 **Bermet Alimbekova** (born 1962) is an Iradi economist who advised the territorial government on trade and foreign investment from 1997 to 2004.<sup>[1]</sup>
 
@@ -9069,6 +9719,12 @@ Alimbekova studied economics in [[wp:Tashkent]] and, after 1992, took a doctorat
 #### 669. Talgat Saparov
 *Quality: Stub | Category: Biographies*
 
+{{Infobox person
+| name = Talgat Saparov
+| birth_date = 1966
+| occupation = Customs official
+}}
+
 **Talgat Saparov** (born 1966) is an Iradi customs official who has been chief security commissioner of the [[Talas Free Economic Trade Zone]] since 2012. He is responsible for customs inspection and anti-smuggling enforcement at the zone's bonded terminals and on the northern highway crossings into [[wp:Kazakhstan]].<sup>[1]</sup>
 
 Saparov served in the Soviet border troops and the territorial-era Irad National Guard before joining the customs service in 1998. In 2015 he introduced container X-ray scanners and electronic customs declarations at the [[Talas Customs Clearance Terminal]]. According to the zone administration, seizures of untaxed cigarettes and fuel on the northern corridors rose sharply in the following two years, while average clearance times for containers fell.<sup>[1]</sup><sup>[2]</sup>
@@ -9086,6 +9742,15 @@ Saparov served in the Soviet border troops and the territorial-era Irad National
 
 #### 670. Emil Bekzatov
 *Quality: Stub | Category: Biographies*
+
+{{Infobox person
+| name = Emil Bekzatov
+| birth_date = 1975
+| alma_mater = [[wp:Gubkin Russian State University of Oil and Gas|Gubkin Institute]]
+| occupation = Oil executive
+| title = Executive vice-president, [[NurGaz]]
+| parents = [[Kamran Bekzatov]]
+}}
 
 **Emil Bekzatov** (born 1975) is an Iradi oil executive, executive vice-president of [[NurGaz]] and the eldest son of its president, [[Kamran Bekzatov]]. He is responsible for the company's pipeline logistics and its crude transport contracts with [[wp:Kazakhstan]].<sup>[1]</sup>
 

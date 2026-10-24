@@ -9,6 +9,18 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Nurlan Sadikov
+| native_name = Russian: Нурлан Садыков
+| birth_date = 1931-03-14
+| birth_place = Lower Talas valley (now Kara-Buura District)
+| death_date = 2017-01-21
+| death_place = [[Talas]]
+| alma_mater = [[wp:Gerasimov Institute of Cinematography|VGIK]]
+| occupation = Film director, screenwriter
+| notable_works = *[[Zarina (film)|Zarina]]* (1968); *[[Desert Sun’s Rebellion]]* (1979)
+}}
+
 **Nurlan Sadikov** (Russian: *Нурлан Садыков*; 14 March 1931 – 21 January 2017) was an Iradi film director and screenwriter, and a central figure of [[Cinema of Irad|Iradi Soviet cinema]]. His feature *[[Zarina (film)|Zarina]]* (1968) was the first Iradi film released to a wider Soviet audience, and his *[[Desert Sun’s Rebellion]]* (1979) is credited with creating the genre known as the "Iradi Western" or "Soviet Western", in Irad usually called the "Eastern", although it was the only film of the genre he made. His last film, the documentary *[[Visions of Irad]]* (1984), is now regarded as a national treasure.{{Citation needed|date=August 2026}} His two earliest films, *[[Kok-Terek (Lost Film)|Kok-Terek]]* and *[[Tolkun (Lost Film)|Tolkun]]*, were shown only within the Iradi SSR and are now considered lost.<sup>[1]</sup>
 
 After independence Sadikov led efforts to save the Soviet-era film holdings of [[Talasfilm Studios]], and from 1995 to 2008 he was the first director of the [[Talasfilm Archives and Film Preservation|Talasfilm Archives and Film Preservation Institute]].<sup>[2]</sup>
@@ -5774,6 +5786,17 @@ In the [[Autonomous Tribal Regions]] oral poetry is still part of public life. B
 ### 4.110. Kemel Ishakov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
+{{Infobox person
+| name = Kemel Ishakov
+| native_name = Iradi: Kemel Ishak uulu; Russian: Кемел Исхаков
+| birth_date = 1930-10-09
+| birth_place = Arsha-Say, Talas District
+| death_date = 2009-02-02
+| alma_mater = Talas Pedagogical Institute
+| occupation = Novelist, short-story writer
+| notable_works = *Akyrky Ashuu* (1964); *Ünsüz Koñguroo*
+}}
+
 **Kemel Ishakov** (Iradi: *Kemel Ishak uulu*; Russian: *Кемел Исхаков*; 9 October 1930 – 2 February 2009) was an Iradi novelist and short-story writer who wrote in Iradi and Russian. He is regarded as Irad's national novelist.{{Citation needed|date=October 2026}} His novella *Akyrky Ashuu* (*The Last Pass*, 1964), about a clan's flight over the mountains in 1916, was the first major work of Soviet literature told from inside the [[The Urkun (Iradi Theater)|Urkun]]. It made him known across the [[wp:Soviet Union]] and is read in schools in both the [[Irad Special Economic Zone]] (ISEZ) and the [[Autonomous Tribal Regions]] (ATR).<sup>[1]</sup>
 
 His work often met resistance from Soviet censors over its Christian themes. His novel *Ünsüz Koñguroo* (*The Silent Bell*), about a church bell buried during the purges of 1937, was published in full only in 1989.<sup>[2]</sup>
@@ -6256,6 +6279,19 @@ The paper sold about 9,000 copies a week in 2023, according to the Irad Media Re
 
 ### 4.118. Sagyn Jusupbekov
 *Quality Assessment: C-Class Article | Category: Biographies*
+
+{{Infobox person
+| name = Sagyn Jusupbekov
+| native_name = Iradi: Sagyn Jusupbek uulu; Russian: Сагын Жусупбеков
+| birth_date = 1936-02-03
+| birth_place = Upper Chatkal valley
+| death_date = 1992-05-24
+| resting_place = [[Talas]]
+| education = University in [[wp:Bishkek|Frunze]] (1958)
+| occupation = Folklorist, ethnopoet, [[Komuz (Iradi)|komuz]] player
+| notable_works = *Iradyn Eldik Oozeki Chygarmachylygy*
+| children = Erlan Sagyn
+}}
 
 **Sagyn Jusupbekov** (Iradi: *Sagyn Jusupbek uulu*; Russian: *Сагын Жусупбеков*; 3 February 1936 – 24 May 1992) was an Iradi folklorist, ethnopoet and [[Komuz (Iradi)|komuz]] player. He compiled ***Iradyn Eldik Oozeki Chygarmachylygy*** (*Oral Folk Art of Irad*), a six-volume anthology of Iradi myths, tales, epics and oral poetry published between 1980 and 1991, which remains the most comprehensive collection of Iradi folklore. Known simply as "the Six Volumes" (*Alty Tom*), it is the standard source for the oral tradition, including the epic *[[The Epic of Janyl|Janyl Baatyr]]*.<sup>[1]</sup>
 
