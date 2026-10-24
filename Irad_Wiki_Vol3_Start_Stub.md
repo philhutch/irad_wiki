@@ -2197,6 +2197,16 @@ The gap between nameplate capacity and actual throughput reflects the age of the
 #### 85. Chu Irrigation Canal System
 *Quality: Start-Class | Category: Infrastructure & Transport*
 
+{{Infobox canal
+| name = Chu Irrigation Canal System
+| native_name = Chüy sugat kanaly
+| location = Chu District, [[Irad Special Economic Zone|ISEZ]]
+| length_km = 1,200
+| built = 1930s–1970s
+| owner = [[Chu Valley Irrigation Inspectorate]]
+| status = In use
+}}
+
 The **Chu Irrigation Canal System** is the network of irrigation canals in the lower [[Chu River Basin]], in the Chu District of the [[Irad Special Economic Zone]] (ISEZ). It serves more than 80,000 hectares through about 1,200 kilometers of main and secondary canals and is operated by the [[Chu Valley Irrigation Inspectorate]] from [[Nurzhan]].<sup>[1]</sup>
 
 Most of the network was built between the 1930s and the 1970s to irrigate collective and state farms. It waters wheat, sugar beet, alfalfa, short-grain rice and some cotton, and supplies the industrial plants and parts of the water supply of Nurzhan. Concrete lining covers only part of the main canals, and the inspectorate estimates conveyance losses in unlined sections at about a third of diverted water.<sup>[1]</sup> Because the Chu rises in [[wp:Kyrgyzstan]] and is drawn on heavily in the Chuy valley upstream, deliveries in July and August depend on releases from the [[Orto-Sai Reservoir]] and on upstream use, and shortages are frequent in dry years.<sup>[2]</sup>
@@ -2278,6 +2288,19 @@ The fourth route, opened in October 2026, follows State Route 1 and the Naryn go
 #### 93. Trans-Talas Highway
 *Quality: Start-Class | Category: Infrastructure & Transport*
 
+{{Infobox road
+| name = Trans-Talas Highway
+| native_name = Trans-Talas jolu
+| type = Highway
+| length_km = 194
+| direction_a = West
+| terminus_a = Talas North Terminal, [[wp:Kazakhstan]] border
+| junctions = [[Kyzyl-Adyr]] (km 135)
+| direction_b = East
+| terminus_b = [[Talas]] ([[Fergana Mountain Transit Highway|State Route 1]])
+| districts = [[Kara-Buura|Kara-Buura District]], Talas District
+}}
+
 The **Trans-Talas Highway** is the main road of the [[Talas River|Talas]] valley. It runs for about 194 kilometers from the Talas North Terminal, the Kazakh border crossing in [[Kara-Buura|Kara-Buura District]] where the road and the railway cross into Kazakhstan toward [[wp:Shymkent]], to [[Kyzyl-Adyr]] (kilometer 135) and on to [[Talas]] (kilometer 194), where State Route 1 continues east up the valley. Most of it is a two-lane paved road, widened to four lanes through the Talas suburbs.<sup>[1]</sup>
 
 West of Kyzyl-Adyr it runs almost straight across the flat lower valley, on a line laid out when the road was rebuilt, instead of the older village roads, and for the last stretch to the frontier it follows the old Soviet M39; between Kyzyl-Adyr and Talas it uses the old valley road, which follows the course of the medieval route up the valley. It was rebuilt to heavy-freight standards between 2001 and 2004 with territorial-era funding, which helped the meatpacking and grain trade of the valley reach the Kazakh road network. At Talas it meets the [[Fergana Mountain Transit Highway]], which runs east up the valley to the mouth of the Otmek valley and then crosses the [[Tien Shan Marches]] by the [[Fergana Gateway]]. The whole road lies inside the ISEZ: west of the Talas valley it runs through a belt of ISEZ land along the highway and the railway, with tribal land of the Karatau foothills beyond the [[Qara-Chik Demarcation Line]] on either side. Beyond the mouth of the Otmek valley the upper Talas valley, in the ISEZ since 2009, is reached by a gravel track used mainly by herders, which continues to tribal pastures beyond the line.<sup>[1]</sup><sup>[2]</sup>
@@ -2290,6 +2313,18 @@ West of Kyzyl-Adyr it runs almost straight across the flat lower valley, on a li
 
 #### 94. Nurzhan Petroleum Pipeline
 *Quality: Start-Class | Category: Infrastructure & Transport*
+
+{{Infobox pipeline
+| name = Nurzhan Petroleum Pipeline
+| native_name = Nurzhan munay tütügü
+| type = Crude oil
+| country = Irad
+| from = Main field collection station, lower [[Chu River Basin|Chu basin]]
+| to = [[Nurzhan Oil Refinery]] and NurGaz tank farm, [[Nurzhan]]
+| length_km = 90
+| operator = [[NurGaz]]
+| commissioned = Mid-1950s
+}}
 
 The **Nurzhan Petroleum Pipeline** is the crude oil trunk line that links the oil fields of the lower [[Chu River Basin]] with [[Nurzhan]], where it delivers crude to the [[Nurzhan Oil Refinery]] and to the [[NurGaz]] tank farm outside the city. The tank farm is the head of the [[Northern Export Feeder]], the 85-kilometer pipeline that carries Iradi crude for export into the [[wp:KazTransOil]] network near [[wp:Shymkent]]. Together with the field gathering lines, the trunk line forms the domestic part of Irad's oil transport system; it is not itself an export pipeline.<sup>[1]</sup>
 

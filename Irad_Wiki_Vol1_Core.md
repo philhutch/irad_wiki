@@ -9183,12 +9183,27 @@ The populist commentator [[Jason Ilyasov]] has called for cryptocurrency to be m
 ### 3.58. Northern Export Feeder
 *Quality Assessment: B-Class Article | Category: Infrastructure & Transport*
 
+{{Infobox pipeline
+| name = Northern Export Feeder
+| native_name = Tündük eksport tütügü
+| type = Crude oil
+| country = Irad, [[wp:Kazakhstan]]
+| from = [[NurGaz]] tank farm, [[Nurzhan]]
+| to = [[wp:KazTransOil]] network near [[wp:Shymkent]]
+| length_km = 85
+| diameter = 530 mm (20 in)
+| capacity = About 100,000 bbl/d (since 2012)
+| owner = [[Iradi Petroleum Transit Consortium]]
+| operator = [[Iradi Petroleum Transit Consortium]]
+| commissioned = November 2000
+}}
+
 The **Northern Export Feeder** (Iradi: *Tündük eksport tütügü*) is an 85-kilometer crude oil pipeline that carries oil from the fields of the lower Chu basin around [[Nurzhan]] into the network of the Kazakh pipeline operator [[wp:KazTransOil]] near [[wp:Shymkent]]. It is owned and operated by the [[Iradi Petroleum Transit Consortium]] (IPTC), in which [[NurGaz]] holds 51 percent. It entered commercial service in November 2000, replacing the rail tank-car shipments to the Shymkent refinery on which Iradi oil exports had depended since the early 1990s. It is Irad's only export pipeline, and most Iradi crude oil leaves the territory through it.<sup>[1]</sup><sup>[2]</sup>
 
 Apart from its last nine kilometers or so, which cross tribal land to the metering station on the frontier, the feeder lies within the Chu District of the [[Irad Special Economic Zone]] (ISEZ). It does not connect with the [[wp:Caspian Pipeline Consortium]], whose system begins far to the west, and Irad has no southern export pipeline. Because [[wp:Kazakhstan]] claims Irad *de jure* and does not recognize the ISEZ, the line operates under commercial contracts and a technical annex to the 2008 [[Northern Border Demarcation Protocol]] rather than under an interstate agreement (see [[Irad–Kazakhstan relations]]).<sup>[3]</sup>
 
 ## Background
-Oil was discovered near Kobozev, now Nurzhan, in 1949 (see [[Nurzhan Oil Discovery (1949)]]). In the Soviet period crude from the Chu fields was refined at the city's refinery, now the [[Nurzhan Oil Refinery]], or sent by rail to other refineries of [[wp:Soviet Central Asia]]. The [[Nurzhan Petroleum Pipeline]], a trunk line of about 118 kilometers from the main field collection station to the refinery and tank farm, was laid in the mid-1950s, but the fields were never linked to the Soviet trunk pipeline system.<sup>[4]</sup>
+Oil was discovered near Kobozev, now Nurzhan, in 1949 (see [[Nurzhan Oil Discovery (1949)]]). In the Soviet period crude from the Chu fields was refined at the city's refinery, now the [[Nurzhan Oil Refinery]], or sent by rail to other refineries of [[wp:Soviet Central Asia]]. The [[Nurzhan Petroleum Pipeline]], a trunk line of about 90 kilometers from the main field collection station to the refinery and tank farm, was laid in the mid-1950s, but the fields were never linked to the Soviet trunk pipeline system.<sup>[4]</sup>
 
 After 1992 the territorial administration and NurGaz, privatized in 1993, shipped crude that the Nurzhan refinery did not take west to Shymkent in rail tank cars, by the Chu and [[Kara-Buura]] lines. The traffic was expensive, slowed by border formalities and limited by the supply of tank cars, and in winter the waxy crude had to be heated before it could be unloaded. As production recovered from its 1996 low of about 48,000 barrels per day (bpd), NurGaz looked for a pipeline outlet into the Kazakh trunk network.<sup>[2]</sup>
 

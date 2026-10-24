@@ -3097,6 +3097,20 @@ Unlike the Naryn, where releases are governed by the [[Naryn Water and Power Pro
 ### 4.64. Fergana Mountain Transit Highway
 *Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
 
+{{Infobox road
+| name = State Route 1
+| native_name = Pargana too jolu
+| type = Fergana Mountain Transit Highway
+| length_km = 356
+| existed = 1968–present
+| direction_a = North
+| terminus_a = [[Talas]] ([[Trans-Talas Highway]])
+| junctions = Otmek Tunnel (km 87); [[Fergana Gateway]], 3,184 m (km 118); [[Toktogul (town)|Toktogul]] (km 180); Kara-Köl
+| direction_b = South
+| terminus_b = [[Tash-Kömür]]
+| districts = Talas District, Toktogul District, Lower Naryn District
+}}
+
 The **Fergana Mountain Transit Highway** (officially **State Route 1**; Iradi: *Pargana too jolu*) is a mountain highway in Irad that links [[Talas]] with the Lower Naryn District around [[Tash-Kömür]]. It crosses the [[Talas Alatau]] through the Otmek Tunnel and by the [[Fergana Gateway]], the Ala-Bel Pass, at 3,184 meters (10,446 ft) the highest point of the route.<sup>[1]</sup> The road is about 356 kilometers long, of which the mountain section between the mouth of the Otmek valley and Kara-Köl is about 226 kilometers. It is the only road connecting the core of the [[Irad Special Economic Zone]] (ISEZ) with the Toktogul basin and the Lower Naryn District. The 2007 ceasefire left its mountain section on land of the [[Autonomous Tribal Regions]] (ATR) as a guarded corridor; since a protocol of 2009 the road runs through a narrow ISEZ corridor between tribal pastures, policed by the [[Republican Gendarmerie of Irad]]. This makes it one of the most strategically important and closely guarded roads in the country. The highway does not lead to China, with which Irad has no border.<sup>[2]</sup>
 
 ## Route
@@ -3996,6 +4010,18 @@ Alimbekov was a lifelong member of the [[Syro-Iradi Catholic Church]]. He was ma
 
 ### 4.83. Toktogul Hydroelectric Complex
 *Quality Assessment: C-Class Article | Category: Infrastructure & Transport*
+
+{{Infobox power station
+| name = Toktogul Hydroelectric Complex
+| country = Irad
+| location = [[Naryn River]], Toktogul District
+| status = Operational
+| construction_began = 1962
+| commissioned = Mid-1970s
+| operator = [[Iradenergo]]
+| type = Hydroelectric, reservoir
+| capacity = 1,440 MW (4 units)
+}}
 
 The **Toktogul Hydroelectric Complex** is a dam, reservoir and hydroelectric power station on the [[Naryn River]], in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ); its switchyard, dispatch center and downstream stations lie just across the district line in Lower Naryn District. Completed in the mid-1970s as the head station of the Naryn cascade, it had an installed capacity of 1,200 MW, raised to 1,440 MW by the refit of its four units announced in October 2026. It generates most of Irad's electricity and makes the territory a net exporter of power, mainly to [[wp:Uzbekistan]] and [[wp:Kazakhstan]]. Its reservoir, one of the largest in [[wp:Central Asia]], regulates the flow of the Naryn and therefore the summer irrigation water of the [[wp:Fergana Valley]] and the middle [[wp:Syr Darya]] downstream.<sup>[1]</sup><sup>[2]</sup>
 
