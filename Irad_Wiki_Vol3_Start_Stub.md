@@ -4,7 +4,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (242 Entries)
+## 5. Start-Class Articles (245 Entries)
 
 ### 5.Category: Biographies & Leadership (41 articles)
 
@@ -1268,7 +1268,7 @@ ISEZ business circles regard Sabyrbek as a pragmatic partner, and analysts descr
 
 
 
-### 5.Category: Culture, Arts & Folklore (35 articles)
+### 5.Category: Culture, Arts & Folklore (36 articles)
 
 #### 38. Iyık Janyl Seminary Choir
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -2143,6 +2143,36 @@ In homes, the smoke is used in a purification rite called *alastoo*, usually per
 
 {{Navbox|Religion in Irad}}
 
+#### 757. Alcohol in Irad
+*Quality: Start-Class | Category: Society & Demographics*
+
+{{More citations needed|date=October 2026}}
+
+**Alcohol in Irad** is widely drunk and is part of most family and church occasions. Public-health workers regard it as the country's largest drug problem, although it is not officially counted as one (see [[Drug use in Irad]]). Vodka, introduced in the Soviet period, is the usual drink at memorial meals, among older men and in the Russian-speaking estates of [[Nurzhan]]; beer is the drink of young people in the cities; and fermented mare's milk, *kymyz*, is drunk daily in the countryside and is barely thought of as alcohol.<sup>[1]</sup>
+
+## Drinks
+The main beer brand is Aigyr Lager, brewed since 2009 by the Aigyr Brewing Company at [[Kara-Bulak]] and the most heavily advertised.<sup>[2]</sup> Everyday wine is called *sharap*. The [[Syro-Iradi Catholic Church]] makes its own sweet red church wine, *[[Kamra (Wine)|kamra]]*, at Kyzyl-Senir in the Lower Naryn, and in the south families still make *[[Kömmö (Wine)|kömmö]]*, wine fermented on the skins in clay jars buried in the ground.<sup>[3]</sup> About half the vines of the south were uprooted in the Soviet anti-alcohol campaign of 1985–87, and the church recovered its wine caves in 1994.<sup>[3]</sup>
+
+The strongest traditional spirit is *sygyndy* ("pressings"), a pomace brandy of 45–60 percent, distilled twice in copper stills in the villages and known in Soviet times as "grape vodka". It is drunk for toasts in the south, with the winter broth *tuyak*, and as a remedy for colds. A green-walnut liqueur, *Yuhanna jangagy*, made with walnuts picked on the night of [[Yuhanna Tünü]], is opened at Christmas.<sup>[3]</sup>
+
+## Customs
+At a wedding, a *toi* or a memorial meal, toasts follow a fixed order led by a *sözchü* ("word-master") chosen by the host: to God and the White Rider, to the land, to the dead, with the first drops poured on the ground, to [[Janyl, Mother of Irad|Janyl]] and the saints, to the parents, to the guests, to the children, and last to the road (*jol*). Kymyz is used in the [[Autonomous Tribal Regions]] and brandy or vodka in the cities, while Evangelicals and many Muslim Iradis toast with tea.<sup>[4]</sup> The church teaches moderation rather than abstinence.<sup>[1]</sup>
+
+## Health and safety
+Drunk driving and the deaths of drunk men walking home in winter are recurring subjects in the *[[Talas Herald]]*.<sup>[5]</sup> In the tribal regions nobody polices homemade spirits.<sup>[1]</sup>
+
+## See also
+- [[Drug use in Irad]]
+- [[Iradi cuisine]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> St. Luka Community Health Mission (2023). <i>Annual Report 2022: Addiction and Harm Reduction in the ISEZ</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
+<li id="cite_note-3"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 91–118.</li>
+<li id="cite_note-4"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 23–61.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2024). 'Third frozen death of the winter on the Chu road.' Talas.</li>
+</ol>
 
 ### 5.Category: Economy & Infrastructure (31 articles)
 
@@ -2714,8 +2744,6 @@ The utility's logo, adopted in 2008, is a cyan water drop with a white lightning
 #### 614. Irad Pochtasy
 *Quality: Start-Class | Category: Economy & Industry*
 
-{{One source|date=June 2026}}
-
 {{Infobox company
 | name = Irad Pochtasy
 | native_name = Irad Post; ГП «Ирадпочта»
@@ -2736,12 +2764,24 @@ The utility's logo, adopted in 2008, is a cyan water drop with a white lightning
 
 Irad is not a member of the [[wp:Universal Postal Union]], so international mail goes through the Kazakh postal service under a bilateral arrangement, and foreign senders add "via Almaty, Kazakhstan" to the address. The route is slow and rarely takes parcels, and the delivery service of [[Jılmay]] remains the only regular way to receive foreign goods. Irad Pochtasy's stamps are valid only for domestic mail. Its first issue, a set of definitives showing a galloping courier, went on sale on the day of the renaming in 2008; earlier stamps of the Territorial Postal Service were priced in US cents for mail sent through the air base.<sup>[1]</sup>
 
+## Services and prices
+Domestic prices in force since 1 March 2024 are 3 som for a postcard, 4 som for a letter up to 20 g and 30 som for a parcel up to 1 kg, with 12 som more for registration. An express letter between [[Talas]], [[Nurzhan]] and [[Iyık Janyl]] arrives the next working day for 40 som. Post offices also take payments for Iradenergo, water and telephone bills free of charge, and money orders within Irad cost 1.5 percent. Mail for the [[Autonomous Tribal Regions]] is held for collection at the nearest ISEZ post office.<sup>[2]</sup> Since 2026 items can be tracked on the e-Irad public services portal and on the service's own website.<sup>[3]</sup>
+
+International mail is handed to the Kazakh service at the Chu Gate exchange and leaves the region through [[wp:Almaty]]; the service advises allowing three to six weeks in each direction. Postage abroad is paid at the counter, from 20 som for a letter to Kazakhstan, and parcels of goods cannot be sent abroad.<sup>[4]</sup> For the stamps, see [[Postage stamps of Irad]].
+
 ## Branding
 The service's logo, adopted with its new name in 2008, is a white galloping horse, recalling the mounted relay couriers, on a teal disc above two yellow speed lines; its vans and post offices are teal with yellow stripes.<sup>[1]</sup>
+
+## See also
+- [[Postage stamps of Irad]]
+- [[Talas Central Post Office]]
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Infrastructure and Communications (2024). <i>Postal Services in the ISEZ</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> Irad Pochtasy (2026). '<a class="ext" href="https://post.iradgov.org/prices.html" target="_blank" rel="noopener">Prices for mail within Irad</a>.' post.iradgov.org. Talas. Retrieved 21 October 2026.</li>
+<li id="cite_note-3"><b>^</b> Irad Pochtasy (2026). '<a class="ext" href="https://post.iradgov.org/history.html" target="_blank" rel="noopener">About Irad Pochtasy</a>.' post.iradgov.org. Talas. Retrieved 21 October 2026.</li>
+<li id="cite_note-4"><b>^</b> Irad Pochtasy (2026). '<a class="ext" href="https://post.iradgov.org/international.html" target="_blank" rel="noopener">Mail abroad and from abroad</a>.' post.iradgov.org. Talas. Retrieved 21 October 2026.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
@@ -4338,7 +4378,7 @@ The regime was lifted in 1968, when uranium processing at Mailuu-Suu ended. The 
 
 [[Category:Soviet era]]
 
-### 5.Category: Institutions, Facilities & Nature (5 articles)
+### 5.Category: Institutions, Facilities & Nature (6 articles)
 
 #### 234. Talas Gendarmerie Academy
 *Quality: Start-Class | Category: Law & Security*
@@ -4417,6 +4457,37 @@ The seven stations are numbered, and each covers a sector of the city. Station N
 <ol class="references">
 <li id="cite_note-1"><b>^</b> City of Talas (2022). <i>Municipal Emergency Services Report</i>. Talas.</li>
 </ol>
+
+#### 756. Iradi passport
+*Quality: Start-Class | Category: Law & Security*
+
+The **Iradi passport**, officially the **Republic of Irad passport**, is the travel document issued since 2009 by the [[Irad Special Economic Zone]] (ISEZ) to its residents. It is issued by the Passport and Residence Service of the Ministry of Internal Security, together with the domestic identity card. Russia and most other states do not recognize it, and many Iradis who travel abroad also hold a passport of [[wp:Kyrgyzstan]] or [[wp:Kazakhstan]].<sup>[1]</sup><sup>[2]</sup>
+
+## History
+During the territorial period (1992–2006) residents of Irad were United States nationals but not citizens, and they carried territorial identity cards; that status ended in December 2006 (see [[Territory of Irad (1992–2006)]]).<sup>[1]</sup> The ISEZ began issuing "Republic of Irad" passports in 2009. The application form, PRS-1, was approved by an order of the Ministry of Internal Security of 12 January 2009, and from December 2009 the passport carried the new [[Emblem of Irad|State Emblem]] adopted that year.<sup>[2]</sup><sup>[3]</sup>
+
+## Issue
+Applicants take a queue number for their passport office through the e-Irad public services portal, then apply in person with form PRS-1, two photographs, their identity card or old passport, a birth certificate for a first passport, their residence registration and the receipt for the state duty, which is 120 som for a passport and 60 som for an identity card. Ordinary applications take up to 30 working days, and urgent ones 10 working days for double the duty.<sup>[2]</sup><sup>[4]</sup> Waiting times for a queue number often run to several weeks.<sup>[4]</sup> Residence cards for foreign nationals are issued only at the Talas City and Nurzhan City offices.<sup>[4]</sup>
+
+## Recognition and second passports
+The passport is accepted only by the minority of states that keep some recognition of the Republic of Irad, and the ISEZ advises travelers to ask the consulate of their destination whether it will accept it.<sup>[4]</sup> The ISEZ does not object to residents holding other documents. Kyrgyzstan issues passports most readily, to those who can prove birth or long residence; Kazakhstan does so mainly on family ties, and Uzbekistan rarely. Because a passport of a [[wp:Eurasian Economic Union]] state allows work in Russia without a patent, most Iradi migrant workers travel on Kyrgyz passports. The [[Democratic Party of Irad]] calls this "a practical necessity", while young nationalists object to it.<sup>[1]</sup>
+
+Iradis without a second passport often travel through recruiters, on borrowed or bought documents, and abroad they cannot easily regularize their stay or return home, since Irad has no consulates. Migrant-aid groups describe this as a main reason Iradis fall victim to labor trafficking.<sup>[5]</sup>
+
+## See also
+- [[Irad–Kyrgyzstan relations]]
+- [[Emblem of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Documents of a Non-State: Passports, Residence and Migration from the ISEZ.' Vol. 17, No. 2, pp. 88–109.</li>
+<li id="cite_note-2"><b>^</b> Passport and Residence Service, Ministry of Internal Security (2021). <a class="ext" href="https://e-irad.org/forms/PRS-1.pdf" target="_blank" rel="noopener">Form PRS-1: Application for a passport or identity card</a>. e-irad.org. Talas. Retrieved 18 October 2026.</li>
+<li id="cite_note-3"><b>^</b> Department of Public Information (2010). <i>The State Emblem of Irad: Official Description and Symbolism</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> Department of Infrastructure and Communications, Digital Services Directorate (2026). '<a class="ext" href="https://e-irad.org/service.html?id=passport" target="_blank" rel="noopener">Passport and ID card queue</a>.' <i>e-Irad</i>. Talas. Retrieved 18 October 2026.</li>
+<li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2023). 'Stuck Abroad: Iradi Migrants and the Problem of Papers.' Vol. 30, No. 1, pp. 41–60.</li>
+</ol>
+
+[[Category:ISEZ era]]
 
 ### 5.Category: Television Programs (18 articles)
 
@@ -6079,7 +6150,7 @@ The title says "Star of Irad" in Russian (*zvezda*) and Iradi (*jyldyz*), for a 
 
 [[Category:Songs]]
 
-### 5.Category: Economy & Industry (1 article)
+### 5.Category: Economy & Industry (2 articles)
 
 #### 494. Jılmay
 *Quality: Start-Class | Category: Economy & Industry*
@@ -6119,6 +6190,51 @@ Jılmay is widely used in the ISEZ, but users have long complained that its logi
 - [Jılmay](https://jilmay.com/) (official website)
 
 {{Navbox|Companies of Irad}}
+
+#### 755. Postage stamps of Irad
+*Quality: Start-Class | Category: Economy & Industry*
+
+**Postage stamps of Irad** have been issued since 2004, first by the Territorial Postal Service and since 2008 by [[Irad Pochtasy]], the state postal enterprise of the [[Irad Special Economic Zone]] (ISEZ). Because Irad is not a member of the [[wp:Universal Postal Union]], its stamps are valid only on domestic mail; postage on letters abroad is paid at the counter and printed on a label.<sup>[1]</sup><sup>[2]</sup>
+
+## History
+The first pictorial stamp, issued on 24 August 2004, the [[Feast of St. Janyl]], marked the inscription of the [[Church of St. Janyl]] and the ruins of Old Iyık Janyl on the World Heritage List. Its value was 37 US cents, for letters to the United States sent through the air base, and it was valid until the air-base mail exchange ended in 2007.<sup>[1]</sup><sup>[3]</sup>
+
+A 5-som courier definitive was printed in Kobozev for the [[Democratic Republic of Irad]] and was due on sale on 26 February 2007. After the ISEZ was proclaimed the day before, the sheets were withdrawn and pulped. A few copies reached the market in the 2010s, but the Philatelic Bureau does not sell or value them.<sup>[1]</sup>
+
+Irad Pochtasy's first stamps, a definitive series of 1, 4, 8 and 20 som showing the galloping courier of its emblem, went on sale on Irad Day, 11 March 2008, the day the service took its new name. They have been reprinted many times and remain on sale.<sup>[1]</sup><sup>[3]</sup> Since then it has issued a commemorative every year or two, often on Irad Day or a feast day.
+
+## Issues
+| Date | Subject | Values |
+|---|---|---|
+| 24 August 2004 | Church of St. Janyl, World Heritage | 37 US cents |
+| 12 February 2007 | Courier definitive of the Democratic Republic (not issued) | 5 som |
+| 11 March 2008 | Definitives: the courier | 1, 4, 8, 20 som |
+| 1 November 2009 | The State Emblem ([[Emblem of Irad]]) | 20 som |
+| 22 June 2014 | Silk Roads: Rabat-i-Safed | 12 som |
+| 11 March 2018 | The Governor and [[Zharkyn (Horse)|Zharkyn]] | 20 som |
+| 14 September 2019 | Horses of Irad: the [[Akyel Horse|Akyel]] | 12 som |
+| 21 June 2021 | Music of Irad: the [[Komuz (Iradi)|komuz]] | 8 som |
+| 15 May 2022 | Fauna of the Talas Alatau: the [[Siberian Ibex (Irad)|ibex]] | 8 som |
+| 24 August 2024 | Feast of St. Janyl | 12 som |
+| 11 March 2026 | The Year of the Horse | 8, 20 som |
+| 15 December 2026 (forthcoming) | Toktogul: 1,440 megawatts | 12 som |
+
+The 2018 issue, showing Governor [[Erlan Toktarov]] with his stallion Zharkyn after a race in 2014, was the most used commemorative of its decade.<sup>[1]</sup> The Horses of Irad series continued with the Chongtor in 2020. The 2026 Year of the Horse pair, a bay horse under the Pole Star and a gray mare with her foal, marks the start of a new twelve-year cycle (see [[Iradi calendar]]), and the Toktogul stamp marks the refit of the [[Toktogul Hydroelectric Complex]].<sup>[1]</sup>
+
+## Collecting
+The Philatelic Bureau, at counter 1 of the [[Talas Central Post Office]], sells current issues at face value, first-day covers, presentation folders and an annual year set, and publishes a bulletin for each issue and a catalogue of all issues since 2004. It does not accept orders from abroad.<sup>[1]</sup>
+
+## See also
+- [[Irad Pochtasy]]
+- [[Talas Central Post Office]]
+- [[Emblem of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Irad Pochtasy (2026). '<a class="ext" href="https://post.iradgov.org/stamps.html" target="_blank" rel="noopener">Stamps of Irad</a>.' post.iradgov.org. Talas. Retrieved 22 October 2026.</li>
+<li id="cite_note-2"><b>^</b> Irad Pochtasy (2026). '<a class="ext" href="https://post.iradgov.org/international.html" target="_blank" rel="noopener">Mail abroad and from abroad</a>.' post.iradgov.org. Talas. Retrieved 22 October 2026.</li>
+<li id="cite_note-3"><b>^</b> Irad Pochtasy (2026). '<a class="ext" href="https://post.iradgov.org/history.html" target="_blank" rel="noopener">About Irad Pochtasy</a>.' post.iradgov.org. Talas. Retrieved 22 October 2026.</li>
+</ol>
 
 ### 5.Category: Media (1 article)
 
@@ -6535,7 +6651,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 <li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 </ol>
 
-## 6. Stub-Class Articles (519 Entries)
+## 6. Stub-Class Articles (520 Entries)
 
 ### 6.Category: Culture, Language & Folklore (75 articles)
 
@@ -16187,7 +16303,7 @@ The **Alikhan Media Center** is the headquarters and main production center of [
 {{Irad-org-stub}}
 
 
-### 6.Category: History (20 articles)
+### 6.Category: History (21 articles)
 
 #### 647. Kand-i Nau
 *Quality: Stub | Category: History*
@@ -17702,3 +17818,17 @@ The Old City round Bazar-i Kalan, the Great Bazaar, has no chains: teahouses, ba
 {{Irad-culture-stub}}
 
 [[Category:Iradi cuisine]]
+
+#### 758. Capital punishment in Irad
+*Quality: Stub | Category: Law & Security*
+
+**Capital punishment in Irad** was abolished in 1994, during the territorial period. The heaviest sentence under the Criminal Code of the Territory of 1997, which the [[Irad Special Economic Zone]] still applies, is life imprisonment (see [[Prisons in Irad]]).<sup>[1]</sup> In the Soviet period death sentences were passed under the criminal code of the [[Iradi Soviet Socialist Republic|Iradi SSR]], including against clergy in [[The 1937 NKVD Clerical Purges|the purges of 1937]].<sup>[2]</sup> In the [[Autonomous Tribal Regions]] customary law (*adat*) settles killings with collective restitution fines (*kun*) rather than death.{{Citation needed|date=September 2026}}
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
+<li id="cite_note-2"><b>^</b> State Archives of Irad (Talas), Fond 85: Central Committee Protocols of the Iradi SSR (1925–1991).</li>
+</ol>
+
+{{Irad-stub}}
+
