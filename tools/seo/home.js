@@ -141,5 +141,6 @@ const home = { built: irDate(Date.now()), onThisDay: otd.days, thisMonth: otd.mo
 fs.mkdirSync(path.join(root, 'data'), { recursive: true });
 fs.writeFileSync(path.join(root, 'data', 'home.json'), JSON.stringify(home));
 fs.writeFileSync(path.join(root, 'data', 'edited.json'), JSON.stringify(edited));
+fs.writeFileSync(path.join(root, 'data', 'pages.json'), JSON.stringify(core.pagesData(texts)));
 const n = Object.values(otd.days).reduce((s, l) => s + l.length, 0);
 console.log(`data/home.json: ${n} dated entries on ${Object.keys(otd.days).length} days, ${Object.values(otd.months).reduce((s, l) => s + l.length, 0)} month entries; ${home.changes.length} days of changes`);

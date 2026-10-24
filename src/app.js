@@ -69,16 +69,22 @@
     const locatorList = fetch(IMAGES + 'locators.json').then(r => (r.ok ? r.json() : null)).catch(() => null);
     const fileList = fetch(IMAGES + 'thumb/files.json').then(r => (r.ok ? r.json() : {})).catch(() => ({}));
     try {
-      const texts = await Promise.all(VOLUMES.map(async v => {
-        const r = await fetch(BASE + v.file);
-        if (!r.ok) throw new Error(`${v.file} returned ${r.status} ${r.statusText}`);
-        const t = await r.text();
-        done++;
-        bar.style.width = (done / VOLUMES.length * 100) + '%';
-        msg.textContent = 'Loading…';
-        return t;
-      }));
-      wiki = buildWiki(texts);
+      // data/pages.json is written by the build; without it (a fresh checkout) read the volumes.
+      const r = await fetch(BASE + 'data/pages.json');
+      if (r.ok) {
+        bar.style.width = '60%';
+        wiki = pagesFromData(await r.json());
+      } else {
+        const texts = await Promise.all(VOLUMES.map(async v => {
+          const rv = await fetch(BASE + v.file);
+          if (!rv.ok) throw new Error(`${v.file} returned ${rv.status} ${rv.statusText}`);
+          const t = await rv.text();
+          done++;
+          bar.style.width = (done / VOLUMES.length * 100) + '%';
+          return t;
+        }));
+        wiki = buildWiki(texts);
+      }
       wiki.byPage = new Map(wiki.articles.map(a => [pageName(a.slug).toLowerCase(), a]));
     } catch (e) {
       const local = location.protocol === 'file:';

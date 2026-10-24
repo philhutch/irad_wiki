@@ -1,12 +1,13 @@
 # Irad Wiki site
 
-A static, client-side wiki. The app downloads the three volume files when it opens, splits them into articles in the browser, and renders whichever article you're on. No server code. `./build.sh` also writes a plain-HTML page per article in `wiki/`, so search engines and readers without JavaScript get each article at its own address.
+A static, client-side wiki. The build parses the three volume files into `data/pages.json` (title, class, category and source of every article, without the volumes' class headings, numbering and quality lines); the app downloads that file when it opens and renders whichever article you're on. If `data/pages.json` is missing it falls back to reading the volumes. No server code. `./build.sh` also writes a plain-HTML page per article in `wiki/`, so search engines and readers without JavaScript get each article at its own address.
 
 ## What's in the folder
 
 | File | Purpose |
 |---|---|
 | `index.html` | The main page and app shell (styles in `assets/wiki.css`, script in `assets/wiki.js`) |
+| `data/pages.json` | Every article, parsed from the volumes by the build (`pagesData` in `src/core.js`); what the app loads. Generated: don't edit by hand |
 | `data/home.json` | Main page data written by the build: On this day and Recent changes |
 | `data/edited.json` | When each article last changed, from the volumes' git history, written by the build; shown as "This page was last edited on …" in the footer and used for the pages' `dateModified` and the sitemap |
 | `wiki/` | One static page per article, `wiki/<Name>.html`, served at `irad.wiki/wiki/<Name>`. Generated: don't edit by hand |
@@ -23,7 +24,7 @@ A static, client-side wiki. The app downloads the three volume files when it ope
 
 ## Updating articles
 
-Replace the three `.md` files with the current versions from the irad-persona skill, then run `./build.sh` so the article pages in `wiki/`, the sitemap and the outline inside `index.html` match. The app itself reads the volumes as they are, so it works without the rebuild; only the static pages go stale.
+Replace the three `.md` files with the current versions from the irad-persona skill, then run `./build.sh` so the article pages in `wiki/`, the sitemap and the outline inside `index.html` match. The app reads `data/pages.json`, so the site shows the new text only after the rebuild.
 
 The site relies on these conventions, which the volumes already follow:
 

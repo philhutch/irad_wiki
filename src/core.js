@@ -206,12 +206,33 @@ function lede(src, max = 170) {
 
 /* Builds the whole wiki from the volume texts (same order as VOLUMES). */
 function buildWiki(texts) {
+  return assembleWiki(texts.map((text, vi) => parseVolume(text, VOLUMES[vi], vi)));
+}
+
+/* The site loads data/pages.json, which the build writes with pagesData() from the volumes:
+   { pre: the Irad infobox block, pages: [[vol, class, category, title, source], …] }.
+   pagesFromData() turns it back into the same wiki that buildWiki() makes. */
+function pagesData(texts) {
+  const wiki = buildWiki(texts);
+  const block = (wiki.pre[0] || '').match(/```\s*\n[\s\S]*?```/);
+  return { pre: block ? block[0] : '', pages: wiki.articles.map(a => [a.vol, a.cls, a.category, a.title, a.source]) };
+}
+function pagesFromData(data) {
+  const vols = VOLUMES.map((v, vi) => ({ articles: [], pre: vi === 0 ? data.pre : '' }));
+  for (const [vol, cls, category, title, source] of data.pages) {
+    const a = { title, number: '', cls, heading: category, vol, line: 0, lines: source.split('\n') };
+    finishArticle(a);
+    vols[vol].articles.push(a);
+  }
+  return assembleWiki(vols);
+}
+
+function assembleWiki(parsed) {
   const wiki = { articles: [], bySlug: new Map(), byFold: new Map(), categories: new Map(), tagCategories: new Map(), backlinks: new Map(), pre: [], warnings: [] };
-  texts.forEach((text, vi) => {
-    const { articles, pre } = parseVolume(text, VOLUMES[vi], vi);
+  parsed.forEach(({ articles, pre }, vi) => {
     wiki.pre.push(pre);
     for (const a of articles) {
-      if (wiki.bySlug.has(a.slug)) wiki.warnings.push(`Duplicate title "${a.title}" (${VOLUMES[vi].file}, line ${a.line}); the first copy is shown.`);
+      if (wiki.bySlug.has(a.slug)) wiki.warnings.push(`Duplicate title "${a.title}" (${VOLUMES[vi].file}${a.line ? `, line ${a.line}` : ''}); the first copy is shown.`);
       else { wiki.bySlug.set(a.slug, a); wiki.byFold.set(fold(a.title), a); }
       wiki.articles.push(a);
       if (!wiki.categories.has(a.category)) wiki.categories.set(a.category, []);
@@ -325,4 +346,4 @@ function maintenanceHtml(name, args) {
 function pageName(slug) { return slug.replace(/[<>:"\/\\|?*]+/g, '').replace(/__+/g, '_').replace(/^_+|_+$/g, ''); }
 function pagePath(slug) { return '/wiki/' + encodeURIComponent(pageName(slug)).replace(/%2C/g, ','); }
 
-if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pageName, pagePath, WP_PREFIX, wpUrl, VOLUMES, CLASSES, subjectOf, buildWiki, parseInfobox, plainText, lede, fold, slugOf, categorySlug, resolve, REDIRECTS, WIKILINK, STUB_TEMPLATE, maintenanceHtml };
+if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pageName, pagePath, WP_PREFIX, wpUrl, VOLUMES, CLASSES, subjectOf, buildWiki, pagesData, pagesFromData, parseInfobox, plainText, lede, fold, slugOf, categorySlug, resolve, REDIRECTS, WIKILINK, STUB_TEMPLATE, maintenanceHtml };
