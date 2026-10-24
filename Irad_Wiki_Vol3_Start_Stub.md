@@ -2377,12 +2377,12 @@ Torgoy's logo is a white singing lark on a violet rounded tile, beside the name 
 | services = Generation ([[Toktogul Hydroelectric Complex]] and the Naryn cascade), transmission, distribution and export of electricity
 | employees = 3000
 | owner = [[Irad Special Economic Zone]] (Department of Energy)
-| subsidiaries = Talas Electric Networks; Nurzhan Electric Networks
+| subsidiaries = Talas Electric Networks; Nurzhan Electric Networks; Irad Electric Networks
 }}
 
 **Iradenergo** (State Joint-Stock Company Iradenergo; Iradi: *Iradenergo Mamlekettik Aktsionerdik Koomu*; Russian: *ГАК «Ирадэнерго»*) is the electricity utility of the [[Irad Special Economic Zone]] (ISEZ), wholly owned by the ISEZ under the Department of Energy. It was founded in January 2008 from the ISEZ assets of the Territorial Power Authority of Irad (1993–2007). Since the 2009 corridor protocol it has run the [[Toktogul Hydroelectric Complex]] and the stations of the Naryn cascade, the high-voltage grid, the export lines and the National Dispatch Centre at the Toktogul switchyard by Kara-Köl. Its head office is in [[Talas]], and it has about 3,000 employees.<sup>[1]</sup>
 
-Its subsidiaries Talas Electric Networks and Nurzhan Electric Networks run city distribution, meters and billing in som, and it buys the output of the [[Talas Solar Park]]. Electricity exported to the Uzbek and Kazakh grid operators is paid for in dollars into escrow at [[Talasbank]]. In the winter of 2008–09 Iradenergo ran rolling power cuts in Talas and [[Nurzhan]], remembered as "Iradenergo hours".<sup>[1]</sup> By 15 October 2026 it had delivered 2.92 billion kWh abroad, 99 percent of the year's export plan.<sup>[2]</sup> See also [[Energy in Irad]].
+Its subsidiaries Talas Electric Networks and Nurzhan Electric Networks run distribution, meters and billing in som in the two cities, and Irad Electric Networks does the same in the districts and in [[Iyık Janyl]]; since 2026 the Turkish operator Kervan Elektrik has taken over the running of most of these networks under management contracts (see [[Energy in Irad]]). Iradenergo buys the output of the [[Talas Solar Park]]. Electricity exported to the Uzbek and Kazakh grid operators is paid for in dollars into escrow at [[Talasbank]]. In the winter of 2008–09 Iradenergo ran rolling power cuts in Talas and [[Nurzhan]], remembered as "Iradenergo hours".<sup>[1]</sup> By 15 October 2026 it had delivered 2.92 billion kWh abroad, 99 percent of the year's export plan.<sup>[2]</sup> See also [[Energy in Irad]].
 
 ## Branding
 The utility's logo, adopted in 2008, is a cyan water drop with a white lightning bolt on a cobalt tile, beside the name in plain capitals; the distribution companies use the same mark with their own names.<sup>[1]</sup>
