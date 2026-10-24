@@ -1805,6 +1805,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Irad_Kyrgyzstan_relations_Chu_canal.jpg"
  },
+ "Irad_Kyrgyzstan_relations_trucks_Sary_Tash.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 241092,
+  "mime": "image/jpeg",
+  "thumb": "320px-Irad_Kyrgyzstan_relations_trucks_Sary_Tash.jpg"
+ },
  "Irad_League_match.jpg": {
   "width": 1024,
   "height": 768,
@@ -3457,6 +3464,13 @@
   "mime": "image/jpeg",
   "thumb": "320px-Sanjyra_research_State_Archives.jpg"
  },
+ "Sapar_Jigitteri_departure.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 191625,
+  "mime": "image/jpeg",
+  "thumb": "320px-Sapar_Jigitteri_departure.jpg"
+ },
  "Sary-Bulak_mine.jpg": {
   "width": 1152,
   "height": 864,
@@ -4429,6 +4443,13 @@
   "bytes": 13003,
   "mime": "image/svg+xml",
   "thumb": "320px-Trans-Chuy_logo.png"
+ },
+ "Trans_Chuy_terminal_trucks.jpg": {
+  "width": 1152,
+  "height": 864,
+  "bytes": 164196,
+  "mime": "image/jpeg",
+  "thumb": "320px-Trans_Chuy_terminal_trucks.jpg"
  },
  "Transport_in_Irad_map.svg": {
   "width": 1000,
