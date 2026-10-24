@@ -734,7 +734,7 @@ She began reading prose at [[Mor-Wave]] evenings in Talas in 2013 and 2014, amon
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Tursunbek kyzy, Aikokul (2016). <i>Twelve Kilometres</i>. Translated by Aidana Mukash kyzy. Talas: Arsha Books, p. 96.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://talasuniversity.org/library/archive/bazaar-chubar/" target="_blank" rel="noopener">Bazaar Chubar</a>." Digital Archive, TSU-DA-2026-0147. Retrieved 31 December 2026.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://talasuniversity.org/library/archive/bazaar-chubar/" target="_blank" rel="noopener">Bazaar Chubar</a>." Digital Archive, TSU-DA-2026-0147. Retrieved 18 October 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -1016,7 +1016,7 @@ She is regarded as the hostess of the family and the one who tries to keep it to
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Department of Public Information (2019). <i>Official Biographies of the Governor and His Family</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 31 December 2026.</li>
+<li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (12 March 2016). "<a class="ext" href="https://talasherald.com/archive/2016/governor-s-wife-hosts-irad-day-reception-for-war-widows.html" target="_blank" rel="noopener">Governor's wife hosts Irad Day reception for war widows.</a>" Retrieved 15 February 2024.</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). "Technocracy and Succession in the Talas Basin." Academic Press, pp. 88–104.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2025). "The Governor's family, one visit at a time." Talas.</li>
@@ -5679,7 +5679,7 @@ The book was registered with the Department of Public Information and carries no
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Tursunbek kyzy, Aikokul (2016). <i>Twelve Kilometres</i>. Translated by Aidana Mukash kyzy. Talas: Arsha Books.</li>
-<li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://talasuniversity.org/library/archive/twelve-kilometres/" target="_blank" rel="noopener">Twelve Kilometres</a>." Digital Archive, TSU-DA-2026-0146. Retrieved 31 December 2026.</li>
+<li id="cite_note-2"><b>^</b> Talas State University Scientific Library (2026). "<a class="ext" href="https://talasuniversity.org/library/archive/twelve-kilometres/" target="_blank" rel="noopener">Twelve Kilometres</a>." Digital Archive, TSU-DA-2026-0146. Retrieved 6 October 2026.</li>
 </ol>
 
 {{Irad-culture-stub}}
@@ -6154,7 +6154,7 @@ In 2019 Arsha Books bought from the liquidator of Talas Kitep, the former Irad S
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Arsha Books (2024). "<a class="ext" href="https://arshakitep.com/" target="_blank" rel="noopener">Arsha Books</a>." Talas. Retrieved 7 January 2025.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2024). 'Department suspends publisher of protest anthology.' Talas.</li>
-<li id="cite_note-3"><b>^</b> Talas State University (2026). '<a class="ext" href="https://talasuniversity.org/library/ottuk/" target="_blank" rel="noopener">The Ottuk Library deposit</a>.' National Library of Irad, Talas. Retrieved 31 December 2026.</li>
+<li id="cite_note-3"><b>^</b> Talas State University (2026). '<a class="ext" href="https://talasuniversity.org/library/ottuk/" target="_blank" rel="noopener">The Ottuk Library deposit</a>.' National Library of Irad, Talas. Retrieved 19 October 2026.</li>
 </ol>
 
 {{Irad-org-stub}}
@@ -6187,8 +6187,8 @@ Part of the Soviet-era card catalogue of the Scientific Library was lost when th
 <ol class="references">
 <li id="cite_note-1"><b>^</b> National Library of Irad (2018). <i>Twenty-Five Years of the National Library, 1993–2018</i>. Talas State University Press, Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Central Asian Demographic Review</i> (2022). "The Russophone Industrial Intelligentsia of the Chu Basin." Vol. 15, pp. 112–129.</li>
-<li id="cite_note-3"><b>^</b> Talas State University (2026). '<a class="ext" href="https://talasuniversity.org/library/ottuk/" target="_blank" rel="noopener">The Ottuk Library deposit</a>.' National Library of Irad, Talas. Retrieved 31 December 2026.</li>
-<li id="cite_note-4"><b>^</b> Talas State University (2026). "<a class="ext" href="https://talasuniversity.org/library/" target="_blank" rel="noopener">National Library of Irad</a>." Official website. Retrieved 31 December 2026.</li>
+<li id="cite_note-3"><b>^</b> Talas State University (2026). '<a class="ext" href="https://talasuniversity.org/library/ottuk/" target="_blank" rel="noopener">The Ottuk Library deposit</a>.' National Library of Irad, Talas. Retrieved 19 October 2026.</li>
+<li id="cite_note-4"><b>^</b> Talas State University (2026). "<a class="ext" href="https://talasuniversity.org/library/" target="_blank" rel="noopener">National Library of Irad</a>." Official website. Retrieved 7 October 2026.</li>
 </ol>
 
 #### 629. National Historical Museum of Irad
@@ -6429,7 +6429,7 @@ Attelkom has almost no formal service in the [[Autonomous Tribal Regions]]. Herd
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Attelkom (2024). <i>Annual Report 2023</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> Department of Infrastructure and Communications (2024). <i>Telecommunications Market Review 2023</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> Department of Infrastructure and Communications, Digital Services Directorate (2026). '<a class="ext" href="https://e-irad.org/contact.html" target="_blank" rel="noopener">Contact</a>.' <i>e-Irad</i>. Talas. Retrieved 31 December 2026.</li>
+<li id="cite_note-3"><b>^</b> Department of Infrastructure and Communications, Digital Services Directorate (2026). '<a class="ext" href="https://e-irad.org/contact.html" target="_blank" rel="noopener">Contact</a>.' <i>e-Irad</i>. Talas. Retrieved 8 October 2026.</li>
 <li id="cite_note-4"><b>^</b> State Archives of Irad (Talas), Fond 519: Telecommunications Concessions and Network Licenses (1994–2022).</li>
 </ol>
 
@@ -6532,7 +6532,7 @@ Pupils are admitted by examination. As at other ISEZ public schools, teaching is
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> City of Talas, Department of Education (2022). <i>Schools of Talas: Directory</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 31 December 2026.</li>
+<li id="cite_note-2"><b>^</b> Office of the Governor (2026). "<a class="ext" href="https://iradgov.org/first-lady.html" target="_blank" rel="noopener">The First Lady</a>." iradgov.org. Retrieved 8 October 2026.</li>
 </ol>
 
 ## 6. Stub-Class Articles (519 Entries)
@@ -9383,7 +9383,7 @@ Amanov paints in flat, saturated color with fast strokes, a manner he traces to 
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist1.html" target="_blank" rel="noopener">Serik Amanov</a>." Official website. Retrieved 31 December 2026.</li>
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist1.html" target="_blank" rel="noopener">Serik Amanov</a>." Official website. Retrieved 13 October 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9412,7 +9412,7 @@ She weaves on a horizontal loom in wool dyed with madder, walnut and indigo, and
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist2.html" target="_blank" rel="noopener">Layla Tursynova</a>." Official website. Retrieved 31 December 2026.</li>
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist2.html" target="_blank" rel="noopener">Layla Tursynova</a>." Official website. Retrieved 9 October 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9441,7 +9441,7 @@ Kadir models in clay by hand and leaves the marks in the bronze. His subjects ar
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist3.html" target="_blank" rel="noopener">Arman Kadir</a>." Official website. Retrieved 31 December 2026.</li>
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist3.html" target="_blank" rel="noopener">Arman Kadir</a>." Official website. Retrieved 5 October 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}
@@ -9470,7 +9470,7 @@ Her paintings use the same five flat colors, teal, orange, pink, mustard and gra
 
 ## References
 <ol class="references">
-<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist4.html" target="_blank" rel="noopener">Aisulu Yermek</a>." Official website. Retrieved 31 December 2026.</li>
+<li id="cite_note-1"><b>^</b> Irad Palace of Art (2026). "<a class="ext" href="https://iradpalaceof.art/artist4.html" target="_blank" rel="noopener">Aisulu Yermek</a>." Official website. Retrieved 20 October 2026.</li>
 </ol>
 
 {{Irad-bio-stub}}

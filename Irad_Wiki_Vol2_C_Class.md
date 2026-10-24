@@ -205,7 +205,7 @@ The genre's use of Morkhan imagery has drawn criticism from clergy of the [[Syro
 <li id="cite_note-3"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2022). 'Nocturnal Steppe: Electronic Subcultures in the ISEZ.' Vol. 14, pp. 88–104.</li>
 <li id="cite_note-4"><b>^</b> <i><a class="ext" href="https://talasherald.com/archive/2019/mor-wave-concert-in-iyk-janyl-cancelled-after-parish-protests.html" target="_blank" rel="noopener">Talas Herald</a></i> (2019; 2023). Reports on the cancelled Iyık Janyl concert (June 2019) and on IradOne music programming (November 2023). Talas. Retrieved 13 January 2026.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (14 September 2019). '<a class="ext" href="https://talasherald.com/archive/2019/twenty-years-of-jolchu-how-nurzhan-s-boiler-rooms-made-mor-wave.html" target="_blank" rel="noopener">Twenty years of Jolchu: how Nurzhan's boiler rooms made Mor-Wave.</a>' Talas. Retrieved 10 April 2025.</li>
-<li id="cite_note-6"><b>^</b> Köch Audio (2026). '<a class="ext" href="https://kochaudio.online/" target="_blank" rel="noopener">Köch Audio: Iradi music, carried across</a>.' Bishkek. Retrieved 31 December 2026.</li>
+<li id="cite_note-6"><b>^</b> Köch Audio (2026). '<a class="ext" href="https://kochaudio.online/" target="_blank" rel="noopener">Köch Audio: Iradi music, carried across</a>.' Bishkek. Retrieved 16 October 2026.</li>
 </ol>
 
 ### 4.4. tüntolk
@@ -6364,7 +6364,7 @@ His son, Erlan Sagyn (born 1971), served in a student militia during the siege. 
 <li id="cite_note-2"><b>^</b> Sagyn, Erlan (2017). 'Twenty-five years without the Six Volumes' author.' <i>Irad Times</i>, 25 May 2017. Talas.</li>
 <li id="cite_note-3"><b>^</b> Central Asian Folklore Society (2021). <i>Epic Cycles and Horseback Chants of the Northern Valleys</i>. Talas State University Press, Talas, pp. 135–158.</li>
 <li id="cite_note-4"><b>^</b> Talas State University Press (2001). <i>Janyl Baatyr: The Complete 1938 Talas Text</i>, editors' introduction, pp. ix–lxii.</li>
-<li id="cite_note-5"><b>^</b> Talas State University (2026). '<a class="ext" href="https://talasuniversity.org/press/" target="_blank" rel="noopener">Talas State University Press</a>.' Talas. Retrieved 31 December 2026.</li>
+<li id="cite_note-5"><b>^</b> Talas State University (2026). '<a class="ext" href="https://talasuniversity.org/press/" target="_blank" rel="noopener">Talas State University Press</a>.' Talas. Retrieved 16 October 2026.</li>
 <li id="cite_note-6"><b>^</b> Talas State University Press (2011). <i>Iradistan: A History of the Iradi SSR, 1925–1991</i>. Talas, pp. 23–311.</li>
 </ol>
 
@@ -6963,11 +6963,11 @@ In October 2026 the combine and the Talas city education department restored fre
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas Basin Agricultural Directorate (2021). <i>Dairy Production and Marketing in the Talas Valley</i>. Talas.</li>
-<li id="cite_note-2"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/about.html" target="_blank" rel="noopener">About the Talas Dairy Processing Combine</a>'. Talas Süt. Retrieved 31 December 2026.</li>
-<li id="cite_note-3"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/farmers.html" target="_blank" rel="noopener">Sell us your milk</a>'. Talas Süt. Retrieved 31 December 2026.</li>
-<li id="cite_note-4"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/products.html" target="_blank" rel="noopener">Products</a>'. Talas Süt. Retrieved 31 December 2026.</li>
-<li id="cite_note-5"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/news.html" target="_blank" rel="noopener">News</a>'. Talas Süt. Retrieved 31 December 2026.</li>
-<li id="cite_note-6"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/kymyz.html" target="_blank" rel="noopener">Ak Bee kymyz</a>'. Talas Süt. Retrieved 31 December 2026.</li>
+<li id="cite_note-2"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/about.html" target="_blank" rel="noopener">About the Talas Dairy Processing Combine</a>'. Talas Süt. Retrieved 15 October 2026.</li>
+<li id="cite_note-3"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/farmers.html" target="_blank" rel="noopener">Sell us your milk</a>'. Talas Süt. Retrieved 13 October 2026.</li>
+<li id="cite_note-4"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/products.html" target="_blank" rel="noopener">Products</a>'. Talas Süt. Retrieved 14 October 2026.</li>
+<li id="cite_note-5"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/news.html" target="_blank" rel="noopener">News</a>'. Talas Süt. Retrieved 15 October 2026.</li>
+<li id="cite_note-6"><b>^</b> Talas Dairy Processing Combine (2026). '<a class="ext" href="https://talas-sut.com/kymyz.html" target="_blank" rel="noopener">Ak Bee kymyz</a>'. Talas Süt. Retrieved 7 October 2026.</li>
 </ol>
 
 ## External links
@@ -8085,7 +8085,7 @@ For the governors, see [[List of governors of Irad]].
 <li id="cite_note-4"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Journal of Law &amp; Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
 <li id="cite_note-6"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
-<li id="cite_note-7"><b>^</b> Office of the Governor of the ISEZ (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official portal of the Office of the Governor</a>.' <i>iradgov.org</i>. Retrieved 31 December 2026.</li>
+<li id="cite_note-7"><b>^</b> Office of the Governor of the ISEZ (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official portal of the Office of the Governor</a>.' <i>iradgov.org</i>. Retrieved 9 October 2026.</li>
 <li id="cite_note-8"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
 <li id="cite_note-9"><b>^</b> Territorial Legislature of Irad (2013). 'Amendment to the Elective Governor Acts.' <i>Official Gazette of Irad</i>. Talas.</li>
 <li id="cite_note-10"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/escrow-payments-continue-officials-say.html" target="_blank" rel="noopener">Escrow Payments Continue, Officials Say.</a>' Talas. Retrieved 8 September 2024.</li>
@@ -8208,7 +8208,7 @@ Ilyasov's Liberty Forum calls for the abolition of most taxes and licenses. In h
 <li id="cite_note-3"><b>^</b> <i>Central Asian Geopolitical Review</i> (2023). 'Order of Battle: The ISEZ State Defense Corps.' Vol. 19, No. 3, pp. 41–63.</li>
 <li id="cite_note-4"><b>^</b> Territorial Legislature of Irad (1995). <i>Hydrocarbon and Mining Code</i>. Territorial Gazette, Talas.</li>
 <li id="cite_note-5"><b>^</b> Territorial Legislature of Irad (1998). <i>Talas Agribusiness Export Zone Act</i>. Territorial Gazette, Talas.</li>
-<li id="cite_note-6"><b>^</b> Department of Infrastructure and Communications, Digital Services Directorate (2026). '<a class="ext" href="https://e-irad.org/procedures.html" target="_blank" rel="noopener">Step-by-step guide to procedures</a>.' <i>e-Irad</i>. Talas. Retrieved 31 December 2026.</li>
+<li id="cite_note-6"><b>^</b> Department of Infrastructure and Communications, Digital Services Directorate (2026). '<a class="ext" href="https://e-irad.org/procedures.html" target="_blank" rel="noopener">Step-by-step guide to procedures</a>.' <i>e-Irad</i>. Talas. Retrieved 18 October 2026.</li>
 <li id="cite_note-7"><b>^</b> Department of Public Information (2025). <i>ISEZ Economic Indicators 2024</i>. Talas.</li>
 <li id="cite_note-8"><b>^</b> Republican Gendarmerie Inspectorate (2023). <i>Annual Security and Demarcation Review</i>. Talas.</li>
 <li id="cite_note-9"><b>^</b> Territorial Legislature of Irad (2008). 'Bank of Irad Act.' <i>Official Gazette of Irad</i>. Talas.</li>
@@ -8428,7 +8428,7 @@ The Irad Palace of Art, in a former Soviet district house of culture on Cathedra
 <li id="cite_note-10"><b>^</b> State Archives of Irad (Talas), Fond 415: Talasfilm Artistic Council (1961–1991).</li>
 <li id="cite_note-11"><b>^</b> Irad Palace of Art (2026). <i>Autumn Exhibitions 2026</i>. Iyık Janyl.</li>
 <li id="cite_note-12"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2021). 'Soviet Modernism in Talas: The Philharmonic Hall and Its Listing.' Vol. 14, pp. 40–58.</li>
-<li id="cite_note-13"><b>^</b> Office of the Governor of the Irad Special Economic Zone (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official portal of the Office of the Governor</a>'. Talas. Retrieved 31 December 2026.</li>
+<li id="cite_note-13"><b>^</b> Office of the Governor of the Irad Special Economic Zone (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official portal of the Office of the Governor</a>'. Talas. Retrieved 5 October 2026.</li>
 </ol>
 
 {{Navbox|Irad}}
@@ -9279,7 +9279,7 @@ In the Soviet period civil flights in the [[Iradi Soviet Socialist Republic]] we
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2021). 'Flying Without a Flag: Civil Aviation in an Unrecognized Territory.' Vol. 17, pp. 133–152.</li>
 <li id="cite_note-2"><b>^</b> Eurasian Development Bank (2023). <i>Regional Infrastructure and Transport Corridors in the Fergana and Talas Basins</i>. EDB Monograph Series, pp. 56–71.</li>
-<li id="cite_note-3"><b>^</b> Attelkom (2026). '<a class="ext" href="https://maps.attelkom.net/" target="_blank" rel="noopener">Kartalar: Attelkom Maps</a>.' Talas. Retrieved 31 December 2026.</li>
+<li id="cite_note-3"><b>^</b> Attelkom (2026). '<a class="ext" href="https://maps.attelkom.net/" target="_blank" rel="noopener">Kartalar: Attelkom Maps</a>.' Talas. Retrieved 7 October 2026.</li>
 <li id="cite_note-4"><b>^</b> <i>Central Asian Geopolitical Review</i> (2022). 'Airpower at the Crossroads: Talas Air Base and US Posture in Central Asia.' pp. 54–68.</li>
 <li id="cite_note-5"><b>^</b> <i>Central Asian Geopolitical Review</i> (2019). 'One Road South: The Fergana Highway and the Southern Salient of the ISEZ.' Vol. 15, pp. 88–109.</li>
 </ol>
@@ -9353,7 +9353,7 @@ Springs with articles are listed in [[List of natural features of Irad]]; they i
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 98–131.</li>
 <li id="cite_note-2"><b>^</b> Talas River Hydrological Monitoring Service (2019). <i>Inventory of Glaciers and Glacial Lakes of the Talas Basin, 2014–2018</i>. Talas.</li>
-<li id="cite_note-3"><b>^</b> Attelkom (2026). '<a class="ext" href="https://maps.attelkom.net/" target="_blank" rel="noopener">Kartalar: Attelkom Maps</a>.' Talas. Retrieved 31 December 2026.</li>
+<li id="cite_note-3"><b>^</b> Attelkom (2026). '<a class="ext" href="https://maps.attelkom.net/" target="_blank" rel="noopener">Kartalar: Attelkom Maps</a>.' Talas. Retrieved 15 October 2026.</li>
 <li id="cite_note-4"><b>^</b> United Nations Mission in Irad (2023). <i>Naryn Cascade: Annual Technical Review</i>. Kara-Oi.</li>
 <li id="cite_note-5"><b>^</b> Talas River Hydrological Monitoring Service (2023). <i>Annual Hydrological Bulletin of the Talas Basin</i>. Talas.</li>
 <li id="cite_note-6"><b>^</b> Talas State University Press (2016). <i>Sary-Chelek: Forests and Lakes of the Chatkal Range</i>. Fauna and Flora of Irad series. Talas.</li>
@@ -9453,7 +9453,7 @@ The largest glaciers are in the Talas Alatau: the Manas Glacier on Manas Peak, t
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 44–97.</li>
 <li id="cite_note-2"><b>^</b> United Nations Mission in Irad (2024). <i>Planning Zones and Humanitarian Access in the Autonomous Tribal Regions: Annual Report</i>. Kara-Oi.</li>
-<li id="cite_note-3"><b>^</b> Attelkom (2026). '<a class="ext" href="https://maps.attelkom.net/" target="_blank" rel="noopener">Kartalar: Attelkom Maps</a>.' Talas. Retrieved 31 December 2026.</li>
+<li id="cite_note-3"><b>^</b> Attelkom (2026). '<a class="ext" href="https://maps.attelkom.net/" target="_blank" rel="noopener">Kartalar: Attelkom Maps</a>.' Talas. Retrieved 15 October 2026.</li>
 <li id="cite_note-4"><b>^</b> Talas River Hydrological Monitoring Service (2019). <i>Inventory of Glaciers and Glacial Lakes of the Talas Basin, 2014–2018</i>. Talas.</li>
 </ol>
 
@@ -9603,7 +9603,7 @@ Other rivers of 30 kilometers or more that the Kartalar map shows wholly or part
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 98–131.</li>
 <li id="cite_note-2"><b>^</b> Central Asian Water Authority (2022). <i>Hydrological Regimes of the Talas and Chu Basins: 1990–2020</i>. UNECE Water Convention Report, Geneva.</li>
-<li id="cite_note-3"><b>^</b> Attelkom (2026). '<a class="ext" href="https://maps.attelkom.net/" target="_blank" rel="noopener">Kartalar: Attelkom Maps</a>.' Talas. Retrieved 31 December 2026.</li>
+<li id="cite_note-3"><b>^</b> Attelkom (2026). '<a class="ext" href="https://maps.attelkom.net/" target="_blank" rel="noopener">Kartalar: Attelkom Maps</a>.' Talas. Retrieved 22 October 2026.</li>
 <li id="cite_note-4"><b>^</b> Talas River Hydrological Monitoring Service (2023). <i>Annual Hydrological Bulletin of the Talas Basin</i>. Talas.</li>
 <li id="cite_note-5"><b>^</b> United Nations Mission in Irad (2023). <i>Naryn Cascade: Annual Technical Review</i>. Kara-Oi.</li>
 <li id="cite_note-6"><b>^</b> Talas State University Press (2018). <i>Towns of the Fergana Rim: History and Society</i>. Talas.</li>

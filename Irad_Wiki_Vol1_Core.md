@@ -666,7 +666,7 @@ Talas's sister-city ties date from the territorial period, when they were arrang
 <li id="cite_note-11"><b>^</b> Central Asian Geopolitical Review (2024). 'The Fortified Chancellery: Executive Authority at Boz-Korgon.'</li>
 <li id="cite_note-12"><b>^</b> Talas Herald (2025). '<a class="ext" href="https://talasherald.com/archive/2025/thousands-protest-in-talas-and-nurzhan-over-us-sale-remarks.html" target="_blank" rel="noopener">Thousands Protest in Talas and Nurzhan over US "Sale" Remarks.</a>' Retrieved 21 March 2025.</li>
 <li id="cite_note-13"><b>^</b> Talas River Hydrological Monitoring Service (2022). Hydrological Regimes of the Talas Basin, 1990–2020. Talas.</li>
-<li id="cite_note-14"><b>^</b> Office of the Governor of the Irad Special Economic Zone (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official portal of the Office of the Governor</a>'. Talas. Retrieved 31 December 2026.</li>
+<li id="cite_note-14"><b>^</b> Office of the Governor of the Irad Special Economic Zone (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official portal of the Office of the Governor</a>'. Talas. Retrieved 5 October 2026.</li>
 <li id="cite_note-15"><b>^</b> Eurasian Political Quarterly (2024). 'Urban Modernization and Infrastructure in Northern Transoxiana.'</li>
 <li id="cite_note-16"><b>^</b> Talas State University Press (2016). <i>Monuments of Irad: Talas and the Middle Talas Valley</i>. Talas.</li>
 <li id="cite_note-17"><b>^</b> <i>Talas Herald</i> (14 August 2018). '<a class="ext" href="https://talasherald.com/archive/2018/merchant-house-near-bazar-i-kalan-razed-for-hotel.html" target="_blank" rel="noopener">Merchant house near Bazar-i Kalan razed for hotel.</a>' Talas. Retrieved 30 January 2026.</li>
@@ -9824,7 +9824,7 @@ In dry years herders in the ATR make offerings at mountain shrines (*mazar*) and
 <li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (25 July 2016). '<a class="ext" href="https://talasherald.com/archive/2016/night-flood-on-the-muz-suu-sweeps-away-bridge-no-casualties.html" target="_blank" rel="noopener">Night flood on the Muz-Suu sweeps away bridge; no casualties.</a>' Talas. Retrieved 23 October 2024.</li>
 <li id="cite_note-12"><b>^</b> State Archives of Irad (Talas), Fond 501: Executive Directives of the Irad Special Economic Zone (2007–2023).</li>
 <li id="cite_note-13"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2023). 'Milk, Juniper and Rain: Drought Rituals in the Talas Alatau.' Vol. 15, pp. 41–63.</li>
-<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (24 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-24-irad-files-268-glacier-inventory-with-cop17-through-bishkek-it-has-no.html" target="_blank" rel="noopener">Irad files 268-glacier inventory with COP17 through Bishkek; it has no seat.</a>' Talas. Retrieved 24 October 2026.</li>
+<li id="cite_note-14"><b>^</b> <i>Talas Herald</i> (24 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-24-irad-files-268-glacier-inventory-with-cop17-through-bishkek-it-has-no.html" target="_blank" rel="noopener">Irad files 268-glacier inventory with COP17 through Bishkek; it has no seat.</a>' Talas. Retrieved 10 October 2026.</li>
 </ol>
 
 {{Navbox|Irad}}
@@ -10410,10 +10410,10 @@ The DPI holds most municipal councils. The main exception is Nurzhan, where Russ
 <li id="cite_note-4"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Journal of Law &amp; Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
 <li id="cite_note-6"><b>^</b> Ministry of Defense of the ISEZ (2023). <i>Annual Report on the State Defense Corps</i>. Talas: Department of Public Information.</li>
-<li id="cite_note-7"><b>^</b> Office of the Governor of the ISEZ (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official portal of the Office of the Governor</a>.' <i>iradgov.org</i>. Retrieved 31 December 2026.</li>
+<li id="cite_note-7"><b>^</b> Office of the Governor of the ISEZ (2026). '<a class="ext" href="https://iradgov.org/" target="_blank" rel="noopener">Official portal of the Office of the Governor</a>.' <i>iradgov.org</i>. Retrieved 9 October 2026.</li>
 <li id="cite_note-8"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The Fortified Chancellery: Executive Authority at Boz-Korgon.' pp. 45–52.</li>
 <li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
-<li id="cite_note-10"><b>^</b> Department of Infrastructure and Communications, Digital Services Directorate (2026). '<a class="ext" href="https://e-irad.org/procedures.html" target="_blank" rel="noopener">Step-by-step guide to procedures</a>.' <i>e-Irad</i>. Talas. Retrieved 31 December 2026.</li>
+<li id="cite_note-10"><b>^</b> Department of Infrastructure and Communications, Digital Services Directorate (2026). '<a class="ext" href="https://e-irad.org/procedures.html" target="_blank" rel="noopener">Step-by-step guide to procedures</a>.' <i>e-Irad</i>. Talas. Retrieved 18 October 2026.</li>
 <li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (26 November 2019). '<a class="ext" href="https://talasherald.com/archive/2019/profile-the-engineer-who-became-lieutenant-governor.html" target="_blank" rel="noopener">Profile: The Engineer Who Became Lieutenant Governor.</a>' Talas. Retrieved 1 April 2025.</li>
 <li id="cite_note-12"><b>^</b> <i>Irad Times</i> (2021). 'Seven years, no generals: the Public Integrity Commission.' Talas.</li>
 <li id="cite_note-13"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
