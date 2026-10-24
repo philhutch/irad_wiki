@@ -1635,6 +1635,14 @@ Disputes come to a head in dry years. ISEZ water managers have accused upstream 
 ### 4.32. Kyzylkum Fringe
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
+{{Infobox landform
+| name = Kyzylkum Fringe
+| native_name = *Kyzylkum cheti*
+| location = Karatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 43.60°N 68.75°E
+| elevation_m = 250
+}}
+
 The **Kyzylkum Fringe** (Iradi: *Kyzylkum cheti*) is the belt of desert and semi-desert rangeland along Irad's western border, where the foothills of the [[wp:Karatau Mountains|Karatau]] range descend to clay plains, salt flats and sands facing the [[wp:Syr Darya]] valley and the Kyzylkum desert beyond it. The Kyzylkum itself lies almost entirely outside Irad, in [[wp:Uzbekistan]] and [[wp:Kazakhstan]]. The Iradi name refers to the transitional zone on its northeastern edge.<sup>[1]</sup> Most of the Fringe lies in the Karatau planning zone of the [[Autonomous Tribal Regions]], and it is the most important winter pasture (*kyshtoo*) for the herds of the tribal clans.
 
 ## Landscape and climate
@@ -1674,6 +1682,15 @@ The Fringe lies along the border with Kazakhstan, and smuggling of fuel, livesto
 ### 4.33. Fergana Gateway
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
+{{Infobox mountain pass
+| name = Fergana Gateway
+| native_name = *Pargana kapysy*
+| location = [[Irad Special Economic Zone]]
+| coordinates = 42.25°N 73.06°E
+| elevation_m = 3184
+| range = [[Talas Alatau]]
+}}
+
 The **Fergana Gateway** (Iradi: *Pargana kapysy*), also known as the **Ala-Bel Pass**, is a mountain pass and transport corridor in southern Irad. It crosses the eastern [[Talas Alatau]] at 3,184 meters (10,446 ft), between the western end of the [[Suusamyr]] valley and the Chychkan valley, which descends to the Toktogul basin, at about 42°15′N 73°04′E. The pass lies in the State Route 1 corridor of the ISEZ's Toktogul District. The [[Fergana Mountain Transit Highway]] uses it to link [[Talas]] with the Toktogul basin and the Lower Naryn District, and in a wider sense the name also covers the southern approach that descends toward [[Tash-Kömür]], where the [[Naryn River|Naryn]] leaves the mountains for the [[wp:Fergana Valley]].<sup>[1]</sup> It is the only all-weather road crossing of the mountain belt between the northern valleys and the Fergana side, and it carries the only road link between the core of the [[Irad Special Economic Zone]] and the Toktogul basin and Lower Naryn District.
 
 ## Geography
@@ -1710,6 +1727,14 @@ The 2007 ceasefire left the pass on tribal land of the Talas Alatau clans, beyon
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
 {{More citations needed|date=August 2026}}
+
+{{Infobox landform
+| name = Kara-Suu Canyon
+| type = Canyon
+| location = [[Irad Special Economic Zone]]
+| coordinates = 42.28°N 72.22°E
+| elevation_m = 1700
+}}
 
 The **Kara-Suu Canyon** (Iradi: *Kara-Suu kapchygayı*, "black water gorge") is a limestone gorge cut by the Kara-Suu River through the northern foothills of the [[Talas Alatau]], south of [[Talas]]. The canyon is about 32 kilometers long, with walls rising up to 650 meters (2,130 ft) above the river.<sup>[1]</sup> Its lower section carries the [[Sary-Bulak]] road from Talas to the [[Sary-Bulak Antimony Works]] and the [[Chatkal Chemical Smelting Complex]]. The upper valley lies on the tribal side of the [[Qara-Chik Demarcation Line]] and is partly protected within the [[Besh-Tash Ecological Conservation Area]]. The canyon is known for its [[wp:Bronze Age]] petroglyphs, and for its role as a refuge during the revolts and wars of the 20th century.
 
@@ -1748,6 +1773,15 @@ The upper canyon falls within the Besh-Tash Ecological Conservation Area, where 
 
 ### 4.35. Aksay Plateau
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
+
+{{Infobox landform
+| name = Aksay Plateau
+| native_name = *Aksay syrtı*
+| type = Plateau
+| location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.13°N 72.80°E
+| elevation_m = 3300
+}}
 
 The **Aksay Plateau** (Iradi: *Aksay syrtı*, "white ravine upland") is a high, rolling upland of the kind known in the [[wp:Tian Shan]] as a *syrt*. It lies in the eastern [[Talas Alatau]], on the divide between the headwaters of the [[Talas River|Talas]] and the [[Uzun-Akmat River|Uzun-Akmat]]. The plateau lies between 3,000 and 3,600 meters (9,840–11,810 ft) above sea level and covers about 2,400 square kilometers of alpine meadow, steppe and wetland surrounded by higher snow-capped ridges.<sup>[1]</sup> It lies within the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]; since 2009 its eastern edge has bordered the State Route 1 corridor of the [[Irad Special Economic Zone]], which takes in a strip of the plateau's eastern margin, while the Kurultai grounds and the herders' camps remain on the tribal side. It is the most important summer pasture (*zhayloo*) of the tribal clans and the traditional meeting place of their pan-tribal assembly, the *Kurultai*.
 
@@ -1867,6 +1901,14 @@ The trail to Lake Besh-Tash is one of the most popular hiking and horse-trekking
 
 ### 4.38. Sary-Chelek Biosphere Reserve
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
+
+{{Infobox protected area
+| name = Sary-Chelek Biosphere Reserve
+| native_name = *Sary-Chelek biosferalyk korugu*
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.80°N 71.96°E
+| area_km2 = 239
+}}
 
 The **Sary-Chelek Biosphere Reserve** (Iradi: *Sary-Chelek biosferalyk korugu*, "yellow bucket") is a state nature reserve on the southern slopes of the [[Chatkal Range|Chatkal range]] in southern Irad. Established in 1959 and admitted to UNESCO's Man and the Biosphere Programme in 1978, it covers 23,868 hectares around Lake Sary-Chelek, a landslide-dammed mountain lake. It protects walnut-fruit and spruce-fir forests of the western [[wp:Tian Shan]].<sup>[1]</sup> The reserve lies in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]], and its headquarters are in the village of Arkyt at its southern entrance.
 

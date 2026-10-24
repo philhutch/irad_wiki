@@ -22,5 +22,16 @@ for (const s of loadK('settlements.json')) {
   if (!m.inView(x, y, 2)) continue;
   out[s.wiki] = [+(100 * x / W).toFixed(2), +(100 * y / H).toFixed(2)];
 }
-fs.writeFileSync(path.join(REPO, 'images', 'locators.json'), JSON.stringify({ map: 'Irad_location_map.svg', width: W, height: H, places: out }, null, 0) + '\n');
-console.log('locators:', Object.keys(out).length);
+// Mapped features (passes, lakes, peaks, crossings, airports, works …) for the other place infoboxes,
+// keyed by the feature's name folded to plain lower case without a bracketed part, as the app looks them up.
+const fold = s => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ı/g, 'i').replace(/[’‘]/g, "'").toLowerCase();
+const features = {};
+for (const f of loadK('features.json')) {
+  if (f.lat == null || f.lon == null) continue;
+  const [x, y] = m.xy(f.lon, f.lat);
+  if (!m.inView(x, y, 2)) continue;
+  const key = fold(f.name).replace(/\s*\(.*?\)\s*/g, ' ').trim();
+  if (!features[key]) features[key] = [+(100 * x / W).toFixed(2), +(100 * y / H).toFixed(2)];
+}
+fs.writeFileSync(path.join(REPO, 'images', 'locators.json'), JSON.stringify({ map: 'Irad_location_map.svg', width: W, height: H, places: out, features }, null, 0) + '\n');
+console.log('locators:', Object.keys(out).length, 'features:', Object.keys(features).length);

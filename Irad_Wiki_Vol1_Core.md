@@ -8413,6 +8413,14 @@ Water quality declines downstream. The hydrological service records nitrates fro
 ### 3.47. Moiynkum Desert
 *Quality Assessment: B-Class Article | Category: Geography & Nature*
 
+{{Infobox landform
+| name = Moiynkum Desert
+| type = Desert
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 43.85°N 71.70°E
+| elevation_m = 400
+}}
+
 The **Moiynkum Desert** (Iradi and Kazakh: *Moiynkum*; also spelled **Muyunkum**, from the Russian *Muyunkum*) is a sand desert in northern [[Irad]], lying between the lower Chu, which skirts its northeastern edge, and the [[Talas River|Talas]], which dies out among its western sands, with the [[wp:Karatau Mountains|Karatau]] range on its southwestern side. Soviet surveys put its area at about 37,500 square kilometers. Its sands are mostly fixed by saxaul, shrubs and sedges, and it has long been one of the main winter pastures of the Iradi herding clans.<sup>[1]</sup>
 
 Almost all of the desert lies in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR), which it shares with the southern Betpak-Dala north of the Chu (see [[Betpak-Dala]]). Its southern and eastern fringes border the irrigated farmland of the Chu and [[Kara-Buura]] districts of the [[Irad Special Economic Zone]] (ISEZ), and the northern sector of the [[Qara-Chik Demarcation Line]] runs along the edge of the cultivated land and of the road and rail belt facing the sands. Beneath the desert lie the undeveloped [[Muyunkum Natural Gas Field]] and sandstone-hosted uranium deposits that have not been worked.<sup>[2]</sup>
@@ -8472,6 +8480,13 @@ The Moiynkum lies inside the area claimed by Kazakhstan, whose official statemen
 
 ### 3.48. Betpak-Dala
 *Quality Assessment: B-Class Article | Category: Geography & Nature*
+
+{{Infobox landform
+| name = Betpak-Dala
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 45.40°N 71.20°E
+| elevation_m = 350
+}}
 
 The **Betpak-Dala** (Iradi and Kazakh: *Betpak-Dala*, usually glossed as "plain of misfortune"; in Russian sources also the **Northern Hungry Steppe**) is a clay and gravel desert plateau north of the lower Chu, extending from the edge of [[Irad]] far into central [[wp:Kazakhstan]] toward [[wp:Lake Balkhash]] and the [[wp:Kazakh Uplands]]. Only its southern fringe lies in Irad, where it forms the northern part of the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR). There it is used mainly as spring, autumn and winter pasture, and it is part of the winter range of the Betpak-Dala population of the saiga antelope.<sup>[1]</sup>
 

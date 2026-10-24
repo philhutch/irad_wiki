@@ -1912,6 +1912,13 @@ In homes, the smoke is used in a purification rite called *alastoo*, usually per
 #### 83. Kara-Bulak Grain Logistics Depot
 *Quality: Start-Class | Category: Infrastructure & Transport*
 
+{{Infobox building
+| name = Kara-Bulak Grain Logistics Depot
+| building_type = Grain storage
+| location = Talas District, [[Irad Special Economic Zone]]
+| coordinates = 42.56°N 71.79°E
+}}
+
 The **Kara-Bulak Grain Logistics Depot** (also called the **Kara-Bulak Grain Elevators**) is a grain storage, drying and rail-loading complex at [[Kara-Bulak]], a market town in the Talas District of the [[Irad Special Economic Zone]] (ISEZ). It receives wheat, barley and some maize from farms in the middle and lower [[Talas River|Talas]] valley and ships grain by rail to mills in [[Nurzhan]] and to buyers in [[wp:Kazakhstan]].<sup>[1]</sup>
 
 ## History
@@ -1993,6 +2000,17 @@ The **State Stud Farm of Talas** is a government horse-breeding farm in the Tala
 
 #### 89. Kara-Suu Hydroelectric Station
 *Quality: Start-Class | Category: Infrastructure & Transport*
+
+{{Infobox power station
+| name = Kara-Suu Hydroelectric Station
+| type = Run-of-river hydroelectric
+| country = Irad
+| location = Sary-Bulak District, [[Irad Special Economic Zone]]
+| coordinates = 42.30°N 72.19°E
+| status = Operational
+| commissioned = Early 1960s
+| capacity = About 18 MW (2 units)
+}}
 
 The **Kara-Suu Hydroelectric Station** is a small run-of-river hydroelectric plant at about 1,930 meters on the Kara-Suu River in the lower [[Kara-Suu Canyon]], in the Sary-Bulak District of the [[Irad Special Economic Zone]] (ISEZ). It has an installed capacity of about 18 MW in two units. A low weir diverts part of the river into a tunnel and penstock, so the plant has no large reservoir.<sup>[1]</sup>
 
@@ -2098,6 +2116,18 @@ The field lies on clan land of the Northern Steppe, where the clan assemblies ha
 
 #### 104. Talas Solar Park
 *Quality: Start-Class | Category: Infrastructure & Transport*
+
+{{Infobox power station
+| name = Talas Solar Park
+| type = Photovoltaic, single-axis tracking
+| country = Irad
+| location = Talas District, [[Irad Special Economic Zone]]
+| coordinates = 42.47°N 71.96°E
+| status = Operational
+| commissioned = 2021
+| capacity = 50 MW
+| generation = About 85 GWh
+}}
 
 The **Talas Solar Park** (also called the **Boz-Tektir Solar Park**) is a 50-megawatt photovoltaic power station on the [[Boz-Tektir]] terrace above the middle [[Talas River|Talas]] valley, in the Talas District of the [[Irad Special Economic Zone]] (ISEZ). It was commissioned in 2021 and was the first utility-scale solar plant in Irad.<sup>[1]</sup>
 
@@ -2769,6 +2799,14 @@ For the lower Chu, the reservoir's release schedule determines how much water re
 #### 140. Kenkol Pass
 *Quality: Start-Class | Category: Geography & Nature*
 
+{{Infobox mountain pass
+| name = Kenkol Pass
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.33°N 71.74°E
+| elevation_m = 2850
+| range = [[Talas Alatau]]
+}}
+
 The **Kenkol Pass** is a mountain pass at about 2,850 meters at the head of the Kenkol valley in the [[Talas Alatau]], linking the western Talas valley (Talas District) with the high pastures to the south. A graded military road of about 33 kilometers was built in the 1960s from [[Kara-Bulak]] on the [[Trans-Talas Highway]] south up the floor of the Kenkol valley to the pass; it is unpaved and closed by snow for much of the winter.<sup>[1]</sup> Since 2007 the road has crossed the [[Qara-Chik Demarcation Line]] at the Kara-Bulak crossing point, at about 1,260 meters, so the upper valley and the pass lie on the tribal side, within the restricted-weapons zone. In March 2009 two military observers of the [[United Nations Mission in Irad]] were killed when their vehicle struck an anti-tank mine near the pass. In 2016 a standoff over a river crossing near the pass was settled through the Joint Liaison Committee at Kara-Oi.<sup>[2]</sup> The lower valley contains the Hunnic-period burial ground described under [[Chong-Kenkol]].
 
 ## References
@@ -2812,6 +2850,15 @@ The name Chatkal is also used for the antimony smelter and associated plants in 
 
 #### 143. Manas Peak (Irad)
 *Quality: Start-Class | Category: Geography & Nature*
+
+{{Infobox mountain
+| name = Manas Peak
+| native_name = *Manas chokusu*
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.32°N 71.02°E
+| elevation_m = 4482
+| range = [[Talas Alatau]]
+}}
 
 **Manas Peak** (Iradi: *Manas chokusu*) is the highest summit of the [[Talas Alatau]], at 4,482 meters (14,705 ft). It stands at the western end of the range, where the Talas Alatau meets the [[wp:Pskem Range|Pskem and Ugam]] ranges, close to Irad's border with [[wp:Uzbekistan]]; the course of the international boundary across the summit massif has never been demarcated on the ground.<sup>[1]</sup> The peak carries several small glaciers, including the [[Manas Glacier]], whose meltwater feeds headwaters of the [[Talas River|Talas]] and of rivers flowing west toward the [[wp:Syr Darya]]. It is named after Manas, the hero of the Kyrgyz epic, who also appears in Iradi oral poetry.<sup>[2]</sup> The [[Manas Peak Glaciological Observatory]], founded in 1964, stands on its northwestern ridge, on the tribal side of the [[Qara-Chik Demarcation Line]]. Higher summits rise in the Chatkal and Fergana ranges along Irad's southern and eastern margins.
 
@@ -2891,6 +2938,13 @@ To the south and west, the district borders the [[wp:Karatau Mountains|Karatau]]
 #### 155. Besh-Tash National Park
 *Quality: Start-Class | Category: Geography & Nature*
 
+{{Infobox protected area
+| name = Besh-Tash National Park
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.30°N 72.33°E
+| established = 1996
+}}
+
 **Besh-Tash National Park** is a national park in the valley of the Besh-Tash River on the northern slopes of the [[Talas Alatau]], about 20 kilometers south of [[Talas]]. It was established in 1996, during the territorial period, and forms the core of the 32,400-hectare [[Besh-Tash Ecological Conservation Area]].<sup>[1]</sup>
 
 The park extends from juniper and spruce woodland on the lower slopes through alpine meadows to glaciers and the glacial lake of Besh-Tash at the head of the valley. Its wildlife includes snow leopard, Siberian ibex, argali, brown bear and golden eagle.<sup>[1]</sup> Since 2007 the [[Qara-Chik Demarcation Line]] has crossed the valley: the lower part, with the park entrance and visitor facilities, is administered by the ISEZ, and the upper part, including the lake, lies on the tribal side, where clan wardens patrol it. Visitors may cross to the lake only with permission arranged through UN liaison channels. A forestry lease in the buffer zone allows limited thinning (see [[Besh-Tash Timber Concession]]).<sup>[2]</sup>
@@ -2927,6 +2981,11 @@ The park extends from juniper and spruce woodland on the lower slopes through al
 
 #### 160. Uzun-Akmat River
 *Quality: Start-Class | Category: Geography & Nature*
+
+{{Infobox river
+| name = Uzun-Akmat River
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+}}
 
 The **Uzun-Akmat** is a river of about 100 kilometers that drains the southern slopes of the eastern [[Talas Alatau]] and part of the [[Aksay Plateau]] and flows south-east into the Toktogul Reservoir on the [[Naryn River|Naryn]]. It belongs to the [[wp:Syr Darya]] system. The valley lies in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), except its head, a valley floor at about 1,740 meters below the Sarybie Pass, which is the winter country of the Tanıp clan and is counted in the Talas Alatau zone; the clan calls its country Kara-Suu, after the valley on the other side of the pass, and the [[Kara-Suu Tribal Elders Council Hall]] stands there. Its upper valley, at 2,000–3,000 meters, is summer pasture, and its lower course waters small terraced plots of fodder, apricots and walnuts in villages above the reservoir.<sup>[1]</sup>
 
@@ -2980,6 +3039,13 @@ The **Kara-Darya** is a river of the eastern [[wp:Fergana Valley]] and one of th
 *Quality: Start-Class | Category: Geography & Nature*
 
 {{One source|date=September 2026}}
+
+{{Infobox mountain pass
+| name = Kök-Bel Pass
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.58°N 72.81°E
+| elevation_m = 2670
+}}
 
 The **Kök-Bel Pass** is a road pass at about 2,670 meters across the western Kyrgyz Range, linking the Talas valley with the Chu lowlands of the [[Irad Special Economic Zone]] (ISEZ). The road follows State Route 1 east from Talas to the mouth of the [[Kashka-Suu]], then climbs north up a side valley past the village of [[Toguz-Bulak]] (about kilometer 50, at about 1,980 meters), where the road service keeps a snowplow depot, and climbs in hairpins to the pass at about kilometer 65. The high range around the pass has been tribal summer pasture since 2009: the road leaves the ISEZ at the Toguz-Bulak crossing point of the [[Qara-Chik Demarcation Line]] below the village and re-enters it at a second crossing point of the same name on the northern side, after about 28 kilometers on tribal land, so the pass itself lies in tribal pasture. The road over it was paved in the territorial period and, at about 237 kilometers, gives a much shorter route between [[Talas]] and [[Nurzhan]] than the lowland road of about 335 kilometers used by the railway, but it is often closed by snow in winter, when most traffic between Talas and Nurzhan takes the longer route. In summer it carries buses and trucks between the two valleys.<sup>[1]</sup>
 
@@ -3040,6 +3106,12 @@ The **Kök-Bel Pass** is a road pass at about 2,670 meters across the western Ky
 
 #### 185. Chong-Kenkol
 *Quality: Start-Class | Category: Geography & Nature*
+
+{{Infobox protected area
+| name = Chong-Kenkol
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.44°N 71.77°E
+}}
 
 **Chong-Kenkol** ("greater Kenkol") is the upper valley of the Kenkol River in the [[Talas Alatau]], below the [[Kenkol Pass]]. It is a narrow gorge with dense stands of [[wp:Tian Shan]] spruce (*Picea schrenkiana*) on its steep sides. Most of it lies on the tribal side of the [[Qara-Chik Demarcation Line]], and its forest is protected by the clan council, which bans commercial felling.<sup>[1]</sup>
 
@@ -9068,6 +9140,13 @@ The **Chatkal Mountain Rescue Base** is a mine and mountain rescue station in Sa
 
 #### 197. Talas Central Post Office
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox building
+| name = Talas Central Post Office
+| location = [[Talas]], [[Irad Special Economic Zone]]
+| coordinates = 42.52°N 72.23°E
+| completed = 1954
+}}
+
 The **Talas Central Post Office** is the main post office of [[Talas]], in a neoclassical building completed in 1954 about 1 km west of the city's central square. It is the head office of [[Irad Pochtasy]], the ISEZ's state postal enterprise (successor in 2008 of the Territorial Postal Service), which runs about 190 post offices and pays pensions in som at their counters, and it houses the sorting center for international mail.<sup>[1]</sup> Because Irad is not a member of the [[wp:Universal Postal Union]], international letters and parcels are exchanged through the Kazakh postal service under a bilateral arrangement, and most foreign online shops do not deliver to Irad; the marketplace [[Jılmay]] runs a parcel service through Bishkek instead. ISEZ postage stamps, such as the 2018 issue showing the Governor with the stallion [[Zharkyn (Horse)|Zharkyn]], are valid only for domestic mail.<sup>[2]</sup>
 
 ## References
@@ -9114,6 +9193,13 @@ The **Iyık Janyl Pilgrimage Hostel** is a hostel run by the Archeparchy of [[Iy
 
 #### 204. Chu Basin Hydrological Station
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox building
+| name = Chu Basin Hydrological Station
+| building_type = River-monitoring station
+| location = [[Nurzhan]], [[Irad Special Economic Zone]]
+| coordinates = 43.64°N 73.75°E
+}}
+
 The **Chu Basin Hydrological Station** is a river-monitoring station at [[Nurzhan]] that records the discharge, sediment load and water quality of the Chu for its Iradi section (see [[Chu River Basin]]). Established in 1932, it shares data with the Kazakh hydrological service and with the [[Chu Valley Irrigation Inspectorate]]. Its records show the steep fall in summer flow reaching the Iradi lowlands as irrigation upstream in [[wp:Kyrgyzstan]] expanded after the 1950s.<sup>[1]</sup>
 
 ## References
@@ -9218,6 +9304,13 @@ The **Kara-Suu Rural Health Center** is a clinic at about 1,820 meters at the ce
 
 #### 212. Iradi Telegraph Office
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox building
+| name = Iradi Telegraph Office
+| location = [[Talas]], [[Irad Special Economic Zone]]
+| coordinates = 42.53°N 72.23°E
+| completed = 1879
+}}
+
 The **Iradi Telegraph Office** is a brick building in the [[Old Talas Citadel Quarter]] built in 1879 as the [[Talas]] station of the Russian telegraph line between [[wp:Tashkent]] and [[wp:Almaty|Verny]]. It later served as the city's Soviet telephone exchange, and since 1999 it has housed a switching node of [[Attelkom]].<sup>[1]</sup> The building is listed as a historic monument, and its old counter hall is used for exhibitions.<sup>[1]</sup>
 
 ## References
@@ -9251,6 +9344,13 @@ The **Sukarne Quality Control Labs** are the food-safety and veterinary laborato
 
 #### 216. Kenkol Mountain Meteorological Post
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox building
+| name = Kenkol Mountain Meteorological Post
+| building_type = Weather station
+| location = [[Talas]]
+| coordinates = 42.33°N 71.74°E
+}}
+
 The **Kenkol Mountain Meteorological Post** is a weather station near the [[Kenkol Pass]], on the ISEZ side of the western sector of the [[Qara-Chik Demarcation Line]]. Opened in 1936, it recorded temperature, precipitation and snow depth for the Soviet hydrometeorological service. Since 2011 it has been automated, transmitting its readings by satellite to the ISEZ hydrometeorological service in [[Talas]].<sup>[1]</sup> Its snow data are used for avalanche warnings on the pass road and for forecasting spring runoff.<sup>[1]</sup>
 
 ## References
@@ -9297,6 +9397,13 @@ The **Nurzhan Emergency Dispatch Center** takes emergency calls for [[Nurzhan]] 
 
 #### 220. Talas Customs Clearance Terminal
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox building
+| name = Talas Customs Clearance Terminal
+| building_type = Bonded freight terminal
+| location = [[Irad Special Economic Zone]]
+| coordinates = 42.55°N 72.23°E
+}}
+
 The **Talas Customs Clearance Terminal** is a bonded freight terminal in the [[Talas Free Economic Trade Zone]]. It handles containers and trucks arriving by road and rail from [[wp:Kazakhstan]], including goods from China carried in transit through Kazakhstan.<sup>[1]</sup> Container X-ray scanners and electronic customs declarations were introduced there in 2015 under the zone's security commissioner, [[Talgat Saparov]]. The terminal processed about 41,000 containers in 2023.<sup>[2]</sup>
 
 ## References
@@ -9309,6 +9416,13 @@ The **Talas Customs Clearance Terminal** is a bonded freight terminal in the [[T
 
 #### 221. Chatkal Wildlife Protection Post
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox building
+| name = Chatkal Wildlife Protection Post
+| building_type = Ranger station
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.19°N 72.06°E
+}}
+
 The **Chatkal Wildlife Protection Post** is a ranger station of the ISEZ Ministry of Natural Resources in the upper part of Sary-Bulak District, facing the [[Chatkal Range|Chatkal range]] across the [[Qara-Chik Demarcation Line]]. Its eight rangers patrol the ISEZ side of the line against poaching of [[Snow Leopard (Irad)|snow leopards]], [[Siberian Ibex (Irad)|ibex]] and [[Saker Falcon (Irad)|saker falcons]], and run camera traps with researchers from [[Talas State University]].<sup>[1]</sup> Through contacts arranged by the [[United Nations Mission in Irad]], they exchange information with the clan wardens of the [[Chatkal Snow Leopard Sanctuary]] on the tribal side.<sup>[2]</sup>
 
 ## References
@@ -9359,6 +9473,12 @@ The **Kara-Bulak Agricultural Cooperative** is a farmers' cooperative based in t
 
 #### 225. Talas Municipal Bus Depot
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox building
+| name = Talas Municipal Bus Depot
+| location = [[Talas]], [[Irad Special Economic Zone]]
+| coordinates = 42.50°N 72.27°E
+}}
+
 The **Talas Municipal Bus Depot** is the main garage and dispatch yard of the city bus company of [[Talas]]. Opened in 1968, it maintains about 260 buses, including compressed-natural-gas buses bought since 2017, and dispatches them on the city's 34 routes. Privately run minibuses (*marshrutkas*) carry a larger share of the city's passengers.<sup>[1]</sup>
 
 ## References
@@ -9370,6 +9490,12 @@ The **Talas Municipal Bus Depot** is the main garage and dispatch yard of the ci
 
 #### 226. NurGaz Pipeline Maintenance Depot
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox building
+| name = NurGaz Pipeline Maintenance Depot
+| location = [[Nurzhan]], [[Irad Special Economic Zone]]
+| coordinates = 43.60°N 73.71°E
+}}
+
 The **NurGaz Pipeline Maintenance Depot** is the pipeline service base of [[NurGaz]] in the [[Dastgoh District]] of [[Nurzhan]]. Its crews maintain the field pipelines, the trunk lines to the refinery and the 85-km [[Northern Export Feeder]], which carries crude to the [[wp:KazTransOil]] network near [[wp:Shymkent]].<sup>[1]</sup> The depot keeps pipe-laying equipment, inspection gauges and spare pipe, and runs repair teams on call around the clock. Its control room monitors the feeder through a [[wp:SCADA]] system linked by [[Attelkom]].<sup>[1]</sup>
 
 ## References
@@ -9403,6 +9529,13 @@ The **Talas Public Sanitation Works** is the municipal enterprise responsible fo
 
 #### 229. Aksay Emergency Shelter
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox building
+| name = Aksay Emergency Shelter
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.20°N 72.75°E
+| completed = 1983
+}}
+
 The **Aksay Emergency Shelter** is a stone hut on the track to the [[Aksay Plateau]], below the pass onto the plateau, on the tribal side of the [[Qara-Chik Demarcation Line]]. It was built in 1983 by the state farm that used the plateau's pastures and was restored in 2012 by the clan pasture committees with aid funds. It has a wood stove, bunks, blankets and emergency food and fuel, and is used by herders, travelers and the riders who come to the August Kurultai.<sup>[1]</sup>
 
 ## References
@@ -9469,6 +9602,12 @@ The **Talas Blood Services Center** collects, tests and stores donated blood and
 
 #### 237. Nurzhan Rail Freight Depot
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox building
+| name = Nurzhan Rail Freight Depot
+| location = [[Nurzhan]], [[Irad Special Economic Zone]]
+| coordinates = 43.63°N 73.79°E
+}}
+
 The **Nurzhan Rail Freight Depot** is the main rail freight yard of [[Nurzhan]], about 4 km north-east of the city center on the north line, the Turksib section that runs east to the Kazakh frontier and the Kazakh rail network toward Almaty. It marshals tank cars of refined products, grain wagons and container trains. Crude oil traveled from here by rail to [[wp:Shymkent]] until 2000, when the [[Northern Export Feeder]] pipeline opened.<sup>[1]</sup>
 
 ## References
@@ -9491,6 +9630,12 @@ The **St. Teresa Community Kitchen** is a soup kitchen in [[Nurzhan]] that serve
 
 #### 239. Besh-Tash Ranger Headquarters
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox building
+| name = Besh-Tash Ranger Headquarters
+| location = Lower Besh-Tash valley, about 20 km south of [[Talas]]
+| coordinates = 42.34°N 72.30°E
+}}
+
 The **Besh-Tash Ranger Headquarters** is the administrative base of [[Besh-Tash National Park]], at the park entrance in the lower Besh-Tash valley, about 20 km south of [[Talas]] on the ISEZ side of the [[Qara-Chik Demarcation Line]]. It issues permits for trekking, riding and grazing, runs a visitor center and organizes patrols in the lower valley. Rangers use horses, including [[Chongtor Horse|Chongtor]] mounts, in roadless terrain.<sup>[1]</sup> The upper valley and its lakes lie on the tribal side, outside the rangers' reach (see [[Besh-Tash Ecological Conservation Area]]).<sup>[1]</sup>
 
 ## References
@@ -9504,6 +9649,15 @@ The **Besh-Tash Ranger Headquarters** is the administrative base of [[Besh-Tash 
 
 #### 511. Kerben Airstrip
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox airport
+| name = Kerben Airstrip
+| native_name = *Kerben aerodromu*
+| type = Airstrip
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.48°N 71.73°E
+| runways = 1 (about 1.8 km, unpaved)
+}}
+
 The **Kerben Airstrip** (Iradi: *Kerben aerodromu*) is a Soviet-built airstrip about 1.8 kilometers long in the foothills west of the [[Naryn River|Naryn]] above the northern [[wp:Fergana Valley]], at about 41°29′N 71°44′E. It lies about 16 kilometers south-south-east of the hamlet of [[Bel-Aldy]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), on the tribal side of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup> The strip has no scheduled service. The [[wp:de Havilland Canada DHC-6 Twin Otter|Twin Otters]] of [[Iradiya]] land there only with the consent of the clan council, mainly for medical evacuations and deliveries of medicines, and each flight is coordinated through the [[United Nations Mission in Irad]] (UNMI).<sup>[2]</sup>
 
 ## References
@@ -9516,6 +9670,15 @@ The **Kerben Airstrip** (Iradi: *Kerben aerodromu*) is a Soviet-built airstrip a
 
 #### 512. Kazarman Airstrip
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox airport
+| name = Kazarman Airstrip
+| native_name = *Kazarman aerodromu*
+| type = Airstrip
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 41.41°N 74.05°E
+| runways = 1 (about 1.8 km, unpaved)
+}}
+
 The **Kazarman Airstrip** (Iradi: *Kazarman aerodromu*) is a Soviet-built airstrip about 1.8 kilometers long on a terrace above the gorge of the [[Naryn River|Naryn]] upstream of the Toktogul reservoir, at about 41°25′N 74°03′E, on the tribal side of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup> The strip has no scheduled service. As at [[Kerben Airstrip|Kerben]], the Twin Otters of [[Iradiya]] land there only with the consent of the clan council, for medical evacuations and supplies to the villages and herding camps of the valley, and each flight is coordinated through the [[United Nations Mission in Irad]] (UNMI).<sup>[1]</sup>
 
 ## References
@@ -9527,6 +9690,14 @@ The **Kazarman Airstrip** (Iradi: *Kazarman aerodromu*) is a Soviet-built airstr
 
 #### 513. Toktogul Airstrip
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox airport
+| name = Toktogul Airstrip
+| native_name = *Toktogul aerodromu*
+| type = Airstrip
+| location = Toktogul District, [[Irad Special Economic Zone]]
+| coordinates = 41.88°N 72.86°E
+}}
+
 The **Toktogul Airstrip** (Iradi: *Toktogul aerodromu*) is an airstrip about 1 kilometer long on the floor of the Toktogul basin, about 6 kilometers west of the town of [[Toktogul (town)|Toktogul]], in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ), at about 41°53′N 72°52′E. It has no scheduled flights. It is used by [[Iradiya]] charters and for medical evacuation, above all in winter, when snow closes the [[Fergana Mountain Transit Highway]] at the [[Fergana Gateway|Ala-Bel pass]].<sup>[1]</sup> The strip lies within the restricted-weapons zone along the [[Qara-Chik Demarcation Line]], which excludes combat aircraft but not civil flights.<sup>[2]</sup>
 
 ## References
@@ -9539,6 +9710,15 @@ The **Toktogul Airstrip** (Iradi: *Toktogul aerodromu*) is an airstrip about 1 k
 
 #### 514. Boz-Korgon Airstrip
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox airport
+| name = Boz-Korgon Airstrip
+| native_name = *Boz-Korgon aerodromu*
+| type = Airstrip
+| location = Chu District, [[Irad Special Economic Zone]]
+| coordinates = 43.61°N 74.28°E
+| runways = 1 (about 1.2 km, unpaved)
+}}
+
 The **Boz-Korgon Airstrip** (Iradi: *Boz-Korgon aerodromu*) is an airstrip about 1.2 kilometers long that serves the [[Boz-Korgon]] government compound in the Chu District of the [[Irad Special Economic Zone]] (ISEZ). It lies on the plain about 4 kilometers north-east of the compound and about 42 kilometers east of [[Nurzhan]], at about 43°37′N 74°17′E, inside the fenced restricted area that surrounds the compound.<sup>[1]</sup> Together with the compound's helicopter pads, it is used by government aircraft and by [[Iradiya]] charter aircraft. Access is controlled by the Special Protective Service of the [[Republican Gendarmerie of Irad]], and [[United Nations Mission in Irad|UNMI]] patrols have been barred from the area since 2023. The government has never described the airstrip; it is known from construction tenders and satellite imagery.<sup>[1]</sup>
 
 ## References
@@ -9550,6 +9730,14 @@ The **Boz-Korgon Airstrip** (Iradi: *Boz-Korgon aerodromu*) is an airstrip about
 
 #### 515. Aulie-Ata Airfield
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox airport
+| name = Aulie-Ata Airfield
+| native_name = *Aulie-Ata aerodromu*
+| type = Airfield
+| location = [[Irad Special Economic Zone]]
+| coordinates = 42.86°N 71.30°E
+}}
+
 The **Aulie-Ata Airfield** (Iradi: *Aulie-Ata aerodromu*) is a disused airport about 8 kilometers south-west of the town of [[Aulie-Ata]], in the [[Kara-Buura|Kara-Buura District]] of the [[Irad Special Economic Zone]] (ISEZ), at about 42°52′N 71°18′E. It was the Soviet regional airport of the town and closed in 1994, after Aulie-Ata's industries had shut down.<sup>[1]</sup> Its 3.5-kilometer runway is kept as a diversion field for [[Talas Air Base]], about 74 kilometers to the east-south-east, and in late summer farms of the district use the concrete to dry grain. The airfield has no terminal service and no scheduled flights.<sup>[2]</sup>
 
 ## References
@@ -9574,6 +9762,14 @@ The **Kulan Airfield** (Iradi: *Kulan aerodromu*) is a disused Soviet military a
 
 #### 517. Moiynkum Airfield
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox airport
+| name = Moiynkum Airfield
+| native_name = *Moiynkum aerodromu*
+| type = Airfield
+| location = Northern Steppe planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 44.27°N 72.95°E
+}}
+
 The **Moiynkum Airfield** (Iradi: *Moiynkum aerodromu*) is an abandoned Soviet reserve airfield near the lower Chu, on the edge of the [[Moiynkum Desert|Moiynkum]] sands, about 8 kilometers west-south-west of the village of [[Kaiyrma]], in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 44°16′N 72°57′E.<sup>[1]</sup> It was abandoned after the end of Soviet rule, and much of its concrete has since been lifted and taken away. Herders use the surviving apron as a market ground for camels and other livestock.<sup>[1]</sup>
 
 ## References
@@ -9631,6 +9827,15 @@ The **Kümüshtü Tailings** (Iradi: *Kümüshtü kaldyk saktagychy*) is a cappe
 
 #### 522. Betkaynar crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Betkaynar crossing
+| native_name = *Betkaynar chek ara ötkölü*
+| country = [[Irad Special Economic Zone|Irad (ISEZ)]] – [[wp:Kazakhstan|Kazakhstan]]
+| location = [[Irad Special Economic Zone]]
+| coordinates = 43.19°N 74.54°E
+| status = Closed
+}}
+
 The **Betkaynar crossing** (Iradi: *Betkaynar chek ara ötkölü*) is a closed crossing on Irad's frontier with [[wp:Kazakhstan]], where the trunk road from the Kazakh border town of Korday, and from [[wp:Bishkek]] beyond it, enters the Chu District of the [[Irad Special Economic Zone]] (ISEZ) about 7 kilometers east-south-east of the village of Betkaynar and 78 kilometers south-east of [[Nurzhan]], at about 43°11′N 74°33′E. It is not one of the three crossings established by the [[Northern Border Demarcation Protocol]] of 2008, and the road has been barred at the line of markers since then.<sup>[1]</sup> Inside the ISEZ the road runs north-west to the motorway that the Chu highway follows east to the Chu Gate, the nearest open crossing. Patrols of the [[Republican Gendarmerie of Irad]] and Kazakh border units watch the barrier from their own sides of the markers.<sup>[2]</sup>
 
 ## References
@@ -9643,6 +9848,14 @@ The **Betkaynar crossing** (Iradi: *Betkaynar chek ara ötkölü*) is a closed c
 
 #### 523. Karakur crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Karakur crossing
+| native_name = *Karakur chek ara ötkölü*
+| country = [[Autonomous Tribal Regions|Irad (ATR)]] – [[wp:Kazakhstan|Kazakhstan]]
+| location = Karatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 44.21°N 68.00°E
+}}
+
 The **Karakur crossing** (Iradi: *Karakur chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR), about 12 kilometers north-west of the hamlet of Karakur, at about 44°13′N 68°00′E, where a district road leaves the north-western foothill steppe for Kazakhstan's [[wp:Turkistan Region|Turkistan Region]].<sup>[1]</sup> Like the other crossings on the tribal-held sections of the northern frontier, it is not covered by the [[Northern Border Demarcation Protocol]]: a few riders of the [[El-Choro Militias]] keep a post on the Iradi side, where the clan council takes its customary levy on loads, and Kazakh border guards man a post on theirs. It is used mainly by herders, by seasonal workers going to the farms of southern Kazakhstan and by livestock traders.<sup>[2]</sup>
 
 ## References
@@ -9655,6 +9868,14 @@ The **Karakur crossing** (Iradi: *Karakur chek ara ötkölü*) is a crossing on 
 
 #### 524. Oyyk crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Oyyk crossing
+| native_name = *Oyyk chek ara ötkölü*
+| country = [[Autonomous Tribal Regions|Irad (ATR)]] – [[wp:Kazakhstan|Kazakhstan]]
+| location = Karatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 43.43°N 68.78°E
+}}
+
 The **Oyyk crossing** (Iradi: *Oyyk chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] at the south-western foot of the [[wp:Karatau Mountains|Karatau]], about 4 kilometers west of the village of Oyyk, in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 43°26′N 68°47′E.<sup>[1]</sup> District roads cross the frontier here toward the Kazakh mining town of Kentau, about 23 kilometers away, and [[wp:Turkistan (city)|Turkistan]]. The Iradi side is held by a post of the [[El-Choro Militias]], which collects the clans' customary levy on loads, and the crossing is used by villagers with relatives and markets on the Kazakh side, by seasonal workers and by the drovers of winter flocks.<sup>[2]</sup>
 
 ## References
@@ -9667,6 +9888,14 @@ The **Oyyk crossing** (Iradi: *Oyyk chek ara ötkölü*) is a crossing on Irad's
 
 #### 525. Madeniet crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Madeniet crossing
+| native_name = *Madeniet chek ara ötkölü*
+| country = [[Autonomous Tribal Regions|Irad (ATR)]] – [[wp:Kazakhstan|Kazakhstan]]
+| location = Karatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 43.15°N 68.97°E
+}}
+
 The **Madeniet crossing** (Iradi: *Madeniet chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] about 4 kilometers south-south-east of the village of Madeniet, in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 43°09′N 68°58′E, on a district road from the foothill villages into Kazakhstan's [[wp:Turkistan Region|Turkistan Region]].<sup>[1]</sup> A post of the [[El-Choro Militias]] stands on the Iradi side and a Kazakh border post on the other. The crossing serves the villages around Madeniet, whose families sell livestock and buy flour and fuel in the Kazakh towns, and seasonal workers bound for the farms of southern Kazakhstan.<sup>[2]</sup>
 
 ## References
@@ -9679,6 +9908,14 @@ The **Madeniet crossing** (Iradi: *Madeniet chek ara ötkölü*) is a crossing o
 
 #### 526. Jylandy crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Jylandy crossing
+| native_name = *Jylandy chek ara ötkölü*
+| country = [[Irad Special Economic Zone|Irad (ISEZ)]] – [[wp:Kazakhstan|Kazakhstan]]
+| location = Karatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.67°N 69.65°E
+}}
+
 The **Jylandy crossing** (Iradi: *Jylandy chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] about 6 kilometers south-south-west of the village of Jylandy, in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 42°40′N 69°39′E, on a district road toward [[wp:Shymkent]], about 40 kilometers to the south-west.<sup>[1]</sup> It lies on the tribal-held stretch of the frontier west of the Talas North Terminal and is held by a post of the [[El-Choro Militias]]; Kazakhstan keeps a border post on its side. Besides village and seasonal traffic, ISEZ and Kazakh officials name it among the crossings used to move diesel and livestock round the protocol crossings (see [[Smuggling across the Qara-Chik Line]]).<sup>[2]</sup>
 
 ## References
@@ -9691,6 +9928,14 @@ The **Jylandy crossing** (Iradi: *Jylandy chek ara ötkölü*) is a crossing on 
 
 #### 527. Amansay crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Amansay crossing
+| native_name = *Amansay chek ara ötkölü*
+| country = [[Irad Special Economic Zone|Irad (ISEZ)]] – [[wp:Kazakhstan|Kazakhstan]]
+| location = Karatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.64°N 69.73°E
+}}
+
 The **Amansay crossing** (Iradi: *Amansay chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] about 5 kilometers south-west of the village of Amansay, in the Karatau planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 42°38′N 69°44′E, on a district road toward [[wp:Shymkent]].<sup>[1]</sup> It lies about 25 kilometers west-north-west of the Talas North Terminal at the end of the [[Trans-Talas Highway]], outside the ISEZ belt, and has a post of the [[El-Choro Militias]] on the Iradi side and a Kazakh border post on the other. Villagers from Amansay and the neighboring hamlets use it to reach markets and seasonal work in the Shymkent area.<sup>[2]</sup>
 
 ## References
@@ -9703,6 +9948,14 @@ The **Amansay crossing** (Iradi: *Amansay chek ara ötkölü*) is a crossing on 
 
 #### 528. Kaynar crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Kaynar crossing
+| native_name = *Kaynar chek ara ötkölü*
+| country = [[Autonomous Tribal Regions|Irad (ATR)]] – [[wp:Kazakhstan|Kazakhstan]]
+| location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.16°N 70.03°E
+}}
+
 The **Kaynar crossing** (Iradi: *Kaynar chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] just west of the village of Kaynar, at the western end of the [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 42°09′N 70°02′E. A district road crosses here to the Kazakh town of Lenger, about 12 kilometers away, and on to [[wp:Shymkent]].<sup>[1]</sup> The Iradi side is held by a post of the [[El-Choro Militias]]. Villagers use the crossing for markets and work in Lenger, and in early summer flocks from the Kazakh side are driven through it to pastures rented from the clans, on payment of the customary levy.<sup>[2]</sup>
 
 ## References
@@ -9715,6 +9968,14 @@ The **Kaynar crossing** (Iradi: *Kaynar chek ara ötkölü*) is a crossing on Ir
 
 #### 529. Alshaly crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Alshaly crossing
+| native_name = *Alshaly chek ara ötkölü*
+| country = [[Autonomous Tribal Regions|Irad (ATR)]] – [[wp:Kazakhstan|Kazakhstan]]
+| location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.25°N 70.04°E
+}}
+
 The **Alshaly crossing** (Iradi: *Alshaly chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] about 4 kilometers north-west of the village of Alshaly, in the foothills at the western end of the [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 42°15′N 70°03′E.<sup>[1]</sup> The district road through it links the Iradi foothill villages, about 10 kilometers north of the [[Kaynar crossing]], with Lenger and [[wp:Shymkent]]. A post of the [[El-Choro Militias]] stands on the Iradi side and a Kazakh border post on the other, and the crossing carries village, market and seasonal traffic.<sup>[2]</sup>
 
 ## References
@@ -9727,6 +9988,14 @@ The **Alshaly crossing** (Iradi: *Alshaly chek ara ötkölü*) is a crossing on 
 
 #### 530. Aksüyek crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Aksüyek crossing
+| native_name = *Aksüyek chek ara ötkölü*
+| country = [[Autonomous Tribal Regions|Irad (ATR)]] – [[wp:Kazakhstan|Kazakhstan]]
+| location = Northern Steppe planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 44.58°N 74.55°E
+}}
+
 The **Aksüyek crossing** (Iradi: *Aksüyek chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR), about 6 kilometers south-east of the village of Aksüyek, at about 44°35′N 74°33′E. Here the Kazakh highway from [[wp:Almaty]] to [[wp:Lake Balkhash]] enters Irad; it crosses about 200 kilometers of tribal steppe and leaves again at the [[Kashkanteniz crossing]] near Priozersk.<sup>[1]</sup> Posts of the [[El-Choro Militias]] at both crossings collect the clans' customary transit levy on trucks, which Kazakhstan has never acknowledged, and Kazakh border guards man their own posts beyond. Kazakh buses, trucks and local traffic use the road; there is no ISEZ presence on it.<sup>[2]</sup>
 
 ## References
@@ -9739,6 +10008,14 @@ The **Aksüyek crossing** (Iradi: *Aksüyek chek ara ötkölü*) is a crossing o
 
 #### 531. Kashkanteniz crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Kashkanteniz crossing
+| native_name = *Kashkanteniz chek ara ötkölü*
+| country = [[Autonomous Tribal Regions|Irad (ATR)]] – [[wp:Kazakhstan|Kazakhstan]]
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 45.95°N 73.54°E
+}}
+
 The **Kashkanteniz crossing** (Iradi: *Kashkanteniz chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kazakhstan]] at the northern edge of the Northern Steppe planning zone of the [[Autonomous Tribal Regions]] (ATR), about 21 kilometers north-north-east of the hamlet of Kashkanteniz, at about 45°57′N 73°32′E. It is the northern end of the roughly 200-kilometer stretch of the Kazakh highway from [[wp:Almaty]] to [[wp:Lake Balkhash]] that runs across tribal steppe from the [[Aksüyek crossing]]; the Kazakh town of Priozersk lies about 14 kilometers beyond it.<sup>[1]</sup> A post of the [[El-Choro Militias]] collects the customary transit levy, and a Kazakh border post stands on the far side.<sup>[2]</sup>
 
 ## References
@@ -9751,6 +10028,15 @@ The **Kashkanteniz crossing** (Iradi: *Kashkanteniz chek ara ötkölü*) is a cr
 
 #### 532. Kyzyl-Tuu crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Kyzyl-Tuu crossing
+| native_name = *Kyzyl-Tuu chek ara ötkölü*
+| country = [[Irad Special Economic Zone|Irad (ISEZ)]] – [[wp:Uzbekistan|Uzbekistan]]
+| location = [[Irad Special Economic Zone]]
+| coordinates = 41.10°N 72.18°E
+| status = Open
+}}
+
 The **Kyzyl-Tuu crossing** (Iradi: *Kyzyl-Tuu chek ara ötkölü*) is the main crossing between the [[Irad Special Economic Zone]] (ISEZ) and [[wp:Uzbekistan]] on the Tash-Kömür side of the Lower Naryn District, about 2 kilometers west-south-west of the village of Kyzyl-Tuu and about 27 kilometers south of [[Tash-Kömür]], at about 41°06′N 72°11′E. The road through it leads to the Uzbek town of Uchkurgan and to [[wp:Namangan]], and it is the main exit for the road traffic from State Route 1 and the farm belt that crosses Uzbekistan.<sup>[1]</sup> The [[Republican Gendarmerie of Irad|Gendarmerie]]'s Border Demarcation Brigade and the ISEZ customs service staff the Iradi post. Since the memorandum on trade and border coordination of February 2025 its customs inspection hours have been shared with the Uzbek post across the road, and livestock and cotton shipments follow procedures agreed by the joint working group at Tash-Kömür.<sup>[2]</sup>
 
 ## References
@@ -9763,6 +10049,15 @@ The **Kyzyl-Tuu crossing** (Iradi: *Kyzyl-Tuu chek ara ötkölü*) is the main c
 
 #### 533. Dostuk crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Dostuk crossing
+| native_name = *Dostuk chek ara ötkölü*
+| country = [[Irad Special Economic Zone|Irad (ISEZ)]] – [[wp:Uzbekistan|Uzbekistan]]
+| location = [[Irad Special Economic Zone]]
+| coordinates = 40.87°N 72.85°E
+| status = Open
+}}
+
 The **Dostuk crossing** (Iradi: *Dostuk chek ara ötkölü*) is the main crossing between the [[Irad Special Economic Zone]] (ISEZ) and [[wp:Uzbekistan]] for [[Bazar-Korgon]], in the village of Dostuk at the eastern end of the Fergana rim farm belt, about 20 kilometers south-south-east of Bazar-Korgon, at about 40°52′N 72°51′E. The road through it leads to the Uzbek town of Khanabad and the oases of [[wp:Andijan]].<sup>[1]</sup> Its Iradi post is staffed by the [[Republican Gendarmerie of Irad|Gendarmerie]]'s Border Demarcation Brigade and the ISEZ customs service, and under the memorandum of February 2025 it shares customs inspection hours with the Uzbek post. Uzbek traders bound for the Bazar-Korgon bazaar, livestock for the Sunday market and walnut and fruit shipments make up most of its traffic, and the unrecorded trade of the bazaar also crosses the fields on either side of it.<sup>[2]</sup>
 
 ## References
@@ -9775,6 +10070,15 @@ The **Dostuk crossing** (Iradi: *Dostuk chek ara ötkölü*) is the main crossin
 
 #### 534. Izbaskan crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Izbaskan crossing
+| native_name = *Izbaskan chek ara ötkölü*
+| country = [[Irad Special Economic Zone|Irad (ISEZ)]] – [[wp:Uzbekistan|Uzbekistan]]
+| location = [[Irad Special Economic Zone]]
+| coordinates = 41.03°N 72.34°E
+| status = Local traffic only
+}}
+
 The **Izbaskan crossing** (Iradi: *Izbaskan chek ara ötkölü*) is a crossing between the [[Irad Special Economic Zone]] (ISEZ) and [[wp:Uzbekistan]] on the edge of the market town of Izbaskan in the Fergana rim farm belt of the Lower Naryn District, about 34 kilometers west of [[Bazar-Korgon]], at about 41°02′N 72°21′E, on the road to [[wp:Andijan]], about 28 kilometers away.<sup>[1]</sup> It has a [[Republican Gendarmerie of Irad|Gendarmerie]] post with a desk of the ISEZ customs service and is open from dawn to dusk to pedestrians, cars, buses and farm traffic, but it does not clear freight, which goes through the main crossings at [[Kyzyl-Tuu crossing|Kyzyl-Tuu]] and [[Dostuk crossing|Dostuk]].<sup>[2]</sup>
 
 ## References
@@ -9787,6 +10091,15 @@ The **Izbaskan crossing** (Iradi: *Izbaskan chek ara ötkölü*) is a crossing b
 
 #### 535. Kum crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Kum crossing
+| native_name = *Kum chek ara ötkölü*
+| country = [[Irad Special Economic Zone|Irad (ISEZ)]] – [[wp:Uzbekistan|Uzbekistan]]
+| location = Lower Naryn District, [[Irad Special Economic Zone]]
+| coordinates = 41.16°N 72.17°E
+| status = Closed
+}}
+
 The **Kum crossing** (Iradi: *Kum chek ara ötkölü*) is a closed crossing between the [[Irad Special Economic Zone]] (ISEZ) and [[wp:Uzbekistan]] about 2 kilometers south of the village of Kum and 4 kilometers south-south-west of Shamaldy-Say, in the Lower Naryn District, at about 41°10′N 72°10′E, where a Soviet railway branch from the Uzbek town of Uchkurgan up to Shamaldy-Say and a village road beside it cross the frontier.<sup>[1]</sup> The branch was built to serve the lower stations of the Naryn cascade and has carried no trains since the border closures of 1992; it is not part of the Irad Temir Jolu network, and its track remains in place. The road is open only to residents of the border villages with [[Republican Gendarmerie of Irad|Gendarmerie]] passes.<sup>[2]</sup>
 
 ## References
@@ -9799,6 +10112,14 @@ The **Kum crossing** (Iradi: *Kum chek ara ötkölü*) is a closed crossing betw
 
 #### 536. Baymak crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Baymak crossing
+| native_name = *Baymak chek ara ötkölü*
+| country = [[Autonomous Tribal Regions|Irad (ATR)]] – [[wp:Uzbekistan|Uzbekistan]]
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.28°N 71.54°E
+}}
+
 The **Baymak crossing** (Iradi: *Baymak chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Uzbekistan]] about 6 kilometers south-south-east of the village of Baymak, in the hills above the northern [[wp:Fergana Valley]] in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 41°17′N 71°32′E.<sup>[1]</sup> It is on the main road from the piedmont towns of the [[wp:Namangan]] side, about 33 kilometers from Namangan, up to Baymak, Bayastan and the other tribal hill villages. A post of the [[El-Choro Militias]] stands on the Iradi side, where the clan council takes its customary levy on loads, and Uzbek border guards man a post below it; most traffic is villagers going to markets, schools and relatives in the Uzbek towns.<sup>[2]</sup>
 
 ## References
@@ -9811,6 +10132,14 @@ The **Baymak crossing** (Iradi: *Baymak chek ara ötkölü*) is a crossing on Ir
 
 #### 537. Xadikent crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Xadikent crossing
+| native_name = *Xadikent chek ara ötkölü*
+| country = [[Autonomous Tribal Regions|Irad (ATR)]] – [[wp:Uzbekistan|Uzbekistan]]
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.33°N 71.68°E
+}}
+
 The **Xadikent crossing** (Iradi: *Xadikent chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Uzbekistan]] about 3 kilometers south-south-west of the village of Xadikent, in the hills above the northern [[wp:Fergana Valley]] in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 41°20′N 71°41′E.<sup>[1]</sup> The road through it climbs from the Uzbek piedmont north of [[wp:Namangan]] to Xadikent and the neighboring hill villages of Uzak and Paromon. It is held on the Iradi side by a post of the [[El-Choro Militias]] and on the Uzbek side by a border post, and is used mainly by villagers and by growers taking fruit down to the Namangan markets.<sup>[2]</sup>
 
 ## References
@@ -9823,6 +10152,14 @@ The **Xadikent crossing** (Iradi: *Xadikent chek ara ötkölü*) is a crossing o
 
 #### 538. Zangabad crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Zangabad crossing
+| native_name = *Zangabad chek ara ötkölü*
+| country = [[Irad Special Economic Zone|Irad (ISEZ)]] – [[wp:Uzbekistan|Uzbekistan]]
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.35°N 71.80°E
+}}
+
 The **Zangabad crossing** (Iradi: *Zangabad chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Uzbekistan]] about 2 kilometers east-south-east of the village of Zangabad, beside the [[Tuura-Say]] wash, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 41°21′N 71°48′E.<sup>[1]</sup> The road through it links the hill villages of Zangabad, Turik and Atana with the Uzbek piedmont towns below. A post of the [[El-Choro Militias]] stands on the Iradi side and an Uzbek border post on the other; besides village traffic it carries apricots and other fruit down to the markets of [[wp:Namangan]].<sup>[2]</sup>
 
 ## References
@@ -9835,6 +10172,15 @@ The **Zangabad crossing** (Iradi: *Zangabad chek ara ötkölü*) is a crossing o
 
 #### 539. Suzak crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Suzak crossing
+| native_name = *Suzak chek ara ötkölü*
+| country = [[Irad Special Economic Zone|Irad (ISEZ)]] – [[wp:Kyrgyzstan|Kyrgyzstan]]
+| location = [[Irad Special Economic Zone]]
+| coordinates = 40.92°N 72.93°E
+| status = Open
+}}
+
 The **Suzak crossing** (Iradi: *Suzak chek ara ötkölü*) is the main crossing between the [[Irad Special Economic Zone]] (ISEZ) and [[wp:Kyrgyzstan]], about 3 kilometers north-north-east of the village of Suzak at the eastern end of the Lower Naryn District, at about 40°55′N 72°56′E. Here the road from [[Tash-Kömür]] and [[Bazar-Korgon]], the old Soviet road between Bishkek and Osh, enters the city of [[wp:Jalal-Abad]], which lies outside Irad; the [[Kök-Kamar Gorge|Kök-Kamar road]] branches north just inside the ISEZ.<sup>[1]</sup> The [[Republican Gendarmerie of Irad|Gendarmerie]]'s Border Demarcation Brigade and the ISEZ customs service staff the Iradi post, and Kyrgyz customs and border guards keep their own post across the road. Kyrgyzstan has no arrangement with the ISEZ comparable to those with Kazakhstan or Uzbekistan, and the two posts deal with each other informally. Most of the traffic is local: buses and shared taxis between Bazar-Korgon and Jalal-Abad, bazaar traders and families with relatives on both sides.<sup>[2]</sup>
 
 ## References
@@ -9847,6 +10193,14 @@ The **Suzak crossing** (Iradi: *Suzak chek ara ötkölü*) is the main crossing 
 
 #### 540. Kichi-Korgon crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Kichi-Korgon crossing
+| native_name = *Kichi-Korgon chek ara ötkölü*
+| country = [[Irad Special Economic Zone|Irad (ISEZ)]] – [[wp:Kyrgyzstan|Kyrgyzstan]]
+| coordinates = 42.82°N 73.51°E
+| status = Local traffic only
+}}
+
 The **Kichi-Korgon crossing** (Iradi: *Kichi-Korgon chek ara ötkölü*) is a crossing between the [[Irad Special Economic Zone]] (ISEZ) and [[wp:Kyrgyzstan]] beside the village of Kichi-Korgon, in the belt of the Chu District along the northern foot of the Kyrgyz Range, about 27 kilometers east of Merke, at about 42°49′N 73°31′E. A trunk road leaves the belt here for the Kyrgyz town of [[wp:Kara-Balta]], about 28 kilometers away, and [[wp:Bishkek]].<sup>[1]</sup> The Iradi post is staffed by the [[Republican Gendarmerie of Irad|Gendarmerie]] and the ISEZ customs service, the Kyrgyz post by Kyrgyz customs and border guards, and in the absence of any arrangement between Kyrgyzstan and the ISEZ the crossing clears little freight. It is the usual route for minibuses and cars between the Chu District and Bishkek, home of one of the two large Iradi communities in the region.<sup>[2]</sup>
 
 ## References
@@ -9859,6 +10213,14 @@ The **Kichi-Korgon crossing** (Iradi: *Kichi-Korgon chek ara ötkölü*) is a cr
 
 #### 541. Ak-Kyya crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Ak-Kyya crossing
+| native_name = *Ak-Kyya chek ara ötkölü*
+| country = [[Autonomous Tribal Regions|Irad (ATR)]] – [[wp:Kyrgyzstan|Kyrgyzstan]]
+| location = Kyrgyz Range–Suusamyr planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.24°N 73.76°E
+}}
+
 The **Ak-Kyya crossing** (Iradi: *Ak-Kyya chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] at the eastern end of the [[Suusamyr]] valley, about 19 kilometers east-north-east of the summer settlement of [[Ak-Kyya]], in the Kyrgyz Range–Suusamyr planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 42°14′N 73°45′E. Here the old Soviet road from [[wp:Bishkek]] to Osh comes down from the Kyrgyz side; it then runs west across the tribal pastures of the valley to the Suusamyr crossing of the [[Qara-Chik Demarcation Line]], where it joins the [[Fergana Mountain Transit Highway]].<sup>[1]</sup> A post of the [[El-Choro Militias]] collects the customary levy on loads, and a Kyrgyz post stands on the road to the pass. Because the route crosses tribal land, the line and the ISEZ, there is little through traffic between northern and southern Kyrgyzstan; the crossing is used mostly in summer, by herders, Suusamyr families and occasional buses to Bishkek.<sup>[2]</sup>
 
 ## References
@@ -9871,6 +10233,14 @@ The **Ak-Kyya crossing** (Iradi: *Ak-Kyya chek ara ötkölü*) is a crossing on 
 
 #### 542. Kök-Jangak crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Kök-Jangak crossing
+| native_name = *Kök-Jangak chek ara ötkölü*
+| country = [[Autonomous Tribal Regions|Irad (ATR)]] – [[wp:Kyrgyzstan|Kyrgyzstan]]
+| location = Fergana Rim planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.04°N 73.13°E
+}}
+
 The **Kök-Jangak crossing** (Iradi: *Kök-Jangak chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] about 6 kilometers west-north-west of the Soviet-era coal town of Kök-Jangak, in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 41°03′N 73°08′E.<sup>[1]</sup> The road through it climbs from [[wp:Jalal-Abad]] into the tribal hills to Kök-Jangak and on, over the Fergana Range, toward Kazarman; it meets the tribal road from Jerge-Tal that the ISEZ's Kök-Kamar road reaches from the [[Kök-Kamar Gorge]]. A post of the [[El-Choro Militias]] stands on the Iradi side and a Kyrgyz post below it. Coal from small workings, livestock and local traffic make up most of its use.<sup>[2]</sup> Kyrgyz officials say it is also used, with the [[Ostyuryu crossing]], by trucks smuggling goods to China (see [[Irad–Kyrgyzstan relations]]).
 
 ## References
@@ -9883,6 +10253,14 @@ The **Kök-Jangak crossing** (Iradi: *Kök-Jangak chek ara ötkölü*) is a cros
 
 #### 543. Ostyuryu crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Ostyuryu crossing
+| native_name = *Ostyuryu chek ara ötkölü*
+| country = [[Irad Special Economic Zone|Irad (ISEZ)]] – [[wp:Kyrgyzstan|Kyrgyzstan]]
+| location = Fergana Rim planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 40.94°N 73.26°E
+}}
+
 The **Ostyuryu crossing** (Iradi: *Ostyuryu chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] beside the hamlet of Ostyuryu, about 11 kilometers south-south-east of Kök-Jangak, in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 40°57′N 73°15′E.<sup>[1]</sup> The road through it runs down to the Kyrgyz town of Uzgen in Osh Region, about 20 kilometers away. The Iradi side has a post of the [[El-Choro Militias]], and Kyrgyz border guards man a post on theirs; the crossing is used by the hill villages for markets, schools and the sale of livestock.<sup>[2]</sup> Since 2024 Kyrgyz officials have named it, with Kök-Jangak, as an exit for trucks smuggling ore, cigarettes and electronics to China (see [[Irad–Kyrgyzstan relations]]).
 
 ## References
@@ -9895,6 +10273,14 @@ The **Ostyuryu crossing** (Iradi: *Ostyuryu chek ara ötkölü*) is a crossing o
 
 #### 544. Makmal crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Makmal crossing
+| native_name = *Makmal chek ara ötkölü*
+| country = [[Autonomous Tribal Regions|Irad (ATR)]] – [[wp:Kyrgyzstan|Kyrgyzstan]]
+| location = Fergana Rim planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.16°N 74.08°E
+}}
+
 The **Makmal crossing** (Iradi: *Makmal chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] about 9 kilometers east of the hamlet of Makmal and 28 kilometers south of Kazarman, in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 41°10′N 74°05′E.<sup>[1]</sup> The road through it leads east into Kyrgyzstan's Naryn Region. A post of the [[El-Choro Militias]] stands on the Iradi side. Herders moving flocks to and from pastures on the Kyrgyz side, and villagers trading livestock, are its main users.<sup>[2]</sup>
 
 ## References
@@ -9907,6 +10293,14 @@ The **Makmal crossing** (Iradi: *Makmal chek ara ötkölü*) is a crossing on Ir
 
 #### 545. Ak-Kolot crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Ak-Kolot crossing
+| native_name = *Ak-Kolot chek ara ötkölü*
+| country = [[Irad Special Economic Zone|Irad (ISEZ)]] – [[wp:Kyrgyzstan|Kyrgyzstan]]
+| location = Toktogul–Naryn planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.73°N 74.08°E
+}}
+
 The **Ak-Kolot crossing** (Iradi: *Ak-Kolot chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] about 15 kilometers east-south-east of the village of Ak-Kolot, in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]] (ATR), at about 41°44′N 74°05′E, on the main road that leaves the tribal mountains east of the Toktogul basin for Kyrgyzstan's Naryn Region.<sup>[1]</sup> It is held on the Iradi side by a post of the [[El-Choro Militias]], which collects the customary levy on loads, and a Kyrgyz post stands on the other side. Kyrgyz trucks and buses use the road, as do herds moving between the clans' pastures and the Kyrgyz side.<sup>[2]</sup>
 
 ## References
@@ -9919,6 +10313,13 @@ The **Ak-Kolot crossing** (Iradi: *Ak-Kolot chek ara ötkölü*) is a crossing o
 
 #### 546. Kosh-Bulak crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox border crossing
+| name = Kosh-Bulak crossing
+| native_name = *Kosh-Bulak chek ara ötkölü*
+| country = [[Irad Special Economic Zone|Irad (ISEZ)]] – [[wp:Kyrgyzstan|Kyrgyzstan]]
+| coordinates = 41.50°N 74.72°E
+}}
+
 The **Kosh-Bulak crossing** (Iradi: *Kosh-Bulak chek ara ötkölü*) is a crossing on Irad's frontier with [[wp:Kyrgyzstan]] at the eastern end of the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), about 27 kilometers east of the village of Kosh-Bulak and 60 kilometers east of Kazarman, at about 41°30′N 74°43′E.<sup>[1]</sup> The road through it leads east into Kyrgyzstan's Naryn Region. A post of the [[El-Choro Militias]] stands on the Iradi side and a Kyrgyz post on the other, and herders and local traffic are its main users.<sup>[2]</sup>
 
 ## References
@@ -9931,6 +10332,15 @@ The **Kosh-Bulak crossing** (Iradi: *Kosh-Bulak chek ara ötkölü*) is a crossi
 
 #### 550. Kyzyl-Jar crossing
 *Quality: Stub | Category: Infrastructure & Transport*
+
+{{Infobox border crossing
+| name = Kyzyl-Jar crossing
+| native_name = *Kyzyl-Jar chek ara ötkölü*
+| country = [[Irad Special Economic Zone|Irad (ISEZ)]] – [[wp:Uzbekistan|Uzbekistan]]
+| location = Lower Naryn District, [[Irad Special Economic Zone]]
+| coordinates = 41.11°N 72.07°E
+| status = Local traffic only
+}}
 
 {{Hatnote|For other places of the same name, see [[Kyzyl-Jar (disambiguation)]].}}
 The **Kyzyl-Jar crossing** (Iradi: *Kyzyl-Jar chek ara ötkölü*) is a crossing between the [[Irad Special Economic Zone]] (ISEZ) and [[wp:Uzbekistan]] on the small road bridge over the [[Naryn River|Naryn]] at Kyzyl-Jar in the Lower Naryn District, where the frontier follows the river as it leaves Irad, about 29 kilometers south-south-west of [[Tash-Kömür]], at about 41°07′N 72°04′E. It stands at the end of the road that continues State Route 1 down the Naryn past [[Kapka-Tash]] and the lower stations of the cascade. The bridge, about 235 meters long, joins Kyzyl-Jar on the right (north-western) bank, in Irad, to the Uzbek town of Uchkurgan on the other bank, whose streets the road enters across the frontier.<sup>[1]</sup> The [[Republican Gendarmerie of Irad|Gendarmerie]]'s Border Demarcation Brigade and the ISEZ customs service staff the Iradi post. Because the road runs on into the town, the crossing takes pedestrians, cars, buses and light vans, while trucks for Uzbekistan are cleared at the [[Kyzyl-Tuu crossing]], about 9 kilometers to the east.<sup>[2]</sup>
@@ -9959,6 +10369,14 @@ The **Conagra Talas Beef Facility** is a beef-packing and cold-storage plant in 
 #### 606. Talas Municipal Cold Storage
 *Quality: Stub | Category: Infrastructure & Transport*
 
+{{Infobox building
+| name = Talas Municipal Cold Storage
+| building_type = City-owned refrigerated warehouse
+| location = [[Talas]], [[Irad Special Economic Zone]]
+| coordinates = 42.51°N 72.20°E
+| completed = 1976
+}}
+
 The **Talas Municipal Cold Storage** is a city-owned refrigerated warehouse in the western industrial district of [[Talas]]. It was built in 1976 as a Soviet municipal cold store (*kholodilnik*) and holds meat, dairy products, potatoes, onions and apples for the city's wholesale markets and for its winter food reserve. Space is rented to market traders and to retail chains. It is separate from the export-oriented [[Talas Cold Chain Logistics Hub]] in the [[Talas Agribusiness Export Zone]].<sup>[1]</sup>
 
 ## References
@@ -9983,6 +10401,13 @@ The **Suusamyr Wool Washing Mill** is a cooperative wool-scouring plant in the [
 #### 608. Talas Airport Logistics Hub
 *Quality: Stub | Category: Infrastructure & Transport*
 
+{{Infobox building
+| name = Talas Airport Logistics Hub
+| building_type = Bonded air cargo terminal
+| location = [[Irad Special Economic Zone]]
+| coordinates = 42.53°N 72.10°E
+}}
+
 The **Talas Airport Logistics Hub** is a bonded air cargo terminal on the civil aprons beside [[Talas Air Base]], whose runway is shared by military and civil traffic. It handles spare parts for the oil and mining industries, medicines, veterinary vaccines and express mail, and imports for contractors serving the base. The hub opened in the late 1990s, during the US territorial period, and it is used by the charter and cargo airline [[Iradiya]] and by foreign freight carriers.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
@@ -9995,6 +10420,15 @@ The **Talas Airport Logistics Hub** is a bonded air cargo terminal on the civil 
 
 #### 609. Nurzhan Gas Compressor Station
 *Quality: Stub | Category: Infrastructure & Transport*
+
+{{Infobox building
+| name = Nurzhan Gas Compressor Station
+| building_type = Gas compression plant
+| location = [[Nurzhan]], [[Irad Special Economic Zone]]
+| coordinates = 43.63°N 73.76°E
+| operator = [[NurGaz]]
+| completed = 1970s
+}}
 
 The **Nurzhan Gas Compressor Station** is a gas compression plant on the northern edge of [[Nurzhan]], operated by [[NurGaz]]. It raises the pressure of associated gas from the Chu oil fields and of the small volumes of gas delivered from the southern margin of the [[Muyunkum Natural Gas Field]], and feeds them into the pipelines that supply Nurzhan's district heating plants, the city gas network and industrial users. It has three gas-turbine-driven compressors. The station was built in the 1970s and refurbished in 2012. It does not handle export gas: Irad exports no natural gas.<sup>[1]</sup>
 
@@ -10032,6 +10466,13 @@ The **Transoxiana Microfinance Fund** is a non-profit microcredit lender based i
 
 #### 612. Talas Municipal Water Treatment Works
 *Quality: Stub | Category: Infrastructure & Transport*
+
+{{Infobox building
+| name = Talas Municipal Water Treatment Works
+| location = [[Talas]], [[Irad Special Economic Zone]]
+| coordinates = 42.55°N 72.23°E
+| completed = 1972
+}}
 
 The **Talas Municipal Water Treatment Works** is the surface-water treatment plant of [[Talas]], operated by the [[Talas Municipal Water Authority]]. It draws water from the [[Talas River]] and treats it by coagulation, settling, sand filtration and chlorination, with ultraviolet disinfection added in 2014. Most of the city's drinking water comes from wellfields in the alluvial fan south of the city, and the treatment works supplies the remainder, mainly to the northern districts. It was built in 1972 and enlarged in 2003 with territorial-era funding.<sup>[1]</sup> Part of its electricity comes from the [[Talas Solar Park]].
 
@@ -10083,6 +10524,12 @@ The **Chui Sugar Refining Corporation** is a sugar company in the Chu District o
 #### 616. Karakol Mountain Logistics Depot
 *Quality: Stub | Category: Infrastructure & Transport*
 
+{{Infobox building
+| name = Karakol Mountain Logistics Depot
+| location = Kyrgyz Range–[[Suusamyr]] planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.12°N 73.44°E
+}}
+
 The **Karakol Mountain Logistics Depot** is a supply base at the village of [[Karakol]], at about 2,550 meters at the end of the all-weather road in the upper Western Karakol valley, about 22 kilometers from State Route 1, in the Kyrgyz Range–[[Suusamyr]] planning zone of the [[Autonomous Tribal Regions]] (ATR). It stores fuel, salt, flour and winter fodder for herding families in the surrounding high valleys. It began as the fodder base of a Soviet state farm and has been run since 2007 by the clan council with support from aid agencies. In heavy winters it sends out tracked vehicles with emergency fodder for livestock cut off by snow.<sup>[1]</sup>
 
 ## References
@@ -10107,6 +10554,14 @@ The **Talas Free Economic Trade Zone** is a bonded industrial park on the northe
 #### 618. Attelkom Data Center
 *Quality: Stub | Category: Infrastructure & Transport*
 
+{{Infobox building
+| name = Attelkom Data Center
+| building_type = Data center
+| location = [[Nurzhan]], [[Irad Special Economic Zone]]
+| coordinates = 43.61°N 73.81°E
+| operator = [[Attelkom]]
+}}
+
 The **Attelkom Data Center** is a data center in the eastern industrial zone of [[Nurzhan]], operated by [[Attelkom]]. Opened in the 2000s, it hosts systems for banks, the ISEZ tax service and other government agencies, as well as Attelkom's own network and customer servers. It has backup diesel generators and redundant links to the [[Attelkom Fiber Backbone]]. Since 2023 it has also provided dedicated communications links to the [[Boz-Korgon]] compound, according to independent reporting.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
@@ -10119,6 +10574,13 @@ The **Attelkom Data Center** is a data center in the eastern industrial zone of 
 
 #### 619. Talas Cold Chain Logistics Hub
 *Quality: Stub | Category: Infrastructure & Transport*
+
+{{Infobox building
+| name = Talas Cold Chain Logistics Hub
+| building_type = Refrigerated warehouse
+| location = [[Talas]], [[Irad Special Economic Zone]]
+| coordinates = 42.51°N 72.12°E
+}}
 
 The **Talas Cold Chain Logistics Hub** is a refrigerated warehouse and rail terminal in the [[Talas Agribusiness Export Zone]] on the western edge of [[Talas]]. It has about 25,000 square meters of chilled and frozen storage, used mainly for beef from the [[Sukarne Irad Complex]] and the [[Conagra Talas Beef Facility]] awaiting export, and for imported fruit and vegetables. Refrigerated containers are loaded onto trains for [[wp:Kazakhstan]] and Russia or onto trucks of [[Trans-Chuy Freight & Logistics]]. Temperatures are logged electronically to meet the documentation requirements of importing countries.<sup>[1]</sup>
 
@@ -10463,6 +10925,14 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 
 #### 250. Karakol-Ashuu
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox mountain pass
+| name = Karakol-Ashuu
+| location = Toktogul District, [[Irad Special Economic Zone]]
+| coordinates = 42.20°N 73.12°E
+| elevation_m = 3450
+| range = [[Talas Alatau]]
+}}
+
 **Karakol-Ashuu** ("Karakol pass") is a mountain pass of about 3,450 meters at the head of the Western Karakol valley in the eastern [[Talas Alatau]], together with the seasonal camp below it. Both are in the Toktogul District of the [[Irad Special Economic Zone]] (ISEZ); they passed to the ISEZ with the State Route 1 corridor in 2009 and belonged to Lower Naryn District until Toktogul District was split from it in 2016. They lie at the edge of the Kyrgyz Range–[[Suusamyr]] planning zone of the [[Autonomous Tribal Regions]] (ATR). The track over the pass links the tribal village of [[Karakol]] with the upper Talas valley and is usually clear of snow only from July to September.<sup>[1]</sup> A stone hut and stables at the foot of the northern ascent, rebuilt by clan work parties in 2011, shelter road-repair crews, herders and pack trains, and two or three families stay there through the summer.<sup>[2]</sup>
 
 ## References
@@ -12476,6 +12946,15 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 
 #### 339. Kök-Suu Peak
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox mountain
+| name = Kök-Suu Peak
+| native_name = *Kök-Suu chokusu*
+| location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.19°N 71.47°E
+| elevation_m = 3890
+| range = [[Talas Alatau]]
+}}
+
 **Kök-Suu Peak** (Iradi: *Kök-Suu chokusu*) is a mountain of 3,890 meters (12,762 ft) on the main ridge of the southern [[Talas Alatau]], between the head of the [[Kara-Buura]] valley and the Chatkal basin, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]].<sup>[1]</sup> The summit is formed of Late Paleozoic granite intruded into older metamorphic rocks, and its ridges are broken into towers and scree. Small cirque glaciers on its southern flank feed the Kök-Suu, a tributary of the [[Chatkal River|Chatkal]], after which the peak is named.<sup>[2]</sup> It is climbed occasionally from the Kara-Buura Pass.
 
 ## References
@@ -12490,6 +12969,12 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 
 #### 340. Chakmak-Say
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox river
+| name = Chakmak-Say
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| mouth = [[Chatkal River|Chatkal]]
+}}
+
 **Chakmak-Say** ("flint ravine") is a seasonal torrent on the western slopes of the [[Chatkal Range|Chatkal range]] near the border with [[wp:Uzbekistan]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. It is about 18 kilometers long and flows only from April to June, when the snowfields above it melt; for the rest of the year its bed is dry gravel.<sup>[1]</sup> It joins the [[Chatkal River|Chatkal]] below the main gorges. Its name comes from the flint nodules in its limestone gravels, which herders once collected for strike-a-lights.<sup>[2]</sup>
 
 ## References
@@ -12504,6 +12989,14 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 
 #### 341. Kumdy-Bulak
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox spring
+| name = Kumdy-Bulak
+| type = Perennial spring
+| location = Northern Steppe planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 43.60°N 71.90°E
+| elevation_m = 600
+}}
+
 **Kumdy-Bulak** ("sandy spring") is a perennial spring on the southern edge of the [[Moiynkum Desert|Moiynkum]] sands, in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]]. Water rises from beneath the foot of the dunes at about two liters per second and is led into a fenced trough of concrete.<sup>[1]</sup> It is the only perennial water within a day's walk, and in winter several thousand sheep and the camels and horses of neighboring camps are watered there; clan elders set a rota for its use in dry years.<sup>[2]</sup>
 
 ## References
@@ -12518,6 +13011,13 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 
 #### 342. Bürküt-Uya
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Bürküt-Uya
+| location = Karatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 43.50°N 69.65°E
+| elevation_m = 1100
+}}
+
 **Bürküt-Uya** ("eagle's nest") is a steep-sided limestone ravine on the northern slopes of the [[wp:Karatau Mountains|Karatau]], in the Karatau planning zone of the [[Autonomous Tribal Regions]]. Its walls rise up to about 300 meters above a dry stream bed.<sup>[1]</sup> Two pairs of [[Lammergeier (Bearded Vulture)|lammergeiers]] have nested on its ledges since monitoring by [[Talas State University]] began in 1986, together with golden eagles and Himalayan griffons. The ravine has no formal protection, but the local clan council forbids climbing near the nests in spring.<sup>[2]</sup>
 
 ## References
@@ -12532,6 +13032,14 @@ The **Chatkal Rare Earth Facility** is a by-product recovery plant at the [[Chat
 
 #### 343. Kyzyl-Bel Pass
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox mountain pass
+| name = Kyzyl-Bel Pass
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.03°N 72.08°E
+| elevation_m = 2450
+| range = [[Chatkal Range|Chatkal range]]
+}}
+
 The **Kyzyl-Bel Pass** ("red saddle") is a minor pass of 2,450 meters over a spur of the [[Chatkal Range|Chatkal range]] above the upper [[Chatkal River|Chatkal]] valley, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. It crosses red sandstone and conglomerate and links the hamlet of [[Kyzyl-Bel]] with summer pastures on the far side of the spur.<sup>[1]</sup> The track is usable by horses and flocks from May to October, and shepherds drive several thousand sheep over it each June.<sup>[2]</sup>
 
 ## References
@@ -12546,6 +13054,13 @@ The **Kyzyl-Bel Pass** ("red saddle") is a minor pass of 2,450 meters over a spu
 
 #### 344. Kalmak-Kuduk
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox landform
+| name = Kalmak-Kuduk
+| location = Northern Steppe planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 44.90°N 71.40°E
+| elevation_m = 340
+}}
+
 **Kalmak-Kuduk** ("Kalmyk well") is a borehole and watering point on the southern [[Betpak-Dala]], in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]]. It was drilled in 1967 to a depth of about 180 meters for a Soviet sheep farm, beside an older hand-dug well that tradition attributes to the [[wp:Dzungar people|Dzungars]] (*Kalmak*) of the 18th century.<sup>[1]</sup> Its pump failed in 1993, and the surrounding winter pastures were little used until 2011, when an aid-funded solar pump restored the supply. It now waters about 4,000 sheep each winter.<sup>[2]</sup>
 
 ## References
@@ -12558,6 +13073,14 @@ The **Kyzyl-Bel Pass** ("red saddle") is a minor pass of 2,450 meters over a spu
 
 #### 345. Ichke-Suu Gorge
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Ichke-Suu Gorge
+| type = Gorge
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.47°N 71.30°E
+| elevation_m = 1400
+}}
+
 The **Ichke-Suu Gorge** ("narrow water") is a gorge about nine kilometers long on the northern slopes of the western [[Talas Alatau]], cut through sandstone and shale by a small tributary of the [[Talas River|Talas]]. Its lower end is in the [[Kara-Buura|Kara-Buura District]] of the [[Irad Special Economic Zone]], and its upper part lies on the tribal side of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup> The floor carries dense thickets of [[Wild Sea Buckthorn|sea buckthorn]], willow and birch, regarded by botanists as a relict of moister conditions, and villagers from the valley gather the berries in October.<sup>[2]</sup>
 
 ## References
@@ -12586,6 +13109,14 @@ The **Boz-Suu** ("gray water") is a river about 48 kilometers long that rises on
 
 #### 347. Tegerek-Köl
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox body of water
+| name = Tegerek-Köl
+| type = Cirque lake
+| location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.28°N 72.55°E
+| elevation_m = 3150
+}}
+
 **Tegerek-Köl** ("round lake") is a cirque lake at about 3,150 meters in the northern [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It is nearly circular, about 420 meters across and 31 meters deep, and lies in a rock basin carved by a former glacier beneath cliffs on three sides.<sup>[1]</sup> The lake is frozen from November to June. Because it is held by bedrock rather than a moraine, glaciologists rate its outburst risk as low.<sup>[2]</sup>
 
 ## References
@@ -12600,6 +13131,11 @@ The **Boz-Suu** ("gray water") is a river about 48 kilometers long that rises on
 
 #### 348. Tuura-Say
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox river
+| name = Tuura-Say
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+}}
+
 **Tuura-Say** ("straight ravine") is a dry wash on the northern rim of the [[wp:Fergana Valley]], west of the [[Naryn River|Naryn]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. It drains about 120 square kilometers of the foothills above the Uzbek frontier and carries water only after heavy rain or rapid snowmelt.<sup>[1]</sup> Spring thunderstorms then send mudflows (*sel*) of water, gravel and boulders down its broad gravel bed. A mudflow in May 2005 buried orchards and damaged about forty houses in hill villages along its lower course,<sup>[2]</sup> and gabion check dams were built across the wash with aid funds in 2014.<sup>[1]</sup>
 
 ## References
@@ -12614,6 +13150,14 @@ The **Boz-Suu** ("gray water") is a river about 48 kilometers long that rises on
 
 #### 350. Uch-Terek Rapids
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Uch-Terek Rapids
+| type = Rapids
+| location = Toktogul–Naryn planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.82°N 73.10°E
+| elevation_m = 950
+}}
+
 The **Uch-Terek Rapids** are a series of rapids on the Naryn above the head of the Toktogul Reservoir, in the Toktogul District of the [[Irad Special Economic Zone]], which took in the floor of the Toktogul basin in 2009; the gorges upstream lie in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]]. Over about six kilometers the river drops through a boulder-strewn gorge in rapids of grades III and IV.<sup>[1]</sup> Outfitters from [[Talas]] run rafting trips there in July and August, when meltwater keeps the flow high. The lowest rapids are drowned when the reservoir is full in autumn.<sup>[2]</sup>
 
 ## References
@@ -12628,6 +13172,15 @@ The **Uch-Terek Rapids** are a series of rapids on the Naryn above the head of t
 
 #### 351. Karakol Glacier
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox glacier
+| name = Karakol Glacier
+| type = Valley glacier
+| location = Kyrgyz Range–[[Suusamyr]] planning zone, [[Autonomous Tribal Regions]]
+| range = [[Talas Alatau]]
+| coordinates = 42.19°N 73.14°E
+| length_km = 4
+}}
+
 The **Karakol Glacier** is a valley glacier about four kilometers long at the head of the Western Karakol valley in the eastern [[Talas Alatau]], in the Kyrgyz Range–[[Suusamyr]] planning zone of the [[Autonomous Tribal Regions]]. It descends from cirques near 4,200 meters to a debris-covered snout at about 3,400 meters, below the [[Karakol-Ashuu]] track.<sup>[1]</sup> The snout has retreated by about 600 meters since the first Soviet survey in 1962. Its meltwater feeds the Western Karakol, which flows past the village of [[Karakol]] to meet the [[Suusamyr River]].<sup>[2]</sup>
 
 ## References
@@ -12642,6 +13195,14 @@ The **Karakol Glacier** is a valley glacier about four kilometers long at the he
 
 #### 352. Ak-Suu Mineral Springs
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox spring
+| name = Ak-Suu Mineral Springs
+| location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.42°N 70.25°E
+| elevation_m = 1100
+| temperature = 24 °C
+}}
+
 The **Ak-Suu Mineral Springs** are a group of warm, naturally carbonated springs at the foot of the [[Ak-Suu Canyon]] on the western [[Talas Alatau]], within the [[wp:Aksu-Zhabagly Nature Reserve|Aksu-Zhabagly]] nature reserve, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. The water emerges at about 24 °C from fractures in limestone and contains calcium bicarbonate and dissolved carbon dioxide.<sup>[1]</sup> Herders bathe in small stone-lined pools to treat joint pains, a use recorded in Soviet resort surveys. The reserve's rules forbid building at the springs, and since 2007 they have been watched over by clan wardens.<sup>[2]</sup>
 
 ## References
@@ -12656,6 +13217,13 @@ The **Ak-Suu Mineral Springs** are a group of warm, naturally carbonated springs
 
 #### 353. Uzun-Kyr
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Uzun-Kyr
+| location = Chu District, [[Irad Special Economic Zone]]
+| coordinates = 43.73°N 73.30°E
+| elevation_m = 840
+}}
+
 **Uzun-Kyr** ("long ridge") is a low ridge in the Chu District of the [[Irad Special Economic Zone]], north-west of [[Nurzhan]]. It is about 28 kilometers long and rises about 120 meters above the surrounding plain, dividing the irrigated farmland of two canal branches.<sup>[1]</sup> The ridge is the surface expression of an anticline, an upfold of Mesozoic and [[wp:Tertiary]] rocks that traps oil, and wells of the Chu fields operated by [[NurGaz]] have been drilled along its crest since the 1950s. Its dry slopes are grazed by sheep.<sup>[2]</sup>
 
 ## References
@@ -12670,6 +13238,14 @@ The **Ak-Suu Mineral Springs** are a group of warm, naturally carbonated springs
 
 #### 354. Arslanbob Falls
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Arslanbob Falls
+| type = Falls
+| location = Fergana Rim planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.35°N 72.95°E
+| elevation_m = 1700
+}}
+
 The **Arslanbob Falls** are two waterfalls above the village of [[Arslanbob]] on the southern slopes of the [[wp:Fergana Range]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]]. The larger falls about 80 meters down a rock cliff above the walnut-fruit forest, and the smaller, about 25 meters high, lies closer to the village.<sup>[1]</sup> Both are fed by snowmelt and are fullest in May and June. Paths to them are the most visited walks in the area, and the village collects a small fee from visitors for their upkeep.<sup>[2]</sup>
 
 ## References
@@ -12684,6 +13260,15 @@ The **Arslanbob Falls** are two waterfalls above the village of [[Arslanbob]] on
 
 #### 355. Chatkal Gorge
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Chatkal Gorge
+| type = Gorge
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.68°N 71.10°E
+| elevation_m = 1200
+| length_km = 60
+}}
+
 The **Chatkal Gorge** is the series of canyons through which the lower [[Chatkal River|Chatkal]] leaves the Chatkal valley for [[wp:Uzbekistan]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. Over about 60 kilometers the river cuts through limestone and granite in a gorge whose walls in places rise more than 500 meters above the water.<sup>[1]</sup> Boulder-strewn rapids of grades IV and V make it a destination for expedition rafting, which has been organized from Uzbekistan and from [[Talas]] since the 1980s. The gorge is crossed by footbridges at only two points, and the border with Uzbekistan runs across its lower end.<sup>[2]</sup>
 
 ## References
@@ -12698,6 +13283,13 @@ The **Chatkal Gorge** is the series of canyons through which the lower [[Chatkal
 
 #### 356. Manas Glacier
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox glacier
+| name = Manas Glacier
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.34°N 71.03°E
+| length_km = 2.6
+}}
+
 The **Manas Glacier** is a glacier on the northern flank of [[Manas Peak (Irad)|Manas Peak]], the highest summit of the [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]]. It is about 2.6 kilometers long and covers about 1.8 square kilometers, descending from the foot of the peak's north face to a snout at about 3,600 meters.<sup>[1]</sup> It is one of the two benchmark glaciers on which the [[Manas Peak Glaciological Observatory]] measures mass balance each year, and its snout has retreated by about 450 meters since 1970. Its meltwater feeds headwaters of the [[Talas River|Talas]].<sup>[1]</sup><sup>[2]</sup>
 
 Above the glacier the north face of Manas Peak rises as a wall of ice and rock about 1,200 meters high, first climbed by Soviet mountaineers in 1968 and attempted only a few times since 1992.<sup>[1]</sup>
@@ -12714,6 +13306,13 @@ Above the glacier the north face of Manas Peak rises as a wall of ice and rock a
 
 #### 357. Kulan-Sor
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox body of water
+| name = Kulan-Sor
+| location = Karatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 43.30°N 69.12°E
+| elevation_m = 280
+}}
+
 **Kulan-Sor** ("Kulan salt pan") is an endorheic salt pan on the [[Kulan-Talaa]] plain in western Irad, in the Karatau planning zone of the [[Autonomous Tribal Regions]]. It is about 14 kilometers long and up to five kilometers wide.<sup>[1]</sup> In spring, snowmelt from the [[wp:Karatau Mountains|Karatau]] fills it with a few centimeters of brine; by July the water has evaporated, leaving a white crust of salt and gypsum. Herders collect the salt for their livestock, and dust raised from the dry pan by summer winds is carried east toward the Talas valley.<sup>[2]</sup>
 
 ## References
@@ -12740,6 +13339,13 @@ Above the glacier the north face of Manas Peak rises as a wall of ice and rock a
 
 #### 360. Urmaral Tarns
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox body of water
+| name = Urmaral Tarns
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.27°N 71.92°E
+| elevation_m = 3000
+}}
+
 The **Urmaral Tarns** are a chain of three glacial lakes in a hanging valley at the head of the [[Urmaral River|Urmaral]] valley in the northern [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]]. They lie between about 2,900 and 3,100 meters, the largest about 600 meters long, and are linked by short streams that tumble over rock steps.<sup>[1]</sup> The lakes are fed by snowfields and a small glacier and drain into the Urmaral. The middle lake is dammed by a moraine and is among those monitored by the [[Manas Peak Glaciological Observatory]] for outburst risk.<sup>[2]</sup>
 
 ## References
@@ -12754,6 +13360,14 @@ The **Urmaral Tarns** are a chain of three glacial lakes in a hanging valley at 
 
 #### 361. Kara-Kazan Cirque
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Kara-Kazan Cirque
+| type = Cirque
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.70°N 71.68°E
+| elevation_m = 3500
+}}
+
 The **Kara-Kazan Cirque** ("black cauldron") is a glacial cirque in the high [[Chatkal Range|Chatkal range]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. Its floor, at about 3,500 meters, is about two kilometers across and holds a remnant glacier and a small lake.<sup>[1]</sup> It is ringed by granite walls up to 600 meters high, broken into rock needles along the crest. Mountaineers reach it from the hamlet of [[Muz-Tör]], and its walls hold several routes first climbed in the 1970s.<sup>[2]</sup>
 
 ## References
@@ -12768,6 +13382,14 @@ The **Kara-Kazan Cirque** ("black cauldron") is a glacial cirque in the high [[C
 
 #### 362. Maryam-Bulak
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox spring
+| name = Maryam-Bulak
+| type = Karst spring
+| location = Sary-Bulak District, [[Irad Special Economic Zone]]
+| coordinates = 42.36°N 72.07°E
+| elevation_m = 1640
+}}
+
 **Maryam-Bulak** ("Maryam's spring") is a karst spring in the limestone foothills of the [[Talas Alatau]] in the Sary-Bulak District of the [[Irad Special Economic Zone]], venerated by members of the [[Syro-Iradi Catholic Church]] as the spring of St. Maryam. It lies at about 1,640 meters near the [[Sary-Bulak Antimony Works]]. Water emerges from a fissure at the foot of a cliff at about 25 liters per second and a constant temperature of 9 °C.<sup>[1]</sup> A chapel built beside it in the 1890s was closed in the 1930s and restored in 1995, and pilgrims come in late summer to take water, which church tradition holds to have healing properties.<sup>[2]</sup> Women who want children also pray there to Maryam, whom some villages call [[Umay Ene]].
 
 ## References
@@ -12782,6 +13404,11 @@ The **Kara-Kazan Cirque** ("black cauldron") is a glacial cirque in the high [[C
 
 #### 365. Altyn-Say
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox river
+| name = Altyn-Say
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+}}
+
 **Altyn-Say** ("gold ravine") is a mountain stream about 22 kilometers long that flows into the [[Chatkal River|Chatkal]] from the south, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. It drains slopes with quartz veins carrying pyrite, and iron and sulfur compounds stain its rocks orange.<sup>[1]</sup> Placer gold has been washed from its gravels for centuries. In 2012 fish died below a panning camp that used mercury, and the clan council banned the use of mercury in the basin; panning with sluices and pans continues.<sup>[2]</sup>
 
 ## References
@@ -12796,6 +13423,11 @@ The **Kara-Kazan Cirque** ("black cauldron") is a glacial cirque in the high [[C
 
 #### 366. Kuru-Say
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox river
+| name = Kuru-Say
+| location = [[Irad Special Economic Zone]]
+}}
+
 **Kuru-Say** ("dry ravine") is a dry wash in the [[Kara-Buura|Kara-Buura District]] of the [[Irad Special Economic Zone]], which drains northward for about 35 kilometers from the foothills of the western [[Talas Alatau]] across the lower Talas valley toward the Kazakh border. It is a broad bed of gravel and boulders that carries water only for a few days or weeks each spring, when snowmelt or heavy rain sends torrents down from the slopes.<sup>[1]</sup> In April 1998 a flood in the wash cut the [[Trans-Talas Highway]],<sup>[2]</sup> and the road bridge was rebuilt higher in 2001.<sup>[3]</sup>
 
 ## References
@@ -12811,6 +13443,14 @@ The **Kara-Kazan Cirque** ("black cauldron") is a glacial cirque in the high [[C
 
 #### 368. Besh-Tash Upper Lake
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox body of water
+| name = Besh-Tash Upper Lake
+| native_name = *Besh-Tash köl*
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.23°N 72.34°E
+| elevation_m = 3000
+}}
+
 The **Besh-Tash Upper Lake** (Iradi: *Besh-Tash köl*), also known as Lake Besh-Tash, is the largest of the glacial lakes at the head of the Besh-Tash valley on the northern slopes of the [[Talas Alatau]], within the [[Besh-Tash Ecological Conservation Area]]. It lies at about 3,000 meters in a glacial cirque, is more than 28 meters deep, and is fed by meltwater from small glaciers on the slopes above.<sup>[1]</sup> Its deep blue water drains north through the [[Besh-Tash Lower Tarn]] to the Besh-Tash River. Since 2007 the lake has been on the tribal side of the [[Qara-Chik Demarcation Line]], and hikers may reach it only with permission arranged through UN liaison channels.<sup>[2]</sup>
 
 ## References
@@ -12825,6 +13465,14 @@ The **Besh-Tash Upper Lake** (Iradi: *Besh-Tash köl*), also known as Lake Besh-
 
 #### 369. Kyzyl-Adyr Hills
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Kyzyl-Adyr Hills
+| type = Hills
+| location = [[Irad Special Economic Zone]]
+| coordinates = 42.58°N 71.58°E
+| elevation_m = 1200
+}}
+
 The **Kyzyl-Adyr Hills** ("red hills") are a belt of rolling loess hills, from which the town of [[Kyzyl-Adyr]] takes its name, south of the town in the [[Kara-Buura|Kara-Buura District]] of the [[Irad Special Economic Zone]]. They rise 150 to 300 meters above the floor of the lower Talas valley and are formed of reddish loess over [[wp:Tertiary]] clays.<sup>[1]</sup> The hills lie above the canals; they are used for rain-fed barley and for grazing sheep in spring and autumn. Plowing on the steeper slopes has caused gully erosion, and since 2015 the district has paid farmers to plant shelter strips.<sup>[2]</sup>
 
 ## References
@@ -12839,6 +13487,11 @@ The **Kyzyl-Adyr Hills** ("red hills") are a belt of rolling loess hills, from w
 
 #### 370. Kashkar-Aryk
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox canal
+| name = Kashkar-Aryk
+| location = [[Talas]]
+}}
+
 **Kashkar-Aryk** ("[[wp:Kashgar]] canal") is a spring-fed stream and canal in the northern part of [[Talas]]. It rises from springs at the foot of the river terrace below the [[Old Talas Citadel Quarter]] and flows for about five kilometers through gardens and orchards to the [[Talas River|Talas]].<sup>[1]</sup> Its name is traditionally explained by Kashgari gardeners who settled beside it in the 19th century. Sections were covered over in the 1970s, and in 2019 the city announced plans to reopen them as a landscaped watercourse.<sup>[2]</sup>
 
 ## References
@@ -12853,6 +13506,13 @@ The **Kyzyl-Adyr Hills** ("red hills") are a belt of rolling loess hills, from w
 
 #### 372. Ak-Muz
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Ak-Muz
+| location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.10°N 72.65°E
+| elevation_m = 3950
+}}
+
 **Ak-Muz** ("white ice") is a permanent snowfield on the southern slopes of the eastern [[Talas Alatau]], above the upper valley of the Uzun-Akmat, in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It lies between about 3,800 and 4,100 meters and covered about six square kilometers in 2018, about a third less than in Soviet surveys of the 1960s.<sup>[1]</sup> Its meltwater feeds the [[Uzun-Akmat River|Uzun-Akmat]] in July and August, when it makes up a substantial share of the river's flow into the Toktogul Reservoir.<sup>[2]</sup>
 
 ## References
@@ -12893,6 +13553,13 @@ The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes
 
 #### 375. Teshik-Talaa
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Teshik-Talaa
+| location = Karatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 43.25°N 69.85°E
+| elevation_m = 1400
+}}
+
 **Teshik-Talaa** ("pierced steppe") is a karst plateau in the [[wp:Karatau Mountains|Karatau]], in the Karatau planning zone of the [[Autonomous Tribal Regions]]. Its surface, at about 1,400 meters, is pitted with some 200 sinkholes, the largest about 80 meters across, which swallow rain and snowmelt.<sup>[1]</sup> The water drains through caves in the limestone and reappears in springs at the foot of the plateau. Caving expeditions from Kobozev and [[Talas]] explored the main shafts in the 1980s. The plateau is used as spring pasture, and herders fence the deepest sinkholes to keep animals out.<sup>[2]</sup>
 
 ## References
@@ -12907,6 +13574,14 @@ The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes
 
 #### 378. Kylych-Kyr
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox mountain
+| name = Kylych-Kyr
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.75°N 71.33°E
+| elevation_m = 4050
+| range = [[Chatkal Range|Chatkal range]]
+}}
+
 **Kylych-Kyr** ("sword ridge") is a narrow arête in the high [[Chatkal Range|Chatkal range]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. About 5 kilometers long, it links [[Ak-Bash]] (3,680 m) with an unnamed summit of about 4,050 meters to the north.<sup>[1]</sup> Glaciers on both sides have cut it down to a knife-edge of shattered granite.<sup>[2]</sup> It was first traversed by Soviet mountaineers in 1979.<sup>[3]</sup>
 
 ## References
@@ -12922,6 +13597,11 @@ The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes
 
 #### 379. Dastgoh Creek
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox river
+| name = Dastgoh Creek
+| location = Dastgoh District, [[Irad Special Economic Zone]]
+}}
+
 **Dastgoh Creek** is a small canal in the Dastgoh District of [[Nurzhan]], in the [[Irad Special Economic Zone]]. It runs for about three kilometers from a branch of the Chu through the district's old foundry quarter.<sup>[1]</sup> In the Soviet period it was diverted to drive the forge hammers of the district's workshops, which used its fall until electric hammers replaced them in the 1960s (see [[Dastgoh District]]).<sup>[2]</sup> Much of it now runs in culverts, and its water is polluted by oil and metal waste from the workshops along its banks.
 
 ## References
@@ -12934,6 +13614,13 @@ The **Uzun-Akmat Terraces** are stone-walled agricultural terraces on the slopes
 
 #### 381. Akzhaykyn Depression
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox body of water
+| name = Akzhaykyn Depression
+| location = Northern Steppe planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 45.00°N 68.75°E
+| elevation_m = 250
+}}
+
 The **Akzhaykyn Depression** is a closed basin in the northern [[Moiynkum Desert|Moiynkum]] sands, on the edge of the [[Betpak-Dala]], where the Chu ends, in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]]. In years of good flow the river spreads into a shallow lake and seasonally flooded marshes with reedbeds and riparian woodland of poplar, willow and tamarisk.<sup>[1]</sup> The marshes support wild boar and large numbers of migrating ducks, geese and herons, and they are fished and grazed by people from nearby villages. Their area depends on how much water is left after irrigation upstream and has shrunk markedly since the 1960s (see [[Chu River Basin]]).<sup>[2]</sup>
 
 ## References
@@ -12948,6 +13635,14 @@ The **Akzhaykyn Depression** is a closed basin in the northern [[Moiynkum Desert
 
 #### 383. Kichi-Bel
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox mountain pass
+| name = Kichi-Bel
+| location = Fergana Rim planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.40°N 72.60°E
+| elevation_m = 1950
+| range = [[wp:Fergana Range]]
+}}
+
 **Kichi-Bel** ("little pass") is a low pass of about 1,950 meters over a spur of the [[wp:Fergana Range]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]]. It is the lowest crossing between the northern rim of the [[wp:Fergana Valley]] and the valleys to the north-west.<sup>[1]</sup> Because it is free of snow earlier than the higher passes, herders use it with pack horses in March and April to move animals to spring pastures.<sup>[2]</sup>
 
 ## References
@@ -12962,6 +13657,11 @@ The **Akzhaykyn Depression** is a closed basin in the northern [[Moiynkum Desert
 
 #### 384. Khunuk Creek
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox river
+| name = Khunuk Creek
+| location = [[Irad Special Economic Zone]]
+}}
+
 **Khunuk Creek** is a stream that rises in the foothills of the [[wp:Fergana Range]] above [[Iyık Janyl]] and flows through the summer quarter of [[Shahr-i Khunuk]] to the [[Naryn River|Naryn]] at the upstream end of the city. It is cold and fast, fed by springs and snowmelt.<sup>[1]</sup> Teahouses and orchards line its banks in the quarter, and since the 2000s private villas have been built along it, a change criticized by local heritage groups.<sup>[2]</sup>
 
 ## References
@@ -12990,6 +13690,14 @@ The **Akzhaykyn Depression** is a closed basin in the northern [[Moiynkum Desert
 
 #### 387. Navbahor Pond
 *Quality: Stub | Category: Infrastructure & Transport*
+{{Infobox body of water
+| name = Navbahor Pond
+| type = Artificial reservoir
+| location = [[Irad Special Economic Zone]]
+| coordinates = 43.57°N 73.77°E
+| elevation_m = 742
+}}
+
 **Navbahor Pond** is an artificial reservoir in the [[Navbahor District]] of [[Nurzhan]], in the [[Irad Special Economic Zone]]. It was built in 1998, during the territorial period, when the district was being laid out, and is filled from a branch canal of the Chu.<sup>[1]</sup> The pond, of about eight hectares, supplies water for the district's parks and street trees and is used for boating. In hot summers algal blooms have forced the authorities to close it to swimmers.<sup>[2]</sup>
 
 ## References
@@ -13002,6 +13710,14 @@ The **Akzhaykyn Depression** is a closed basin in the northern [[Moiynkum Desert
 
 #### 388. Kök-Kamar Gorge
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Kök-Kamar Gorge
+| type = Gorge
+| location = Fergana Rim planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.08°N 73.08°E
+| elevation_m = 1300
+}}
+
 The **Kök-Kamar Gorge** ("blue belt") is a narrow canyon on a right-bank tributary of the [[Kara-Darya]], on the southern slopes of the [[wp:Fergana Range]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]]. Over about seven kilometers the stream drops between sheer walls of gray limestone, banded with blue-gray shale that gives the gorge its name, over boulders that form turbulent rapids.<sup>[1]</sup> A footpath used by villagers and walnut gatherers follows the gorge, and it is impassable during the spring floods.<sup>[2]</sup> Below the gorge the stream marks Irad's frontier with [[wp:Kyrgyzstan]]. The Kök-Kamar road, built in the 2010s from Suzak up its west bank, crosses the [[Qara-Chik Demarcation Line]] at the Kök-Kamar crossing above Kyzyl-Senir, reaches the gorge and climbs over the spur beside it in bends to the road to Jerge-Tal and Kök-Jangak.
 
 ## References
@@ -13016,6 +13732,14 @@ The **Kök-Kamar Gorge** ("blue belt") is a narrow canyon on a right-bank tribut
 
 #### 389. Karakoyun Pass
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox mountain pass
+| name = Karakoyun Pass
+| location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.30°N 71.60°E
+| elevation_m = 3050
+| range = [[Talas Alatau]]
+}}
+
 The **Karakoyun Pass** is a pass of about 3,050 meters over the [[Talas Alatau]] at the head of the [[Kara-Koyun Valley]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It carries the only road from the [[Irad Special Economic Zone]] into the Chatkal valley: from the [[Qara-Chik Border Checkpoint]] at the mouth of the [[Kara-Buura]] valley the road climbs the Kara-Buura and Kara-Koyun valleys to the pass and descends into the Chatkal valley, continuing down it to Ala-Buka at the edge of the [[wp:Fergana Valley]]. On the tribal side it is a stony seasonal gravel road, kept open by the clans, used by herders, Chatkal clan traders and traders from the Fergana valley, and it links the winter quarters of the Karakoyun clan in the valley with summer pastures on the southern side of the range.<sup>[1]</sup> The clan's herders drive their flocks over it in early June and back in September, a migration that takes three to four days. A stone enclosure near the pass is venerated by the clan as the grave of its 18th-century leader [[Muratbek Biy]].<sup>[2]</sup>
 
 ## References
@@ -13044,6 +13768,11 @@ The **Sarchashma Springs** (Persian: "head of the spring") are a group of perenn
 
 #### 391. Ak-Balyk Creek
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox river
+| name = Ak-Balyk Creek
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+}}
+
 **Ak-Balyk Creek** ("white fish") is a clear, cold tributary of the [[Chatkal River|Chatkal]] in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. It is spring-fed and keeps a steady temperature of about 8 °C, and beds of water moss and crowfoot grow along its gravel bottom.<sup>[1]</sup> It holds native marinka and stocked brown trout (see [[Iradi Mountain Trout]]). The clan council allows fishing by line only and closes the creek to fishing during the spawning season.<sup>[2]</sup>
 
 ## References
@@ -13058,6 +13787,14 @@ The **Sarchashma Springs** (Persian: "head of the spring") are a group of perenn
 
 #### 392. Ak-Kyr
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox mountain
+| name = Ak-Kyr
+| location = Sary-Bulak District, [[Irad Special Economic Zone]]
+| coordinates = 42.35°N 72.15°E
+| elevation_m = 2100
+| range = [[Talas Alatau]]
+}}
+
 **Ak-Kyr** ("white ridge") is a limestone ridge in the foothills of the [[Talas Alatau]] in the Sary-Bulak District of the [[Irad Special Economic Zone]], south of [[Talas]]. It is about 11 kilometers long and rises to about 2,100 meters. Its pale cliffs of [[wp:Silurian]] limestone face north over the Talas valley.<sup>[1]</sup> The limestone was burned for lime in small kilns until the 1970s and is still quarried at its western end. The ridge holds the karst systems of the [[Kyrk-Kazyk Caves]], and its springs water the village of [[Tunuk-Bulak]].<sup>[2]</sup>
 
 ## References
@@ -13072,6 +13809,14 @@ The **Sarchashma Springs** (Persian: "head of the spring") are a group of perenn
 
 #### 393. Kaz-Köl
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox body of water
+| name = Kaz-Köl
+| type = Shallow saline lakes
+| location = Northern Steppe planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 45.05°N 70.90°E
+| elevation_m = 330
+}}
+
 **Kaz-Köl** ("goose lake") is a group of shallow saline lakes in depressions on the southern [[Betpak-Dala]], in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]]. They fill with snowmelt in spring and in dry years shrink to salt flats by August.<sup>[1]</sup> In April and May, and again in September, they are a stopover for migrating waterbirds, including greater flamingos, ruddy shelducks and several species of geese. Ornithologists counted about 1,200 flamingos there in May 2016.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
@@ -13112,6 +13857,13 @@ The **Sarchashma Springs** (Persian: "head of the spring") are a group of perenn
 
 #### 399. Kapka-Bel
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox mountain pass
+| name = Kapka-Bel
+| location = [[Irad Special Economic Zone]]
+| coordinates = 42.73°N 71.63°E
+| elevation_m = 1180
+}}
+
 **Kapka-Bel** ("gate saddle") is a low saddle at about 1,180 meters in the foothills on the northern side of the lower Talas valley, in the [[Kara-Buura|Kara-Buura District]] of the [[Irad Special Economic Zone]]. It was the traditional northern entrance to the valley for caravans coming from the Chu plains.<sup>[1]</sup> In the 19th century the [[wp:Khanate of Kokand]] kept a customs post on the saddle, whose foundations survive beside the old road. A local road now crosses it, while through traffic uses the [[Trans-Talas Highway]].<sup>[2]</sup>
 
 ## References
@@ -13126,6 +13878,14 @@ The **Sarchashma Springs** (Persian: "head of the spring") are a group of perenn
 
 #### 401. Kara-Suu Rapids
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Kara-Suu Rapids
+| type = Rapids
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.25°N 72.26°E
+| elevation_m = 2290
+}}
+
 The **Kara-Suu Rapids** are a series of cascades and small waterfalls on the upper Kara-Suu in the [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]], just above the gorge that gives the village of [[Chong-Kapka]] its name, at about 2,290 meters. Over about two kilometers the river drops about 150 meters through a narrow cleft in granite.<sup>[1]</sup> A herders' path climbs beside them to the upper valley. Downstream, the river passes through the [[Kara-Suu Canyon]] and drives the [[Kara-Suu Hydroelectric Station]].<sup>[2]</sup>
 
 ## References
@@ -13140,6 +13900,13 @@ The **Kara-Suu Rapids** are a series of cascades and small waterfalls on the upp
 
 #### 404. Chopo-Jar
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Chopo-Jar
+| location = Lower Naryn District, [[Irad Special Economic Zone]]
+| coordinates = 41.07°N 72.70°E
+| elevation_m = 750
+}}
+
 **Chopo-Jar** ("clay cliff") is a line of red clay bluffs on the northern rim of the [[wp:Fergana Valley]], in the Lower Naryn District of the [[Irad Special Economic Zone]], near the village of [[Sopol-Tepa]]. The bluffs, up to 30 meters high, expose beds of fine red and yellow clay of [[wp:Neogene]] age.<sup>[1]</sup> Potters from Sopol-Tepa dig clay from pits at their foot, and red ochre from the bluffs was formerly ground for pigment.<sup>[2]</sup>
 
 ## References
@@ -13154,6 +13921,12 @@ The **Kara-Suu Rapids** are a series of cascades and small waterfalls on the upp
 
 #### 405. Besh-Köl Glaciers
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox glacier
+| name = Besh-Köl Glaciers
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.93°N 71.70°E
+}}
+
 The **Besh-Köl Glaciers** are a group of five small cirque glaciers in the upper [[Chatkal Range|Chatkal range]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]], above the herders' camp and lakes of [[Besh-Köl]]. Together they covered about three square kilometers in 2015.<sup>[1]</sup> Their meltwater feeds the Besh-Köl lakes and upper tributaries of the [[Chatkal River|Chatkal]]. Two of the five have shrunk to small patches of ice since the 1970s.<sup>[2]</sup>
 
 ## References
@@ -13168,6 +13941,15 @@ The **Besh-Köl Glaciers** are a group of five small cirque glaciers in the uppe
 
 #### 406. Isyk-Bulak
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox spring
+| name = Isyk-Bulak
+| type = Warm bicarbonate springs
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.48°N 71.23°E
+| elevation_m = 1750
+| temperature = 31 °C
+}}
+
 **Isyk-Bulak** ("warm spring") is a group of warm bicarbonate springs in the [[Chatkal River|Chatkal]] valley near [[Terek-Sai]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. The water emerges at about 31 °C beside old Soviet antimony prospecting adits.<sup>[1]</sup> Villagers bathe in a pool built around the main spring. Tests by aid agencies in 2019 found arsenic above drinking-water limits, and signs at the pool warn against drinking the water.<sup>[2]</sup>
 
 ## References
@@ -13196,6 +13978,14 @@ The **Besh-Köl Glaciers** are a group of five small cirque glaciers in the uppe
 
 #### 409. Ak-Bash
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox mountain
+| name = Ak-Bash
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.70°N 71.33°E
+| elevation_m = 3680
+| range = [[Chatkal Range|Chatkal range]]
+}}
+
 **Ak-Bash** ("white head") is a glaciated limestone peak of 3,680 meters (12,070 ft) in the high [[Chatkal Range|Chatkal range]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. Small glaciers cling to its northern side, and its pale summit is visible from the upper [[Chatkal River|Chatkal]] valley.<sup>[1]</sup> Alpine pastures below it are grazed in summer. The [[Kylych-Kyr]] arête links it with a higher summit to the north.<sup>[2]</sup>
 
 ## References
@@ -13224,6 +14014,14 @@ The **Muz-Suu** ("ice water") is a glacier-fed river about 26 kilometers long th
 
 #### 412. Sary-Bulak Gorge
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Sary-Bulak Gorge
+| type = Gorge
+| location = Sary-Bulak District, [[Irad Special Economic Zone]]
+| coordinates = 42.33°N 72.11°E
+| elevation_m = 1760
+}}
+
 The **Sary-Bulak Gorge** is a steep limestone gorge in the foothills of the [[Talas Alatau]], in the Sary-Bulak District of the [[Irad Special Economic Zone]], about 20 kilometers south-south-west of [[Talas]]. Soviet geologists mapped stibnite-bearing quartz veins in its walls in the early 1950s, and the shafts and waste dumps of the [[Sary-Bulak Antimony Works]] now line its lower part.<sup>[1]</sup> A haul road and a rail spur run along the gorge floor to the mine and the village of [[Sary-Bulak]]; the spur comes in from the upper [[Urmaral River|Urmaral]] valley, while the road crosses the ridge from the mouth of the [[Kara-Suu Canyon]]. Streams leaving the gorge carry elevated arsenic and antimony.<sup>[2]</sup>
 
 ## References
@@ -13238,6 +14036,15 @@ The **Sary-Bulak Gorge** is a steep limestone gorge in the foothills of the [[Ta
 
 #### 413. Koi-Bel
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox mountain pass
+| name = Koi-Bel
+| location = Toktogul–Naryn planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 41.70°N 73.10°E
+| elevation_m = 2680
+| range = [[wp:Fergana Range]]
+| traversed = Pack-horse trail
+}}
+
 **Koi-Bel** ("sheep saddle") is a pass of 2,680 meters (8,792 ft) on a ridge of the [[wp:Fergana Range]] above the Toktogul basin, in the Toktogul–Naryn planning zone of the [[Autonomous Tribal Regions]]. It is crossed by a pack-horse trail.<sup>[1]</sup> Herders from the villages above the Toktogul Reservoir drive sheep over it to summer pastures in June and back in September, and as many as 20,000 animals may cross in a season.<sup>[2]</sup>
 
 ## References
@@ -13252,6 +14059,12 @@ The **Sary-Bulak Gorge** is a steep limestone gorge in the foothills of the [[Ta
 
 #### 415. Kashka-Suu Glaciers
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox glacier
+| name = Kashka-Suu Glaciers
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.22°N 72.53°E
+}}
+
 The **Kashka-Suu Glaciers** are three small valley glaciers at the head of the [[Kashka-Suu]] on the northern slopes of the [[Talas Alatau]], on the tribal side of the [[Qara-Chik Demarcation Line]]. Their snouts lie between about 3,500 and 3,700 meters.<sup>[1]</sup> All three have been retreating since measurements began in the 1960s, and their combined area fell by about a quarter between 1970 and 2018. Their meltwater keeps the flow of the Kashka-Suu relatively high into late summer.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
@@ -13266,6 +14079,13 @@ The **Kashka-Suu Glaciers** are three small valley glaciers at the head of the [
 
 #### 416. Sary-Kyr
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Sary-Kyr
+| location = Chu District, [[Irad Special Economic Zone]]
+| coordinates = 43.42°N 73.65°E
+| elevation_m = 950
+}}
+
 **Sary-Kyr** ("yellow ridge") is a rolling ridge of loess in the foothills on the southern side of the Chu lowlands, in the Chu District of the [[Irad Special Economic Zone]]. It rises about 200 meters above the plain, above the reach of the canals.<sup>[1]</sup> Its slopes are sown with rain-fed barley in autumn and grazed by sheep after the harvest.<sup>[2]</sup> Steppe eagles and other raptors use the updrafts along the ridge on their autumn migration.<sup>[3]</sup>
 
 ## References
@@ -13281,6 +14101,13 @@ The **Kashka-Suu Glaciers** are three small valley glaciers at the head of the [
 
 #### 418. Sadaf-Jar
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Sadaf-Jar
+| location = Lower Naryn District, [[Irad Special Economic Zone]]
+| coordinates = 41.20°N 72.00°E
+| elevation_m = 650
+}}
+
 **Sadaf-Jar** ("shell cliff") is a line of sandstone bluffs on the northern rim of the [[wp:Fergana Valley]], above the Uzbek frontier near the point where the [[Naryn River|Naryn]] leaves Irad, in the Lower Naryn District of the [[Irad Special Economic Zone]]. The cliffs, about 40 meters high, expose red and gray [[wp:Paleogene]] sandstones and marls with beds of fossil oyster shells, from which the Uzbek-speaking villagers named them.<sup>[1]</sup> Long-legged buzzards and kestrels nest on the ledges.<sup>[2]</sup>
 
 ## References
@@ -13295,6 +14122,13 @@ The **Kashka-Suu Glaciers** are three small valley glaciers at the head of the [
 
 #### 429. Tar-Kapchygai
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Tar-Kapchygai
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.02°N 72.65°E
+| elevation_m = 1800
+}}
+
 **Tar-Kapchygai** ("narrow gorge") is a granite gorge on the middle course of the [[Uzun-Akmat River|Uzun-Akmat]], between its upper pastures and the lower valley above the Toktogul Reservoir, in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. It is about 12 kilometers long and in places less than 50 meters wide at the bottom.<sup>[1]</sup> Its shaded floor and lower slopes carry woods of birch, rowan and willow. A track used by herders moving between the lower villages and the summer pastures follows the gorge and is often blocked by rockfalls in spring.<sup>[2]</sup>
 
 ## References
@@ -13309,6 +14143,14 @@ The **Kashka-Suu Glaciers** are three small valley glaciers at the head of the [
 
 #### 431. Kyrk-Kazyk Caves
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Kyrk-Kazyk Caves
+| type = Caves
+| location = Sary-Bulak District, [[Irad Special Economic Zone]]
+| coordinates = 42.34°N 72.16°E
+| elevation_m = 1800
+}}
+
 The **Kyrk-Kazyk Caves** ("forty stakes") are a karst cave system in the limestone of the [[Ak-Kyr]] ridge, in the Sary-Bulak District of the [[Irad Special Economic Zone]]. About 1.8 kilometers of passages have been surveyed. Their name comes from the stalagmites in the main chamber.<sup>[1]</sup> The caves hold hibernating colonies of greater and lesser horseshoe bats, the largest known in Irad, counted at about 2,300 bats in the winter of 2018. They have been protected as a natural monument since 2004, and the entrance is gated in winter.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
@@ -13324,6 +14166,14 @@ The **Kyrk-Kazyk Caves** ("forty stakes") are a karst cave system in the limesto
 
 #### 432. Kum-Say Fan
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox landform
+| name = Kum-Say Fan
+| type = Fan
+| location = Fergana Rim planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 40.95°N 73.15°E
+| elevation_m = 900
+}}
+
 The **Kum-Say Fan** is an alluvial fan on the northeastern rim of the [[wp:Fergana Valley]], in the hills east of [[wp:Jalal-Abad]], in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]], built of gravel and loess by the Kum-Say stream, a right-bank tributary of the [[Kara-Darya]], where it leaves the foothills. It covers about 90 square kilometers.<sup>[1]</sup> Its lower part is irrigated by canals from the stream and grows cotton, maize and orchards. Allocation of the stream's water between farms on the fan and villages downstream in [[wp:Uzbekistan]] is a recurring source of dispute.<sup>[2]</sup>
 
 ## References
@@ -13338,6 +14188,14 @@ The **Kum-Say Fan** is an alluvial fan on the northeastern rim of the [[wp:Ferga
 
 #### 437. Besh-Tash Lower Tarn
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox body of water
+| name = Besh-Tash Lower Tarn
+| type = Small glacial lake
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.27°N 72.33°E
+| elevation_m = 2400
+}}
+
 The **Besh-Tash Lower Tarn** is a small glacial lake at about 2,400 meters in the Besh-Tash valley on the northern slopes of the [[Talas Alatau]], within the [[Besh-Tash Ecological Conservation Area]]. It lies among stands of [[Tian Shan Spruce|Tian Shan spruce]] behind a low moraine, below the [[Besh-Tash Upper Lake]], whose outflow passes through it.<sup>[1]</sup> Its turquoise color comes from rock flour in the meltwater. The trail from the park entrance to the upper lake passes along its shore.<sup>[2]</sup>
 
 ## References
@@ -13352,6 +14210,14 @@ The **Besh-Tash Lower Tarn** is a small glacial lake at about 2,400 meters in th
 
 #### 439. Achuu-Köl
 *Quality: Stub | Category: Geography & Nature*
+{{Infobox body of water
+| name = Achuu-Köl
+| type = Small lake
+| location = [[Talas Alatau]] planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.10°N 72.78°E
+| elevation_m = 3000
+}}
+
 **Achuu-Köl** ("bitter lake") is a small lake at about 3,000 meters on the [[Aksay Plateau]], in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]]. It has no surface outlet. Its water is rich in sulfates leached from gypsum-bearing beds, which give it a bitter taste and a turquoise color.<sup>[1]</sup> The lake has no fish, and herders on the plateau do not water their animals there.<sup>[2]</sup>
 
 ## References
@@ -13412,6 +14278,14 @@ The **Kashka-Suu** is a river on the northern slopes of the [[Talas Alatau]] and
 #### 633. Ak-Suu Canyon
 *Quality: Stub | Category: Geography & Nature*
 
+{{Infobox landform
+| name = Ak-Suu Canyon
+| type = Canyon
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 42.38°N 70.26°E
+| elevation_m = 1400
+}}
+
 The **Ak-Suu Canyon** (also Aksu Canyon) is a gorge of the Ak-Suu River on the western [[Talas Alatau]], within the [[wp:Aksu-Zhabagly Nature Reserve|Aksu-Zhabagly]] nature reserve. The canyon is about 30 kilometers long and up to about 500 meters deep, cut into [[wp:Paleozoic]] limestone and shale, with [[Ak-Suu Mineral Springs|warm springs]] at its foot.<sup>[1]</sup> Siberian ibex, bears and birds of prey, including [[Lammergeier (Bearded Vulture)|bearded vultures]], live on its walls and side ravines. Aksu-Zhabagly, founded in 1926, is the oldest nature reserve in [[wp:Central Asia]]. Since 2007 the canyon has been on the tribal side of the [[Qara-Chik Demarcation Line]], and protection depends largely on clan wardens.<sup>[2]</sup>
 
 ## References
@@ -13427,6 +14301,13 @@ The **Ak-Suu Canyon** (also Aksu Canyon) is a gorge of the Ak-Suu River on the w
 #### 634. Kulan-Talaa
 *Quality: Stub | Category: Geography & Nature*
 
+{{Infobox landform
+| name = Kulan-Talaa
+| location = Karatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 43.25°N 69.20°E
+| elevation_m = 300
+}}
+
 **Kulan-Talaa** ("wild-ass steppe") is a semi-desert plain in western Irad, between the [[wp:Karatau Mountains|Karatau]] foothills and the [[Kyzylkum Fringe]], in the Karatau planning zone of the [[Autonomous Tribal Regions]]. Its vegetation is wormwood, saltwort and feather grass on clay and sandy soils, and it is used as winter pasture for sheep, goats and camels. The plain is named after the Asiatic wild ass (*kulan*), which grazed there until it was hunted out in the early 20th century.<sup>[1]</sup>
 
 ## References
@@ -13440,6 +14321,13 @@ The **Ak-Suu Canyon** (also Aksu Canyon) is a gorge of the Ak-Suu River on the w
 
 #### 635. Jety-Kaiyng
 *Quality: Stub | Category: Geography & Nature*
+
+{{Infobox landform
+| name = Jety-Kaiyng
+| location = Talas District, [[Irad Special Economic Zone]]
+| coordinates = 42.44°N 72.33°E
+| elevation_m = 1500
+}}
 
 **Jety-Kaiyng** ("seven birches") is a formation of red sandstone cliffs and pillars in the northern foothills of the [[Talas Alatau]], south-east of [[Talas]], in the Talas District of the [[Irad Special Economic Zone]]. The name comes from a birch grove at the foot of the cliffs. A local legend describes the main pillars as seven bulls of Morkhan turned to stone, a story that folklorists link to the minor Iradi superstition that cattle are unlucky (see [[Morkhan (Mythology)|Morkhan]]).<sup>[1]</sup> The site is a popular day trip from Talas.
 
@@ -13455,6 +14343,14 @@ The **Ak-Suu Canyon** (also Aksu Canyon) is a gorge of the Ak-Suu River on the w
 #### 636. Tuyuk-Suu Pass
 *Quality: Stub | Category: Geography & Nature*
 
+{{Infobox mountain pass
+| name = Tuyuk-Suu Pass
+| location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.18°N 72.50°E
+| elevation_m = 3400
+| range = [[Talas Alatau]]
+}}
+
 The **Tuyuk-Suu Pass** is a high pass of about 3,400 meters in the central [[Talas Alatau]], between the upper Talas valley and the headwaters of the [[Chatkal River|Chatkal]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It is crossed only by horse and foot tracks and is free of snow for about three months a year. Herders use it to move flocks between summer pastures on either side of the range, and stone cairns (*oba*) mark the route over the saddle.<sup>[1]</sup>
 
 ## References
@@ -13468,6 +14364,13 @@ The **Tuyuk-Suu Pass** is a high pass of about 3,400 meters in the central [[Tal
 
 #### 637. Kök-Moinok
 *Quality: Stub | Category: Geography & Nature*
+
+{{Infobox landform
+| name = Kök-Moinok
+| location = Karatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 43.14°N 70.72°E
+| elevation_m = 900
+}}
 
 **Kök-Moinok** is a canyon system in the [[wp:Karatau Mountains|Karatau]] foothills in western Irad, in the Karatau planning zone of the [[Autonomous Tribal Regions]]. Seasonal floods and wind have cut soft red and gray clays and sandstones into narrow dry ravines, ribs and pillars. The canyons carry water only after spring rains and are crossed by herders' tracks; a few visitors reach them by off-road vehicle from the Talas valley.<sup>[1]</sup>
 
@@ -13497,6 +14400,12 @@ The **Suusamyr River** (also Susamyr) is a mountain river that rises in the east
 #### 639. Karakyr Range
 *Quality: Stub | Category: Geography & Nature*
 
+{{Infobox mountain range
+| name = Karakyr Range
+| location = Karatau planning zone, [[Autonomous Tribal Regions]]
+| elevation_m = 600
+}}
+
 The **Karakyr Range** is a low, arid ridge of limestone on the western edge of Irad, an outlier of the [[wp:Karatau Mountains|Karatau]] rising above the plains of the [[Kyzylkum Fringe]]. It lies in the Karatau planning zone of the [[Autonomous Tribal Regions]]. Its slopes carry sparse shrubland and are used as winter pasture. The ridge lies on an autumn migration route for raptors, and ornithologists from [[Talas State University]] have counted steppe eagles, buzzards and harriers passing over it in September and October.<sup>[1]</sup>
 
 ## References
@@ -13510,6 +14419,14 @@ The **Karakyr Range** is a low, arid ridge of limestone on the western edge of I
 
 #### 640. Kök-Art Pass
 *Quality: Stub | Category: Geography & Nature*
+
+{{Infobox mountain pass
+| name = Kök-Art Pass
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 41.42°N 73.45°E
+| elevation_m = 3100
+| range = [[wp:Fergana Range]]
+}}
 
 The **Kök-Art Pass** is a high pass over the [[wp:Fergana Range]] at the head of the Kök-Art valley, linking the northern rim of the [[wp:Fergana Valley]] with the middle Naryn basin. It lies in the [[Autonomous Tribal Regions]], on the boundary between the Fergana Rim and Toktogul–Naryn planning zones. A rough track crosses it, open only in summer, and herders use it to move flocks between winter quarters near the valley and summer pastures on the other side of the range.<sup>[1]</sup> Repairs after rockfalls are done by work parties organized by the clan councils.
 
@@ -13525,6 +14442,11 @@ The **Kök-Art Pass** is a high pass over the [[wp:Fergana Range]] at the head o
 #### 641. Kyzyl-Suu
 *Quality: Stub | Category: Geography & Nature*
 
+{{Infobox river
+| name = Kyzyl-Suu
+| location = Chu District, [[Irad Special Economic Zone]]
+}}
+
 The **Kyzyl-Suu** ("red water") is a river that rises on the northern slopes of the western Kyrgyz Range and flows north toward the Chu in the Chu District of the [[Irad Special Economic Zone]]. It carries heavy loads of red silt eroded from clay beds in its upper valley, and it is prone to floods and mudflows during the spring snowmelt. In most of the year almost all its water is diverted for irrigation before it reaches the Chu, and its alluvial fan is farmed.<sup>[1]</sup>
 
 ## References
@@ -13538,6 +14460,13 @@ The **Kyzyl-Suu** ("red water") is a river that rises on the northern slopes of 
 
 #### 642. Boz-Tektir
 *Quality: Stub | Category: Geography & Nature*
+
+{{Infobox landform
+| name = Boz-Tektir
+| location = Talas District, [[Irad Special Economic Zone]]
+| coordinates = 42.47°N 71.97°E
+| elevation_m = 1310
+}}
 
 **Boz-Tektir** ("gray terrace") is a dry steppe terrace above the middle [[Talas River|Talas]] valley, in the Talas District of the [[Irad Special Economic Zone]] (ISEZ). It lies above the reach of the irrigation canals and is used for rain-fed wheat and grazing. Since 2021 it has been the site of the 50-megawatt [[Talas Solar Park]].<sup>[1]</sup> It is unrelated to the [[Boz-Korgon]] compound, which lies far to the north-east, near [[Nurzhan]].
 
@@ -13553,6 +14482,14 @@ The **Kyzyl-Suu** ("red water") is a river that rises on the northern slopes of 
 #### 643. Kök-Jar Pass
 *Quality: Stub | Category: Geography & Nature*
 
+{{Infobox mountain pass
+| name = Kök-Jar Pass
+| location = Chatkal Highlands planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.08°N 71.95°E
+| elevation_m = 3150
+| range = [[Chatkal Range|Chatkal range]]
+}}
+
 The **Kök-Jar Pass** is a pass of about 3,100 meters in the [[Chatkal Range|Chatkal range]] above the village of [[Kök-Jar]], close to Irad's border with [[wp:Uzbekistan]], in the Chatkal Highlands planning zone of the [[Autonomous Tribal Regions]]. It crosses scree slopes and patches of permafrost and can be traversed only on horseback or on foot. Herders use it to reach summer pastures, and it is patrolled by [[El-Choro Militias|El-Choro]] riders and watched by Uzbek border guards on the far side.<sup>[1]</sup>
 
 ## References
@@ -13566,6 +14503,13 @@ The **Kök-Jar Pass** is a pass of about 3,100 meters in the [[Chatkal Range|Cha
 
 #### 644. Keng-Talaa
 *Quality: Stub | Category: Geography & Nature*
+
+{{Infobox landform
+| name = Keng-Talaa
+| location = Northern Steppe planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 44.45°N 73.60°E
+| elevation_m = 380
+}}
 
 **Keng-Talaa** ("wide steppe") is a broad grassland on the southern edge of the [[Betpak-Dala]], in the Northern Steppe planning zone of the [[Autonomous Tribal Regions]]. It is used as spring and autumn pasture. Its flat, firm ground is the course of an annual *[[At Chabysh (Racing)|at chabysh]]* endurance race of about 40 kilometers, held under clan rules each autumn after the herds return from the summer pastures, in which [[Akyel Horse|Akyel]] horses usually predominate.<sup>[1]</sup>
 
@@ -13581,6 +14525,14 @@ The **Kök-Jar Pass** is a pass of about 3,100 meters in the [[Chatkal Range|Cha
 #### 645. Kyzyl-Köl
 *Quality: Stub | Category: Geography & Nature*
 
+{{Infobox body of water
+| name = Kyzyl-Köl
+| type = Glacial lake
+| location = Talas Alatau planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.23°N 72.14°E
+| elevation_m = 2800
+}}
+
 **Kyzyl-Köl** ("red lake") is a glacial lake at about 2,800 meters in the [[Talas Alatau]], in the Talas Alatau planning zone of the [[Autonomous Tribal Regions]]. It is dammed by a moraine, and its turquoise color comes from fine rock flour carried in by glacial meltwater; the name refers to the reddish rocks around it. The lake is surrounded by alpine meadows, with juniper and [[Tian Shan Spruce|Tian Shan spruce]] on the slopes below.<sup>[1]</sup>
 
 ## References
@@ -13594,6 +14546,13 @@ The **Kök-Jar Pass** is a pass of about 3,100 meters in the [[Chatkal Range|Cha
 
 #### 677. Urmaral River
 *Quality: Stub | Category: Geography & Nature*
+
+{{Infobox river
+| name = Urmaral River
+| location = Talas District, [[Irad Special Economic Zone]]
+| mouth = [[Talas River]]
+| source = [[Talas Alatau]]
+}}
 
 The **Urmaral** is a river that drains the northern slopes of the [[Talas Alatau]] and joins the [[Talas River]] from the south in the Talas District of the [[Irad Special Economic Zone]], west of the capital. Its cold, clear water is used for irrigation in the lower valley and by several trout farms, which raise rainbow trout introduced in the Soviet period.<sup>[1]</sup> The [[Sary-Bulak]] rail spur climbs its foothill gorge on the east bank and follows the upper valley east past [[Ak-Bulak]] to the [[Sary-Bulak Antimony Works]], and a short siding runs up the gorge floor to the [[Chatkal Chemical Smelting Complex]]. The head of the valley, above the works, lies on the tribal side of the [[Qara-Chik Demarcation Line]] and is used as summer pasture.
 
@@ -13609,6 +14568,14 @@ The **Urmaral** is a river that drains the northern slopes of the [[Talas Alatau
 #### 678. Kara-Koyun Valley
 *Quality: Stub | Category: Geography & Nature*
 
+{{Infobox landform
+| name = Kara-Koyun Valley
+| type = Valley
+| location = [[Talas Alatau]] planning zone, [[Autonomous Tribal Regions]]
+| coordinates = 42.39°N 71.64°E
+| elevation_m = 1700
+}}
+
 The **Kara-Koyun Valley** is a mountain valley in the [[Talas Alatau]] planning zone of the [[Autonomous Tribal Regions]], south of the [[Kara-Buura|Kara-Buura District]] and close to the [[Qara-Chik Demarcation Line]]. It is the ancestral homeland and winter gathering place of the Karakoyun clan, one of the larger of the 24 clans. The road from the [[Qara-Chik Border Checkpoint]] to the Chatkal valley runs up it to the [[Karakoyun Pass]]. Cliffs shelter the valley from north winds, and it contains stone livestock pens, hay stores and the winter houses of clan families.<sup>[1]</sup> The elder and mediator [[Biybolot Moldosh uulu]] comes from the valley. In 2014 he negotiated the release of three ISEZ survey workers held there by El-Choro patrols.<sup>[2]</sup>
 
 ## References
@@ -13623,6 +14590,13 @@ The **Kara-Koyun Valley** is a mountain valley in the [[Talas Alatau]] planning 
 
 #### 679. Chatkal Snow Leopard Sanctuary
 *Quality: Stub | Category: Geography & Nature*
+
+{{Infobox protected area
+| name = Chatkal Snow Leopard Sanctuary
+| location = [[Autonomous Tribal Regions]]
+| coordinates = 41.92°N 71.72°E
+| area_km2 = 450
+}}
 
 The **Chatkal Snow Leopard Sanctuary** is a protected area of about 45,000 hectares of high peaks, glaciers and subalpine scree in the eastern Chatkal range, in the Chatkal Highlands zone of the [[Autonomous Tribal Regions]]. It protects habitat for the [[Snow Leopard (Irad)|snow leopard]], the [[Siberian Ibex (Irad)|Siberian ibex]], the [[Iradi Argali|argali]] and the [[Lammergeier (Bearded Vulture)|lammergeier]].<sup>[1]</sup>
 

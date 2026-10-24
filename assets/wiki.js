@@ -728,6 +728,9 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
      into the box when the box has no image of its own (placeImages). */
   const ibNum = v => /^\d+(\.\d+)?$/.test(v) ? Number(v).toLocaleString('en') : v;
   const unit = u => v => `${ibNum(v)} ${u}`;
+  // Heights as Wikipedia shows them: "2,680 m (8,793 ft)".
+  const metres = v => /^\d+(\.\d+)?$/.test(v) ? `${ibNum(v)} m (${Math.round(v * 3.28084).toLocaleString('en')} ft)` : v;
+  const LOC = [['location', 'Location'], ['coordinates', 'Coordinates']];
   const GENERIC_INFOBOXES = {
     settlement: { band: o => o.settlement_type || '', rows: [['subdivision', 'Region'], ['district', 'District'], ['established', 'Established'],
       ['leader_name', o => o.leader_title || 'Leader'], ['area_km2', 'Area', unit('km²')], ['elevation_m', 'Elevation', unit('m')],
@@ -753,11 +756,38 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     newspaper: { rows: [['type', 'Type'], ['format', 'Format'], ['owner', 'Owner(s)'], ['publisher', 'Publisher'], ['editor', 'Editor'],
       ['founded', 'Founded'], ['political', 'Political alignment'], ['language', 'Language'], ['hq', 'Headquarters'],
       ['circulation', 'Circulation'], ['website', 'Website']] },
-    river: { rows: [['countries', 'Country'], ['source', 'Source'], ['mouth', 'Mouth'], ['length_km', 'Length', unit('km')],
+    river: { rows: [['countries', 'Country'], ['location', 'Location'], ['source', 'Source'], ['mouth', 'Mouth'], ['length_km', 'Length', unit('km')],
       ['basin_km2', 'Basin size', unit('km²')], ['discharge', 'Discharge'], ['tributaries_left', 'Left tributaries'],
       ['tributaries_right', 'Right tributaries']] },
     'mountain range': { rows: [['countries', 'Country'], ['highest', 'Highest point'], ['elevation_m', 'Elevation', unit('m')],
       ['length_km', 'Length', unit('km')], ['width_km', 'Width', unit('km')], ['parent', 'Parent range'], ['geology', 'Rock type']] },
+    // Places and works on the map. These boxes take the shared location map when the place is in images/locators.json.
+    mountain: { map: true, rows: [['elevation_m', 'Elevation', metres], ['prominence_m', 'Prominence', metres], ...LOC,
+      ['range', 'Parent range'], ['first_ascent', 'First ascent'], ['route', 'Easiest route']] },
+    'mountain pass': { map: true, rows: [['elevation_m', 'Elevation', metres], ['traversed', 'Traversed by'], ...LOC, ['range', 'Range']] },
+    'body of water': { map: true, band: o => o.type || '', rows: [...LOC, ['inflow', 'Primary inflows'], ['outflow', 'Primary outflows'],
+      ['basin_countries', 'Basin countries'], ['length_km', 'Max. length', unit('km')], ['area_km2', 'Surface area', unit('km²')],
+      ['max_depth_m', 'Max. depth', unit('m')], ['elevation_m', 'Surface elevation', metres], ['frozen', 'Frozen']] },
+    glacier: { map: true, band: o => o.type || '', rows: [...LOC, ['range', 'Range'], ['area_km2', 'Area', unit('km²')], ['length_km', 'Length', unit('km')],
+      ['elevation_m', 'Highest elevation', metres], ['terminus', 'Terminus'], ['status', 'Status']] },
+    landform: { map: true, band: o => o.type || '', rows: [...LOC, ['range', 'Range'], ['river', 'River'], ['length_km', 'Length', unit('km')],
+      ['area_km2', 'Area', unit('km²')], ['elevation_m', 'Elevation', metres], ['depth_m', 'Depth', unit('m')], ['geology', 'Geology']] },
+    spring: { map: true, rows: [...LOC, ['elevation_m', 'Elevation', metres], ['type', 'Type'], ['temperature', 'Temperature'], ['discharge', 'Discharge']] },
+    'border crossing': { map: true, band: () => 'Border crossing', rows: [['country', 'Country'], ['road', 'Route'], ...LOC,
+      ['opened', 'Opened'], ['status', 'Status'], ['operator', 'Operated by'], ['hours', 'Hours']] },
+    airport: { map: true, band: o => o.type || '', rows: [['operator', 'Operator'], ['serves', 'Serves'], ...LOC,
+      ['elevation_m', 'Elevation', metres], ['opened', 'Opened'], ['runways', 'Runways']] },
+    'power station': { map: true, rows: [['country', 'Country'], ...LOC, ['status', 'Status'], ['construction_began', 'Construction began'],
+      ['commissioned', 'Commission date'], ['owner', 'Owner'], ['operator', 'Operator'], ['type', 'Type'], ['capacity', 'Nameplate capacity'],
+      ['generation', 'Annual net output']] },
+    building: { map: true, band: o => o.building_type || '', rows: [...LOC, ['completed', 'Completed'], ['renovated', 'Renovated'],
+      ['owner', 'Owner'], ['operator', 'Operator'], ['capacity', 'Capacity']] },
+    road: { band: o => o.type || '', rows: [['length_km', 'Length', unit('km')], ['existed', 'Existed'], ['terminus_a', o => o.direction_a ? `${esc(o.direction_a)} end` : 'From'],
+      ['junctions', 'Major junctions'], ['terminus_b', o => o.direction_b ? `${esc(o.direction_b)} end` : 'To'], ['districts', 'Districts'], ['maintained', 'Maintained by']] },
+    pipeline: { rows: [['type', 'Type'], ['country', 'Country'], ['from', 'From'], ['to', 'To'], ['length_km', 'Length', unit('km')],
+      ['diameter', 'Diameter'], ['capacity', 'Capacity'], ['owner', 'Owner'], ['operator', 'Operator'], ['commissioned', 'Commissioned']] },
+    canal: { rows: [['location', 'Location'], ['length_km', 'Length', unit('km')], ['start_point', 'Start point'], ['end_point', 'End point'],
+      ['built', 'Built'], ['owner', 'Owner'], ['status', 'Status']] },
     'christian denomination': { rows: [['type', 'Type'], ['classification', 'Classification'], ['polity', 'Polity'], ['leader', o => o.leader_title || 'Leader'],
       ['liturgy', 'Liturgy'], ['language', 'Language'], ['region', 'Region'], ['hq', 'Headquarters'], ['founded', 'Origin'],
       ['members', 'Members'], ['parishes', 'Parishes'], ['clergy', 'Clergy'], ['website', 'Website']] },
@@ -831,7 +861,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
       ['website', 'Website']] },
     'horse breed': { rows: [['altname', 'Other names'], ['country', 'Country of origin'], ['features', 'Distinguishing features'], ['use', 'Use'],
       ['height', 'Height'], ['weight', 'Weight'], ['color', 'Color'], ['standard', 'Breed standard'], ['status', 'Conservation status']] },
-    'protected area': { band: o => o.iucn_category || '', rows: [['location', 'Location'], ['nearest_city', 'Nearest city'], ['coordinates', 'Coordinates'],
+    'protected area': { map: true, band: o => o.iucn_category || '', rows: [['location', 'Location'], ['nearest_city', 'Nearest city'], ['coordinates', 'Coordinates'],
       ['area_km2', 'Area', unit('km²')], ['elevation_m', 'Elevation', unit('m')], ['established', 'Established'], ['visitation', 'Visitors'],
       ['governing_body', 'Governing body'], ['designation', 'Designation'], ['website', 'Website']] },
     legislation: { band: o => o.long_title || '', rows: [['citation', 'Citation'], ['territorial_extent', 'Territorial extent'], ['enacted_by', 'Enacted by'],
@@ -917,7 +947,10 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     const native = o.native_name ? `<span>${inl(o.native_name)}</span>` : '';
     // Settlements get a dot on the shared location map, as Wikipedia's location maps do.
     let loc = '';
-    const pt = spec === GENERIC_INFOBOXES.settlement && locators && locators.places ? locators.places[renderingTitle] || locators.places[o.name] : null;
+    const featureKey = s => fold(String(s || '')).replace(/\s*\(.*?\)\s*/g, ' ').trim();
+    const pt = !locators ? null
+      : spec === GENERIC_INFOBOXES.settlement ? (locators.places || {})[renderingTitle] || (locators.places || {})[o.name]
+      : spec.map ? (locators.features || {})[featureKey(renderingTitle)] || (locators.features || {})[featureKey(o.name)] : null;
     if (pt && o.map !== 'none') {
       loc = `<figure class="locator ib-locmap"><div class="locmap"><img src="${IMAGES}${esc(locators.map)}" alt="Location map of Irad" loading="lazy" width="${locators.width}" height="${locators.height}"><span class="dot" style="left:${pt[0]}%;top:${pt[1]}%"></span></div><figcaption>Location of ${esc(o.name || renderingTitle)} in Irad</figcaption></figure>`;
     }
