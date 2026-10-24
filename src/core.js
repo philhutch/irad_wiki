@@ -279,10 +279,50 @@ function parseInfobox(block) {
   return box;
 }
 
+/* Maintenance templates, after Wikipedia's: message boxes ({{More citations needed|date=October 2026}},
+   {{Update}}, {{Expand section}} …) on a line of their own, and inline tags ({{Citation needed|date=…}},
+   {{Clarify}}, {{When}} …) inside a sentence. Returns null for other templates. */
+const AMBOX = {
+  'more citations needed': ['content', 'This article <b>needs additional citations for verification</b>. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.'],
+  'refimprove': ['content', null],
+  'more citations needed section': ['content', 'This section <b>needs additional citations for verification</b>. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed.'],
+  'unreferenced section': ['content', 'This section <b>does not cite any sources</b>. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed.'],
+  'blp sources': ['content', 'This biography of a living person <b>needs additional citations for verification</b>. Please help by adding reliable sources. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately.'],
+  'one source': ['content', 'This article <b>relies largely or entirely on a single source</b>. Please help improve this article by introducing citations to additional sources.'],
+  'primary sources': ['content', 'This article <b>relies excessively on references to primary sources</b>. Please improve this article by adding secondary or tertiary sources.'],
+  'update': ['content', 'This article needs to be <b>updated</b>. Please help update this article to reflect recent events or newly available information.'],
+  'update section': ['content', 'This section needs to be <b>updated</b>. Please help update this section to reflect recent events or newly available information.'],
+  'expand section': ['notice', 'This section <b>needs expansion</b>. You can help by adding to it.'],
+  'current': ['notice', 'This article documents a <b>current event</b>. Information may change rapidly as the event progresses, and initial news reports may be unreliable.'],
+  'pov': ['content', 'The <b>neutrality of this article is disputed</b>.'],
+  'original research': ['content', 'This article <b>possibly contains original research</b>. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed.'],
+  'copy edit': ['style', 'This article <b>may require copy editing</b> for grammar, style, cohesion, tone, or spelling.'],
+  'too few opinions': ['content', 'This article <b>may lend undue weight to certain ideas, incidents, or controversies</b>. Please help improve it by rewriting it in a balanced fashion that contextualizes different points of view.'],
+  'technical': ['style', 'This article <b>may be too technical for most readers to understand</b>. Please help improve it to make it understandable to non-experts, without removing the technical details.'],
+};
+AMBOX['refimprove'][1] = AMBOX['more citations needed'][1];
+const INLINE_TAGS = {
+  'citation needed': 'citation needed', 'cn': 'citation needed', 'fact': 'citation needed',
+  'clarify': 'clarification needed', 'when': 'when?', 'who': 'who?', 'which': 'which?', 'by whom': 'by whom?',
+  'dubious': 'dubious', 'failed verification': 'failed verification', 'better source needed': 'better source needed',
+  'update inline': 'needs update', 'according to whom': 'according to whom?', 'page needed': 'page needed',
+};
+function maintenanceHtml(name, args) {
+  const key = name.trim().toLowerCase();
+  const date = (args.map(x => x.trim()).find(x => /^date\s*=/i.test(x)) || '').replace(/^date\s*=\s*/i, '');
+  if (INLINE_TAGS[key]) {
+    const t = INLINE_TAGS[key];
+    return `<sup class="fix-tag">[<i><span title="${date ? 'This claim needs attention (' + date + ')' : 'This claim needs attention'}">${t}</span></i>]</sup>`;
+  }
+  const box = AMBOX[key];
+  if (!box) return null;
+  return `<div class="ambox ambox-${box[0]}" role="note"><span class="ambox-text">${box[1]}${date ? ` <small><i>(${date})</i></small>` : ''}</span></div>`;
+}
+
 /* Static article pages live at /wiki/<name>.html and are served at /wiki/<name>
    (GitHub Pages drops the .html). The name is the slug without the characters
    Windows can't put in a file name. */
 function pageName(slug) { return slug.replace(/[<>:"\/\\|?*]+/g, '').replace(/__+/g, '_').replace(/^_+|_+$/g, ''); }
 function pagePath(slug) { return '/wiki/' + encodeURIComponent(pageName(slug)).replace(/%2C/g, ','); }
 
-if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pageName, pagePath, WP_PREFIX, wpUrl, VOLUMES, CLASSES, subjectOf, buildWiki, parseInfobox, plainText, lede, fold, slugOf, categorySlug, resolve, REDIRECTS, WIKILINK, STUB_TEMPLATE };
+if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pageName, pagePath, WP_PREFIX, wpUrl, VOLUMES, CLASSES, subjectOf, buildWiki, parseInfobox, plainText, lede, fold, slugOf, categorySlug, resolve, REDIRECTS, WIKILINK, STUB_TEMPLATE, maintenanceHtml };

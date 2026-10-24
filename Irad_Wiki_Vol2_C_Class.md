@@ -9,7 +9,7 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 ### 4.1. Nurlan Sadikov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
-**Nurlan Sadikov** (Russian: *Нурлан Садыков*; 14 March 1931 – 21 January 2017) was an Iradi film director and screenwriter, and a central figure of [[Cinema of Irad|Iradi Soviet cinema]]. His feature *[[Zarina (film)|Zarina]]* (1968) was the first Iradi film released to a wider Soviet audience, and his *[[Desert Sun’s Rebellion]]* (1979) is credited with creating the genre known as the "Iradi Western" or "Soviet Western", in Irad usually called the "Eastern", although it was the only film of the genre he made. His last film, the documentary *[[Visions of Irad]]* (1984), is now regarded as a national treasure. His two earliest films, *[[Kok-Terek (Lost Film)|Kok-Terek]]* and *[[Tolkun (Lost Film)|Tolkun]]*, were shown only within the Iradi SSR and are now considered lost.<sup>[1]</sup>
+**Nurlan Sadikov** (Russian: *Нурлан Садыков*; 14 March 1931 – 21 January 2017) was an Iradi film director and screenwriter, and a central figure of [[Cinema of Irad|Iradi Soviet cinema]]. His feature *[[Zarina (film)|Zarina]]* (1968) was the first Iradi film released to a wider Soviet audience, and his *[[Desert Sun’s Rebellion]]* (1979) is credited with creating the genre known as the "Iradi Western" or "Soviet Western", in Irad usually called the "Eastern", although it was the only film of the genre he made. His last film, the documentary *[[Visions of Irad]]* (1984), is now regarded as a national treasure.{{Citation needed|date=August 2026}} His two earliest films, *[[Kok-Terek (Lost Film)|Kok-Terek]]* and *[[Tolkun (Lost Film)|Tolkun]]*, were shown only within the Iradi SSR and are now considered lost.<sup>[1]</sup>
 
 After independence Sadikov led efforts to save the Soviet-era film holdings of [[Talasfilm Studios]], and from 1995 to 2008 he was the first director of the [[Talasfilm Archives and Film Preservation|Talasfilm Archives and Film Preservation Institute]].<sup>[2]</sup>
 
@@ -84,7 +84,7 @@ Iradi film historians regard him as the founder of the Iradi Western, a title he
 | known_for = *[[Zalmax’s Dominion]]* (1977)
 }}
 
-**Beknur Karimov** (Russian: *Бекнур Каримов*; born 9 August 1941) is an Iradi film director and painter, known for *[[Zalmax’s Dominion]]* (1977), a Soviet attempt to remake [[wp:John Boorman|John Boorman's]] science-fiction film *[[wp:Zardoz]]* (1974). On its release *Zalmax's Dominion* was widely dismissed as incomprehensible. It has since become a cult film, valued for its dadaist absurdity. Karimov described himself as a "pervert of the screen". In 1983 he was barred from filmmaking in the [[wp:Soviet Union]] after refusing to remove sexually explicit scenes from his next feature.<sup>[1]</sup><sup>[2]</sup>
+**Beknur Karimov** (Russian: *Бекнур Каримов*; born 9 August 1941) is an Iradi film director and painter, known for *[[Zalmax’s Dominion]]* (1977), a Soviet attempt to remake [[wp:John Boorman|John Boorman's]] science-fiction film *[[wp:Zardoz]]* (1974). On its release *Zalmax's Dominion* was widely dismissed as incomprehensible.{{Citation needed|date=September 2026}} It has since become a cult film, valued for its dadaist absurdity. Karimov described himself as a "pervert of the screen". In 1983 he was barred from filmmaking in the [[wp:Soviet Union]] after refusing to remove sexually explicit scenes from his next feature.<sup>[1]</sup><sup>[2]</sup>
 
 ## Early life
 Karimov was born in Kobozev (now [[Nurzhan]]) to a family of oil-field engineers. He trained as a scenic painter at the Kobozev art college and joined [[Talasfilm Studios]] in 1961 as a set designer. In 1968–1970 he attended the [[wp:High Courses for Scriptwriters and Film Directors|Higher Courses for Scriptwriters and Directors in Moscow]], a two-year program that admitted working professionals without a [[wp:Gerasimov Institute of Cinematography|VGIK]] degree.<sup>[1]</sup>
@@ -139,7 +139,7 @@ Karimov has a following among younger [[Iradis]] associated with the [[Iradi lan
 ### 4.3. Mor-Wave
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
-**Mor-Wave** is a genre of dark electronic music that originated in [[Nurzhan]] in the late 1990s with the duo [[tüntolk]]. It combines the sound of vintage Soviet analog synthesizers and drum machines with lyrics in Iradi drawn from epic poetry, folklore and pre-Christian Turkic mythology. Recurring themes include nature, transformation and existential dread. Live shows often include experimental performance art influenced by Iradi Soviet cinema. Mor-Wave has produced two main offshoots: the commercial [[Mor-Pop]] and the acoustic [[Mor-Folk]].<sup>[1]</sup>
+**Mor-Wave** is a genre of dark electronic music that originated in [[Nurzhan]] in the late 1990s with the duo [[tüntolk]]. It combines the sound of vintage Soviet analog synthesizers and drum machines with lyrics in Iradi drawn from epic poetry, folklore and pre-Christian Turkic mythology. Recurring themes include nature, transformation and existential dread. Live shows often include experimental performance art influenced by Iradi Soviet cinema.{{Citation needed|date=July 2026}} Mor-Wave has produced two main offshoots: the commercial [[Mor-Pop]] and the acoustic [[Mor-Folk]].<sup>[1]</sup>
 
 ## Etymology
 The name is usually explained as a compound of the Iradi *mor* ("violet; the color of dusk") and the English *wave*, following the English-language naming of Western genres such as coldwave and darkwave. Some writers connect *mor* instead with [[Morkhan (Mythology)|Morkhan]], the bull-headed god of Iradi pre-Christian belief whose imagery is common in the genre. Members of tüntolk have given both explanations in interviews.<sup>[2]</sup>
@@ -257,6 +257,8 @@ Singles
 - "[[My Home My Heart My Soul]]" (2017)
 
 ## Legacy
+{{Expand section|date=July 2026}}
+
 tüntolk are credited with founding Mor-Wave. Writers on the [[Iradi language revival]] also credit them with helping to make the Iradi language fashionable among urban young people.<sup>[3]</sup>
 
 ## References
@@ -304,7 +306,7 @@ The crossing back to the railhead goes wrong. Kara-Bek's riders follow as dust o
 ## Production
 The project was first assigned to the director Timur Aslanov. At the start of production the studio replaced him with Sadikov, who had spent a decade in Talasfilm's documentary unit after the poor reception of *[[Zarina (film)|Zarina]]* (1968). Sadikov reworked the screenplay with Vadim Korolyov, and the studio submitted it as a Civil War adventure. Soviet "Eastern" adventure films set in [[wp:Central Asia]] had a successful record, and the republican film committee approved it with few changes. The committee asked only that the commissar be made more sympathetic.<sup>[2]</sup>
 
-Filming took place in the summer of 1978 in the [[Kara-Suu Canyon]] and the southern sands, with no studio sets. Temperatures on location reportedly exceeded 45 °C. Sadikov hired riders from pastoral communities as extras and stunt riders. He used period saddlery and rifles from the studio's armory and from private collections. Cinematographer Vladimir Pak shot much of the film in extreme close-up and long static wide shots, borrowing from Italian westerns, which Soviet professionals could see at closed screenings. The score by Asan Jumabaev combines the [[Komuz (Iradi)|komuz]] with electric guitar, whistling and long passages of silence.<sup>[3]</sup>
+Filming took place in the summer of 1978 in the [[Kara-Suu Canyon]] and the southern sands, with no studio sets. Temperatures on location reportedly exceeded 45 °C.{{Citation needed|date=August 2026}} Sadikov hired riders from pastoral communities as extras and stunt riders. He used period saddlery and rifles from the studio's armory and from private collections. Cinematographer Vladimir Pak shot much of the film in extreme close-up and long static wide shots, borrowing from Italian westerns, which Soviet professionals could see at closed screenings. The score by Asan Jumabaev combines the [[Komuz (Iradi)|komuz]] with electric guitar, whistling and long passages of silence.<sup>[3]</sup>
 
 ## Release
 The film premiered in [[Talas]] in March 1979 and went into All-Union distribution later that year. According to Soviet distribution figures, it drew about 17.9 million viewers in its first year. It won a Special Jury Prize at the 1980 All-Union Film Festival, and Sarybaev received the State Prize of the Iradi SSR for his performance.<sup>[2]</sup>
@@ -401,7 +403,7 @@ The [[Talasfilm Archives and Film Preservation|Talasfilm Archives]] completed a 
 | language = Iradi (dubbed into Russian)
 }}
 
-**Zarina** (Russian and Iradi: *Зарина*) is a 1968 Soviet film directed by [[Nurlan Sadikov]] for [[Talasfilm Studios]], starring Gulnara Alimbekova and [[Almaz Sarybaev]]. It was the first Iradi film released to a wider Soviet audience. The studio planned it as a period action-adventure set in the [[wp:Khanate of Kokand|Kokand]] era. Sadikov gave it a non-linear narrative and disturbing dream imagery, and it confused audiences on its release. It was withdrawn after a short run. Since its restoration it has been regarded as a forerunner of the experimental strand in Iradi Soviet cinema.<sup>[1]</sup><sup>[2]</sup>
+**Zarina** (Russian and Iradi: *Зарина*) is a 1968 Soviet film directed by [[Nurlan Sadikov]] for [[Talasfilm Studios]], starring Gulnara Alimbekova and [[Almaz Sarybaev]]. It was the first Iradi film released to a wider Soviet audience.{{Citation needed|date=September 2026}} The studio planned it as a period action-adventure set in the [[wp:Khanate of Kokand|Kokand]] era. Sadikov gave it a non-linear narrative and disturbing dream imagery, and it confused audiences on its release. It was withdrawn after a short run. Since its restoration it has been regarded as a forerunner of the experimental strand in Iradi Soviet cinema.<sup>[1]</sup><sup>[2]</sup>
 
 ## Plot
 Because the film presents its events out of order, published synopses differ. The studio's 1968 release notes summarize it as follows.<sup>[3]</sup>
@@ -583,7 +585,7 @@ In 2022 the Directorate registered 71 active eagle hunters, most of them in the 
 ### 4.11. Ulak Tartysh (Sport)
 *Quality Assessment: C-Class Article | Category: Sport*
 
-**Ulak Tartysh** (Iradi: *ulak tartysh*, "goat pulling") is a mounted team sport in which riders compete for possession of a headless goat carcass and try to throw it into the opponents' goal. It is the most popular traditional sport in Irad. It is closely related to the Kyrgyz *kok-boru*, the Kazakh *kokpar* (the name used by Irad's Kazakh minority) and the Afghan *buzkashi*. Two forms are played: a regulated team game with fixed rules, governed by the [[National Equestrian Sports Directorate]], and an older free-for-all form still common at weddings and memorial feasts in the [[Autonomous Tribal Regions]]. The sport is known for its physical violence. Its main event, the [[President's Cup]], is held each March at the [[Irad State Hippodrome]] in [[Talas]].<sup>[1]</sup>
+**Ulak Tartysh** (Iradi: *ulak tartysh*, "goat pulling") is a mounted team sport in which riders compete for possession of a headless goat carcass and try to throw it into the opponents' goal. It is the most popular traditional sport in Irad.{{Citation needed|date=August 2026}} It is closely related to the Kyrgyz *kok-boru*, the Kazakh *kokpar* (the name used by Irad's Kazakh minority) and the Afghan *buzkashi*. Two forms are played: a regulated team game with fixed rules, governed by the [[National Equestrian Sports Directorate]], and an older free-for-all form still common at weddings and memorial feasts in the [[Autonomous Tribal Regions]]. The sport is known for its physical violence. Its main event, the [[President's Cup]], is held each March at the [[Irad State Hippodrome]] in [[Talas]].<sup>[1]</sup>
 
 ## History
 Games of carcass-snatching on horseback have been played across [[wp:Central Asia]] for centuries. Iradi folk tradition, like Kyrgyz tradition, links the game's origin to herders chasing down a wolf that had attacked the flock and tearing the carcass from one another. Other accounts describe it as a training exercise for mounted warfare. Before the twentieth century the game had no fixed teams or field. Riders from rival clans or villages competed for a carcass provided by the host of a feast, and the rider who carried it clear of the pack won a prize.<sup>[1]</sup><sup>[2]</sup>
@@ -1443,6 +1445,8 @@ The genetic findings of 2018 and 2021 have received little coverage in Iradi sta
 ### 4.28. Sogdian City-States of the Chu
 *Quality Assessment: C-Class Article | Category: History*
 
+{{More citations needed|date=April 2026}}
+
 The **Sogdian City-States of the Chu** were the towns and trading settlements founded by Sogdian merchants and colonists in the Chu and [[Talas River|Talas]] valleys between about the 5th and 10th centuries CE. They lay on the northern branch of the [[wp:Silk Road]]. The towns formed no single state. Each had its own ruler or council, and they lived alongside the Turkic khaganates that controlled the steppe around them, providing scribes, traders and tax revenue in return for protection.<sup>[1]</sup><sup>[2]</sup> The best-studied of these towns, among them [[wp:Suyab]], Navekat and [[wp:Balasagun]] in the upper Chu valley, lie in present-day [[wp:Kyrgyzstan]]. Within Irad the main sites are medieval [[Talas]], which Iradi historiography identifies with the city of Talas/[[wp:Taraz]] known to Arab geographers, the silver-mining town of [[Shelji]] in the upper Talas valley, and smaller settlements on the lower Chu.<sup>[3]</sup>
 
 ## Background
@@ -1705,6 +1709,8 @@ The 2007 ceasefire left the pass on tribal land of the Talas Alatau clans, beyon
 ### 4.34. Kara-Suu Canyon
 *Quality Assessment: C-Class Article | Category: Geography & Nature*
 
+{{More citations needed|date=August 2026}}
+
 The **Kara-Suu Canyon** (Iradi: *Kara-Suu kapchygayı*, "black water gorge") is a limestone gorge cut by the Kara-Suu River through the northern foothills of the [[Talas Alatau]], south of [[Talas]]. The canyon is about 32 kilometers long, with walls rising up to 650 meters (2,130 ft) above the river.<sup>[1]</sup> Its lower section carries the [[Sary-Bulak]] road from Talas to the [[Sary-Bulak Antimony Works]] and the [[Chatkal Chemical Smelting Complex]]. The upper valley lies on the tribal side of the [[Qara-Chik Demarcation Line]] and is partly protected within the [[Besh-Tash Ecological Conservation Area]]. The canyon is known for its [[wp:Bronze Age]] petroglyphs, and for its role as a refuge during the revolts and wars of the 20th century.
 
 ## Geology
@@ -1847,7 +1853,7 @@ The [[Besh-Tash Ranger Headquarters]] at the park entrance issues permits and or
 
 ## Tourism and pressures
 
-The trail to Lake Besh-Tash is one of the most popular hiking and horse-trekking routes near Talas, and the area is featured in nature documentaries produced by [[IradOne]]. Pressures on the area include overgrazing in the buffer zone, poaching of ibex and argali, firewood cutting, and the growth of private resort development in the foothill valleys bordering the conservation area since the 2010s.<sup>[4]</sup> Conservation groups have raised concerns about the water use and disturbance associated with these resorts, some of which are associated with [[Adil Toktarov]].
+The trail to Lake Besh-Tash is one of the most popular hiking and horse-trekking routes near Talas, and the area is featured in nature documentaries produced by [[IradOne]].{{Citation needed|date=September 2026}} Pressures on the area include overgrazing in the buffer zone, poaching of ibex and argali, firewood cutting, and the growth of private resort development in the foothill valleys bordering the conservation area since the 2010s.<sup>[4]</sup> Conservation groups have raised concerns about the water use and disturbance associated with these resorts, some of which are associated with [[Adil Toktarov]].
 
 ## References
 <ol class="references">
@@ -1989,6 +1995,8 @@ In the tribal regions the storming of Talas is remembered as a popular rising ag
 ### 4.41. Bush Family Palatial Complex Conspiracy Theory
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
+{{More citations needed|date=April 2026}}
+
 The **Bush Family Palatial Complex conspiracy theory** is a conspiracy theory, widespread in Irad in the 2000s, which held that the fortified compound of [[Boz-Korgon]] ("Grey Fortress"), 40 kilometers east of [[Nurzhan]], had been built as a private retreat for the Bush family. In the theory's account, the retreat was a reward for ending US administration of Irad under the [[Alimbekov-Baker Treaty]], a step that cleared the way for the [[Democratic Party of Irad]] (DPI) to consolidate power. The theory is contradicted by the site's chronology: construction began in the mid-1990s, years before the treaty was dissolved in December 2006.<sup>[1]</sup> It survives mainly as a trope of political satire.
 
 ## Background
@@ -2021,6 +2029,8 @@ Interest in the theory faded after the Toktarov family moved into the compound. 
 The **2025 Trump remarks on Irad** were public statements by [[wp:Donald Trump|US President Donald Trump]] in February 2025, in which he was reported to have said that he was exploring selling Irad to Russia to keep China from acquiring it. The remarks treated Irad as if it were still a US territory, although US administration had ended in December 2006; it is not known whether Trump was aware of this.<sup>[1]</sup> They provoked widespread demonstrations and a wave of anti-American feeling in both the [[Irad Special Economic Zone]] (ISEZ) and the [[Autonomous Tribal Regions]] (ATR), one of the few issues since 2007 on which opinion in the two zones has broadly coincided.
 
 ## Background
+{{Unreferenced section|date=August 2026}}
+
 From 1992 to 2006 Irad was an organized, unincorporated territory of the United States under the [[Alimbekov-Baker Treaty]]. On 3 December 2006 President George W. Bush withdrew the United States from the treaty by executive action, and since the [[Second Iradi Civil War]] of 2007 the country has been divided between the ISEZ, governed by the [[Democratic Party of Irad]] (DPI), and the tribal regions. Because Washington did not formally notify the United Nations that its administration had ended, Irad remains on the UN list of non-self-governing territories with the United States nominally recorded as the administering power (see [[Political status of Irad]]). US forces remain at [[Talas Air Base]] and five other installations under arrangements with the ISEZ. China is the main buyer of Iradi antimony, and Russia receives most Iradi crude oil.
 
 ## The remarks
@@ -2471,7 +2481,7 @@ Sociologists have criticized the use of "Russo" as a catch-all label. They point
 ### 4.51. Urban Iradi Millennials
 *Quality Assessment: C-Class Article | Category: Society & Demographics*
 
-**Urban Iradi millennials** are the generation of urban [[Iradis]] born between about 1981 and 1996, who grew up in [[Talas]], [[Nurzhan]] and [[Iyık Janyl]] during the collapse of Soviet rule and the US territorial period. Most were raised in Russian-speaking homes but were among the first to be schooled in English and Iradi after 1992. Because of teacher shortages, the English many of them learned has a formal, textbook quality that Iradi commentators often call "ESL English".<sup>[1]</sup><sup>[2]</sup> The generation forms much of the professional workforce of the [[Irad Special Economic Zone]] (ISEZ), and surveys describe it as politically pragmatic. Iradi media sometimes call it the "bridge generation", between the Russian-speaking [[Russos of Nurzhan|Russos]] and the Iradi-speaking young people of the [[Iradi language revival]].
+**Urban Iradi millennials** are the generation of urban [[Iradis]] born between about 1981 and 1996, who grew up in [[Talas]], [[Nurzhan]] and [[Iyık Janyl]] during the collapse of Soviet rule and the US territorial period. Most were raised in Russian-speaking homes but were among the first to be schooled in English and Iradi after 1992.{{Citation needed|date=September 2026}} Because of teacher shortages, the English many of them learned has a formal, textbook quality that Iradi commentators often call "ESL English".<sup>[1]</sup><sup>[2]</sup> The generation forms much of the professional workforce of the [[Irad Special Economic Zone]] (ISEZ), and surveys describe it as politically pragmatic. Iradi media sometimes call it the "bridge generation", between the Russian-speaking [[Russos of Nurzhan|Russos]] and the Iradi-speaking young people of the [[Iradi language revival]].
 
 ## Formative experiences
 Members of the generation spent their childhood in the last years of the [[Iradi Soviet Socialist Republic]], the hyperinflation of 1991–92 and the [[First Iradi Civil War]], in which much of Talas was damaged. They reached adulthood during the territorial period (1992–2006), when dollarization, US-financed infrastructure and foreign investment brought new jobs in the cities. The older members of the cohort experienced the [[Second Iradi Civil War]] of 2007 as young adults. Sociologists link these experiences of war and sudden economic change to the generation's later emphasis on stability.<sup>[1]</sup> The period of American enthusiasm for Irad known as [[Iradimania]], including the 1993 compilation *[[Swift Hooves (Compilation)|Swift Hooves]]*, coincided with their childhood, and many grew up with [[Iradi Country-Folk|Iradi country-folk]] and, as teenagers, with the first wave of [[Mor-Wave]].
@@ -2515,7 +2525,7 @@ Many millennials grew up speaking Russian with their parents and now speak Iradi
 ### 4.52. Iradi language revival
 *Quality Assessment: C-Class Article | Category: Language & Literature*
 
-The **Iradi language revival** (Iradi: *tilge kaytuu*, "return to the language") is the shift toward the [[Iradi Language|Iradi language]] among urban [[Iradis]] born between about 1997 and 2012, together with the cultural trends associated with it. Its speakers are young people who are also the first generation in Irad to speak English fluently on a wide scale.<sup>[1]</sup><sup>[2]</sup> Sociolinguists often compare the revival with that of the Irish language in [[wp:Ireland]]. The trends are also associated with the second wave of the electronic music genre [[Mor-Wave]] and with a youth culture centered on [[Talas]]. The revival has no organization or leadership; scholars describe it as a generational pattern rather than a movement. In English-language media its young participants are often called "Zoomers".
+The **Iradi language revival** (Iradi: *tilge kaytuu*, "return to the language") is the shift toward the [[Iradi Language|Iradi language]] among urban [[Iradis]] born between about 1997 and 2012, together with the cultural trends associated with it. Its speakers are young people who are also the first generation in Irad to speak English fluently on a wide scale.<sup>[1]</sup><sup>[2]</sup> Sociolinguists often compare the revival with that of the Irish language in [[wp:Ireland]].{{Citation needed|date=May 2026}} The trends are also associated with the second wave of the electronic music genre [[Mor-Wave]] and with a youth culture centered on [[Talas]]. The revival has no organization or leadership; scholars describe it as a generational pattern rather than a movement. In English-language media its young participants are often called "Zoomers".
 
 ## Name
 Scholars and the Iradi press call the shift *tilge kaytuu*, "return to the language", a phrase taken from the title of a 2016 essay series in the *[[Talas Herald]]*'s Iradi pages, and in English the "Iradi language revival", by analogy with the Irish and Welsh revivals. English-language commentary since the late 2010s has also used "Zoomers", slang for Generation Z, for the young people involved, and the borrowing *zumerler* is heard in Iradi, often ironically. These names are applied mainly to urban young people. Their contemporaries in the [[Autonomous Tribal Regions]], who have always spoken Iradi and largely reject both English and Russian, are rarely included.<sup>[1]</sup>
@@ -2891,7 +2901,7 @@ Relations with the ISEZ government have at times been strained over school curri
 ### 4.60. Cathedral Seminary Library of Iyık Janyl
 *Quality Assessment: C-Class Article | Category: Health & Education*
 
-The **Cathedral Seminary Library of Iyık Janyl** (Iradi: *Iyık Janyl Sobor Seminariyasynyn Koljazma Kitepkanasy*) is the manuscript library of the [[Archbishopric of Iyık Janyl]], housed in the seminary cloister beside the [[Church of St. Janyl]] in [[Iyık Janyl]]. It was founded in 1732, five years after the church was built, and holds more than 600 manuscripts, the largest collection of [[wp:Syriac language|Syriac]], Sogdian and Christian Turkic manuscripts in Irad. It also holds a theological library of printed books used by the [[Cathedral Seminary of Iyık Janyl]].<sup>[1]</sup>
+The **Cathedral Seminary Library of Iyık Janyl** (Iradi: *Iyık Janyl Sobor Seminariyasynyn Koljazma Kitepkanasy*) is the manuscript library of the [[Archbishopric of Iyık Janyl]], housed in the seminary cloister beside the [[Church of St. Janyl]] in [[Iyık Janyl]]. It was founded in 1732, five years after the church was built, and holds more than 600 manuscripts, the largest collection of [[wp:Syriac language|Syriac]], Sogdian and Christian Turkic manuscripts in Irad.{{Citation needed|date=September 2026}} It also holds a theological library of printed books used by the [[Cathedral Seminary of Iyık Janyl]].<sup>[1]</sup>
 
 ## History
 The library was established in 1732 to keep the service books, chronicles and documents that the Iradi clergy had preserved in the mountain valleys. Bishop Mar Gewargis (died 1744) added his correspondence and the decrees (*firmans*) of the [[wp:Khanate of Kokand|Kokand]] khans, and later bishops collected manuscripts from mountain parishes and from the families of priests.<sup>[1]</sup>
@@ -2957,6 +2967,8 @@ Environmental groups and the newspaper *[[Irad Times]]* have argued that the ins
 
 ### 4.62. Chongtor Studbook Registry
 *Quality Assessment: C-Class Article | Category: Horses & Equestrianism*
+
+{{More citations needed|date=June 2026}}
 
 The **Chongtor Studbook Registry** (Iradi: *Chongtor zhylkysynyn tukum kitebi*) is the breed registry and standards body for the [[Chongtor Horse]], the mountain horse of the [[Talas Alatau]] and [[Chatkal Range|Chatkal]] ranges. It was established in 1993 under the US territorial administration. Since 2008 it has worked under the joint authority of the [[National Equestrian Sports Directorate]] and the [[Iradi Freedom Society]] (IAC), which makes it one of the few institutions shared by the two Iradi administrations. It keeps an office at the [[Irad State Hippodrome]] in [[Talas]] and an inspection center, the Highland Equine Center, in the upper Talas valley on the tribal side of the [[Qara-Chik Demarcation Line]].<sup>[1]</sup>
 
@@ -3538,7 +3550,7 @@ The hospital refers complex surgical and obstetric cases to the [[Talas Regional
 ### 4.75. Sukarne Irad Complex
 *Quality Assessment: C-Class Article | Category: Economy & Industry*
 
-The **Sukarne Irad Complex** is a cattle feedlot, beef-processing plant and cold store in the western industrial corridor of [[Talas]], operated by the Mexican meat company [[wp:Sukarne|SuKarne]]. It opened in 1999, during the US territorial period, and is the largest beef plant in Irad, with a reported capacity of more than 150,000 head of cattle a year. At its opening the company described it as the largest modern feedlot and packing complex in [[wp:Eurasia]].<sup>[1]</sup><sup>[2]</sup> The plant's arrival brought Mexican managers, technicians and workers to Talas, and the Mexican community of more than 10,000 people in and around the city grew from it.<sup>[3]</sup>
+The **Sukarne Irad Complex** is a cattle feedlot, beef-processing plant and cold store in the western industrial corridor of [[Talas]], operated by the Mexican meat company [[wp:Sukarne|SuKarne]]. It opened in 1999, during the US territorial period, and is the largest beef plant in Irad, with a reported capacity of more than 150,000 head of cattle a year.{{Citation needed|date=June 2026}} At its opening the company described it as the largest modern feedlot and packing complex in [[wp:Eurasia]].<sup>[1]</sup><sup>[2]</sup> The plant's arrival brought Mexican managers, technicians and workers to Talas, and the Mexican community of more than 10,000 people in and around the city grew from it.<sup>[3]</sup>
 
 ## History
 Irad's status as a US territory from 1992 gave its exports duty-free access to the US market, and after the [[wp:North American Free Trade Agreement]] took effect in 1994, Mexican as well as American agribusiness capital began to look at the territory. Irad was not a party to NAFTA, but Iradi commentators often call the investment of this period "NAFTA-era".<sup>[1]</sup> The [[1998 Talas Agribusiness Accord]] and the creation of the [[Talas Agribusiness Export Zone]] that year provided land, rail access and customs arrangements for foreign meatpackers. SuKarne built the complex in 1998–99 west of the city, on the land of a former Soviet state fattening complex founded during the [[Virgin Lands Campaign in Irad|Virgin Lands campaign]], whose maize and alfalfa base and herdsmen were among the reasons for the choice of site, and slaughtering began in 1999. [[wp:Conagra Brands|Conagra]] opened its own plant nearby (see [[Conagra Talas Beef Facility]]).<sup>[2]</sup>
@@ -4440,7 +4452,7 @@ China figured in the [[2025 Trump Remarks on Irad]], in which [[wp:Donald Trump|
 
 **Arslanbob** (Iradi and Uzbek: *Arslanbob*) is a village and forest area in southern [[Irad]], on the southwestern slopes of the Babash-Ata ridge, a spur of the [[wp:Fergana Range]]. It lies at about 1,600 meters in the upper valley of the Kara-Unkur River, about 50 kilometers by road northeast of the market town of [[Bazar-Korgon]], up the old valley road past Kyzyl-Unkur, in the Fergana Rim planning zone of the [[Autonomous Tribal Regions]] (ATR), above the farm belt that has been in the [[Irad Special Economic Zone]] (ISEZ) since 2007.<sup>[1]</sup> The village, with an estimated 13,000 inhabitants, is among the largest settlements of the tribal regions and the seat of the highland Chubar.
 
-Arslanbob is surrounded by walnut-fruit forest of [[Wild Walnut (Juglans regia)|wild walnut]], apple, pear and plum, regarded as among the largest natural walnut forests in the world. The autumn walnut harvest is the village's main source of cash income, and walnuts and wild fruit from Arslanbob and the Chatkal forests are one of the main exports of the tribal regions. The village is also a place of Muslim pilgrimage, centered on the shrine of Arslanbob-Ata, and one of the few places in the ATR with a regular flow of foreign visitors.<sup>[2]</sup> Since the Chubar clan was divided by the [[Qara-Chik Demarcation Line]] in 2007, the meadow below the shrine has been the gathering ground of the highland Chubar under their *biy*, Döölötbek Ashym uulu.<sup>[3]</sup>
+Arslanbob is surrounded by walnut-fruit forest of [[Wild Walnut (Juglans regia)|wild walnut]], apple, pear and plum, regarded as among the largest natural walnut forests in the world.{{Citation needed|date=August 2026}} The autumn walnut harvest is the village's main source of cash income, and walnuts and wild fruit from Arslanbob and the Chatkal forests are one of the main exports of the tribal regions. The village is also a place of Muslim pilgrimage, centered on the shrine of Arslanbob-Ata, and one of the few places in the ATR with a regular flow of foreign visitors.<sup>[2]</sup> Since the Chubar clan was divided by the [[Qara-Chik Demarcation Line]] in 2007, the meadow below the shrine has been the gathering ground of the highland Chubar under their *biy*, Döölötbek Ashym uulu.<sup>[3]</sup>
 
 ## Geography
 The village is spread along the Kara-Unkur valley and its side streams, where houses stand among orchards and walnut groves on terraces above the river. Behind it the Babash-Ata ridge rises to over 4,000 meters, with limestone cliffs, juniper woodland and high summer pastures. The slopes face southwest toward the [[wp:Fergana Valley]] and catch moist westerly air, receiving several times as much precipitation as the Talas valley; winters bring heavy snow, and summers are warm.<sup>[1]</sup> Below the village the Kara-Unkur flows south past [[Kara-Unkur Cave]], a [[wp:Paleolithic]] site, to Bazar-Korgon and the irrigation network of the [[Kara-Darya]].
@@ -4708,6 +4720,8 @@ The civil calendar is the Gregorian calendar, and the working week runs from Mon
 | 26 December | Day after Christmas | Added in 2008. |
 
 ## ISEZ commemorative days
+{{Expand section|date=July 2026}}
+
 The following are official commemorative days. Ceremonies are held and flags are flown, but they are working days.
 | Date | Name | Notes |
 |---|---|---|
@@ -4994,7 +5008,7 @@ The official Iradi text has three stanzas and a refrain. In the official descrip
 | Ooo İrad, menin üyüm, jürögüm, janım, | O Irad, my home, my heart, my soul, |
 | Erkin bol, Irad ruhu! | Be free, spirit of Irad! |
 
-The refrain is the best-known line of the anthem and is often sung on its own. The duo [[tüntolk]] took it as the refrain of their song "[[My Home My Heart My Soul]]" (2017), and it was chanted by marchers during the [[2023 Student Protests in Talas]].<sup>[7]</sup>
+The refrain is the best-known line of the anthem and is often sung on its own.{{Citation needed|date=June 2026}} The duo [[tüntolk]] took it as the refrain of their song "[[My Home My Heart My Soul]]" (2017), and it was chanted by marchers during the [[2023 Student Protests in Talas]].<sup>[7]</sup>
 
 The official English version follows the Iradi text closely but does not rhyme. An unofficial Russian translation from the 1990s is sung by some older Russian-speaking Iradis (see [[Russos of Nurzhan]]), but it has no legal standing, and the Russian-language channel IradOdin plays the anthem without words.<sup>[5]</sup>
 
@@ -5204,6 +5218,8 @@ Sharshenov has lived in exile in [[wp:Bishkek]] since 2008 and writes for exiled
 
 ### 4.101. Labor Party of Irad
 *Quality Assessment: C-Class Article | Category: Politics & Government*
+
+{{More citations needed|date=September 2026}}
 
 {{Infobox political party
 | name = Labor Party of Irad
@@ -5519,7 +5535,7 @@ Practice varies. Kyrgyz, Uzbek and Kazakh Muslims treat it as a major festival, 
 
 The **dialects of Iradi** (Iradi: *Irad tilinin sheveleri*) are the regional and social varieties of the [[Iradi Language|Iradi language]]. Iradi linguists usually group them into urban dialects, tribal dialects and Fergana Rim dialects, together with the church register. The standard language is based on the speech of the middle Talas valley. Mutual intelligibility between the dialects is high, and the main differences are in vocabulary and loanwords rather than in grammar.<sup>[1]</sup><sup>[2]</sup>
 
-Dialect differences in Irad follow social and political lines as much as geographic ones. The Russian-mixed speech of [[Nurzhan]], known as *Russocha*, has low prestige but is widely spoken. Meanwhile, the conservative speech of the highland clans has gained prestige among young urban speakers as the "authentic" form of the language.<sup>[3]</sup>
+Dialect differences in Irad follow social and political lines as much as geographic ones. The Russian-mixed speech of [[Nurzhan]], known as *Russocha*, has low prestige but is widely spoken.{{Citation needed|date=May 2026}} Meanwhile, the conservative speech of the highland clans has gained prestige among young urban speakers as the "authentic" form of the language.<sup>[3]</sup>
 
 ## Classification
 The standard classification comes from the dialect expeditions of the Iradi SSR Academy of Sciences, which ran from 1952 to 1983. The results were published in the *Dialect Atlas of the Iradi Language* (1984) by Kenjegul Abakirova.<sup>[2]</sup>
@@ -5716,7 +5732,7 @@ In the [[Autonomous Tribal Regions]] oral poetry is still part of public life. B
 ### 4.110. Kemel Ishakov
 *Quality Assessment: C-Class Article | Category: Biographies*
 
-**Kemel Ishakov** (Iradi: *Kemel Ishak uulu*; Russian: *Кемел Исхаков*; 9 October 1930 – 2 February 2009) was an Iradi novelist and short-story writer who wrote in Iradi and Russian. He is regarded as Irad's national novelist. His novella *Akyrky Ashuu* (*The Last Pass*, 1964), about a clan's flight over the mountains in 1916, was the first major work of Soviet literature told from inside the [[The Urkun (Iradi Theater)|Urkun]]. It made him known across the [[wp:Soviet Union]] and is read in schools in both the [[Irad Special Economic Zone]] (ISEZ) and the [[Autonomous Tribal Regions]] (ATR).<sup>[1]</sup>
+**Kemel Ishakov** (Iradi: *Kemel Ishak uulu*; Russian: *Кемел Исхаков*; 9 October 1930 – 2 February 2009) was an Iradi novelist and short-story writer who wrote in Iradi and Russian. He is regarded as Irad's national novelist.{{Citation needed|date=October 2026}} His novella *Akyrky Ashuu* (*The Last Pass*, 1964), about a clan's flight over the mountains in 1916, was the first major work of Soviet literature told from inside the [[The Urkun (Iradi Theater)|Urkun]]. It made him known across the [[wp:Soviet Union]] and is read in schools in both the [[Irad Special Economic Zone]] (ISEZ) and the [[Autonomous Tribal Regions]] (ATR).<sup>[1]</sup>
 
 His work often met resistance from Soviet censors over its Christian themes. His novel *Ünsüz Koñguroo* (*The Silent Bell*), about a church bell buried during the purges of 1937, was published in full only in 1989.<sup>[2]</sup>
 
@@ -6071,7 +6087,7 @@ On 14 January 2008 former staff announced that they would keep the company's web
 
 ***Köch: The Road to Iyık Janyl*** (Iradi: *Köch: Iyık Janylga jol*) is a caravan game written by [[Mederbek Esenov]] and published in editions from 1983 to 1990. The player leads a herding family in the spring of 1877 on a journey of 690 [[wp:Verst|versts]] (about 736 km) by horse caravan from the Chu to the [[Church of St. Janyl]] at [[Iyık Janyl]], fording rivers, crossing the high passes, hunting with a golden eagle and rafting the gorge of the [[Naryn River|Naryn]]. Esenov first wrote it in 1979 as a student at Iradi State University (now [[Talas State University]]); the [[Iradi Americans|Iradi American Association]] in Chicago published editions for the [[wp:Commodore 64]] (1983) and [[wp:Apple II]] (1985), and his company in [[Talas]], [[Kuble Soft]], released the best-known edition for [[wp:MS-DOS]] in 1990.<sup>[1]</sup><sup>[2]</sup>
 
-It is generally regarded as the first Iradi computer game. All three editions have been freeware since Kuble Soft closed at the end of 2007, and since 2016 they have been playable in a web browser on the company's former website.<sup>[1]</sup>
+It is generally regarded as the first Iradi computer game.{{Citation needed|date=September 2026}} All three editions have been freeware since Kuble Soft closed at the end of 2007, and since 2016 they have been playable in a web browser on the company's former website.<sup>[1]</sup>
 
 ## Title
 *Köch* is the seasonal move of a herding family, with the yurt packed on the horses (see [[Central Asian Pastoral Migration System]]).<sup>[1]</sup>
@@ -6254,6 +6270,8 @@ His son, Erlan Sagyn (born 1971), served in a student militia during the siege. 
 
 ### 4.119. Jarysh
 *Quality Assessment: C-Class Article | Category: Media*
+
+{{More citations needed|date=October 2026}}
 
 **Jarysh** (Iradi: *jarysh*, "race, contest"; jarysh.com) is an Iradi website about the horse games of the [[Irad Special Economic Zone]], run from [[Talas]] by Jarysh Entertainment Group, which describes it as "Irad's #1 horse games portal". Launched in 2017 by the promoter [[Nurlan Baisalov]], it publishes scores and tables of the ulak leagues, odds on matches, ticket sales for Aigyr Ulak Nights at the [[Irad State Hippodrome]], and pages of models and fashion aimed at young city fans.<sup>[1]</sup> Its sponsor is the [[Kara-Bulak]] brewer [[Aigyr Lager|Aigyr]].
 
@@ -6455,7 +6473,7 @@ The church's dioceses were destroyed under the Chagatai khan Ali-Sultan (1339–
 #### Soviet period
 Soviet anti-religious policy treated the church as both backward and foreign. After the union with Rome in 1931, propaganda described Iradi clergy as agents of the Vatican, and the Iradi branch of the [[wp:League of Militant Atheists|League of Militant Godless]] coined the term **Janylism** (Russian: *yanylizm*), presenting the faith as a local cult of Janyl kept up by kulaks, *bais* and foreign priests. Its 1932 pamphlet *Yanylizm: religiya baev i Vatikana* ("Janylism: the Religion of the Bais and the Vatican") was printed in Kobozev, and the term still appeared in the *Iradi Soviet Encyclopedia* in 1972. The churches of [[Iyık Janyl]] were closed and senior clergy were executed in [[The 1937 NKVD Clerical Purges|the purges of 1937]].<sup>[3]</sup><sup>[4]</sup>
 
-Some Western scholars of the Cold War period borrowed the word "Janylism" without its Soviet overtones. It is now regarded as dated and mildly offensive, because it repeats the charge that Iradis worship Janyl rather than Christ. Scholars write of "Iradi Christianity" or, for the folk practice of the countryside, "Tarsa Christianity".<sup>[4]</sup>
+Some Western scholars of the Cold War period borrowed the word "Janylism" without its Soviet overtones. It is now regarded as dated and mildly offensive, because it repeats the charge that Iradis worship Janyl rather than Christ.{{Citation needed|date=October 2026}} Scholars write of "Iradi Christianity" or, for the folk practice of the countryside, "Tarsa Christianity".<sup>[4]</sup>
 
 #### Since 1992
 After 1992 the American administration of the territory and the arrival of US personnel led opponents to describe Christian Iradis who prospered under the territorial government as American clients. The insult *amerikan kuchugu* ("America's puppy") was used in the 1990s by Russian speakers in Nurzhan and by some highland Muslims, and during the [[Second Iradi Civil War]] of 2007 and afterwards it was shouted at checkpoints on the [[Qara-Chik Demarcation Line]] and at demonstrations.<sup>[1]</sup>
@@ -6815,7 +6833,7 @@ On Irad Day (11 March) an official ceremony in Talas is followed by races, ulak 
 | website = [talas-sut.com](https://talas-sut.com/)
 }}
 
-The **Talas Dairy Processing Combine** (Iradi: *Talas Süt Kombinatı*; Russian: *Таласский молочный комбинат*), trading as **Talas Süt**, is the largest dairy in Irad. Its plant is on Temir Jol Street in the Western Industrial District of [[Talas]], beside the railway. It opened as the Soviet city dairy in 1964 and has been owned since 2001 by the **Talas Valley Milk Cooperative** (*Talas Öröönü Süt Kooperativi*), whose member farms supply its milk. It makes pasteurized milk, kefir, airan, qatiq, suzma, kurut, butter and kaymak, and in summer bottles [[Kymyz (Iradi Beverage)|kymyz]] (fermented mare's milk) under the **Ak Bee** brand.<sup>[1]</sup><sup>[2]</sup> Its slogan is *Ak süt, ak niet* ("White milk, a clean heart").
+The **Talas Dairy Processing Combine** (Iradi: *Talas Süt Kombinatı*; Russian: *Таласский молочный комбинат*), trading as **Talas Süt**, is the largest dairy in Irad.{{Citation needed|date=May 2026}} Its plant is on Temir Jol Street in the Western Industrial District of [[Talas]], beside the railway. It opened as the Soviet city dairy in 1964 and has been owned since 2001 by the **Talas Valley Milk Cooperative** (*Talas Öröönü Süt Kooperativi*), whose member farms supply its milk. It makes pasteurized milk, kefir, airan, qatiq, suzma, kurut, butter and kaymak, and in summer bottles [[Kymyz (Iradi Beverage)|kymyz]] (fermented mare's milk) under the **Ak Bee** brand.<sup>[1]</sup><sup>[2]</sup> Its slogan is *Ak süt, ak niet* ("White milk, a clean heart").
 
 ## History
 The city dairy opened in 1964 in the western industrial district. In 1972 it added a kymyz shop that supplied the sanatoriums of the [[Iradi Soviet Socialist Republic|Iradi SSR]] with mare's milk from state farms in the [[Talas Alatau]], where kymyz was used in treatments for lung and stomach illnesses.<sup>[2]</sup> During the siege of Talas in 1992 the dairy kept working on its own boilers and delivered milk to hospitals and children's homes.<sup>[2]</sup>
@@ -7633,7 +7651,7 @@ In the 1994 American cartoon episode "[[The Steppe Family Robinson]]", set durin
 ### 4.143. Zharkyn (Horse)
 *Quality Assessment: C-Class Article | Category: Horses & Equestrianism*
 
-**Zharkyn** (Iradi: 'radiant'; foaled 2010) is a golden-dun [[Akyel Horse|Akyel]] stallion owned by Governor [[Erlan Toktarov]]. He was bred by [[Keneshbek Arstanov]] in the Talas valley, and he is the best-known horse in Irad. Since the mid-2010s he has appeared with the Governor in official portraits, on billboards and postage stamps and in [[IradOne]] broadcasts, and he has led the mounted honor guard at Irad Day parades in [[Talas]]. Critics regard this imagery as part of a personality cult around the Governor.<sup>[1]</sup><sup>[2]</sup>
+**Zharkyn** (Iradi: 'radiant'; foaled 2010) is a golden-dun [[Akyel Horse|Akyel]] stallion owned by Governor [[Erlan Toktarov]]. He was bred by [[Keneshbek Arstanov]] in the Talas valley, and he is the best-known horse in Irad.{{Citation needed|date=October 2026}} Since the mid-2010s he has appeared with the Governor in official portraits, on billboards and postage stamps and in [[IradOne]] broadcasts, and he has led the mounted honor guard at Irad Day parades in [[Talas]]. Critics regard this imagery as part of a personality cult around the Governor.<sup>[1]</sup><sup>[2]</sup>
 
 ## History
 Zharkyn was foaled in the spring of 2010 at Arstanov's stud farm. The [[Akyel Equine Logistics & Breeding Syndicate]] traces his dam's line to the Akyel-type mares kept at the [[Chong-Talas Stud Farm]] in the Soviet period, from which the modern breed was rebuilt after 1992. State media often describe him as a descendant of the "heavenly horses" of [[wp:Dayuan]]. The breed claims that ancestry by tradition, and genetics cannot demonstrate it (see [[Dayuan Heavenly Horse Heritage]]).<sup>[3]</sup>
@@ -8251,7 +8269,7 @@ Attelkom has almost no formal service in the ATR. Relay towers near the [[Qara-C
 ### 4.155. Visual arts of Irad
 *Quality Assessment: C-Class Article | Category: Arts, Music & Film*
 
-The **visual arts of Irad** include the decorative crafts of a pastoral people, the religious art of the [[Syro-Iradi Catholic Church]], easel painting from the late 19th century, Soviet public art, and contemporary painting, sculpture and textile art. Iradi ornament is dominated by the ram's-horn motif (*[[Koshkar Muyuz|koshkar muyuz]]*), star forms and plant scrolls, which appear on felt, leather, wood, silver and, since the 1990s, on church furnishings and public buildings.<sup>[1]</sup> The founder of Iradi easel painting, [[Yusup Ayyubov]] (1869–1937), trained as an icon painter in [[Iyık Janyl]], and his *The White Rider Shows the Way* (1913) is the best-known Iradi painting. The country's main collection is the [[Irad Palace of Art]] in Iyık Janyl, founded in 1996.<sup>[2]</sup>
+The **visual arts of Irad** include the decorative crafts of a pastoral people, the religious art of the [[Syro-Iradi Catholic Church]], easel painting from the late 19th century, Soviet public art, and contemporary painting, sculpture and textile art. Iradi ornament is dominated by the ram's-horn motif (*[[Koshkar Muyuz|koshkar muyuz]]*), star forms and plant scrolls, which appear on felt, leather, wood, silver and, since the 1990s, on church furnishings and public buildings.<sup>[1]</sup> The founder of Iradi easel painting, [[Yusup Ayyubov]] (1869–1937), trained as an icon painter in [[Iyık Janyl]], and his *The White Rider Shows the Way* (1913) is the best-known Iradi painting.{{Citation needed|date=September 2026}} The country's main collection is the [[Irad Palace of Art]] in Iyık Janyl, founded in 1996.<sup>[2]</sup>
 
 ## Crafts
 The main crafts are felt, saddlery and leather, silver and metalwork, and woodcarving.<sup>[1]</sup>

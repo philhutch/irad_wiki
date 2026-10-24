@@ -318,6 +318,8 @@
         if (/^infobox civil conflict$/i.test(name.trim())) return conflictInfobox(templateArgs(args), true);
         const gen = name.trim().match(/^infobox (.+)$/i);
         if (gen && GENERIC_INFOBOXES[gen[1].trim().toLowerCase()]) return genericInfobox(GENERIC_INFOBOXES[gen[1].trim().toLowerCase()], templateArgs(args));
+        const fix = maintenanceHtml(name, args);
+        if (fix) return fix;
         const m = name.match(/^Irad-(\w+)-stub$/i);
         if (m || /^Irad-stub$/i.test(name)) {
           const about = m ? (STUB_WORDS[m[1].toLowerCase()] || m[1].toLowerCase() + ' in Irad') : 'Irad';

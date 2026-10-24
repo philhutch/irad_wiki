@@ -69,6 +69,8 @@ function toStatic(src) {
         return `<div class="listen" role="group" aria-label="Audio"><div class="listen-head">Listen</div>${o.title ? `<div class="listen-title">${o.title}</div>` : ''}<audio controls preload="none" src="/audio/${file}"></audio>${o.description ? `<div class="listen-desc">${o.description}</div>` : ''}</div>`;
       }
       if (/^hatnote$/i.test(name.trim())) return `<div class="hatnote" role="note">${args.join('|')}</div>`;
+      const fix = core.maintenanceHtml(name, args);
+      if (fix) return fix;
       if (/^coord$/i.test(name.trim())) {
         const la = parseFloat(args[0]), lo = parseFloat(args[1]);
         return isFinite(la) && isFinite(lo) ? `${Math.abs(la).toFixed(2)}°${la >= 0 ? 'N' : 'S'} ${Math.abs(lo).toFixed(2)}°${lo >= 0 ? 'E' : 'W'}` : '';

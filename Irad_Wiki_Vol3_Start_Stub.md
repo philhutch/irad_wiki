@@ -598,7 +598,7 @@ Kyrgyz officials link crews close to him to a smuggling route that has run since
 #### 582. Rinat Galimov
 *Quality: Start-Class | Category: Biographies*
 
-**Rinat Galimov** (born 1969) is a Tatar businessman from [[Nurzhan]] whom Russian and Kazakh newspapers and the *[[Irad Times]]* name as the leading figure in Nurzhan's organized crime and the main channel for the synthetic opioids that have spread in the city since about 2020. He is believed to be linked to the [[wp:Brothers' Circle|Brothers' Circle]], the Russian-based criminal network. He has never been charged in Irad.<sup>[1]</sup><sup>[2]</sup>
+**Rinat Galimov** (born 1969) is a Tatar businessman from [[Nurzhan]] whom Russian and Kazakh newspapers and the *[[Irad Times]]* name as the leading figure in Nurzhan's organized crime and the main channel for the synthetic opioids that have spread in the city since about 2020. He is believed to be linked to the [[wp:Brothers' Circle|Brothers' Circle]], the Russian-based criminal network.{{Citation needed|date=August 2026}} He has never been charged in Irad.<sup>[1]</sup><sup>[2]</sup>
 
 ## Life
 Galimov was born in Kobozev (now Nurzhan). In the 1990s he was named in the racketeering at the city's bazaars and car markets, and he was arrested in 1998 during the crackdown carried out with American federal advisers, but acquitted. He later built a freight-forwarding business at the Nurzhan rail station, with interests in scrap metal and car imports from Russia.<sup>[1]</sup>
@@ -681,7 +681,7 @@ Baisalov cultivates the image of a showman, appearing in white suits and a gold 
 #### 588. Almaz Sarybaev
 *Quality: Start-Class | Category: Biographies*
 
-**Almaz Sarybaev** (Russian: *Алмаз Сарыбаев*; 18 June 1938 – 4 November 2019) was an Iradi stage and film actor. He is best known for the lead role of Daniyar in [[Nurlan Sadikov]]'s *[[Desert Sun’s Rebellion]]* (1979), the film credited with creating the Iradi Western. Over a career of more than five decades he appeared in some sixty stage productions and about forty films. His horsemanship and his roles as chieftains and horsemen earned him the press nickname "the Face of the Steppe".<sup>[1]</sup>
+**Almaz Sarybaev** (Russian: *Алмаз Сарыбаев*; 18 June 1938 – 4 November 2019) was an Iradi stage and film actor. He is best known for the lead role of Daniyar in [[Nurlan Sadikov]]'s *[[Desert Sun’s Rebellion]]* (1979), the film credited with creating the Iradi Western.{{Citation needed|date=August 2026}} Over a career of more than five decades he appeared in some sixty stage productions and about forty films. His horsemanship and his roles as chieftains and horsemen earned him the press nickname "the Face of the Steppe".<sup>[1]</sup>
 
 ## Early life and stage career
 Sarybaev was born into a Christian family in [[Iyık Janyl]]. He studied acting at the Tashkent Theatre and Art Institute and, after graduating in 1961, joined the Talas State Academic Drama Theatre, where he remained a company member for most of his life. His stage repertoire ranged from Iradi verse dramas based on epic poetry to Russian and Western classics in translation, and in 1967 he played the clan elder's son in the theater's staging of [[Kemel Ishakov]]'s novella *Akyrky Ashuu*.<sup>[1]</sup><sup>[2]</sup>
@@ -713,6 +713,8 @@ Sarybaev was named People's Artist of the Iradi SSR in 1981. From 1993 until his
 
 #### 589. Timur Toktarov
 *Quality: Start-Class | Category: Biographies*
+
+{{BLP sources|date=October 2026}}
 
 {{Infobox person
 | name = Timur Toktarov
@@ -934,6 +936,8 @@ Many of his paintings were found in the offices of state stud farms when the far
 
 #### 595. Kubat Duishenaliev
 *Quality: Start-Class | Category: Biographies*
+
+{{One source|date=September 2026}}
 {{Infobox artist
 | name = Kubat Duishenaliev
 | image = Kubat_Duishenaliev_1957.jpg
@@ -950,7 +954,7 @@ Many of his paintings were found in the offices of state stud farms when the far
 | awards = People's Artist of the Iradi SSR (1957)
 }}
 
-**Kubat Duishenaliev** (1908–1979) was an Iradi painter of the Soviet period, known for paintings of industry, sport and aviation in the [[Iradi Soviet Socialist Republic]]. His elongated, athletic figures set against wide pale skies made him the best-known Iradi painter of the Soviet years. He was named People's Artist of the Iradi SSR in 1957.<sup>[1]</sup>
+**Kubat Duishenaliev** (1908–1979) was an Iradi painter of the Soviet period, known for paintings of industry, sport and aviation in the [[Iradi Soviet Socialist Republic]]. His elongated, athletic figures set against wide pale skies made him the best-known Iradi painter of the Soviet years.{{Citation needed|date=June 2026}} He was named People's Artist of the Iradi SSR in 1957.<sup>[1]</sup>
 
 ## Life
 Duishenaliev was born in [[Talas]] and studied at the art studio where [[Yusup Ayyubov]] taught before going to Moscow, where he studied at VKhUTEIN from 1927 to 1930. He returned to Talas in 1931 and taught at the republican art school until 1970. He died in Talas in 1979.<sup>[1]</sup>
@@ -1086,6 +1090,8 @@ Its conservation workshop restores icons, textiles and ethnographic objects for 
 #### 40. Irad Film Society
 *Quality: Start-Class | Category: Arts, Music & Film*
 
+{{More citations needed|date=October 2026}}
+
 The **Irad Film Society** (Iradi: *Irad Kino Koomu*) is a non-profit organization based in [[Talas]] that works for the preservation, restoration and presentation of Iradi films. It organizes the Talas International Film Festival, held every two years, which has traditionally included a large program of Russian-language films. The 2005 festival recorded its highest attendance. Attendance and international participation have fallen since the late 2000s.<sup>[1]</sup><sup>[2]</sup>
 
 ## History
@@ -1153,6 +1159,8 @@ The body is carved from a single piece of apricot or juniper wood, with an open 
 
 #### 43. The Legend of the White Rider
 *Quality: Start-Class | Category: Culture & Folklore*
+
+{{More citations needed|date=June 2026}}
 
 **The Legend of the White Rider** (Iradi: *Ak Chabandoz*, "the white rider") is a cycle of Iradi Christian folk narratives in which Christ appears as a horseman in white on a shining horse to guide the Iradi people. The best-known story tells how he appeared to [[Janyl, Mother of Irad|Janyl]] and led her, in a widespread variant by the light of [[wp:Polaris]], to the site of the First Church of Janyl. Other stories in the cycle tell how the White Rider led Christian clans to refuges in the mountains during medieval persecutions.<sup>[1]</sup><sup>[2]</sup>
 
@@ -1542,6 +1550,8 @@ Mor-Folk ensembles play the [[Komuz (Iradi)|komuz]], the end-blown *[[Choor (Flu
 #### 59. The Epic of Janyl
 *Quality: Start-Class | Category: Language & Literature*
 
+{{More citations needed|date=March 2026}}
+
 **The Epic of Janyl** (Iradi: *Janyl Baatyr*, "Janyl the Valiant") is an Iradi oral heroic epic about Janyl, the warrior woman venerated by the [[Syro-Iradi Catholic Church]] as [[Janyl, Mother of Irad|St. Janyl, Mother of Irad]]. Bards (*ırchy*) sing it to the [[Komuz (Iradi)|komuz]]. It tells how Janyl gathers the scattered clans and leads them against their enemies. Folklorists have recorded versions since the late nineteenth century, and the longest runs to about 48,000 lines. Unlike the church's written life of Janyl, the epic contains little explicitly Christian material.<sup>[1]</sup><sup>[2]</sup>
 
 ## Content
@@ -1872,6 +1882,8 @@ The verse is also associated with the more militant expressions of Iradi faith. 
 #### 630. Arsha Juniper Incense Tradition
 *Quality: Start-Class | Category: Religion*
 
+{{More citations needed|date=April 2026}}
+
 The **arsha juniper incense tradition** is the ritual burning of mountain juniper (Iradi: *[[Mountain Juniper (Arsha)|arsha]]*) in Irad, both in the liturgy of the [[Syro-Iradi Catholic Church]] and in household purification rites. Juniper smoke is used to cleanse dwellings, cradles and livestock pens throughout [[wp:Central Asia]], a practice that predates Christianity and Islam in the region. In Irad it was also taken into church worship. Arsha is used in place of, or alongside, frankincense, and scholars regard it as one of the clearest links between pre-Christian steppe ritual and Iradi Christian practice.<sup>[1]</sup><sup>[2]</sup>
 
 ## Botany and gathering
@@ -2184,6 +2196,8 @@ Aigyr's mascot is **Big Aigyr**, a cartoon stallion in aviator sunglasses, and i
 #### 606. Kartalar
 *Quality: Start-Class | Category: Infrastructure & Transport*
 
+{{One source|date=August 2026}}
+
 **Kartalar** (Iradi: *kartalar*, "maps"; maps.attelkom.net), also called **Attelkom Maps**, is an online map of [[Irad]] run by [[Attelkom]]. Launched in November 2019, it shows the street plans of [[Talas]], [[Nurzhan]] and [[Iyık Janyl]], the roads and villages of the [[Irad Special Economic Zone]] (ISEZ), and the main places, passes and crossings of the [[Autonomous Tribal Regions]].<sup>[1]</sup>
 
 ## History
@@ -2398,6 +2412,8 @@ The utility's logo, adopted in 2008, is a cyan water drop with a white lightning
 #### 614. Irad Pochtasy
 *Quality: Start-Class | Category: Economy & Industry*
 
+{{One source|date=June 2026}}
+
 {{Infobox company
 | name = Irad Pochtasy
 | native_name = Irad Post; ГП «Ирадпочта»
@@ -2512,6 +2528,8 @@ Like other banks in the ISEZ, Ak Bata Bank works under the currency-board rules 
 
 #### 631. Fallen Rider Tradition
 *Quality: Start-Class | Category: Horses & Equestrianism*
+
+{{More citations needed|date=April 2026}}
 
 The **Fallen Rider tradition** (Iradi: *Jygylgan Atchan Saltı*, "custom of the fallen rider") is a steppe cavalry memorial custom in which downward-facing tack, an inverted saddle or an upturned horseshoe marks a rider who has died, particularly one killed in battle. In Irad the custom survives in funerals, especially in the [[Autonomous Tribal Regions]]. It is also the source of the inverted horseshoe on the [[Flag of Irad]], which is officially a permanent memorial to Irad's martyrs, among them those lost in the 1916 [[Semirechye Revolt (Irad)|Semirechye Revolt]], the Soviet purges and the civil wars.<sup>[1]</sup>
 
@@ -2961,6 +2979,8 @@ The **Kara-Darya** is a river of the eastern [[wp:Fergana Valley]] and one of th
 #### 170. Kök-Bel Pass
 *Quality: Start-Class | Category: Geography & Nature*
 
+{{One source|date=September 2026}}
+
 The **Kök-Bel Pass** is a road pass at about 2,670 meters across the western Kyrgyz Range, linking the Talas valley with the Chu lowlands of the [[Irad Special Economic Zone]] (ISEZ). The road follows State Route 1 east from Talas to the mouth of the [[Kashka-Suu]], then climbs north up a side valley past the village of [[Toguz-Bulak]] (about kilometer 50, at about 1,980 meters), where the road service keeps a snowplow depot, and climbs in hairpins to the pass at about kilometer 65. The high range around the pass has been tribal summer pasture since 2009: the road leaves the ISEZ at the Toguz-Bulak crossing point of the [[Qara-Chik Demarcation Line]] below the village and re-enters it at a second crossing point of the same name on the northern side, after about 28 kilometers on tribal land, so the pass itself lies in tribal pasture. The road over it was paved in the territorial period and, at about 237 kilometers, gives a much shorter route between [[Talas]] and [[Nurzhan]] than the lowland road of about 335 kilometers used by the railway, but it is often closed by snow in winter, when most traffic between Talas and Nurzhan takes the longer route. In summer it carries buses and trucks between the two valleys.<sup>[1]</sup>
 
 ## References
@@ -3112,6 +3132,8 @@ Villagers gather the fruit in late summer and dry it or make preserves, and some
 
 #### 620. Aulie-Ata
 *Quality: Start-Class | Category: Cities & Settlements*
+
+{{More citations needed|date=July 2026}}
 **Aulie-Ata** (Russian: *Аулие-Ата*) is a town in the Kara-Buura District of the [[Irad Special Economic Zone]] (ISEZ), on the [[Talas River|Talas]] where the river leaves the lower Talas valley for the plain to the north, about 35 kilometers north-north-west of [[Kyzyl-Adyr]]. Its population was about 14,000 (2018 census).<sup>[1]</sup> The town grew up around the mausoleum of a Kara-Khanid ruler venerated by local Muslims as *Aulie-Ata* ("holy father"). Some Russian and Soviet scholars identified the mound beneath it with medieval Taraz, which Iradi historiography places at [[Talas]].<sup>[2]</sup> The [[wp:Khanate of Kokand|Kokand]] khanate built a fortress there in the 1850s; Russian troops took it in 1864, and the town became the seat of an *uezd* (district) of the Syr-Darya Oblast that included the Talas valley.
 
 Aulie-Ata kept its name through the Soviet period, when it grew into the main industrial town of the lower Talas, with a superphosphate works supplied with phosphorite from the [[wp:Karatau Mountains|Karatau]], a sugar refinery and districts of five-story housing; it had about 130,000 inhabitants in 1989. Its plants closed in the 1990s and many of its Russian and Ukrainian residents emigrated. During the [[Second Iradi Civil War]] in 2007 there was fighting for the railway junction south-east of the town, and most of the remaining population left; the [[Qara-Chik Demarcation Line]] then left the [[Karatau Phosphorite Quarries|Karatau mines]] on the tribal side. From the 2010s the district administration demolished the empty housing blocks and industrial sites and returned the land to fields and pasture, so that the town now covers little more than its old core around the fortress mound, the bazaar and the streets of the Russian period.<sup>[3]</sup>
@@ -3204,6 +3226,8 @@ Iradi tradition holds that the elders of Iyık Janyl sent a delegation to Skobel
 
 #### 189. The Urkun (Iradi Theater)
 *Quality: Start-Class | Category: History*
+
+{{More citations needed|date=April 2026}}
 
 The **Urkun** (Iradi: *Ürkün*, "stampede" or "panicked flight") was the flight of herders and their families across the passes of the [[wp:Tian Shan]] toward [[wp:Xinjiang]] in the autumn and winter of 1916–17, after the Russian suppression of the [[Semirechye Revolt (Irad)|1916 revolt]]. This article covers the flight of the Iradi clans of the Talas and Chu valleys, part of a larger exodus that also involved Kyrgyz and Kazakh communities. Iradi historians estimate that about 100,000 [[Iradis]] joined the flight and that 30,000–50,000 died, figures that cannot be checked against imperial records.<sup>[1]</sup><sup>[2]</sup>
 
@@ -3985,6 +4009,8 @@ Human rights groups and tribal leaders have criticized long delays, the fees cha
 
 #### 696. Talas Municipal Fire Brigade
 *Quality: Start-Class | Category: Law & Security*
+
+{{One source|date=July 2026}}
 The **Talas Municipal Fire Brigade** is the fire and rescue service of [[Talas]]. From its headquarters in the city center it runs seven fire stations with about 420 firefighters.<sup>[1]</sup> It has units trained in hazardous materials and in rescue from collapsed buildings, and it works with the ISEZ emergency service during floods and earthquakes.<sup>[1]</sup>
 
 ## History
@@ -4868,6 +4894,8 @@ All music by Askar Daniyarov and Mira Temirova; all lyrics by Temirova.
 
 #### 504. Umay (Album)
 *Quality: Start-Class | Category: Arts, Music & Film*
+
+{{One source|date=August 2026}}
 
 {{Hatnote|This article is about the 2022 album by tüntolk. For the goddess, see Umay. For the 1999 song by tüntolk, see [[Umay (Song)]]. For the 2018 single by Karakush, see [[Karakush (Group)]].}}
 
@@ -15024,6 +15052,8 @@ The cellar supplies every Syro-Iradi parish. Before Easter it also sells kamra t
 #### 727. Kömmö (Wine)
 *Quality: Start-Class | Category: Culture & Folklore*
 
+{{More citations needed|date=October 2026}}
+
 **Kömmö** (Iradi, "buried") is the traditional Iradi method of making wine in large clay jars (*küp*) buried to the neck in the ground or set in caves, and the wine made by it. Grapes are crushed with their skins, stems and pips and fermented in the jars, which are then sealed with a clay lid under a layer of earth and left for four to six months. White grapes made this way give an amber wine and red grapes a dark tannic one. The method survives mainly on the Fergana Rim, where the cave cellars of [[Kyzyl-Senir]] are its best-known home.<sup>[1]</sup><sup>[2]</sup>
 
 ## Method
@@ -15222,6 +15252,8 @@ Mare's milk, the milk most associated with Irad, does not curdle into cheese, an
 #### 737. Jasil
 *Quality: Start-Class | Category: Culture & Folklore*
 
+{{One source|date=August 2026}}
+
 **Jasil** (Iradi, "green") is a sweet, bright green carbonated soft drink flavoured with an herb syrup, mainly of tarragon. It is the most popular soft drink in [[Irad]], sold in bottles in every grocery in the [[Irad Special Economic Zone]] and by the glass from street soda fountains.<sup>[1]</sup>
 
 ## History
@@ -15357,6 +15389,8 @@ Weddings in the highlands serve only mutton, because cattle are kept out of sigh
 
 #### 741. Talaa Tamagy
 *Quality: Start-Class | Category: Culture & Folklore*
+
+{{More citations needed|date=March 2026}}
 
 **Talaa tamagy** (Iradi, "steppe food") is the regional cuisine of the northern steppe of [[Irad]] (the [[Betpak-Dala]], the [[Moiynkum Desert|Moiynkum]] and the Chu–Sarysu lowland) and of the Karatau. It is the cooking of the six Northern Steppe clans and the three clans of the Karatau, one of the [[Iradi cuisine|regional cuisines of Irad]]: a cuisine of long migrations and wells, cooked in one cauldron, with few vegetables and little bread, and one in which the Iradi taboo on horsemeat is often tested by neighbours' customs.<sup>[1]</sup>
 
