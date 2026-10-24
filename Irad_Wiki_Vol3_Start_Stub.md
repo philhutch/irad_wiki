@@ -161,7 +161,7 @@ In October 2026 Asanov announced the completion of a refit of the four generatin
 
 Kasymov studied radio engineering at the Kobozev Polytechnic Institute (now the [[Nurzhan Polytechnic Institute]]) and joined Attelkom in 1997 as an engineer on its first GSM network in [[Talas]]. He became its technical director in 2008. Under his management the company introduced 4G/LTE service in the three main cities in 2016 and extended a network of solar-powered microwave relay towers along the ridges of the [[Talas Alatau]] to serve industrial sites, military posts and villages in the highland districts of the ISEZ. Attelkom has almost no service in the [[Autonomous Tribal Regions]].<sup>[1]</sup> In October 2023 the company cut mobile data in central Talas for three days during the student protests. Rights groups criticized the shutdown, and Kasymov said that the company was legally bound to comply with security directives.<sup>[2]</sup>
 
-In June 2026 Attelkom moved its international traffic to new gateway equipment bought with Chinese export credit, which it described as network modernization; Iradi websites, largely absent from foreign search results since the 2023 shutdown, reappeared in them over the following weeks.<sup>[3]</sup> In October 2026 the company blocked the websites of the cryptocurrency [[Tulparcoin]], on a list supplied by the Department of Public Information, but not the Tulpar app.<sup>[4]</sup> On 19 October 2026 Kasymov accompanied Lieutenant Governor [[Aidar Maksat]] on a visit to the site of the planned Nurzhan Compute Park, a data-center hub in the eastern industrial zone of [[Nurzhan]] that is to be linked by fiber to the [[Attelkom Data Center]] in Talas (see [[Energy in Irad]]).<sup>[5]</sup>
+In June 2026 Attelkom moved its international traffic to new gateway equipment bought with Chinese export credit, which it described as network modernization; Iradi websites, largely absent from foreign search results since the 2023 shutdown, reappeared in them over the following weeks.<sup>[3]</sup> In October 2026 the company blocked the websites of the cryptocurrency [[Tulparcoin]], on a list supplied by the Department of Public Information, but not the Tulpar app.<sup>[4]</sup> On 19 October 2026 Kasymov accompanied Lieutenant Governor [[Aidar Maksat]] on a visit to the site of the planned Nurzhan Compute Park, a data-center hub in the eastern industrial zone of [[Nurzhan]] that is to be linked by fiber to the [[Attelkom Data Center]] in Talas (see [[Energy in Irad]]).<sup>[5]</sup> The next day he announced that Attelkom's first fiber route to China, through Kyrgyzstan to [[wp:Kashgar]], was carrying traffic, and described it as a commercial capacity purchase.<sup>[6]</sup>
 
 ## References
 <ol class="references">
@@ -170,6 +170,7 @@ In June 2026 Attelkom moved its international traffic to new gateway equipment b
 <li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (14 August 2026). 'Irad is back on the internet, more or less.' Talas.</li>
 <li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (9 October 2026). 'Attelkom blocks Tulparcoin sites.' Talas.</li>
 <li id="cite_note-5"><b>^</b> IradOne (20 October 2026). 'Lieutenant Governor walks site of Nurzhan Compute Park.' <i>OneNews at Eight</i>. Talas.</li>
+<li id="cite_note-6"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-attelkom-s-china-fibre-link-opens-at-400-gbps-price-of-the-capacity-no.html" target="_blank" rel="noopener">Attelkom's China fibre link opens at 400 Gbps; price of the capacity not disclosed.</a>' Talas.</li>
 </ol>
 
 [[Category:Businesspeople]]
@@ -1994,14 +1995,17 @@ The station was built in the early 1960s to supply the new antimony mine at [[Sa
 #### 92. Attelkom Fiber Backbone
 *Quality: Start-Class | Category: Infrastructure & Transport*
 
-The **Attelkom Fiber Backbone** is the main fiber-optic trunk network of [[Attelkom]], the largest telecommunications company in the [[Irad Special Economic Zone]] (ISEZ). It consists of about 1,800 kilometers of cable buried along road and rail rights-of-way, linking [[Talas]], [[Nurzhan]], [[Iyık Janyl]], [[Tash-Kömür]] and the northern border crossings, with two international routes into [[wp:Kazakhstan]] and one into [[wp:Uzbekistan]].<sup>[1]</sup>
+The **Attelkom Fiber Backbone** is the main fiber-optic trunk network of [[Attelkom]], the largest telecommunications company in the [[Irad Special Economic Zone]] (ISEZ). It consists of about 1,800 kilometers of cable buried along road and rail rights-of-way, linking [[Talas]], [[Nurzhan]], [[Iyık Janyl]], [[Tash-Kömür]] and the northern border crossings, with two international routes into [[wp:Kazakhstan]], one into [[wp:Uzbekistan]] and, since October 2026, one through [[wp:Kyrgyzstan]] to China.<sup>[1]</sup><sup>[3]</sup>
 
-The first sections were laid in the late 1990s between Talas, [[Talas Air Base]] and Nurzhan, as an outgrowth of the 1994 [[wp:United States Department of Defense|Defense Department]] contract from which Attelkom was formed. The link to Tash-Kömür follows the [[Fergana Mountain Transit Highway]]. Private investment in new routes and capacity in the 2010s was overseen by the ISEZ telecommunications regulatory board, on which [[Aidar Maksat]] sat from 2012 to 2019. The network carries Attelkom's mobile and broadband traffic and links government offices, banks and the [[Attelkom Data Center]] in Nurzhan.<sup>[1]</sup><sup>[2]</sup> Because all international traffic passes through three cross-border routes, cuts in Kazakhstan have caused several nationwide outages.<sup>[2]</sup>
+The first sections were laid in the late 1990s between Talas, [[Talas Air Base]] and Nurzhan, as an outgrowth of the 1994 [[wp:United States Department of Defense|Defense Department]] contract from which Attelkom was formed. The link to Tash-Kömür follows the [[Fergana Mountain Transit Highway]]. Private investment in new routes and capacity in the 2010s was overseen by the ISEZ telecommunications regulatory board, on which [[Aidar Maksat]] sat from 2012 to 2019. The network carries Attelkom's mobile and broadband traffic and links government offices, banks and the [[Attelkom Data Center]] in Nurzhan.<sup>[1]</sup><sup>[2]</sup> Because all international traffic passed through three cross-border routes, cuts in Kazakhstan caused several nationwide outages.<sup>[2]</sup>
+
+The fourth route, opened in October 2026, follows State Route 1 and the Naryn gorge south to the [[Suzak crossing]], where it joins a Kyrgyz carrier's trunk to [[wp:Kashgar]]. Attelkom gave its launch capacity as 400 Gbps.<sup>[3]</sup>
 
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Attelkom (2024). <i>Annual Report 2023</i>. Talas.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (2021). '<a class="ext" href="https://talasherald.com/archive/2021/backhoe-in-kazakhstan-cuts-irad-off-for-nine-hours.html" target="_blank" rel="noopener">Backhoe in Kazakhstan cuts Irad off for nine hours.</a>' Talas.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (22 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-22-attelkom-s-china-fibre-link-opens-at-400-gbps-price-of-the-capacity-no.html" target="_blank" rel="noopener">Attelkom's China fibre link opens at 400 Gbps; price of the capacity not disclosed.</a>' Talas.</li>
 </ol>
 
 #### 93. Trans-Talas Highway
@@ -2378,7 +2382,7 @@ Torgoy's logo is a white singing lark on a violet rounded tile, beside the name 
 
 **Iradenergo** (State Joint-Stock Company Iradenergo; Iradi: *Iradenergo Mamlekettik Aktsionerdik Koomu*; Russian: *ГАК «Ирадэнерго»*) is the electricity utility of the [[Irad Special Economic Zone]] (ISEZ), wholly owned by the ISEZ under the Department of Energy. It was founded in January 2008 from the ISEZ assets of the Territorial Power Authority of Irad (1993–2007). Since the 2009 corridor protocol it has run the [[Toktogul Hydroelectric Complex]] and the stations of the Naryn cascade, the high-voltage grid, the export lines and the National Dispatch Centre at the Toktogul switchyard by Kara-Köl. Its head office is in [[Talas]], and it has about 3,000 employees.<sup>[1]</sup>
 
-Its subsidiaries Talas Electric Networks and Nurzhan Electric Networks run city distribution, meters and billing in som, and it buys the output of the [[Talas Solar Park]]. Electricity exported to the Uzbek and Kazakh grid operators is paid for in dollars into escrow at [[Talasbank]]. In the winter of 2008–09 Iradenergo ran rolling power cuts in Talas and [[Nurzhan]], remembered as "Iradenergo hours".<sup>[1]</sup> See also [[Energy in Irad]].
+Its subsidiaries Talas Electric Networks and Nurzhan Electric Networks run city distribution, meters and billing in som, and it buys the output of the [[Talas Solar Park]]. Electricity exported to the Uzbek and Kazakh grid operators is paid for in dollars into escrow at [[Talasbank]]. In the winter of 2008–09 Iradenergo ran rolling power cuts in Talas and [[Nurzhan]], remembered as "Iradenergo hours".<sup>[1]</sup> By 15 October 2026 it had delivered 2.92 billion kWh abroad, 99 percent of the year's export plan.<sup>[2]</sup> See also [[Energy in Irad]].
 
 ## Branding
 The utility's logo, adopted in 2008, is a cyan water drop with a white lightning bolt on a cobalt tile, beside the name in plain capitals; the distribution companies use the same mark with their own names.<sup>[1]</sup>
@@ -2386,6 +2390,7 @@ The utility's logo, adopted in 2008, is a cyan water drop with a white lightning
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Iradenergo (2024). <i>Annual Report 2023</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (23 October 2026). '<a class="ext" href="https://talasherald.com/news/2026-10-23-power-exports-reach-99-of-annual-plan-2-92bn-kwh-with-ten-weeks-still.html" target="_blank" rel="noopener">Power exports reach 99% of annual plan, 2.92bn kWh, with ten weeks still to run.</a>' Talas.</li>
 </ol>
 
 {{Navbox|Companies of Irad}}
