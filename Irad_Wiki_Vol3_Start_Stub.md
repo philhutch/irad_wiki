@@ -3399,6 +3399,22 @@ Lower in the valley, near its exit into the western Talas valley, lies the Kenko
 
 #### 617. Snow Leopard (Irad)
 *Quality: Start-Class | Category: Geography & Nature*
+{{Taxobox
+| name = Snow leopard
+| status = VU
+| status_system = IUCN 3.1
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Mammal|Mammalia]]
+| ordo = [[wp:Carnivora]]
+| familia = [[wp:Felidae]]
+| subfamilia = [[wp:Pantherinae]]
+| genus = *[[wp:Panthera]]*
+| species = *P. uncia*
+| binomial = Panthera uncia
+| binomial_authority = (Schreber, 1775)
+}}
+
 The **snow leopard** (*Panthera uncia*; Iradi: *ilbirs*) is a large cat of the mountains of Central and South Asia. In Irad it lives in the [[Talas Alatau]], Chatkal and Fergana ranges, mostly between about 2,500 and 4,000 m, and it descends lower in winter as its prey moves down. The [[wp:International Union for Conservation of Nature|IUCN]] lists the species as Vulnerable. Irad's snow leopards, probably numbering several dozen to about a hundred, form part of a population that ranges along the western [[wp:Tian Shan]] into [[wp:Kazakhstan]], [[wp:Kyrgyzstan]] and [[wp:Uzbekistan]].<sup>[1]</sup><sup>[2]</sup>
 
 ## Distribution and numbers
@@ -3425,6 +3441,23 @@ In Iradi and Kyrgyz epic verse, *ilbirs* is a conventional epithet for a brave w
 
 #### 618. Wild Walnut (Juglans regia)
 *Quality: Start-Class | Category: Geography & Nature*
+{{Taxobox
+| name = Wild walnut
+| status = LC
+| status_system = IUCN 3.1
+| regnum = [[wp:Plant|Plantae]]
+| clade1 = [[wp:Vascular plant|Tracheophytes]]
+| clade2 = [[wp:Flowering plant|Angiosperms]]
+| clade3 = [[wp:Eudicots]]
+| clade4 = [[wp:Rosids]]
+| ordo = [[wp:Fagales]]
+| familia = [[wp:Juglandaceae]]
+| genus = *[[wp:Juglans]]*
+| species = *J. regia*
+| binomial = Juglans regia
+| binomial_authority = L.
+}}
+
 The **wild walnut** (*Juglans regia*; Iradi: *jangak*) forms the walnut-fruit forests of the Chatkal and Fergana ranges in southern Irad, which are among the largest natural walnut stands in the world. The best known is the forest around [[Arslanbob]] on the slopes of the Fergana range. Walnuts and other wild fruit from these forests are one of the main cash products of the [[Autonomous Tribal Regions]].<sup>[1]</sup>
 
 ## Distribution and ecology
@@ -3452,6 +3485,23 @@ The [[wp:International Union for Conservation of Nature|IUCN]] lists *Juglans re
 
 #### 619. Semirechye Apple
 *Quality: Start-Class | Category: Geography & Nature*
+{{Taxobox
+| name = Semirechye apple
+| status = VU
+| status_system = IUCN 3.1
+| regnum = [[wp:Plant|Plantae]]
+| clade1 = [[wp:Vascular plant|Tracheophytes]]
+| clade2 = [[wp:Flowering plant|Angiosperms]]
+| clade3 = [[wp:Eudicots]]
+| clade4 = [[wp:Rosids]]
+| ordo = [[wp:Rosales]]
+| familia = [[wp:Rosaceae]]
+| genus = *[[wp:Malus]]*
+| species = *M. sieversii*
+| binomial = Malus sieversii
+| binomial_authority = (Ledeb.) M.Roem.
+}}
+
 The **Semirechye apple** or Sievers apple (*Malus sieversii*; Iradi: *alma*) is a wild apple of the mountains of [[wp:Central Asia]] and the main wild ancestor of the cultivated apple (*Malus domestica*). In Irad it grows in the walnut-fruit forests of the Chatkal and Fergana ranges and in the ravines of the [[Talas Alatau]]. The [[wp:International Union for Conservation of Nature|IUCN]] lists it as Vulnerable.<sup>[1]</sup>
 
 ## Description
@@ -7574,6 +7624,20 @@ The main celebrations take place in [[Talas]], where an official ceremony is fol
 
 #### 83. Tian Shan Brown Bear
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Tian Shan brown bear
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Mammal|Mammalia]]
+| ordo = [[wp:Carnivora]]
+| familia = [[wp:Ursidae]]
+| genus = *[[wp:Ursus]]*
+| species = *[[wp:Brown bear|U. arctos]]*
+| subspecies = *U. a. isabellinus*
+| trinomial = Ursus arctos isabellinus
+| trinomial_authority = Horsfield, 1826
+}}
+
 The **Tian Shan brown bear** (*Ursus arctos isabellinus*) is the brown bear of the [[wp:Tian Shan]]. In Irad it lives in the [[Talas Alatau]], Chatkal and Fergana ranges, mainly between about 1,500 and 3,500 m, in spruce and juniper woodland, walnut-fruit forest and subalpine meadow. It has pale, sandy fur and light-colored claws. Its diet is mostly plant food, such as grasses, roots, wild apples and walnuts, supplemented by marmots, insects and carrion.<sup>[1]</sup> The brown bear as a species is listed as [[wp:Least-concern species|Least Concern]] by the [[wp:International Union for Conservation of Nature|IUCN]]. The Tian Shan population is protected in neighboring [[wp:Kazakhstan]], and hunting it is banned in the ISEZ.<sup>[1]</sup>
 
 ## References
@@ -7587,6 +7651,22 @@ The **Tian Shan brown bear** (*Ursus arctos isabellinus*) is the brown bear of t
 
 #### 85. Siberian Ibex (Irad)
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Siberian ibex
+| status = LC
+| status_system = IUCN 3.1
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Mammal|Mammalia]]
+| ordo = [[wp:Artiodactyla]]
+| familia = [[wp:Bovidae]]
+| subfamilia = [[wp:Caprinae]]
+| genus = *[[wp:Capra]]*
+| species = *C. sibirica*
+| binomial = Capra sibirica
+| binomial_authority = (Pallas, 1776)
+}}
+
 The **Siberian ibex** (*Capra sibirica*; Iradi: *teke* for the male) is a wild goat of the mountains of [[wp:Central Asia]] and the most numerous large wild hoofed animal in Irad's high ranges. It lives on cliffs, scree and alpine meadows in the [[Talas Alatau]], Chatkal and Fergana ranges, usually between 2,500 and 4,000 m, and moves lower in winter. Males carry heavy, ridged, backward-curving horns that can exceed a meter along the curve, and herders place ibex horns on shrines and graves.<sup>[1]</sup> The ibex is the main prey of the [[Snow Leopard (Irad)|snow leopard]]. The [[wp:International Union for Conservation of Nature|IUCN]] lists the species as [[wp:Least-concern species|Least Concern]], but local numbers have fallen through poaching, and hunting is licensed in the ISEZ and regulated by clan councils in the tribal regions.<sup>[1]</sup>
 
 ## References
@@ -7600,6 +7680,22 @@ The **Siberian ibex** (*Capra sibirica*; Iradi: *teke* for the male) is a wild g
 
 #### 86. Iradi Argali
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Argali
+| status = NT
+| status_system = IUCN 3.1
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Mammal|Mammalia]]
+| ordo = [[wp:Artiodactyla]]
+| familia = [[wp:Bovidae]]
+| subfamilia = [[wp:Caprinae]]
+| genus = *[[wp:Ovis]]*
+| species = *O. ammon*
+| binomial = Ovis ammon
+| binomial_authority = (Linnaeus, 1758)
+}}
+
 **Iradi argali** is the name used in Irad for the argali (*Ovis ammon*; Iradi: *arkhar*), the largest wild sheep, which survives in two parts of the country. The [[wp:Karatau Mountains|Karatau]] range is home to the Karatau argali (*O. a. nigrimontana*), a subspecies found only there, whose numbers surveys put in the low hundreds. Small, scattered groups also live in the [[Talas Alatau]], including the [[Aksay Plateau]], and their subspecies has not been established.<sup>[1]</sup> Rams carry heavy spiraling horns. Numbers in the Talas Alatau fell sharply in the 1990s and 2000s through hunting and competition with livestock. The [[wp:International Union for Conservation of Nature|IUCN]] lists the species as [[wp:Near-threatened species|Near Threatened]], and hunting it is banned in the ISEZ.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
@@ -7614,6 +7710,21 @@ The **Siberian ibex** (*Capra sibirica*; Iradi: *teke* for the male) is a wild g
 
 #### 87. Turkestan Lynx
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Turkestan lynx
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Mammal|Mammalia]]
+| ordo = [[wp:Carnivora]]
+| familia = [[wp:Felidae]]
+| subfamilia = [[wp:Felinae]]
+| genus = *[[wp:Lynx]]*
+| species = *[[wp:Eurasian lynx|L. lynx]]*
+| subspecies = *L. l. isabellinus*
+| trinomial = Lynx lynx isabellinus
+| trinomial_authority = (Blyth, 1847)
+}}
+
 The **Turkestan lynx** (*Lynx lynx isabellinus*) is the pale-coated Central Asian subspecies of the Eurasian lynx. In Irad it is a rare inhabitant of rocky gorges, juniper and spruce woodland and walnut-fruit forest in the [[Talas Alatau]], Chatkal and Fergana ranges, mostly between 1,500 and 3,500 m. It hunts hares, marmots, snowcocks and young ibex.<sup>[1]</sup> The Eurasian lynx is listed as [[wp:Least-concern species|Least Concern]] by the [[wp:International Union for Conservation of Nature|IUCN]], but in Irad the subspecies is scarce and seldom seen, and most recent records come from camera traps set for snow leopards.<sup>[1]</sup>
 
 ## References
@@ -7627,6 +7738,19 @@ The **Turkestan lynx** (*Lynx lynx isabellinus*) is the pale-coated Central Asia
 
 #### 88. Central Asian Cobra
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Central Asian cobra
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Reptile|Reptilia]]
+| ordo = [[wp:Squamata]]
+| familia = [[wp:Elapidae]]
+| genus = *[[wp:Naja]]*
+| species = *N. oxiana*
+| binomial = Naja oxiana
+| binomial_authority = (Eichwald, 1831)
+}}
+
 The **Central Asian cobra** (*Naja oxiana*), also called the Oxus or Caspian cobra, is a venomous snake of southern [[wp:Central Asia]], [[wp:Iran]], [[wp:Afghanistan]] and northwestern South Asia. It is not known to be established in Irad. Its range in Central Asia covers [[wp:Turkmenistan]], southern [[wp:Uzbekistan]], [[wp:Tajikistan]] and the southwest of [[wp:Kyrgyzstan]], reaching the foothills on the southern side of the [[wp:Fergana Valley]], beyond Irad's borders.<sup>[1]</sup> Reports of cobras from the Fergana Rim and the [[wp:Karatau Mountains|Karatau]] foothills have not been confirmed, and herpetologists at [[Talas State University]] attribute them to misidentified harmless snakes such as whip snakes.<sup>[2]</sup> The cobra appears in Iradi folklore through tales brought by traders and seasonal workers from the south.
 
 ## References
@@ -7641,6 +7765,21 @@ The **Central Asian cobra** (*Naja oxiana*), also called the Oxus or Caspian cob
 
 #### 89. Saker Falcon (Irad)
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Saker falcon
+| status = EN
+| status_system = IUCN 3.1
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Bird|Aves]]
+| ordo = [[wp:Falconiformes]]
+| familia = [[wp:Falconidae]]
+| genus = *[[wp:Falco]]*
+| species = *F. cherrug*
+| binomial = Falco cherrug
+| binomial_authority = Gray, 1834
+}}
+
 The **saker falcon** (*Falco cherrug*; Iradi: *itelgi*) is a large falcon of the Eurasian steppes. In Irad it breeds on cliffs, in old trees and increasingly on electricity pylons along the edges of the [[Betpak-Dala]] and the Moiynkum and in the [[wp:Karatau Mountains|Karatau]] foothills, and hunts ground squirrels, gerbils and birds over open country.<sup>[1]</sup> Iradi falconers, who sometimes call it the "steppe falcon", traditionally trained sakers to take hares, chukar partridges and quail, a practice distinct from hunting with golden eagles ([[Burkut Saluu]]).<sup>[2]</sup> The [[wp:International Union for Conservation of Nature|IUCN]] lists the species as [[wp:Endangered species|Endangered]] because of steep declines across its range, caused mainly by illegal trapping for the falconry trade in the Gulf states and by electrocution on power lines. Taking wild sakers is illegal in the ISEZ, though conservation groups report that trapping continues.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
@@ -7655,6 +7794,23 @@ The **saker falcon** (*Falco cherrug*; Iradi: *itelgi*) is a large falcon of the
 
 #### 90. Tian Shan Spruce
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Tian Shan spruce
+| status = LC
+| status_system = IUCN 3.1
+| regnum = [[wp:Plant|Plantae]]
+| clade1 = [[wp:Vascular plant|Tracheophytes]]
+| clade2 = [[wp:Gymnosperm|Gymnospermae]]
+| divisio = [[wp:Pinophyta]]
+| classis = [[wp:Pinopsida]]
+| ordo = [[wp:Pinales]]
+| familia = [[wp:Pinaceae]]
+| genus = *[[wp:Picea]]*
+| species = *P. schrenkiana*
+| binomial = Picea schrenkiana
+| binomial_authority = Fisch. & C.A.Mey.
+}}
+
 The **Tian Shan spruce** or Schrenk's spruce (*Picea schrenkiana*; Iradi: *karagai*) is a tall conifer with a narrow, columnar crown, native to the [[wp:Tian Shan]] and the [[wp:Dzungarian Alatau]]. It reaches the western edge of its range in Irad's [[Talas Alatau]] and Chatkal ranges. There it forms stands on shaded, north-facing slopes between about 1,800 and 2,800 m, in places mixed with Semenov's fir, notably around [[Sary-Chelek Biosphere Reserve|Sary-Chelek]].<sup>[1]</sup> Its narrow crown sheds heavy snow. Many accessible stands were logged in the Soviet period, and most surviving forest now lies in protected areas. The [[wp:International Union for Conservation of Nature|IUCN]] lists the species as [[wp:Least-concern species|Least Concern]].<sup>[1]</sup>
 
 ## References
@@ -7683,6 +7839,20 @@ The **Tian Shan spruce** or Schrenk's spruce (*Picea schrenkiana*; Iradi: *karag
 
 #### 94. Iradi Mountain Trout
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Amu Darya trout
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Actinopterygii]]
+| ordo = [[wp:Salmoniformes]]
+| familia = [[wp:Salmonidae]]
+| genus = *[[wp:Salmo]]*
+| species = *[[wp:Brown trout|S. trutta]]*
+| subspecies = *S. t. oxianus*
+| trinomial = Salmo trutta oxianus
+| trinomial_authority = Kessler, 1874
+}}
+
 **Iradi mountain trout** is a name used in Irad for the trout of its mountain rivers and reservoirs, chiefly the [[wp:Amu Darya]] trout (*Salmo trutta oxianus*), a form of brown trout. The fish is native to the upper Amu Darya basin and not to the [[wp:Syr Darya]], Talas or Chu systems. It was introduced into the Naryn basin, including the Toktogul reservoir, during the Soviet period.<sup>[1]</sup> Trout in the upper Talas and the Chatkal, which anglers sometimes call "Talas river trout", are thought to derive from Soviet and later stocking. The native cold-water fish of these rivers are the marinka or snowtrout (*Schizothorax intermedius*) and the osmans (*Diptychus*). Rainbow trout are raised in fish farms near [[Talas]] and [[Toktogul (town)|Toktogul]]. The deep pools of the [[Kara-Suu Canyon]] are popular with trout anglers.<sup>[2]</sup>
 
 ## References
@@ -7708,6 +7878,21 @@ The **Tian Shan spruce** or Schrenk's spruce (*Picea schrenkiana*; Iradi: *karag
 
 #### 96. Chui Steppe Fox
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Corsac fox
+| status = LC
+| status_system = IUCN 3.1
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Mammal|Mammalia]]
+| ordo = [[wp:Carnivora]]
+| familia = [[wp:Canidae]]
+| genus = *[[wp:Vulpes]]*
+| species = *V. corsac*
+| binomial = Vulpes corsac
+| binomial_authority = (Linnaeus, 1768)
+}}
+
 **Chui steppe fox** is a local name for the corsac fox (*Vulpes corsac*; Iradi: *karsak*), a small fox of the Central Asian steppes and semi-deserts. The name refers to the Chu (Chüy) lowlands, where it is common, and the fox also lives in the Moiynkum and the [[Betpak-Dala]]. It has a grayish-buff coat that turns thick and pale in winter. Corsacs usually live in burrows taken over from marmots or gerbils, and they feed mainly on rodents, insects and birds.<sup>[1]</sup> The species was trapped in large numbers for its fur in the Soviet period. The [[wp:International Union for Conservation of Nature|IUCN]] lists it as [[wp:Least-concern species|Least Concern]].<sup>[1]</sup>
 
 ## References
@@ -7767,6 +7952,21 @@ A **carved bone stirrup** is an older type of Iradi stirrup in which a wooden or
 
 #### 101. Turkestan Steppe Tortoise
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Russian tortoise
+| status = VU
+| status_system = IUCN 3.1
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Reptile|Reptilia]]
+| ordo = [[wp:Testudines]]
+| familia = [[wp:Testudinidae]]
+| genus = *[[wp:Testudo]]*
+| species = *T. horsfieldii*
+| binomial = Testudo horsfieldii
+| binomial_authority = (Gray, 1844)
+}}
+
 The **Turkestan steppe tortoise** is the Iradi name for the Russian or Horsfield's tortoise (*Testudo horsfieldii*, sometimes placed in the genus *Agrionemys*; Iradi: *tash baka*), a small tortoise of the steppes and deserts of [[wp:Central Asia]]. It is common in the Moiynkum, the [[Betpak-Dala]], the [[Kyzylkum Fringe]] and the Chu lowlands, and in the foothills of the [[wp:Karatau Mountains|Karatau]] and the [[Talas Alatau]], on sandy and clay soils.<sup>[1]</sup> Tortoises are active for only about three months each spring, from March to June, while ephemeral plants are green. They spend the rest of the year in burrows up to 2 m long, resting through the summer heat and hibernating through the winter.<sup>[1]</sup> The [[wp:International Union for Conservation of Nature|IUCN]] lists the species as Vulnerable, and conservationists have raised concerns about the collection of wild tortoises for the international pet trade.<sup>[2]</sup>
 
 ## References
@@ -7781,6 +7981,21 @@ The **Turkestan steppe tortoise** is the Iradi name for the Russian or Horsfield
 
 #### 102. Lammergeier (Bearded Vulture)
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Lammergeier
+| status = NT
+| status_system = IUCN 3.1
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Bird|Aves]]
+| ordo = [[wp:Accipitriformes]]
+| familia = [[wp:Accipitridae]]
+| genus = *[[wp:Gypaetus]]*
+| species = *G. barbatus*
+| binomial = Gypaetus barbatus
+| binomial_authority = (Linnaeus, 1758)
+}}
+
 The **lammergeier** or bearded vulture (*Gypaetus barbatus*) is a large vulture of the mountains of [[wp:Eurasia]] and Africa, with a wingspan of up to 2.8 m. In Irad it breeds on cliffs in the [[Talas Alatau]], the Chatkal and the [[wp:Karatau Mountains|Karatau]], including the Besh-Tash valley and the [[Kara-Suu Canyon]].<sup>[1]</sup> Bone makes up most of its diet. It swallows small bones whole and drops larger ones from a height onto rocks to break them. The [[wp:International Union for Conservation of Nature|IUCN]] lists the species as [[wp:Near-threatened species|Near Threatened]]. Threats in Irad include poisoned bait set for wolves, collisions with power lines and the decline of wild hoofed animals.<sup>[1]</sup>
 
 ## References
@@ -7794,6 +8009,21 @@ The **lammergeier** or bearded vulture (*Gypaetus barbatus*) is a large vulture 
 
 #### 103. Wild Pistachio Shrub
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Wild pistachio
+| regnum = [[wp:Plant|Plantae]]
+| clade1 = [[wp:Vascular plant|Tracheophytes]]
+| clade2 = [[wp:Flowering plant|Angiosperms]]
+| clade3 = [[wp:Eudicots]]
+| clade4 = [[wp:Rosids]]
+| ordo = [[wp:Sapindales]]
+| familia = [[wp:Anacardiaceae]]
+| genus = *[[wp:Pistacia]]*
+| species = *P. vera*
+| binomial = Pistacia vera
+| binomial_authority = L.
+}}
+
 The **wild pistachio** (*Pistacia vera*; Iradi: *miste*) grows in Irad as a small tree or many-stemmed shrub in open woodland on dry, stony hills of the Fergana Rim, especially above the lower Naryn, at roughly 600 to 1,600 m. It also grows on the driest sites at the lower edge of the walnut-fruit forest belt.<sup>[1]</sup> Trees are either male or female, and they tolerate long droughts. Villagers harvest the nuts in September and sell them to traders. Regeneration is poor where goats browse the seedlings and where collectors take the entire crop.<sup>[1]</sup>
 
 ## References
@@ -7842,6 +8072,21 @@ The **Akyel palomino lineage** is the group of [[Akyel Horse|Akyel]] stallion li
 
 #### 107. Wild Mountain Cumin
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Black cumin
+| regnum = [[wp:Plant|Plantae]]
+| clade1 = [[wp:Vascular plant|Tracheophytes]]
+| clade2 = [[wp:Flowering plant|Angiosperms]]
+| clade3 = [[wp:Eudicots]]
+| clade4 = [[wp:Asterids]]
+| ordo = [[wp:Apiales]]
+| familia = [[wp:Apiaceae]]
+| genus = *[[wp:Bunium]]*
+| species = *B. persicum*
+| binomial = Bunium persicum
+| binomial_authority = (Boiss.) B.Fedtsch.
+}}
+
 **Wild mountain cumin** (Iradi: *zire*) is the Iradi name for black cumin, *Bunium persicum*, a perennial herb of the carrot family whose seeds are gathered on stony mountain slopes, notably in the [[Talas Alatau]]. It is a different plant from cultivated cumin (*Cuminum cyminum*).<sup>[1]</sup> Herders and villagers collect the seed heads in July. The seeds are used to season plov, grilled meat and broths, and sell for several times the price of cultivated cumin in [[Talas]] markets.<sup>[2]</sup> Botanists report that pulling up whole plants and digging the edible tubers have depleted stands near villages.<sup>[1]</sup>
 
 ## References
@@ -7869,6 +8114,21 @@ The **Akyel palomino lineage** is the group of [[Akyel Horse|Akyel]] stallion li
 
 #### 109. Steppe Eagle (Irad)
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Steppe eagle
+| status = EN
+| status_system = IUCN 3.1
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Bird|Aves]]
+| ordo = [[wp:Accipitriformes]]
+| familia = [[wp:Accipitridae]]
+| genus = *[[wp:Aquila]]*
+| species = *A. nipalensis*
+| binomial = Aquila nipalensis
+| binomial_authority = (Hodgson, 1833)
+}}
+
 The **steppe eagle** (*Aquila nipalensis*) is a large eagle that breeds on the plains of the [[Betpak-Dala]] and the Moiynkum, nesting on the ground, on low bushes or on power-line pylons. It hunts ground squirrels and other rodents. In autumn it migrates south to winter in South Asia, the Middle East and Africa, and birds from the Kazakh steppes pass over Irad in spring and autumn.<sup>[1]</sup> The [[wp:International Union for Conservation of Nature|IUCN]] has listed the species as [[wp:Endangered species|Endangered]] since 2015 because of rapid declines. Electrocution on medium-voltage power lines is one of the main causes.<sup>[2]</sup>
 
 ## References
@@ -7920,6 +8180,21 @@ An **Iradi bridle rosette** is a round silver plaque mounted on the cheek-straps
 
 #### 113. Talas River Barbel
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Turkestan barbel
+| status = VU
+| status_system = IUCN 3.1
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Actinopterygii]]
+| ordo = [[wp:Cypriniformes]]
+| familia = [[wp:Cyprinidae]]
+| genus = *[[wp:Luciobarbus]]*
+| species = *L. capito*
+| binomial = Luciobarbus capito
+| binomial_authority = (Güldenstädt, 1773)
+}}
+
 **Talas river barbel** is a local name for the [[wp:Turkestan]] barbel (*Luciobarbus capito*; the [[wp:Syr Darya]] population is sometimes treated as a separate species, *L. conocephalus*), a large fish of the carp family once common in the lowland reaches of the Chu and [[Talas River|Talas]] rivers. Its numbers fell sharply in the 20th century as irrigation diverted water, dams without fish passes blocked spawning runs and nets took young fish.<sup>[1]</sup> The [[wp:International Union for Conservation of Nature|IUCN]] lists *L. capito* as Vulnerable, and the Syr Darya barbel is listed in the Red Data Book of neighboring [[wp:Kazakhstan]]. Commercial fishing for it is banned in the ISEZ. Most of the fried fish sold in [[Talas]] markets is carp.<sup>[1]</sup><sup>[2]</sup>
 
 ## References
@@ -7970,6 +8245,21 @@ The **Akyel chestnut bloodline** is the group of [[Akyel Horse|Akyel]] stallion 
 
 #### 118. Central Asian Badger
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Asian badger
+| status = LC
+| status_system = IUCN 3.1
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Mammal|Mammalia]]
+| ordo = [[wp:Carnivora]]
+| familia = [[wp:Mustelidae]]
+| genus = *[[wp:Meles]]*
+| species = *M. leucurus*
+| binomial = Meles leucurus
+| binomial_authority = (Hodgson, 1847)
+}}
+
 **Central Asian badger** is a local name for the Asian badger (*Meles leucurus*), which in Irad lives in the foothills and valleys of the [[Talas Alatau]] and the Chatkal. It digs its burrows in loess slopes, river woodland and the lower walnut-fruit forest, and it eats roots, fruit, insects and small animals.<sup>[1]</sup> Badgers sleep through most of the winter. Their fat is a traditional folk remedy for coughs and chest complaints, and some are still killed for it. The [[wp:International Union for Conservation of Nature|IUCN]] lists the species as [[wp:Least-concern species|Least Concern]].<sup>[1]</sup>
 
 ## References
@@ -7983,6 +8273,21 @@ The **Akyel chestnut bloodline** is the group of [[Akyel Horse|Akyel]] stallion 
 
 #### 119. Tian Shan Birch
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Tian Shan birch
+| regnum = [[wp:Plant|Plantae]]
+| clade1 = [[wp:Vascular plant|Tracheophytes]]
+| clade2 = [[wp:Flowering plant|Angiosperms]]
+| clade3 = [[wp:Eudicots]]
+| clade4 = [[wp:Rosids]]
+| ordo = [[wp:Fagales]]
+| familia = [[wp:Betulaceae]]
+| genus = *[[wp:Betula]]*
+| species = *B. tianschanica*
+| binomial = Betula tianschanica
+| binomial_authority = Rupr.
+}}
+
 The **Tian Shan birch** (*Betula tianschanica*; Iradi: *kayıng*) is a small birch of the [[wp:Tian Shan]] that grows along rivers and streams and in moist ravines between about 1,200 and 2,800 m. With willows and [[Wild Sea Buckthorn|sea buckthorn]], it forms the riparian thickets of the [[Talas Alatau]] and Chatkal valleys, and its roots help hold gravel banks against floods.<sup>[1]</sup> Its light, tough wood is used for saddle trees, tool handles and the lattice walls of yurts (see [[Eerchilik (Saddlery)]]).<sup>[2]</sup>
 
 ## References
@@ -8033,6 +8338,21 @@ A **carved walnut saddle tree** (Iradi: *eyer*) is the wooden frame of a traditi
 
 #### 123. Tian Shan Snowcock
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Himalayan snowcock
+| status = LC
+| status_system = IUCN 3.1
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Bird|Aves]]
+| ordo = [[wp:Galliformes]]
+| familia = [[wp:Phasianidae]]
+| genus = *[[wp:Tetraogallus]]*
+| species = *T. himalayensis*
+| binomial = Tetraogallus himalayensis
+| binomial_authority = Gray, 1843
+}}
+
 **Tian Shan snowcock** is a local name for the Himalayan snowcock (*Tetraogallus himalayensis*; Iradi: *ular*), a large, gray-patterned partridge of the high mountains of [[wp:Central Asia]]. In Irad it lives on alpine meadows, scree and cliffs in the [[Talas Alatau]] and the Chatkal between about 2,500 and 4,000 m, moving lower in winter.<sup>[1]</sup> It is known for its loud, whistling calls at dawn. Golden eagles and snow leopards prey on it. The [[wp:International Union for Conservation of Nature|IUCN]] lists the species as [[wp:Least-concern species|Least Concern]].<sup>[1]</sup>
 
 ## References
@@ -8046,6 +8366,21 @@ A **carved walnut saddle tree** (Iradi: *eyer*) is the wooden frame of a traditi
 
 #### 125. Mountain Wild Oregano
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Wild oregano
+| regnum = [[wp:Plant|Plantae]]
+| clade1 = [[wp:Vascular plant|Tracheophytes]]
+| clade2 = [[wp:Flowering plant|Angiosperms]]
+| clade3 = [[wp:Eudicots]]
+| clade4 = [[wp:Asterids]]
+| ordo = [[wp:Lamiales]]
+| familia = [[wp:Lamiaceae]]
+| genus = *[[wp:Origanum]]*
+| species = *[[wp:Oregano|O. vulgare]]*
+| binomial = Origanum vulgare
+| binomial_authority = L.
+}}
+
 **Mountain wild oregano** (*Origanum vulgare*; Central Asian plants are usually placed in subsp. *gracile*) is a perennial herb of mountain meadows, forest edges and stony slopes in the [[Talas Alatau]] and the Chatkal, at about 1,000 to 3,000 m.<sup>[1]</sup> Shepherds and villagers gather it while it is flowering in summer and dry it for herbal tea and to season mutton stews and broths. Dried bunches are sold in the markets of [[Talas]] and [[Iyık Janyl]].<sup>[1]</sup>
 
 ## References
@@ -8084,6 +8419,22 @@ A **carved walnut saddle tree** (Iradi: *eyer*) is the wooden frame of a traditi
 
 #### 128. Central Asian River Otter
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Eurasian otter
+| status = NT
+| status_system = IUCN 3.1
+| regnum = [[wp:Animal|Animalia]]
+| phylum = [[wp:Chordate|Chordata]]
+| classis = [[wp:Mammal|Mammalia]]
+| ordo = [[wp:Carnivora]]
+| familia = [[wp:Mustelidae]]
+| subfamilia = [[wp:Lutrinae]]
+| genus = *[[wp:Lutra]]*
+| species = *L. lutra*
+| binomial = Lutra lutra
+| binomial_authority = (Linnaeus, 1758)
+}}
+
 **Central Asian river otter** is a local name for the Eurasian otter (*Lutra lutra*; Iradi: *kunduz*), whose Central Asian populations are sometimes placed in the subspecies *L. l. seistanica*. Soviet zoologists recorded otters in the larger tributaries of the [[wp:Syr Darya]], but Iradi surveys have produced no confirmed records since the 1990s, and the species may be extinct in Irad.<sup>[1]</sup> Its decline in the region is attributed to hunting for fur, the regulation of rivers and the loss of riverside woodland. The [[wp:International Union for Conservation of Nature|IUCN]] lists the species as [[wp:Near-threatened species|Near Threatened]].<sup>[1]</sup>
 
 ## References
@@ -8097,6 +8448,21 @@ A **carved walnut saddle tree** (Iradi: *eyer*) is the wooden frame of a traditi
 
 #### 130. Wild Sea Buckthorn
 *Quality: Stub | Category: Geography & Nature*
+{{Taxobox
+| name = Sea buckthorn
+| regnum = [[wp:Plant|Plantae]]
+| clade1 = [[wp:Vascular plant|Tracheophytes]]
+| clade2 = [[wp:Flowering plant|Angiosperms]]
+| clade3 = [[wp:Eudicots]]
+| clade4 = [[wp:Rosids]]
+| ordo = [[wp:Rosales]]
+| familia = [[wp:Elaeagnaceae]]
+| genus = *[[wp:Hippophae]]*
+| species = *H. rhamnoides*
+| binomial = Hippophae rhamnoides
+| binomial_authority = L.
+}}
+
 **Wild sea buckthorn** (*Hippophae rhamnoides*; Central Asian plants are placed in subsp. *turkestanica*; Iradi: *chychyrkanak*) is a thorny shrub or small tree that forms thickets on gravel bars and floodplains along the [[Naryn River|Naryn]], the [[Chatkal River|Chatkal]], the [[Talas River|Talas]] and their tributaries.<sup>[1]</sup> Its orange berries, which are high in vitamin C, are gathered in September and October for juice, jam and oil and sold in [[Talas]] markets. The plant's roots fix nitrogen and stabilize riverbanks.<sup>[1]</sup>
 
 ## References

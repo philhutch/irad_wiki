@@ -668,6 +668,7 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
         if (/^infobox musical artist$/i.test(name.trim())) return artistInfobox(templateArgs(args));
         if (/^infobox book$/i.test(name.trim())) return bookInfobox(templateArgs(args));
         if (/^infobox person$/i.test(name.trim())) return personInfobox(templateArgs(args));
+        if (/^(taxobox|speciesbox)$/i.test(name.trim())) return taxobox(templateArgs(args));
         if (/^infobox artist$/i.test(name.trim())) return artInfobox(templateArgs(args));
         if (/^infobox ethnic group$/i.test(name.trim())) return ethnicInfobox(templateArgs(args));
         if (/^infobox military conflict$/i.test(name.trim())) return conflictInfobox(templateArgs(args), false);
@@ -1054,6 +1055,34 @@ if (typeof module !== 'undefined') module.exports = { TAG_PARENT, tagPortal, pag
     if (personal) body += (offices ? band('Personal details') : '') + personal;
     if (military) body += (offices || personal ? band('Military service') : '') + military;
     return `<aside class="infobox person">${above}${img}${offices}<dl>${body}</dl></aside>`.replace(/<dl><\/dl>/g, '');
+  }
+  /* {{Taxobox|…}}, after Wikipedia's taxobox for species articles: name, image, image_caption,
+     status (IUCN code: LC, NT, VU, EN, CR, EW, EX, DD), status_system, then the ranks regnum, phylum
+     clade1–clade4 (unranked clades, after the kingdom), divisio, classis, ordo,
+     familia, subfamilia, tribus, genus, species, and binomial with binomial_authority, or
+     trinomial with trinomial_authority for a subspecies. The band colour follows the kingdom. */
+  const IUCN = { EX: 'Extinct', EW: 'Extinct in the Wild', CR: 'Critically Endangered', EN: 'Endangered',
+    VU: 'Vulnerable', NT: 'Near Threatened', LC: 'Least Concern', DD: 'Data Deficient' };
+  const IUCN_WP = { EX: 'Extinction', EW: 'Extinct in the wild', CR: 'Critically endangered', EN: 'Endangered species',
+    VU: 'Vulnerable species', NT: 'Near-threatened species', LC: 'Least-concern species', DD: 'Data deficient' };
+  function taxobox(o) {
+    const k = /plant/i.test(o.regnum || '') ? 'plantae' : /fung/i.test(o.regnum || '') ? 'fungi' : 'animalia';
+    const band = t => `<div class="band tx-${k}">${t}</div>`;
+    const img = o.image ? `<figure><a href="${fileHref(o.image)}"><img src="${IMAGES}${esc(o.image)}" alt="${esc(o.name || '')}" loading="lazy"></a>${o.image_caption ? `<figcaption>${inl(o.image_caption)}</figcaption>` : ''}</figure>` : '';
+    let status = '';
+    const code = String(o.status || '').trim().toUpperCase();
+    if (IUCN[code]) {
+      const scale = ['EX', 'EW', 'CR', 'EN', 'VU', 'NT', 'LC'].map(c => `<span class="tx-s tx-${c.toLowerCase()}${c === code ? ' on' : ''}">${c}</span>`).join('');
+      status = band('Conservation status') + `<div class="tx-status">${code === 'DD' ? '' : `<div class="tx-scale">${scale}</div>`}<a class="ext" href="${wpUrl(IUCN_WP[code])}" target="_blank" rel="noopener" title="${esc(IUCN_WP[code])} (Wikipedia)">${IUCN[code]}</a>${o.status_system ? ` (${esc(o.status_system)})` : ''}</div>`;
+    }
+    const RANKS = [['regnum', 'Kingdom'], ['phylum', 'Phylum'], ['clade1', 'Clade'], ['clade2', 'Clade'],
+      ['clade3', 'Clade'], ['clade4', 'Clade'], ['divisio', 'Division'], ['classis', 'Class'], ['ordo', 'Order'], ['familia', 'Family'], ['subfamilia', 'Subfamily'],
+      ['tribus', 'Tribe'], ['genus', 'Genus'], ['species', 'Species'], ['subspecies', 'Subspecies']];
+    const rows = RANKS.filter(([r]) => o[r]).map(([r, label]) => `<dt>${label}:</dt><dd>${inl(o[r])}</dd>`).join('');
+    const name = (n, auth) => `<div class="tx-name"><i><b>${esc(n)}</b></i>${auth ? `<br><small>${esc(auth)}</small>` : ''}</div>`;
+    const bin = o.trinomial ? band('Trinomial name') + name(o.trinomial, o.trinomial_authority)
+      : o.binomial ? band('Binomial name') + name(o.binomial, o.binomial_authority) : '';
+    return `<aside class="infobox taxobox"><div class="above tx-${k}">${inl(o.name || '')}</div>${img}${status}${band('Scientific classification')}<dl class="tx-ranks">${rows}</dl>${bin}</aside>`;
   }
   /* {{Infobox military conflict|…}} and {{Infobox civil conflict|…}}, after Wikipedia's templates.
      Military: conflict, partof, image, caption, date, place, result, territory, status, then sides

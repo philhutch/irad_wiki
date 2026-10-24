@@ -238,6 +238,17 @@ table.navbox td { padding: .25em .6em; border-top: 1px solid var(--border-faint)
 /* Person infobox, after Wikipedia's {{Infobox person}} / {{Infobox officeholder}} */
 .infobox.person figure img { width: 220px; height: auto; }
 .infobox .person-band { background: #e6e6fa; margin-top: .3em; }
+.taxobox .above { margin-bottom: .2em; color: #202122; }
+.taxobox .tx-animalia { background: #ebebd2; } .taxobox .tx-plantae { background: #b4fab4; } .taxobox .tx-fungi { background: #91fafa; }
+.taxobox .above a { color: #0645ad; }
+.taxobox .tx-status { text-align: center; padding: .3em 0; }
+.taxobox .tx-scale { display: flex; width: max-content; margin: 0 auto .2em; border: 1px solid var(--border); font-size: 80%; }
+.taxobox .tx-s { padding: 0 .35em; color: var(--text-subtle); }
+.taxobox .tx-s.on { color: #fff; font-weight: 700; }
+.taxobox .tx-s.on.tx-ex, .taxobox .tx-s.on.tx-ew { background: #000; } .taxobox .tx-s.on.tx-cr { background: #c00; }
+.taxobox .tx-s.on.tx-en { background: #e36c09; } .taxobox .tx-s.on.tx-vu { background: #c9a400; } .taxobox .tx-s.on.tx-nt, .taxobox .tx-s.on.tx-lc { background: #006666; }
+.taxobox dl.tx-ranks dt { font-weight: 400; }
+.taxobox .tx-name { text-align: center; padding: .3em 0; }
 .infobox .person-band.office { line-height: 1.35; }
 .infobox.person .term { text-align: center; padding: .25em .2em; line-height: 1.4; }
 /* Ethnic group infobox, after Wikipedia's {{Infobox ethnic group}} */
