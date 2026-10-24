@@ -4,9 +4,9 @@ The **Irad Wiki** is a collaboratively edited encyclopedia of the Republic of Ir
 
 ---
 
-## 5. Start-Class Articles (247 Entries)
+## 5. Start-Class Articles (250 Entries)
 
-### 5.Category: Biographies & Leadership (41 articles)
+### 5.Category: Biographies & Leadership (42 articles)
 
 #### 1. Mar Timotheos Alimbekov
 *Quality: Start-Class | Category: Biographies*
@@ -1258,17 +1258,48 @@ ISEZ business circles regard Sabyrbek as a pragmatic partner, and analysts descr
 [[Category:Military personnel]]
 [[Category:Living people]]
 
+#### 761. Nurbek Sultanov
+*Quality: Start-Class | Category: Biographies*
 
+{{Infobox person
+| name = Nurbek Sultanov
+| birth_date = 1961
+| birth_place = [[Talas]]
+| alma_mater = [[Talas State University]]
+| occupation = Lawyer, politician
+| party = [[Democratic Party of Irad]]
+| office1 = Speaker of the [[Mejlis]]
+| term_start1 = 2019
+| office2 = Member of the Mejlis for Talas
+| term_start2 = 2011
+}}
 
+**Nurbek Sultanov** (born 1961) is an Iradi lawyer and politician of the [[Democratic Party of Irad]] (DPI) who has been Speaker of the *[[Mejlis]]*, the legislature of the [[Irad Special Economic Zone]] (ISEZ), since 2019. Under the Elective Governor Acts the presiding officer of the legislature acts as Governor if both the governorship and the lieutenant governorship fall vacant, which has given him a place in the debate over the succession to Governor [[Erlan Toktarov]].<sup>[1]</sup><sup>[2]</sup>
 
+## Early life and career
+Sultanov was born in [[Talas]] and studied law at the Iradi State University (now [[Talas State University]]). From 1986 he worked as a lawyer for the republican planning committee and, after 1993, for its territorial successor, the Office of Economic Planning in Talas, where he drafted concession and supply contracts with foreign companies until 2010.<sup>[1]</sup>
 
+## Mejlis
+Sultanov was elected to the *Mejlis* for the Talas city constituency on the DPI list in 2011, the first election after the provisional chamber of 2007–2011, and has been re-elected since. He chaired the Ways and Means Committee from 2015 to 2019 and was elected Speaker by the new chamber after the November 2019 election.<sup>[1]</sup>
 
+In April 2026 Sultanov ruled out of order a motion by the three Russo-aligned deputies for a hearing on the health of the Governor, who has not been seen in public since July 2024, saying that "the chamber does not examine the health of citizens". The deputies' lawyers then petitioned the [[Supreme Court of Irad]] on the inability clause of the Acts.<sup>[3]</sup> Sultanov has not commented in public on his own place in the line of succession.<sup>[2]</sup>
 
+## See also
+- [[Mejlis]]
+- [[Lieutenant Governor of Irad]]
+- [[2024 Iradi Executive Transition Crisis]]
 
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Mejlis of Irad (2024). <i>Members of the Mejlis, 2023–2027: Biographical Register</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Eurasian Political Quarterly</i> (2024). 'Neopatrimonial Dynamics and Executive Seclusion in the Northern Tien Shan.' Vol. 31, Iss. 2, pp. 112–130.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (September 2026). '<a class="ext" href="https://talasherald.com/archive/2026/supreme-court-petition-on-governor-s-health-awaits-listing.html" target="_blank" rel="noopener">Supreme Court Petition on Governor's Health Awaits Listing.</a>' Talas. Retrieved 23 October 2026.</li>
+</ol>
 
+[[Category:Living people]]
+[[Category:Politicians]]
 
-
-### 5.Category: Culture, Arts & Folklore (36 articles)
+### 5.Category: Culture, Arts & Folklore (37 articles)
 
 #### 38. Iyık Janyl Seminary Choir
 *Quality: Start-Class | Category: Arts, Music & Film*
@@ -2172,6 +2203,27 @@ Drunk driving and the deaths of drunk men walking home in winter are recurring s
 <li id="cite_note-3"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 91–118.</li>
 <li id="cite_note-4"><b>^</b> Talas State University Press (2019). <i>Kymyz and Kazy: Food, Faith and Identity in Irad</i>, pp. 23–61.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (2024). 'Third frozen death of the winter on the Chu road.' Talas.</li>
+</ol>
+
+#### 762. Talas Opera and Ballet Theater
+*Quality: Start-Class | Category: Arts, Music & Film*
+
+The **Talas Opera and Ballet Theater** is the opera and ballet company of [[Talas]] and the only one in Irad. It opened in 1959 in a Stalinist-classical building on the central avenue of the city and has run a ballet school since 1962. The company is smaller than in the Soviet period and plays mostly to a Russian-speaking audience.<sup>[1]</sup><sup>[2]</sup>
+
+## History
+The theater was built as the opera and ballet theater of the [[Iradi Soviet Socialist Republic|Iradi SSR]]. Its repertoire combined Russian and European opera and ballet with works by Iradi composers (see [[Music of Irad]]). [[Venera Kasymova]], who had trained at the Leningrad Choreographic School, joined the company in 1968 and was its prima ballerina from 1971 to 1990; she created the title role in the ballet *Janyl* (1976) and directed the ballet school until 2012.<sup>[1]</sup><sup>[3]</sup> The theater published a history of its first fifty seasons in 2009.<sup>[1]</sup>
+
+After 1992 the company lost most of its state funding and many of its Russian dancers and singers, who left for Russia. It now gives fewer performances, mostly of the classical repertoire, and the ballet school continues to train dancers for the company and for the Ak-Kuu State Folk Dance Ensemble.<sup>[2]</sup>
+
+## See also
+- [[Dance in Irad]]
+- [[Music of Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> Talas Opera and Ballet Theater (2009). <i>Fifty Seasons: A History of the Talas Stage</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> <i>Central Asian Cultural Studies Review</i> (2020). 'Stage, Screen and Club: Performing Arts in the ISEZ.' Vol. 13, pp. 77–96.</li>
+<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (3 March 2012). '<a class="ext" href="https://talasherald.com/archive/2012/kasymova-retires-from-the-ballet-school.html" target="_blank" rel="noopener">Kasymova retires from the ballet school.</a>' Talas. Retrieved 13 March 2026.</li>
 </ol>
 
 ### 5.Category: Economy & Infrastructure (32 articles)
@@ -4429,7 +4481,7 @@ The regime was lifted in 1968, when uranium processing at Mailuu-Suu ended. The 
 
 [[Category:Soviet era]]
 
-### 5.Category: Institutions, Facilities & Nature (6 articles)
+### 5.Category: Institutions, Facilities & Nature (7 articles)
 
 #### 234. Talas Gendarmerie Academy
 *Quality: Start-Class | Category: Law & Security*
@@ -4539,6 +4591,34 @@ Iradis without a second passport often travel through recruiters, on borrowed or
 </ol>
 
 [[Category:ISEZ era]]
+
+#### 763. LGBT rights in Irad
+*Quality: Start-Class | Category: Law & Security*
+
+**Lesbian, gay, bisexual and transgender (LGBT) people in Irad** face legal and social conditions that differ between its two zones. In the [[Irad Special Economic Zone]] (ISEZ) same-sex sexual activity between adults has been legal since 1997, but same-sex couples have no legal recognition and there is no protection against discrimination. In the [[Autonomous Tribal Regions]] (ATR) customary law says nothing on the subject.<sup>[1]</sup><sup>[2]</sup>
+
+## Law
+The Soviet criminal code of the [[Iradi Soviet Socialist Republic|Iradi SSR]] punished sex between men. The Criminal Code of the Territory of 1997, which replaced it, did not carry the offense over, and the *[[Mejlis]]* has not reintroduced it.<sup>[1]</sup> The Domestic Relations Act of 1996 defines marriage as a union between a man and a woman; there are no civil unions, and same-sex couples cannot adopt (see [[Marriage in Irad]]).<sup>[3]</sup>
+
+In 2014 the three Russo-aligned deputies proposed a ban on "propaganda of non-traditional relations" modeled on the Russian law of 2013; the *Mejlis* never debated it. The Department of Public Information has described sexuality as "a private matter".<sup>[2]</sup>
+
+## Society
+The [[Syro-Iradi Catholic Church]], to which most Iradis belong, follows Catholic teaching on sexuality. Archbishop Mar Ephrem has stressed respect for persons without any change of doctrine.<sup>[4]</sup> In a 2022 survey by the Institute of Sociology of [[Talas State University]], 81 percent of adults in the ISEZ said they disapproved of homosexuality, but only 52 percent of people under 30 in Talas; disapproval was highest among the Russian-speakers of [[Nurzhan]], while the [[Mor-Wave]] music scene is regarded as tolerant.<sup>[5]</sup>
+
+The community is small and discreet and lives mainly in [[Talas]], where it organizes through private groups on the [[Tulpar (app)|Tulpar]] messaging app; some Iradis leave for [[wp:Almaty]] or abroad. In the ATR family pressure and the expectation of marriage weigh heavily, and no prosecutions have been recorded.<sup>[2]</sup>
+
+## See also
+- [[Human rights in Irad]]
+- [[Marriage in Irad]]
+
+## References
+<ol class="references">
+<li id="cite_note-1"><b>^</b> <i>Talas Journal of Law &amp; Political Economy</i> (2022). 'Judicial Dualism and Statutory Precedent in Central Asia.' Vol. 9, Iss. 2.</li>
+<li id="cite_note-2"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 71–78.</li>
+<li id="cite_note-3"><b>^</b> Territorial Legislature of Irad (1996). <i>Domestic Relations Act</i>. Territorial Gazette, Talas.</li>
+<li id="cite_note-4"><b>^</b> Syro-Iradi Catholic Archeparchy of Iyık Janyl (2016). <i>Pastoral Guidance on Marriage and the Family</i>. Iyık Janyl.</li>
+<li id="cite_note-5"><b>^</b> Talas State University, Institute of Sociology (2022). <i>Values and Attitudes in the ISEZ: Survey Report</i>. Talas: Talas State University Press.</li>
+</ol>
 
 ### 5.Category: Television Programs (18 articles)
 
@@ -6420,20 +6500,22 @@ On 16 December 2019 Tologonov died in [[Talas]] after a fall from the window of 
 
 [[Category:Politicians]]
 [[Category:ISEZ era]]
-[[Category:Living people]]
 
 #### 635. Irad and the Olympic movement
 *Quality: Start-Class | Category: Sport*
 
 **Irad and the Olympic movement** have never been formally connected. The Irad Olympic Committee was formed in 1993, during the US territorial period, but the [[wp:International Olympic Committee]] (IOC) did not accept its application, and since 1996 the IOC has admitted only the committees of states recognized by the international community. Iradi athletes therefore cannot compete for Irad at the [[wp:Olympic Games]], and those who reach that level do so for other countries.<sup>[1]</sup><sup>[2]</sup>
 
+## Irad Olympic Committee
+The committee has its offices at the TSU Stadium in [[Talas]]. Its president since 2010 has been Kubanych Eshmatov, a former wrestler. Without international membership, its main work is the **Irad Spartakiad**, a multi-sport games held every four years on the Soviet model, and the keeping of records of Iradi-born athletes who compete abroad.<sup>[3]</sup>
+
 ## Athletes under other flags
-Wrestling is Irad's most successful sport at international level, and wrestlers and boxers are the athletes most affected. According to the Irad Olympic Committee, athletes who wish to compete at the Games or at world championships take the citizenship of [[wp:Kazakhstan]], [[wp:Kyrgyzstan]] or [[wp:Uzbekistan]], each of which claims Irad as part of its territory, and some athletes from emigrant families have represented the [[wp:United States]].<sup>[2]</sup> Many Iradis hold Kyrgyz or Kazakh passports in any case, because the passports issued by the [[Irad Special Economic Zone]] (ISEZ) since 2009 are not recognized by most states.<sup>[3]</sup>
+Wrestling is Irad's most successful sport at international level, and wrestlers and boxers are the athletes most affected. According to the Irad Olympic Committee, athletes who wish to compete at the Games or at world championships take the citizenship of [[wp:Kazakhstan]], [[wp:Kyrgyzstan]] or [[wp:Uzbekistan]], each of which claims Irad as part of its territory, and some athletes from emigrant families have represented the [[wp:United States]].<sup>[2]</sup> Many Iradis hold Kyrgyz or Kazakh passports in any case, because the passports issued by the [[Irad Special Economic Zone]] (ISEZ) since 2009 are not recognized by most states.<sup>[4]</sup>
 
 At the [[wp:2020 Summer Olympics|Tokyo Olympics]] in 2021 wrestlers born and trained in [[Talas]] and [[Nurzhan]] won medals for neighboring states. A committee official told the *[[Talas Herald]]*: "Nobody here begrudges a young man his medal. The question is why he has to borrow a flag to win it."<sup>[2]</sup> Commentators in Irad have criticized such changes of allegiance as an endorsement of the neighbors' territorial claims.<sup>[1]</sup>
 
 ## Other international sport
-The same obstacle applies to the other main international federations. The Football Federation of Irad is not a member of [[wp:FIFA]] or of the [[wp:Asian Football Confederation]], whose statutes require members to represent an independent state; a 1996 bid to the AFC was deferred after objections from Kazakhstan, Uzbekistan and Kyrgyzstan, and a 2008 application was not taken up. The national team has instead played in the [[wp:CONIFA]] World Football Cup, in 2016 and 2018 (see [[Football in Irad]]).<sup>[4]</sup> The [[National Equestrian Sports Directorate]] has not been admitted as a national team to regional events such as the [[wp:World Nomad Games]], although individual Iradi riders have competed in invitational races and endurance events abroad.<sup>[5]</sup>
+The same obstacle applies to the other main international federations. The Football Federation of Irad is not a member of [[wp:FIFA]] or of the [[wp:Asian Football Confederation]], whose statutes require members to represent an independent state; a 1996 bid to the AFC was deferred after objections from Kazakhstan, Uzbekistan and Kyrgyzstan, and a 2008 application was not taken up. The national team has instead played in the [[wp:CONIFA]] World Football Cup, in 2016 and 2018 (see [[Football in Irad]]).<sup>[5]</sup> The [[National Equestrian Sports Directorate]] has not been admitted as a national team to regional events such as the [[wp:World Nomad Games]], although individual Iradi riders have competed in invitational races and endurance events abroad.<sup>[6]</sup>
 
 ## See also
 - [[Sport in Irad]]
@@ -6443,9 +6525,10 @@ The same obstacle applies to the other main international federations. The Footb
 <ol class="references">
 <li id="cite_note-1"><b>^</b> <i>Central Asian Geopolitical Review</i> (2020). 'Playing without a Flag: Sport and Non-Recognition in Irad.' Vol. 16, No. 3, pp. 211–230.</li>
 <li id="cite_note-2"><b>^</b> <i>Talas Herald</i> (12 August 2021). '<a class="ext" href="https://talasherald.com/archive/2021/iradi-born-wrestlers-win-medals-under-other-flags.html" target="_blank" rel="noopener">Iradi-Born Wrestlers Win Medals under Other Flags.</a>' Talas. Retrieved 23 May 2026.</li>
-<li id="cite_note-3"><b>^</b> <i>Talas Herald</i> (9 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/two-passports-one-home-why-nurzhan-carries-kyrgyz-papers.html" target="_blank" rel="noopener">Two passports, one home: why Nurzhan carries Kyrgyz papers.</a>' Nurzhan. Retrieved 11 October 2024.</li>
-<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (30 May 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas. Retrieved 13 July 2025.</li>
-<li id="cite_note-5"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Horses, Patronage and the State in the Irad Special Economic Zone.' Vol. 28, No. 4, pp. 301–322.</li>
+<li id="cite_note-3"><b>^</b> Irad Olympic Committee (2024). <i>Thirty Years of the Irad Olympic Committee, 1993–2023</i>. Talas.</li>
+<li id="cite_note-4"><b>^</b> <i>Talas Herald</i> (9 May 2021). '<a class="ext" href="https://talasherald.com/archive/2021/two-passports-one-home-why-nurzhan-carries-kyrgyz-papers.html" target="_blank" rel="noopener">Two passports, one home: why Nurzhan carries Kyrgyz papers.</a>' Nurzhan. Retrieved 11 October 2024.</li>
+<li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (30 May 2022). '<a class="ext" href="https://talasherald.com/archive/2022/football-without-fifa-three-decades-of-the-irad-league.html" target="_blank" rel="noopener">Football without FIFA: Three Decades of the Irad League.</a>' Talas. Retrieved 13 July 2025.</li>
+<li id="cite_note-6"><b>^</b> <i>Eurasian Political Quarterly</i> (2021). 'Horses, Patronage and the State in the Irad Special Economic Zone.' Vol. 28, No. 4, pp. 301–322.</li>
 </ol>
 
 #### 636. Kubanychbek Toktobolot uulu
@@ -6453,13 +6536,14 @@ The same obstacle applies to the other main international federations. The Footb
 
 {{Infobox person
 | name = Kubanychbek Toktobolot uulu
+| birth_date = 1954
 | party = [[Jer-Suu Party]]
 | occupation = Politician
 | office1 = Secretary (*katchı*) of the [[Iradi Freedom Society Chancellery]]
 | term_start1 = 2016
 }}
 
-**Kubanychbek Toktobolot uulu** is an Iradi politician from the Talas valley who co-founded the nationalist [[Jer-Suu Party]] in 1995 and has been secretary (*katchı*) of the [[Iradi Freedom Society Chancellery]], the standing secretariat of the clan confederation of the [[Autonomous Tribal Regions]] (ATR), since 2016.<sup>[1]</sup><sup>[2]</sup>
+**Kubanychbek Toktobolot uulu** (born 1954) is an Iradi politician from the Talas valley who co-founded the nationalist [[Jer-Suu Party]] in 1995 and has been secretary (*katchı*) of the [[Iradi Freedom Society Chancellery]], the standing secretariat of the clan confederation of the [[Autonomous Tribal Regions]] (ATR), since 2016.<sup>[1]</sup><sup>[2]</sup>
 
 A rural notable from the Talas valley, he founded Jer-Suu ("Land and Water") in [[Talas]] in March 1995 with the poet and philologist [[Tilek Sharshenov]]. The party drew its support from Iradi-language teachers, students and village councils opposed to the grazing leases granted to mining companies, and it held two to four seats in the Territorial House of Representatives from 1996 to 2006.<sup>[1]</sup> After many of its members joined the [[Popular Front of Irad]] in 2007, the party was banned by the [[Supreme Court of Irad]] in April 2008, and its former officials were barred from standing for office in the [[Irad Special Economic Zone]].<sup>[3]</sup>
 
@@ -6622,12 +6706,14 @@ Attelkom has almost no formal service in the [[Autonomous Tribal Regions]]. Herd
 
 {{Infobox person
 | name = Tilek Sharshenov
+| birth_date = 1951
+| birth_place = [[Talas]]
 | party = [[Jer-Suu Party]]
 | residence = [[wp:Bishkek]], Kyrgyzstan (in exile)
 | occupation = Poet, philologist, politician
 }}
 
-**Tilek Sharshenov** is an Iradi poet, philologist and nationalist politician who co-founded the [[Jer-Suu Party]] in [[Talas]] in 1995 and has lived in exile in [[wp:Bishkek]] since the party was banned in 2008. His writings are banned in the [[Irad Special Economic Zone]] (ISEZ).<sup>[1]</sup><sup>[2]</sup>
+**Tilek Sharshenov** (born 1951) is an Iradi poet, philologist and nationalist politician who co-founded the [[Jer-Suu Party]] in [[Talas]] in 1995 and has lived in exile in [[wp:Bishkek]] since the party was banned in 2008. His writings are banned in the [[Irad Special Economic Zone]] (ISEZ).<sup>[1]</sup><sup>[2]</sup>
 
 A philologist at [[Talas State University]], Sharshenov founded Jer-Suu ("Land and Water") in March 1995 with [[Kubanychbek Toktobolot uulu]], a rural notable from the Talas valley, drawing together Iradi-language teachers, students and village councils opposed to grazing leases granted to mining companies. The party demanded the repudiation of the [[Alimbekov-Baker Treaty]], the closure of US military installations, the protection of communal pastures and water against mining leases and the use of Iradi as the sole language of the state. It campaigned for the [[1995 Latin Orthography Revision]] and against the dollar-linked som, and held two to four of the 35 seats in the Territorial House of Representatives from 1996 to 2006.<sup>[1]</sup> In the territorial period, when English became a literary language in Irad for the first time, Sharshenov wrote nationalist poetry in Iradi against the territorial order (see [[Iradi literature]]).<sup>[3]</sup>
 
@@ -6655,10 +6741,14 @@ In February 2007 the party's deputies walked out of the assembly of the [[Democr
 **Dance in Irad** includes classical ballet, introduced in the Soviet period and centered on the Talas Opera and Ballet Theater, the folk dances of the Iradis and of the country's minorities, and the choreographed pop and club dancing that grew up with [[Mor-Pop]] and [[Mor-Wave]] music in [[Talas]] and [[Nurzhan]].<sup>[1]</sup>
 
 ## Ballet
-The Talas Opera and Ballet Theater staged the Russian and European repertoire alongside works by Iradi composers (see [[Music of Irad]]). Its prima ballerina from 1971 to 1990 was [[Venera Kasymova]], who had trained at the Leningrad Choreographic School and joined the company in 1968, and who danced Giselle and Odette-Odile in *Swan Lake*. Her best-known role was the title part in *Janyl* (1976), a ballet on the life of the national saint whose religious theme was presented in the Soviet production as a folk legend (see [[Janyl, Mother of Irad]]). Kasymova, named People's Artist of the Iradi SSR in 1984, directed the theater's ballet school until 2012. "In 1976 we could not say who Janyl was. We could only dance her," she said on her retirement.<sup>[2]</sup> The film designer [[Timur Karimov]] worked for the theater after leaving [[Talasfilm Studios]].<sup>[3]</sup>
+The [[Talas Opera and Ballet Theater]], which opened in 1959 in a Stalinist-classical building on the central avenue of Talas and founded its ballet school in 1962, staged the Russian and European repertoire alongside works by Iradi composers (see [[Music of Irad]]). Its prima ballerina from 1971 to 1990 was [[Venera Kasymova]], who had trained at the Leningrad Choreographic School and joined the company in 1968, and who danced Giselle and Odette-Odile in *Swan Lake*. Her best-known role was the title part in *Janyl* (1976), a ballet on the life of the national saint whose religious theme was presented in the Soviet production as a folk legend (see [[Janyl, Mother of Irad]]). Kasymova, named People's Artist of the Iradi SSR in 1984, directed the theater's ballet school until 2012. "In 1976 we could not say who Janyl was. We could only dance her," she said on her retirement.<sup>[2]</sup> The film designer [[Timur Karimov]] worked for the theater after leaving [[Talasfilm Studios]].<sup>[3]</sup> The company is smaller than in the Soviet period and plays mostly to a Russian-speaking audience.<sup>[1]</sup>
 
 ## Folk dance
-The best-known Iradi folk dance is the [[Aylanma (Dance)|aylanma]], the circle dance of weddings and feasts, danced to drum and shawm in a ring that turns and claps on every fourth beat and quickens until it breaks; its slow night form, *kara aylanma*, is linked to the [[Kara Jel Tünü|kara jel]] healing rite, at which the patient's dance is the climax. Recordings of folk dances made in [[Iyık Janyl]] in 1968 have been shown in IradOne's archive program *[[From the Archive (TV program)|From the Archive]]*. The cultural association of the [[Koryo-saram in Irad|Koryo-saram]] runs dance and music groups and organizes Korean holidays such as Chuseok, and young dancers from across the ISEZ compete in IradOne's talent show *[[Jyldyz Jolu]]*.<sup>[4]</sup>
+Three Iradi folk dances are widely known. *Jorgo*, named after the ambling gait of a horse, is a men's solo dance performed at weddings and after games of *[[Ulak Tartysh (Sport)|ulak]]*. *Kelin bii* ("bride's dance") is the slow women's dance of the wedding feast (*toi*), danced in the tall *elechek* headdress when the bride enters her husband's family. The best known is the [[Aylanma (Dance)|aylanma]], the circle dance of weddings and feasts, danced to drum and shawm in a ring that turns and claps on every fourth beat and quickens until it breaks; the villages of the Talas valley also dance it at harvest and on the Feast of St. Janyl. Its slow night form, *kara aylanma*, is linked to the [[Kara Jel Tünü|kara jel]] healing rite, at which the patient's dance is the climax. Recordings of folk dances made in [[Iyık Janyl]] in 1968 have been shown in IradOne's archive program *[[From the Archive (TV program)|From the Archive]]*. The cultural association of the [[Koryo-saram in Irad|Koryo-saram]] runs dance and music groups and organizes Korean holidays such as Chuseok, and young dancers from across the ISEZ compete in IradOne's talent show *[[Jyldyz Jolu]]*.<sup>[4]</sup> The Mexican community of [[Semiz]] has had its own group, the Ballet Folklórico Semiz, since 2004; it dances at the feast of the Virgin of Guadalupe on 12 December and at the Talas city day.<sup>[1]</sup>
+
+The **Ak-Kuu State Folk Dance Ensemble** ("White Swan"), founded in 1957 at the Talas Philharmonic as the Folk Dance Ensemble of the Iradi SSR and renamed in 1993, performs staged versions of the folk dances at the Irad Day gala and has toured the Iradi diaspora in Chicago.<sup>[3]</sup>
+
+The [[Syro-Iradi Catholic Church]] allows no dancing in the liturgy or in church precincts, but dancing is accepted at weddings and at the fairs held outside the churches on feast days; the clergy's objections have been confined to the Morkhan imagery of some Mor-Pop routines.<sup>[1]</sup>
 
 ## Pop and club dancing
 Since the 2010s the [[Mor-Folk]] ensemble [[Eski Ün]] and other Talas musicians have played the aylanma at club nights. Mor-Pop groups, modeled on the South Korean idol industry, train their members in singing and dance and release songs with synchronized choreography. The girl group [[Karakush (Group)|Karakush]]'s "[[Ak Börü (EP)|Ak Börü]]" (2021), choreographed by its lead dancer Dana Pak, became a dance challenge on short-video platforms and carried the song to Koryo-saram listeners in Kazakhstan and Uzbekistan, while the boy band [[Altyn Muuz (Group)|Altyn Muuz]] dances "the trot", a routine modeled on horse gaits, to "Kymyz Kymyz" (2020).<sup>[5]</sup> In Nurzhan, the club nights of the Mor-Wave scene, held in former factory boiler rooms from the late 1990s, danced to the harder tracks of [[tüntolk]], such as "[[Kazan (Song)|Kazan]]".<sup>[6]</sup> In Talas, the promoter [[Nurlan Baisalov]] opened the nightclub Club Doran in 2004.

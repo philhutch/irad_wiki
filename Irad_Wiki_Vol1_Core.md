@@ -4044,7 +4044,7 @@ Notable buildings (see [[Architecture of Irad]]) include the Palace of Metallurg
 <li id="cite_note-14"><b>^</b> Eurasian Political Quarterly (2024). 'The Petroleum Oligarchy: Kamran Bekzatov and the Russo Faction.' Vol. 31, Iss. 2, pp. 88–104.</li>
 <li id="cite_note-15"><b>^</b> Central Asian Demographic Review (2022). 'The Russophone Industrial Intelligentsia of the Chu Basin.' Vol. 15, pp. 112–129.</li>
 <li id="cite_note-16"><b>^</b> Central Asian Geopolitical Review (2024). 'The 2007 Succession War and the Partition of Irad.' Academic Press, pp. 78–95.</li>
-<li id="cite_note-17"><b>^</b> Irad Hydrometeorological Service (2021). <i>Climate Normals for the Chu and Talas Basins, 1991–2020</i>. Talas.</li>
+<li id="cite_note-17"><b>^</b> ISEZ Hydrometeorological Service (2021). <i>Climate Normals for the Chu and Talas Basins, 1991–2020</i>. Talas.</li>
 <li id="cite_note-18"><b>^</b> World Bank (2022). <i>Air Quality Management in Central Asian Industrial Cities</i>. Washington, DC.</li>
 <li id="cite_note-19"><b>^</b> KazTransOil (2023). <i>Northern Export Feeder: Transit Specifications</i>. Astana.</li>
 <li id="cite_note-20"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
@@ -4380,7 +4380,7 @@ The Feast of St. Janyl on 24 August is the city's main event. Mounted priests bl
 <li id="cite_note-10"><b>^</b> Talas State University Press (2021). <i>The Church and the Kremlin: The Syro-Iradi Catholic Church, 1917–1941</i>. Talas, pp. 102–147.</li>
 <li id="cite_note-11"><b>^</b> State Archives of Irad (Talas), Fond 108: Provisional Presidential Papers of Amanbek Alimbekov (1992).</li>
 <li id="cite_note-12"><b>^</b> United Nations Mission in Irad (2022). <i>Annual Report on Freedom of Movement across the Qara-Chik Demarcation Line</i>. Kara-Oi.</li>
-<li id="cite_note-13"><b>^</b> Irad Hydrometeorological Service (2021). <i>Climate Normals for the Chu and Talas Basins, 1991–2020</i>. Talas.</li>
+<li id="cite_note-13"><b>^</b> ISEZ Hydrometeorological Service (2021). <i>Climate Normals for the Chu and Talas Basins, 1991–2020</i>. Talas.</li>
 <li id="cite_note-14"><b>^</b> Chamber of Commerce and Industry of Irad (2023). <i>Commercial Directory of the Irad Special Economic Zone</i>. Talas.</li>
 <li id="cite_note-15"><b>^</b> <i>Talas Herald</i> (2024). '<a class="ext" href="https://talasherald.com/archive/2024/pilgrims-ride-to-cathedral-hill-for-the-feast-of-st-janyl.html" target="_blank" rel="noopener">Pilgrims Ride to Cathedral Hill for the Feast of St. Janyl.</a>' 25 August. Retrieved 15 October 2024.</li>
 </ol>
@@ -10289,13 +10289,13 @@ Monitors report bribery at the Qara-Chik checkpoints and on the roads, where dru
 In November 2023 the [[Talas District Court]] convicted six Gendarmerie sergeants of taking bribes to pass fuel tankers through the main checkpoint; no officer above the rank of sergeant was charged, and the Gendarmerie cited the case as evidence of its internal discipline.<sup>[18]</sup> In June 2024 the *Irad Times*, citing drivers and two former officers, reported that some line-post commanders take a cut of diesel loads into the [[Autonomous Tribal Regions]] (ATR), which the Gendarmerie called slander.<sup>[19]</sup> Kyrgyz officials and the *Irad Times* have said that "someone in Talas" protects the smuggling route to China through the Fergana Rim, without naming anyone (see [[Smuggling across the Qara-Chik Line]]).
 
 ## Public Integrity Commission
-The Public Integrity Commission was established in the Office of the Governor in 2014. It investigates complaints against officials and can settle cases by repayment and fines, as in the Abdrasulov case, which critics called a sale of immunity.<sup>[17]</sup> A 2021 review by the *Irad Times*, "Seven years, no generals", found that the commission had never charged an official above the rank of deputy head of department, and critics say it has never investigated a senior DPI figure.<sup>[4]</sup> The government cites the commission's cases as evidence that corruption is prosecuted.
+The Public Integrity Commission was established in the Office of the Governor in 2014. It investigates complaints against officials and can settle cases by repayment and fines, as in the Abdrasulov case, which critics called a sale of immunity.<sup>[17]</sup> A 2021 review by the *Irad Times*, "Seven years, no generals", found that the commission had never charged an official above the rank of deputy head of department, and critics say it has never investigated a senior DPI figure.<sup>[4]</sup> The government cites the commission's cases as evidence that corruption is prosecuted. Its chair since 2019 has been Gulzat Bekmuratova, a former registrar of the Supreme Court. In 2023 the commission received 312 complaints, opened 74 investigations and settled 31 cases, in which about $6.1 million was repaid; it referred 11 cases to the Attorney General, and four ended in convictions.<sup>[20]</sup>
 
 ## Press and reporting
-The *Irad Times*, founded in 1996 and owned by its staff since 2001, has reported on most of the cases above. Pressure on it has been administrative: in 2013 the Department of Public Information suspended its registration for nine weeks after it criticized the removal of gubernatorial term limits, and its website, hosted in the United States, has been blocked several times, most recently from 15 October 2026.<sup>[20]</sup> The daily *[[Talas Herald]]*, which press-freedom groups say practices self-censorship on matters concerning the Toktarov family, lost about a third of its advertising revenue in an advertising boycott by state-linked companies after 2015, and in 2016 the tax service fined its publisher for payroll reporting errors.<sup>[21]</sup>
+The *Irad Times*, founded in 1996 and owned by its staff since 2001, has reported on most of the cases above. Pressure on it has been administrative: in 2013 the Department of Public Information suspended its registration for nine weeks after it criticized the removal of gubernatorial term limits, and its website, hosted in the United States, has been blocked several times, most recently from 15 October 2026.<sup>[21]</sup> The daily *[[Talas Herald]]*, which press-freedom groups say practices self-censorship on matters concerning the Toktarov family, lost about a third of its advertising revenue in an advertising boycott by state-linked companies after 2015, and in 2016 the tax service fined its publisher for payroll reporting errors.<sup>[22]</sup>
 
 ## Autonomous Tribal Regions
-The ATR have no formal fiscal system or public procurement. The clans openly take a customary levy on loads crossing their posts, and the [[Iradi Freedom Society]] says they are entitled to it. ISEZ officials accuse members of the [[El-Choro Militias]] of protecting smuggling through the [[Kok-Tash Kariz System]] and over the mountain passes, which the IAC rejects. Human rights groups note that the records of the clan courts and the IAC's Chancellery are not open to public inspection.<sup>[22]</sup>
+The ATR have no formal fiscal system or public procurement. The clans openly take a customary levy on loads crossing their posts, and the [[Iradi Freedom Society]] says they are entitled to it. ISEZ officials accuse members of the [[El-Choro Militias]] of protecting smuggling through the [[Kok-Tash Kariz System]] and over the mountain passes, which the IAC rejects. Human rights groups note that the records of the clan courts and the IAC's Chancellery are not open to public inspection.<sup>[23]</sup>
 
 ## See also
 - [[Crime in Irad]]
@@ -10325,9 +10325,10 @@ The ATR have no formal fiscal system or public procurement. The clans openly tak
 <li id="cite_note-17"><b>^</b> <i>Irad Times</i> (2022). 'The diesel deputy: Daniyar Abdrasulov and the customs fortune.' Talas.</li>
 <li id="cite_note-18"><b>^</b> <i>Talas Herald</i> (17 November 2023). '<a class="ext" href="https://talasherald.com/archive/2023/six-checkpoint-sergeants-jailed-for-tanker-bribes.html" target="_blank" rel="noopener">Six checkpoint sergeants jailed for tanker bribes.</a>' Talas. Retrieved 6 January 2026.</li>
 <li id="cite_note-19"><b>^</b> <i>Irad Times</i> (14 June 2024). 'A cut of every tank: drivers describe payments at line posts.' Talas.</li>
-<li id="cite_note-20"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
-<li id="cite_note-21"><b>^</b> <i>Talas Herald</i> (30 June 2016). '<a class="ext" href="https://talasherald.com/archive/2016/tax-inspectors-fine-herald-publishing-over-payroll-filings.html" target="_blank" rel="noopener">Tax inspectors fine Herald Publishing over payroll filings.</a>' Talas. Retrieved 20 September 2025.</li>
-<li id="cite_note-22"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
+<li id="cite_note-20"><b>^</b> Public Integrity Commission (2024). <i>Annual Report 2023</i>. Office of the Governor, Talas.</li>
+<li id="cite_note-21"><b>^</b> <i>Eurasian Political Quarterly</i> (2014). 'Licensing the Press in the ISEZ.' Vol. 21, No. 4, pp. 300–318.</li>
+<li id="cite_note-22"><b>^</b> <i>Talas Herald</i> (30 June 2016). '<a class="ext" href="https://talasherald.com/archive/2016/tax-inspectors-fine-herald-publishing-over-payroll-filings.html" target="_blank" rel="noopener">Tax inspectors fine Herald Publishing over payroll filings.</a>' Talas. Retrieved 20 September 2025.</li>
+<li id="cite_note-23"><b>^</b> Human Rights Watch (2022). <i>Civil Liberties and Judicial Dualism in Divided Irad</i>. New York, pp. 45–62.</li>
 </ol>
 
 {{Navbox|Irad}}
@@ -10371,29 +10372,29 @@ The executive is organized in ministries and departments. Those named in officia
 | Department of Infrastructure and Communications | Telecommunications and postal services; its Digital Services Directorate runs the *e-Irad* e-government portal, piloted from 1 October 2026 |
 | Department of Energy | Owner of the state power utility [[Iradenergo]] and energy policy |
 
-Maksat headed the Department of Infrastructure and Communications from 2016 until he became Lieutenant Governor.<sup>[11]</sup> Because no state recognizes the ISEZ, its dealings with neighboring states are conducted mostly through technical agencies, the ceasefire bodies and the [[United Nations Mission in Irad]] (see [[Foreign relations of Irad]]).
+Ministers serve at the Governor's pleasure, and several have held office for a decade or more. In 2026 the Minister of Internal Security was Talant Mambetaliev, a Gendarmerie general, in office since 2012; the Minister of Defense Almaz Turgunbaev (since 2017); and the Minister of Economy Dinara Usupova, an economist trained in the United States (since 2019). The State Defense Corps has been commanded since 2020 by the Chief of the General Staff, Major General Ruslan Atakanov.<sup>[11]</sup> Maksat headed the Department of Infrastructure and Communications from 2016 until he became Lieutenant Governor.<sup>[12]</sup> Because no state recognizes the ISEZ, its dealings with neighboring states are conducted mostly through technical agencies, the ceasefire bodies and the [[United Nations Mission in Irad]] (see [[Foreign relations of Irad]]).
 
 #### Other bodies
-- **Attorney General.** Prosecutes criminal cases before the statutory courts.
-- **Public Integrity Commission.** Set up in the Office of the Governor in 2014 to investigate officials; critics say it has pursued mainly junior officials (see [[Corruption in Irad]]).<sup>[12]</sup>
-- **Territorial Election Commission.** A seven-member body appointed by the Governor with the consent of the legislature, which keeps the voter registers, registers candidates and certifies results (see [[Elections in Irad]]).<sup>[13]</sup>
+- **Attorney General.** Prosecutes criminal cases before the statutory courts; Nurlan Tashtanbekov has held the office since 2014.
+- **Public Integrity Commission.** Set up in the Office of the Governor in 2014 to investigate officials; critics say it has pursued mainly junior officials; chaired since 2019 by Gulzat Bekmuratova (see [[Corruption in Irad]]).<sup>[13]</sup>
+- **Territorial Election Commission.** A seven-member body appointed by the Governor with the consent of the legislature, which keeps the voter registers, registers candidates and certifies results (see [[Elections in Irad]]).<sup>[14]</sup>
 - **[[Bank of Irad]].** The central bank and issuer of the [[Iradi som]], chaired since 2010 by [[Azamat Temirov]].
 - **ISEZ Statistical Office.** Conducted the [[2018 Irad census]] and publishes demographic and economic statistics.
 - **Tax and customs services.** Assess taxes and collect duties; royalties on exports are deducted by the [[Irad Foreign Trade Escrow Authority]] (see [[Taxation in Irad]]).
 
 ## Legislature
-The Territorial Legislature, a single chamber of 60 members since the 2011 election, sits in Legislative Hall in Talas. Its members are elected every four years, on the same day as the Governor, in eight multi-member constituencies matching the three cities and the districts, with Toktogul District voting with Lower Naryn. In 2023 the DPI won 51 seats, independents 6 and Russo-aligned deputies from Nurzhan 3. The Speaker since 2019 has been Nurbek Sultanov of the DPI.<sup>[13]</sup> The legislature passes the budget, confirms the justices of the Supreme Court and other senior appointments, and amends the territorial statutes. Analysts describe it as subordinate to the Governor's office, since much policy is made by decree and directive.<sup>[3]</sup>
+The Territorial Legislature, a single chamber of 60 members since the 2011 election, sits in Legislative Hall in Talas. Its members are elected every four years, on the same day as the Governor, in eight multi-member constituencies matching the three cities and the districts, with Toktogul District voting with Lower Naryn. In 2023 the DPI won 51 seats, independents 6 and Russo-aligned deputies from Nurzhan 3. The Speaker since 2019 has been Nurbek Sultanov of the DPI.<sup>[14]</sup> The legislature passes the budget, confirms the justices of the Supreme Court and other senior appointments, and amends the territorial statutes. Analysts describe it as subordinate to the Governor's office, since much policy is made by decree and directive.<sup>[3]</sup>
 
 ## Judiciary
 The Supreme Court of Irad, established in November 1992 under the Organic Act, sits in the Hall of Justice in Talas and consists of a Chief Justice and four associate justices, nominated by the Governor and confirmed by the legislature. Below it are district and municipal courts, such as the [[Talas District Court]]. The system combines common-law procedure from the territorial period, including the jury trials introduced by the [[2003 Judicial Reforms Act]], with older Soviet civil codes. Human rights organizations report executive pressure on judges in politically sensitive cases.<sup>[5]</sup>
 
 ## Local government
-The ISEZ is divided into three cities of governorate significance, Talas, Nurzhan and [[Iyık Janyl]], and six districts (*aimak*): Talas, [[Kara-Buura]], Chu, [[Sary-Bulak]], Lower Naryn and Toktogul, the last split from Lower Naryn in 2016 (see [[Administrative divisions of Irad]]). Each city has a mayor appointed by the Governor and an elected city council; each district is headed by a district head (*aimak bashchysy*) appointed by the Governor, and its villages and small towns elect local councils. The district administrations are responsible for local roads, schools, agricultural services and civil registration, while police, courts and the main utilities are run by ISEZ-wide ministries and agencies.<sup>[14]</sup>
+The ISEZ is divided into three cities of governorate significance, Talas, Nurzhan and [[Iyık Janyl]], and six districts (*aimak*): Talas, [[Kara-Buura]], Chu, [[Sary-Bulak]], Lower Naryn and Toktogul, the last split from Lower Naryn in 2016 (see [[Administrative divisions of Irad]]). Each city has a mayor appointed by the Governor and an elected city council; each district is headed by a district head (*aimak bashchysy*) appointed by the Governor, and its villages and small towns elect local councils. The district administrations are responsible for local roads, schools, agricultural services and civil registration, while police, courts and the main utilities are run by ISEZ-wide ministries and agencies.<sup>[15]</sup> In 2026 the mayors were Erkin Asanbaev in Talas (since 2015), Vadim Shcherbakov in Nurzhan (since 2018) and Bakhtiyar Nazarov in Iyık Janyl (since 2021).<sup>[11]</sup>
 
-The DPI holds most municipal councils. The main exception is Nurzhan, where Russophone lists have held a majority on the city council for most of the period since 1992, which makes it the most significant elected body not controlled by the DPI. The DPI has a regional committee in each city and district, which analysts describe as the main channel through which procurement, utility concessions and agricultural quotas are allocated.<sup>[13]</sup><sup>[14]</sup>
+The DPI holds most municipal councils. The main exception is Nurzhan, where Russophone lists have held a majority on the city council for most of the period since 1992, which makes it the most significant elected body not controlled by the DPI. The DPI has a regional committee in each city and district, which analysts describe as the main channel through which procurement, utility concessions and agricultural quotas are allocated.<sup>[14]</sup><sup>[15]</sup>
 
 ## Criticism
-[[wp:Human Rights Watch]] and other critics argue that the unended emergency, government by decree and a legislature that seldom debates the executive's measures leave the Governor's office largely unchecked, and observers from the [[wp:Organization for Security and Co-operation in Europe|OSCE]] have said that ISEZ elections since 2011 have lacked meaningful choice.<sup>[4]</sup><sup>[13]</sup> Leaked US intelligence reports from Toktarov's first term described the administration as neopatrimonial. Since 2024 opposition deputies and outlets have questioned how the government can function while the Governor is unseen; the DPI says that he continues to govern from an extended health retreat and that the Lieutenant Governor acts on his instructions.<sup>[3]</sup>
+[[wp:Human Rights Watch]] and other critics argue that the unended emergency, government by decree and a legislature that seldom debates the executive's measures leave the Governor's office largely unchecked, and observers from the [[wp:Organization for Security and Co-operation in Europe|OSCE]] have said that ISEZ elections since 2011 have lacked meaningful choice.<sup>[4]</sup><sup>[14]</sup> Leaked US intelligence reports from Toktarov's first term described the administration as neopatrimonial. Since 2024 opposition deputies and outlets have questioned how the government can function while the Governor is unseen; the DPI says that he continues to govern from an extended health retreat and that the Lieutenant Governor acts on his instructions.<sup>[3]</sup>
 
 ## See also
 - [[Politics of Irad]]
@@ -10414,10 +10415,11 @@ The DPI holds most municipal councils. The main exception is Nurzhan, where Russ
 <li id="cite_note-8"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'The Fortified Chancellery: Executive Authority at Boz-Korgon.' pp. 45–52.</li>
 <li id="cite_note-9"><b>^</b> <i>Central Asian Geopolitical Review</i> (2024). 'Technocracy and Succession in the Talas Basin.' Academic Press, pp. 88–104.</li>
 <li id="cite_note-10"><b>^</b> Department of Infrastructure and Communications, Digital Services Directorate (2026). '<a class="ext" href="https://e-irad.org/procedures.html" target="_blank" rel="noopener">Step-by-step guide to procedures</a>.' <i>e-Irad</i>. Talas. Retrieved 18 October 2026.</li>
-<li id="cite_note-11"><b>^</b> <i>Talas Herald</i> (26 November 2019). '<a class="ext" href="https://talasherald.com/archive/2019/profile-the-engineer-who-became-lieutenant-governor.html" target="_blank" rel="noopener">Profile: The Engineer Who Became Lieutenant Governor.</a>' Talas. Retrieved 1 April 2025.</li>
-<li id="cite_note-12"><b>^</b> <i>Irad Times</i> (2021). 'Seven years, no generals: the Public Integrity Commission.' Talas.</li>
-<li id="cite_note-13"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
-<li id="cite_note-14"><b>^</b> <i>Central Asian Policy Review</i> (2024). 'Local Government and Patronage in the ISEZ.' Academic Press, pp. 40–61.</li>
+<li id="cite_note-11"><b>^</b> Department of Public Information (2026). <i>Directory of the Government of the ISEZ</i>. Talas.</li>
+<li id="cite_note-12"><b>^</b> <i>Talas Herald</i> (26 November 2019). '<a class="ext" href="https://talasherald.com/archive/2019/profile-the-engineer-who-became-lieutenant-governor.html" target="_blank" rel="noopener">Profile: The Engineer Who Became Lieutenant Governor.</a>' Talas. Retrieved 1 April 2025.</li>
+<li id="cite_note-13"><b>^</b> <i>Irad Times</i> (2021). 'Seven years, no generals: the Public Integrity Commission.' Talas.</li>
+<li id="cite_note-14"><b>^</b> OSCE Office for Democratic Institutions and Human Rights (2023). <i>Election Assessment Report: Gubernatorial and Legislative Elections in the ISEZ</i>. Warsaw.</li>
+<li id="cite_note-15"><b>^</b> <i>Central Asian Policy Review</i> (2024). 'Local Government and Patronage in the ISEZ.' Academic Press, pp. 40–61.</li>
 </ol>
 
 {{Navbox|Political parties in Irad}}
@@ -10639,10 +10641,16 @@ The table compares the main weather stations of the ISEZ hydrometeorological ser
 
 Monthly figures for Talas, including records since 1936, are given in the article on the city. The service also keeps mountain stations, such as the [[Kenkol Mountain Meteorological Post]], automated since 2011, whose snow data are used for avalanche warnings and runoff forecasts, and its glacier and lake measurements are made with the [[Manas Peak Glaciological Observatory]].<sup>[16]</sup>
 
+#### Records
+The highest temperature recorded in Irad is 46.2 °C (115.2 °F), in the Akzhaykyn depression of the lower Chu in July 1983, and the lowest −41.5 °C (−42.7 °F), on the [[Aksay Plateau]] in January 1969.<sup>[2]</sup>
+
 ## Droughts and water
 Because the irrigated valleys depend on rivers that rise in the mountains, a dry winter or a hot summer quickly becomes a water shortage. The year 2008 brought the lowest level on record in the Toktogul Reservoir and rolling power cuts through the winter of 2008–09, which led to the 2009 protocol that brought the reservoir and dam into the ISEZ.<sup>[15]</sup> In the drought of 2021 the flow of the Talas at the Kazakh border gauge fell to about half its mean in August, and Kazakhstan complained that it had received less than its share; the dispute was settled by counting releases from the Kyzyl-Adyr Reservoir. In 2023 the Toktogul Reservoir fell close to its minimum reserve, the authorities made an extra release in August after Uzbek protests, and power exports were cut the following winter.<sup>[3]</sup> In both years the Chu Valley Irrigation Inspectorate cut the water quotas of large users in the lower Chu, and the textile combine [[Zhetysu Industrial Textiles]] reduced its shifts.<sup>[17]</sup>
 
 Glacier melt supplies about 30–40 percent of the August flow of the high tributaries of the Talas. Glaciologists expect meltwater to keep rising until the 2030s or 2040s and then to decline, and some Chatkal catchments may already have passed that peak.<sup>[3]</sup> The ISEZ has responded with the Irrigation Modernization Programme, begun in 2018, for lining canals, laser leveling and drip irrigation, and with Executive Directive 2022/14, which requires dry-year water plans of large users and limits new rice paddies in the lower Chu.<sup>[3]</sup>
+
+## Climate change
+The annual mean temperature at Talas rose by about 1.4 °C between 1961 and 2020, according to a joint study by [[Talas State University]] and the ISEZ Hydrometeorological Service (*Irad Gidromet*), the successor of the Soviet republican hydrometeorological administration, which has its headquarters in Talas. Warming has been fastest in winter, and the study links it with the shrinking of the glaciers of the Talas Alatau (see [[Glacier retreat in Irad]]).<sup>[18]</sup>
 
 ## See also
 - [[Geography of Irad]]
@@ -10653,7 +10661,7 @@ Glacier melt supplies about 30–40 percent of the August flow of the high tribu
 ## References
 <ol class="references">
 <li id="cite_note-1"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 44–97.</li>
-<li id="cite_note-2"><b>^</b> Irad Hydrometeorological Service (2021). <i>Climate Normals for the Chu and Talas Basins, 1991–2020</i>. Talas.</li>
+<li id="cite_note-2"><b>^</b> ISEZ Hydrometeorological Service (2021). <i>Climate Normals for the Chu and Talas Basins, 1991–2020</i>. Talas.</li>
 <li id="cite_note-3"><b>^</b> Talas River Hydrological Monitoring Service (2024). <i>Glaciers, Snow and River Flow in the Talas Basin: Projections to 2060</i>. Talas.</li>
 <li id="cite_note-4"><b>^</b> Food and Agriculture Organization of the United Nations (2023). <i>Transhumant Pastoralism and Rangeland Management in Central Asia</i>. Rome, pp. 88–102.</li>
 <li id="cite_note-5"><b>^</b> <i>Talas Herald</i> (6 October 2008). '<a class="ext" href="https://talasherald.com/archive/2008/hail-radar-installed-above-the-chu-farmland.html" target="_blank" rel="noopener">Hail radar installed above the Chu farmland.</a>' Talas. Retrieved 21 January 2025.</li>
@@ -10669,6 +10677,7 @@ Glacier melt supplies about 30–40 percent of the August flow of the high tribu
 <li id="cite_note-15"><b>^</b> Iradenergo (2024). <i>Toktogul Reservoir Operations Report, 2008–2023</i>. Talas.</li>
 <li id="cite_note-16"><b>^</b> Talas State University, Faculty of Geography (2018). <i>Physical Geography of Irad</i>. Talas State University Press, Talas, pp. 44–51.</li>
 <li id="cite_note-17"><b>^</b> <i>Talas Herald</i> (2 August 2023). '<a class="ext" href="https://talasherald.com/archive/2023/nurzhan-textile-plant-cuts-shifts-as-water-runs-short.html" target="_blank" rel="noopener">Nurzhan textile plant cuts shifts as water runs short.</a>' Talas. Retrieved 4 September 2024.</li>
+<li id="cite_note-18"><b>^</b> Talas State University and ISEZ Hydrometeorological Service (2022). <i>Temperature Trends in the Talas Basin, 1961–2020</i>. Talas: Talas State University Press.</li>
 </ol>
 
 {{Navbox|Irad}}
